@@ -1,11 +1,11 @@
 
 import pandas as pd
 
-data = pd.read_csv("C:/Users/flori/OneDrive/Desktop/Progetto Big Data/Finale/Recipes-Categories.csv")
+data = pd.read_csv(path_file)
 
 
 dizionario = data.groupby('Category').agg({'Tag': lambda x: x.tolist()})['Tag'].to_dict()
-print(dizionario)
+
 
 
     #CUCCHIAIO CAT
