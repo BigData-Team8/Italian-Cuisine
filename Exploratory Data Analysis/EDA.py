@@ -25,7 +25,7 @@ wordcloud.generate_from_frequencies(frequencies=d)
 #wordcloud.to_file(path+"wordcloud2.png")
 
 
-# In[60]:
+
 
 
 #NUMBER OF RECIPES PER REGION
@@ -37,8 +37,8 @@ get_ipython().system('pip install geopandas')
 import sys
 import geopandas as gpd
 import pandas as pd
-italy = gpd.read_file('/content/drive/My Drive/italy-with-regions/reg2011_g.shp')
-new_regions = pd.read_csv("/content/drive/My Drive/regionality_recipes.csv")
+italy = gpd.read_file(path1+'reg2011_g.shp')
+new_regions = pd.read_csv(path2+"regionality_recipes.csv")
 italy['NOME_REG'] = new_regions['region']
 italy
 
@@ -73,7 +73,8 @@ cbar = fig.colorbar(sm)
 #fig.savefig("recipes_per_region.png", dpi=300)
 
 
-# In[72]:
+
+
 
 
 #Seaborn Histogram and Density Curve on the same plot
@@ -125,5 +126,5 @@ fig = px.scatter(final, x="reviews", y="score",
 	         size="name", color="category",
                  hover_name="region", log_x=True, size_max=50)
 #fig.show()
-#fig.write_image("C:/Users/flori/OneDrive/Desktop/Progetto Big Data/bubble_plot.png")
+#fig.write_image(path+"bubble_plot.png")
 
