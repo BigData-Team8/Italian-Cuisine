@@ -1,0 +1,180 @@
+{% extends 'app.twig' %}
+
+{% block content %}
+
+<div class="row align-items-end">
+
+    {% if decoded.data.request.ingredient %} 
+        <div class="col-9">
+            <h3>
+                {{ decoded.data.entities | length }} random recipes with your favorite ingredient 
+                <span class="lead"><span class="badge badge-success p-2 m-1">{{ decoded.data.request.ingredient }}</span></span>
+            <h3>
+        </div>
+    {% endif %}   
+
+    {% if decoded.data.entities[0].src_recipe %}
+        <div class="col-9">
+            <h3>Top {{ decoded.data.entities | length }} recipes similar to: {{ decoded.data.entities[0].src_recipe }}</h3>
+
+            {% for ingredient in decoded.data.entities[0].src_ingredients %}
+                <span class="badge badge-secondary p-2 m-1">{{ ingredient }}</span>
+            {% endfor %}
+        </div>
+    {% endif %}
+
+    {% set grey_levels = {1: '#000', 2: '#333', 3: '#666', 4: '#999', 5: '#CCC'} %}
+    {% if decoded.data.frequency %}
+        
+        <div class="col-3">
+            <h4>
+                Region similarity
+            </h4>
+            <hr>
+            {% set i = 1 %}
+            {% for region, percentage in decoded.data.frequency.region %}
+                <h5 style="color: {{ grey_levels[i] }}{{ i == 1 ? '; font-weight: bold' : '' }}"> {{ region == '' ? 'Unknown' : region }}: {{ percentage }}%
+                {% set i = i + 1 %}
+            {% endfor %}
+        </div>
+
+        <div class="col-3">
+            <h4>
+                Category similarity
+            </h4>
+            <hr>         
+            {% set i = 1 %}
+            {% for category, percentage in decoded.data.frequency.category %}
+                <h5 style="color: {{ grey_levels[i] }}{{ i == 1 ? '; font-weight: bold' : '' }}"> {{ category == '' ? 'Unknown' : category | capitalize }}: {{ percentage }}%
+                {% set i = i + 1 %}
+            {% endfor %}
+        </div>
+
+        <div class="col-3 align-top">
+            <h4>
+                Difficulty similarity
+            </h4>
+            <hr>         
+            {% set i = 1 %}
+            {% for level, percentage in decoded.data.frequency.level %}
+                <h5 style="color: {{ grey_levels[i] }}{{ i == 1 ? '; font-weight: bold' : '' }}"> {{ level == '' ? 'Unknown' : level }}: {{ percentage }}%
+                {% set i = i + 1 %}
+            {% endfor %}
+            <h5 style="color: white;">.</h5><h5 style="color: white;">.</h5>
+        </div>
+    {% endif %}
+
+    {% if not (decoded.data.entities[0].src_recipe or decoded.data.frequency or decoded.data.request.ingredient) %}
+        <div class="col"></div>
+    {% endif %}
+
+	<div class="col-3 text-right">
+		<button type="button" class="btn btn-outline-secondary btn" data-toggle="modal" data-target="#modal-API">API request-response</button>
+	</div>
+</div>
+
+<div class="row p-0 m-0">
+    <div class="col p-0 m-0">
+        <hr>
+    </div>
+</div>
+
+    <div class="row">
+    {% set levels = {'facile': 'badge-success', 'media': 'badge-warning', 'difficile': 'badge-danger'} %}
+
+    {% set i = 0 %}
+    {# for node in decoded.data.entities|slice(0,limit) #}
+    {% for node in decoded.data.entities %}
+        {% set id = random() %}
+        {% set i = i + 1 %}
+
+    	<div class="col-4 mb-3">
+
+            <!-- start recipe card -->
+            <div class="card">
+
+                <div class="card-header mb-0 pl-4 pb-1">
+                    <h5>{{ node.title }}</h5>
+                </div>
+
+                {% if node.image %}
+                    <div class="card-header p-1 mb-0" style="height: 15vw; background-image: url('{{ node.image }}'); background-size: cover;">
+                        <h4>
+                            {% if node.category %}
+                                <a href="/recipes/by-category/{{ node.category }}?limit=12" class="badge badge-secondary p-2 ml-1 mt-1">{{ node.category | capitalize }}</a>
+                            {% endif %}
+                            {% for region in node.regions %}
+                                <a href="/recipes/by-region/{{ region }}?limit=12" class="badge badge-info p-2 mt-1 ml-1">{{ region }}</a>
+                            {% endfor %}
+                            {% if node.level %}
+                                <a href="/recipes/by-level/{{ node.level }}?limit=12" class="badge {{ levels[node.level | lower] }} p-2 mt-1 ml-1">{{ node.level }}</a>
+                            {% endif %}                            
+                        </h4>
+
+                        {% if node.score %}
+                            <div class="position-absolute" style="{{ node.title | length <= 30 ? 'top: 15.7rem' : 'top: 17.3rem' }}; right: 0">
+                                <span class="badge badge-light p-2">Similarity: {{ node.score | round(2) }}</span>
+                                <span class="badge badge-light p-2 mr-2">In common: {{ node.intersection }} ingredients</span>
+                            </div>
+                        {% endif %}
+                    </div>
+                {% endif %}
+
+                <div class="card-body p-2 pb-0 mb-0">
+
+                    {% if node.author %}
+                        <p class="card-text p-2 mb-0">
+                            {% if node.author %}
+                                Author: {{ node.author }}
+                                <hr class="m-0 p-0">
+                            {% endif %}
+                        </p>
+                    {% endif %}
+
+                    <p class="card-text">
+                        {% for ingredient in node.ingredients %}
+                            {% if ingredient in node.common_ingredients or ingredient == decoded.data.request.ingredient %}
+                                <a href="/recipes/by-ingredient/{{ ingredient }}?limit=12"><span class="lead"><span class="badge badge-success p-2 m-1">{{ ingredient }}</span></span></a>
+                            {% else %}
+                                <a href="/recipes/by-ingredient/{{ ingredient }}?limit=12"><span class="badge badge-light p-2 m-1">{{ ingredient }}</span></a>
+                            {% endif %}
+                        {% endfor %}
+                    </p>
+                    {% if not hide_similarity %}
+                        <hr style="m-1 p-1">
+                        <p class="text-right m-0 p-1">
+                            <a class="btn btn-secondary btn" href="/recipes/by-similarity/{{ node.id }}?limit=12" role="button">Similar recipes</a>
+                            <a class="btn btn-secondary btn" href="{{ node.url }}" target="_blank" role="button">Show original</a>
+                        </p>
+                    {% endif %}
+                </div>
+
+            </div>
+            <!-- end recipe card -->
+
+        </div>
+    {% endfor %}
+</div>
+
+<!-- start modals -->
+<div class="modal fade" id="modal-API" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="API-raw-RR">Raw API request-response</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <pre style="font-size: 0.75rem">{{ raw }}</pre>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end modals -->
+
+{% endblock %}

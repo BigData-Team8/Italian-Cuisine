@@ -1,0 +1,266 @@
+{% extends 'app.twig' %}
+
+{% block content %}
+
+<form method="POST" action="/recipes/by-ingredients">
+
+    <div class="row">
+        <div class="col-12">
+            <h1>Your ingredients</h1>
+            <hr>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            <p class="lead text-muted">
+                Are you satisfied? If not, use the "Feedback" button, to leave your suggestions. You can also discard some ingredients clicking on the "Discard" button.
+            </p>
+        </div>
+        <div class="col-6">
+            <p class="lead text-muted">
+                And now, are you ready to see the recommended recipes?
+            </p>
+            <p>
+                <a class="btn btn-info btn-lg" href="/ingredients/ner" role="button" data-toggle="collapse" data-target="#recipes-by-ingredients-form">Show me the recipes!</a>
+                <!-- button type="submit" class="btn btn-success">Show me the recipes!</button -->
+            </p>
+        </div>    
+    </div>
+
+    <!-- start collapse -->
+    <div class="collapse" id="recipes-by-ingredients-form">
+        <div class="row">
+            <div class="col m-0 p-0"><hr></div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-6">
+                <div class="form-group">
+                    <label for="recipe-name">Recipe name</label>
+                    <input type="text" name="recipename" class="form-control">
+                    <small class="form-text text-muted">Could these ingredients be considered a recipe? Give us its name!</small>
+                </div>                
+
+                <div class="form-group">
+                    <label for="recipe-name">Recipe author</label>
+                    <input type="text" name="author" class="form-control">
+                    <small class="form-text text-muted">Who is the author? Your grandmother or a famous chef?</small>
+                </div>
+                            
+            </div>
+            <div class="col-6">
+                <!-- div class="form-group">
+                    <label for="threshold">Similarity threshold</label>
+                    <input type="number" name="threshold" class="form-control" min="0" max="1" value="0.10" step="0.01" required>
+                    <small class="form-text text-muted">Use an higher value if you need higher precision</small>
+                </div -->
+
+                <input type="hidden" name="threshold" class="form-control" min="0" max="1" value="0.001" step="0.01" required>
+
+                <div class="form-group">
+                    <label for="limit">Limit</label>
+                    <input type="number" name="limit" class="form-control" min="1" max="500" value="12" step="1" required>
+                    <small class="form-text text-muted">How many recipes do you want to show?</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="regionalonly-flag">Regionality filter: do you want to show regional recipes <b>only</b>?</label>
+                    <select class="form-control" id="regionalonly-flag" name="regionalonly">
+                        <option value="yes">Yes, show me regional recipes only</option>
+                        <option value="no">No, do not apply the regionality filter</option>
+                    </select>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col m-0 p-0">
+                <hr>
+                <p class="text-right">
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- end collapse -->
+
+    <div class="row">
+        <div class="card-columns">
+
+            {% for node in data %}
+                {% set id = random() %}
+
+                <!-- input type="hidden" id="input-{{ id }}" name="ingredients[]" value="{{ node.decoded.data.entities[0].ingredient }}" -->
+
+                <!-- start ingredient card -->
+                <div class="card{{ node.decoded.data.entities[0].ingredient ? ' border-success' : ' border-danger' }}">
+
+                {% if not node.decoded.data.entities[0].ingredient %}
+                    <div class="card-header mb-0 text-danger">
+                        <table style="width: 100%;">
+                            <tr>
+                                <td>
+                                    <b>Unknown: {{ node.decoded.data.request.ingredient }}</b>
+                                </td>
+                                <td style="text-align: right;">
+                                    <!-- button type="button" class="btn btn-danger btn-sm">Discard</button -->
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                {% else %}
+                    <div class="card-header mb-0">
+                        <table style="width: 100%;">
+                            <tr>
+                                <td>
+                                    <b class="ingredient-name">{{ node.decoded.data.entities[0].ingredient }}</b>
+                                </td>
+                                <td style="text-align: right;">
+                                    <!-- button type="button" class="btn btn-success btn-sm" data-toggle="collapse" data-target="#collapse-{{ id }}">Collapse</button -->
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                {% endif %}
+
+                    <div class="card-body pt-0 pb-0{{ node.decoded.data.entities[0].ingredient ? '' : ' text-danger' }}" id="collapse-{{ id }}">
+                      
+                        <p class="card-text">
+                            <h5>Your request</h5>
+                            {{ node.decoded.data.request.ingredient }}
+                            <hr>
+                        </p>
+
+                        <p class="card-text">
+                            <h5>Named-entity recognition</h5>
+                            <b>Ingredient: </b>{{ node.decoded.data.ner.ingredient }}
+                            <br>
+                            <b>Amount: </b>{{ node.decoded.data.ner.amount }}
+                            <hr>
+                        </p>
+
+                    {% if node.decoded.data.entities[0].ingredient %}
+                        <p class="card-text">
+                            <h5>Similarities</h5>
+
+                            {% set radio_checked = true %}
+                            {% for entity in node.decoded.data.entities %}
+
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="ingredient-{{ id }}" value="{{ entity.ingredient }}"{{ radio_checked ? ' checked' : ''}}>
+                                    <label class="form-check-label">
+                                        {{ entity.ingredient }} [ {{ entity.score | round(2) }} ]
+                                    </label>
+                                </div>
+
+                                {% set radio_checked = false %}
+                            {% endfor %}
+
+                            <hr>
+                        </p>
+                    {% endif %}
+
+                    {% if not node.decoded.data.entities[0].ingredient %}
+                        <p class="card-text">
+                            <small class="text-muted">
+                                We have not found any correspondence in our ontology.
+                                This ingredient will be automatically discarded.
+                            </small>
+                        </p>
+
+                        <p class="card-text text-center">
+                            <div class="btn-group" role="group">
+                                <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#modal-API-{{ id }}">API request-response</button>
+                                <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#modal-feedback-{{ id }}">Feedback</button>
+                            </div>
+                        </p>
+
+                    {% else %}
+                        <p class="card-text text-center">
+                            <div class="btn-group" role="group">
+                                <button type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#modal-API-{{ id }}">API request-response</button>
+                                <button id="button-feedback-{{ id }}" type="button" class="btn btn-outline-secondary btn-sm" data-toggle="modal" data-target="#modal-feedback-{{ id }}">Feedback</button>
+                                <button type="button" data-toggle="popover" title="Are you sure?" data-content="Click again if you want to really delete this ingredient from your list." class="discard-ingredient btn btn-outline-secondary btn-sm">Discard</button>
+                            </div>
+                        </p>
+                    {% endif %}
+
+                    </div>
+                </div>
+                <!-- end ingredient card -->
+
+                <!-- start modals -->
+                <div class="modal fade" id="modal-API-{{ id }}" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="api-modal-title">Raw API request-response</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <pre style="font-size: 0.75rem">{{ node.raw }}</pre>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal fade" id="modal-feedback-{{ id }}" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="feedback-model-title">Leave your feedback!</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+
+                                During our named-entity recognition process we did all the best to identify the right entities. Nevertheless, our AI is not God ;-)
+                                <br>Let us grow! Leave your feedback!
+                                <hr>
+
+                                <h5>Your request</h5>
+                                <span class="feedback-raw">{{ node.decoded.data.request.ingredient }}</span>
+                                <hr>
+
+                                <h5>Your suggestion</h5>
+                                <form>
+                                    <div class="form-group">
+                                        <label for="ingredient-feedback">Ingredient</label>
+                                        <input type="text" class="form-control feedback-ingredient" placeholder="{{ node.decoded.data.ner.ingredient }}">
+                                        <small class="form-text text-muted">Write here your suggestion about the ingredient</small>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="ingredient-feedback">Amount</label>
+                                        <input type="text" class="form-control feedback-amount" placeholder="{{ node.decoded.data.ner.amount }}">
+                                        <small class="form-text text-muted">Write here your suggestion about the amount</small>
+                                    </div>
+
+                                    <!-- button type="submit" class="btn btn-primary">Submit</button -->
+                                </form>
+
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <button type="button" class="btn btn-success feedback-modal-submit" data-dismiss="modal">Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>                        
+                <!-- end modals -->
+
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</form>
+
+{% endblock %}

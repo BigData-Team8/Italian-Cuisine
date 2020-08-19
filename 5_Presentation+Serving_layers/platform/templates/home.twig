@@ -1,0 +1,50 @@
+{% extends 'app.twig' %}
+
+{% block content %}
+<div class="row">
+    <div class="col"></div>
+    <div class="col-10">
+        <h1>What’s cooking in Italy?</h1>
+        <hr>
+        <h3>Ingredients and recipes of italian cuisine</h3>
+
+        <p class="lead text-muted">
+            Using our NLP model and our ingredients ontology we will give you awesome answers!
+        </p>
+    </div>
+    <div class="col"></div>
+</div>
+
+<div class="row" style="padding-top: 5rem;">
+    <div class="col"></div>
+    <div class="col-10">
+        <h3>Let's make your choice!</h3>
+        <hr>
+    </div>
+    <div class="col"></div>
+</div>
+
+<div class="row">
+    <div class="col"></div>
+    <div class="col-5">
+        <p class="lead text-muted">
+            Is your fridge empty? Do you want our platform to recommend you tasty regional recipes to share with your friends?
+            <br>
+            Otherwise you can select recipes by category or difficulty level.
+        </p>
+        <p>
+            <a class="btn btn-info btn-lg" href="/empty-fridge" role="button">Empty fridge</a>
+        </p>
+    </div>
+    <div class="col-5">
+        <p class="lead text-muted">
+            Do you have a messy list of ingredients or do you want clues about your grandmother's secret recipe?
+        </p>
+        <p>
+            <a class="btn btn-info btn-lg" href="/ingredients/ner" role="button">Recipes by ingredients</a>
+        </p>
+    </div>    
+    <div class="col"></div>
+</div>
+
+{% endblock %}

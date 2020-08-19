@@ -1,0 +1,76 @@
+{% extends 'app.twig' %}
+
+{% block content %}
+<div class="row">
+    <div class="col"></div>
+    <div class="col-9">
+        <h1>What's cooking in Italy?</h1>
+        <hr>
+        <h3>What can I make with these ingredients?</h3>
+
+        <p class="lead text-muted">
+            You give us your messy list of ingredients.<br>
+            Using our NLP model and our ingredients ontology we will give you awesome answers!
+        </p>
+        <hr>
+    </div>
+    <div class="col"></div>
+</div>
+
+<div class="row">
+    <div class="col"></div>
+    <div class="col-8">
+
+        <form method="POST" action="/ingredients/ner">
+            <div class="form-group">
+                <label for="ingredients-list">Write here the ingredients of your recipe, one per line</label>
+                <small class="form-text text-muted" style="padding-bottom: 0.2rem;">
+                    Our model is not God ;-)
+                    <br>
+                    Be careful that what you write is a cooking ingredient (or something related to that domain) and not random text!
+                </small>
+                <textarea class="form-control" rows="10" name="ingredients-list">5 melanzane tagliate a fette
+1kg di pomodori freschi
+peperoni
+qualche foglia di basilico
+sale qb
+</textarea>
+<!--100 gr di lievito di birra
+1 bicchiere di vino rosso
+un cucchiaio di limone strizzato
+qualche foglia di basilico fresco
+1 pizzico di sale
+pepe qb-->
+            </div>      
+
+            <div class="form-group">
+                <label for="algorithm">Similarity algorithm</label>
+                <select class="form-control" name="algorithm" required>
+                    <option value="jarowinkler">Jaro Winkler</option>
+                    <option value="levenshtein">Levenshtein</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="threshold">Similarity threshold</label>
+                <input type="number" name="threshold" class="form-control" min="0" max="1" value="0.75" step="0.01" required>
+                <small class="form-text text-muted">Use an higher value if you need higher precision</small>
+            </div>
+
+            <div class="form-group">
+                <label for="limit">Limit</label>
+                <input type="number" name="limit" class="form-control" min="1" max="10" value="3" step="1" required>
+                <small class="form-text text-muted">How many suggestions do you want for each ingredient?</small>
+            </div>                         
+
+            <hr>
+
+            <p class="text-right">
+                <button type="submit" class="btn btn-success">Submit</button>
+            </p>
+        </form>
+    </div>
+    <div class="col"></div>
+</div>
+
+{% endblock %}

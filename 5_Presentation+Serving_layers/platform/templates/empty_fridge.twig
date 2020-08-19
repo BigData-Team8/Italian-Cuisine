@@ -1,0 +1,183 @@
+{% extends 'app.twig' %}
+
+{% block content %}
+
+<div class="row" style="padding-top: 5rem;">
+    <div class="col">
+        <h3>Let's make your choice!</h3>
+        <hr>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-3">
+        <p class="lead text-muted">
+            I want to discover regional cooking recipes
+        </p>
+        <p>
+            <a class="btn btn-info btn-lg" role="button" data-toggle="collapse" data-target="#recipes-by-region-form">Regional cuisine</a>
+        </p>
+    </div>
+    <div class="col-3">
+        <p class="lead text-muted">
+            I want to prepare a recipe of a particular type of dish
+        </p>
+        <p>
+            <a class="btn btn-info btn-lg" role="button" data-toggle="collapse" data-target="#recipes-by-category-form">Type of dish</a>
+        </p>
+    </div>
+    <div class="col-3">
+        <p class="lead text-muted">
+            I want to prepare a recipe based on its difficulty
+        </p>
+        <p>
+            <a class="btn btn-info btn-lg" role="button" data-toggle="collapse" data-target="#recipes-by-level-form">Difficulty</a>
+        </p>
+    </div>    
+    <div class="col-3">
+        <p class="lead text-muted">
+            I want to find out the recipes of other users
+        </p>
+        <p>
+            <a class="btn btn-info btn-lg" role="button" data-toggle="collapse" data-target="#recipes-by-users-form">Users' recipes</a>
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-3">
+        <!-- start collapse -->
+        <div class="collapse" id="recipes-by-region-form">
+            <div class="card card-body">            
+                
+                <form method="GET" action="/recipes/by-region">
+
+                    <div class="form-group">
+                        <label for="region">Region</label>
+                        <select class="form-control" id="region" name="region">
+
+                        {% for region in data.regions.decoded.data.entities %}
+                            <option value="{{ region }}">{{ region }}</option>
+                        {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="limit">Limit</label>
+                        <input type="number" name="limit" class="form-control" min="1" max="500" value="12" step="1" required>
+                        <small class="form-text text-muted">How many recipes do you want to show?</small>
+                    </div>
+
+                    <hr>
+                    <p class="text-right mb-0">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                    </p>
+
+                </form>
+            </div>
+        </div>
+        <!-- end collapse -->
+    </div>
+
+    <div class="col-3">
+        <!-- start collapse -->
+        <div class="collapse" id="recipes-by-category-form">
+            <div class="card card-body">
+
+                <form method="GET" action="/recipes/by-category">
+
+                    <p class="card-text">
+                        {% for ingredient in node.ingredients %}
+                            {% if ingredient in node.common_ingredients %}
+                                <span class="lead"><span class="badge badge-success p-2 m-1">{{ ingredient }}</span></span>
+                            {% else %}
+                                <span class="badge badge-light p-2 m-1">{{ ingredient }}</span>
+                            {% endif %}
+                        {% endfor %}
+                    </p>
+
+                    <div class="form-group">
+                        <label for="region">Category</label>
+                        <select class="form-control" id="category" name="category">
+
+                        {% for category in data.categories.decoded.data.entities %}
+                            <option value="{{ category }}">{{ category | capitalize }}</option>
+                        {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="limit">Limit</label>
+                        <input type="number" name="limit" class="form-control" min="1" max="500" value="12" step="1" required>
+                        <small class="form-text text-muted">How many recipes do you want to show?</small>
+                    </div>
+
+                    <hr>
+                    <p class="text-right mb-0">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                    </p>
+                </form>
+            </div>
+        </div>
+        <!-- end collapse -->
+    </div>
+
+    <div class="col-3">
+        <!-- start collapse -->
+        <div class="collapse" id="recipes-by-level-form">
+            <div class="card card-body">            
+                
+                <form method="GET" action="/recipes/by-level">
+
+                    <div class="form-group">
+                        <label for="level">Difficulty</label>
+                        <select class="form-control" id="level" name="level">
+
+                        {% for level in data.levels.decoded.data.entities %}
+                            <option value="{{ level }}">{{ level }}</option>
+                        {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="limit">Limit</label>
+                        <input type="number" name="limit" class="form-control" min="1" max="500" value="12" step="1" required>
+                        <small class="form-text text-muted">How many recipes do you want to show?</small>
+                    </div>
+
+                    <hr>
+                    <p class="text-right mb-0">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                    </p>
+
+                </form>
+            </div>
+        </div>
+        <!-- end collapse -->
+    </div>    
+    
+    <div class="col-3">
+        <!-- start collapse -->
+        <div class="collapse" id="recipes-by-users-form">
+                <div class="card card-body">
+
+                <form method="GET" action="/recipes/by-users">
+
+                    <div class="form-group">
+                        <label for="limit">Limit</label>
+                        <input type="number" name="limit" class="form-control" min="1" max="500" value="12" step="1" required>
+                        <small class="form-text text-muted">How many recipes do you want to show?</small>
+                    </div>
+
+                    <hr>
+                    <p class="text-right mb-0">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                    </p>
+                </form>
+            </div>
+        </div>
+        <!-- end collapse -->
+    </div>
+</div>
+
+{% endblock %}
