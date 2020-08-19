@@ -21,7 +21,7 @@ import redis
 
 # some configuration parameters
 params = {
-	'kafkaHost': 'bigdata2.server.retebalducci.it',
+	'kafkaHost': 'bigdata2.server',
 	'kafkaPort': '9092',
 	'consumerTopicName': 'giallozafferano.it_crawling',
 	'producerTopicName': 'giallozafferano.it_scraping',
