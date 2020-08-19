@@ -1,0 +1,14973 @@
+1	AMT
+cespo	AMT
+di	O
+insalata	ING
+riccia	ING
+
+1	AMT
+cipolla	ING
+rossa	O
+media	O
+
+buccia	O
+di	O
+arancia	ING
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	ING
+agnello	ING
+
+4	AMT
+chiodi	ING
+di	ING
+garofano	ING
+ridotti	O
+
+4	AMT
+patate	ING
+medio	O
+-	O
+grandi	O
+
+fette	O
+sottilissime	O
+di	O
+formaggio	ING
+tipo	ING
+emmental	ING
+qb	AMT
+
+polvere	O
+di	O
+liquirizia	ING
+
+1	AMT
+sarago	ING
+
+40	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+
+400	AMT
+g	AMT
+di	O
+mollica	ING
+di	ING
+pane	ING
+fresco	O
+
+2	AMT
+dl	AMT
+di	O
+panna	ING
+montata	O
+
+sale	ING
+affumicato	ING
+denmark	O
+
+quinoa	ING
+
+2	AMT
+bicchierini	AMT
+di	O
+marsala	ING
+secco	ING
+
+28	AMT
+g	AMT
+di	O
+gelatina	ING
+
+6	AMT
+g	AMT
+di	O
+lievito	ING
+
+1	AMT
+d'	O
+olio	ING
+di	ING
+sesamo	ING
+
+30	AMT
+ml	AMT
+di	O
+olio	ING
+di	ING
+arachide	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+capperi	ING
+sottosale	ING
+
+90	AMT
+g	AMT
+di	O
+burro	ING
+freddo	O
+di	O
+frigo	O
+
+300	AMT
+g	AMT
+di	O
+gamberi	ING
+
+lamponi	ING
+o	O
+altra	O
+frutta	O
+fresca	O
+
+1	AMT
+radicchio	ING
+di	ING
+chioggia	ING
+
+250	AMT
+g	AMT
+d'	O
+acqua	ING
+circa	O
+
+1	AMT
+vasetto	AMT
+di	O
+zucchero	ING
+
+1	AMT
+dl	AMT
+di	O
+latte	ING
+.	O
+
+800	AMT
+g	AMT
+di	O
+spezzatino	O
+d'	O
+agnello	ING
+
+1	AMT
+cestino	ING
+di	O
+lamponi	ING
+freschi	O
+
+400	AMT
+ml	AMT
+di	O
+latte	ING
+fresco	O
+intero	ING
+
+10	AMT
+cl	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+1	AMT
+cucchiaino	AMT
+e	AMT
+1/4	AMT
+di	ING
+lievito	O
+
+10	AMT
+g	AMT
+di	O
+buccia	O
+d'	O
+arancia	ING
+
+1	AMT
+verza	ING
+di	O
+medie	O
+dimensioni	O
+
+200	AMT
+g	AMT
+di	O
+formaggio	ING
+castelmagno	ING
+
+marmellata	ING
+di	ING
+castagne	ING
+
+gelato	ING
+fiordilatte	ING
+
+100	AMT
+g	AMT
+di	O
+salmone	ING
+crudo	O
+.	O
+
+500	AMT
+g	AMT
+di	O
+ananas	ING
+fresco	O
+
+300	AMT
+g	AMT
+di	O
+spaghetti	ING
+sottili	O
+
+7	AMT
+fette	AMT
+di	O
+ananas	ING
+sciroppate	ING
+
+cocco	ING
+grattugiato	O
+
+1/2	AMT
+bicchiere	AMT
+di	O
+olio	ING
+
+100	AMT
+g	AMT
+di	O
+fave	ING
+fresche	O
+sgusciate	O
+
+400	AMT
+g	AMT
+di	O
+filetto	ING
+di	ING
+baccalà	ING
+ammollato	O
+e	O
+dissalato	O
+
+330	AMT
+gr	AMT
+albume	ING
+d'	ING
+uovo	ING
+
+4	AMT
+panini	ING
+medio	O
+-	O
+grandi	O
+tipo	O
+rosette	O
+
+450	AMT
+g	AMT
+di	O
+ricotta	ING
+
+1	AMT
+panino	ING
+raffermo	ING
+
+15	AMT
+g	AMT
+di	O
+latte	ING
+scremato	ING
+
+200	AMT
+g	AMT
+di	O
+pasta	ING
+sfoglia	ING
+pronta	O
+
+1	AMT
+cavolfiore	ING
+grande	O
+
+60	AMT
+ml	AMT
+di	O
+latte	ING
+intero	ING
+
+190	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+2	AMT
+porri	ING
+
+250	AMT
+g	AMT
+di	O
+salmone	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+salsa	ING
+di	ING
+soia	ING
+
+260	AMT
+g	AMT
+di	O
+acqua	ING
+
+160	AMT
+g	AMT
+di	O
+burro	ING
+fuso	O
+
+1	AMT
+l	AMT
+di	O
+alcol	ING
+da	ING
+liquori	ING
+
+500	AMT
+g	AMT
+di	O
+polpa	O
+di	O
+zucca	ING
+
+110	AMT
+g	AMT
+di	O
+panna	ING
+fresca	ING
+liquida	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+di	O
+passata	ING
+di	ING
+pomodoro	ING
+
+1	AMT
+boccetta	AMT
+d'	O
+acqua	ING
+di	ING
+fiori	ING
+d'	ING
+arancio	ING
+
+fiocchi	ING
+di	ING
+mais	ING
+
+150	AMT
+g	AMT
+pecorino	ING
+romano	ING
+
+125	AMT
+g	AMT
+di	O
+latte	ING
+
+50	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+
+1	AMT
+baguette	ING
+
+crostini	O
+di	O
+pane	ING
+integrale	ING
+
+6	AMT
+fogli	AMT
+di	ING
+gelatina	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+bacche	O
+di	O
+pepe	ING
+nero	ING
+
+una	AMT
+bacca	AMT
+di	O
+vaniglia	ING
+
+melograno	ING
+
+400	AMT
+g	AMT
+di	O
+ceci	ING
+
+700	AMT
+g	AMT
+di	O
+salmone	ING
+fresco	O
+
+200	AMT
+ml	AMT
+di	O
+panna	ING
+acida	ING
+
+500	AMT
+g	AMT
+paneer	ING
+pressato	O
+
+4	AMT
+pere	ING
+di	O
+uguali	O
+dimensioni	O
+
+161	AMT
+g	AMT
+di	O
+burro	ING
+
+400	AMT
+g	AMT
+di	O
+sugo	ING
+di	ING
+pomodoro	ING
+
+150	AMT
+g	AMT
+di	O
+lardo	ING
+tritato	O
+
+burro	ING
+e	ING
+farina	ING
+
+250	AMT
+g	AMT
+di	O
+lasagne	ING
+verdi	ING
+
+200	AMT
+g	AMT
+di	O
+zucchero	ING
+
+250	AMT
+g	AMT
+di	O
+rabarbaro	ING
+
+300	AMT
+g	AMT
+di	O
+filetto	ING
+di	ING
+baccalà	ING
+sotto	ING
+sale	ING
+
+13	AMT
+g	AMT
+di	O
+sale	ING
+.	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+semi	ING
+di	ING
+lino	ING
+
+150	AMT
+g	AMT
+di	O
+mandorle	ING
+tritate	O
+finemente	O
+
+10	AMT
+scampi	ING
+
+200	AMT
+g	AMT
+di	O
+fragole	ING
+
+4	AMT
+sogliole	ING
+
+1	AMT
+confezione	AMT
+da	AMT
+200	AMT
+g	AMT
+di	O
+asparagi	ING
+surgelati	ING
+
+150	AMT
+g	AMT
+di	O
+mozzarella	ING
+fior	ING
+di	ING
+latte	ING
+
+30	AMT
+g	AMT
+di	O
+limoncello	ING
+
+4	AMT
+-	AMT
+5	AMT
+patate	ING
+
+o	O
+di	O
+capriolo	ING
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+maggiorana	ING
+fresca	ING
+tritata	O
+
+ricotta	ING
+salata	ING
+secca	ING
+grattugiata	O
+
+340	AMT
+ml	AMT
+di	O
+acqua	ING
+
+croste	O
+di	O
+parmigiano	ING
+reggiano	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+olive	ING
+taggiasche	ING
+
+400	AMT
+g	AMT
+di	O
+filetti	ING
+di	ING
+coniglio	ING
+
+vino	ING
+bianco	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+farina	ING
+integrale	ING
+
+nocciole	ING
+tostate	ING
+
+1	AMT
+melanzana	ING
+grande	O
+
+300	AMT
+g	AMT
+di	O
+peperoni	ING
+verdi	ING
+friggitelli	ING
+
+50	AMT
+g	AMT
+di	O
+cioccolato	ING
+al	ING
+latte	ING
+
+200	AMT
+g	AMT
+di	O
+salicornia	ING
+
+150	AMT
+g	AMT
+di	O
+mozzarella	ING
+
+1/2	AMT
+bicchiere	AMT
+d'	O
+acqua	ING
+
+6	AMT
+g	AMT
+di	O
+lievito	ING
+di	ING
+birra	ING
+
+ricotta	ING
+salata	ING
+dura	O
+o	ING
+pecorino	ING
+
+2	AMT
+panini	ING
+tipo	ING
+arabo	ING
+
+1	AMT
+confezione	AMT
+pasta	ING
+brisée	ING
+
+4	AMT
+pomodori	ING
+
+1	AMT
+mazzetto	AMT
+di	O
+erba	ING
+cipollina	ING
+
+2	AMT
+cucchiaini	AMT
+di	O
+bicarbonato	ING
+
+40	AMT
+gr	AMT
+di	O
+semi	ING
+di	ING
+sesamo	ING
+
+280	AMT
+g	AMT
+fusilli	ING
+gentile	O
+
+4	AMT
+pomodorini	ING
+
+18	AMT
+scalogni	ING
+
+5	AMT
+cl	AMT
+di	O
+olio	ING
+extravergine	ING
+di	ING
+oliva	ING
+
+4	AMT
+-	AMT
+5	AMT
+mele	ING
+granny	ING
+smith	ING
+
+1	AMT
+piccola	O
+cipolla	ING
+bionda	ING
+
+200	AMT
+g	AMT
+di	O
+ricotta	ING
+vaccina	ING
+
+2	AMT
+bicchieri	AMT
+di	O
+spumante	ING
+secco	ING
+
+25	AMT
+gr	AMT
+mango	ING
+candito	ING
+
+350	AMT
+g	AMT
+riso	ING
+basmati	ING
+
+1	AMT
+kg	AMT
+e	AMT
+200	AMT
+g	AMT
+di	O
+zucchero	ING
+
+8	AMT
+grossi	O
+frutti	ING
+della	ING
+passione	ING
+
+250	AMT
+g	AMT
+di	O
+farina	ING
+1	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+uva	ING
+sultanina	ING
+
+200	AMT
+grammi	AMT
+di	O
+mirtilli	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+liquore	ING
+tipo	ING
+amaretto	ING
+di	ING
+saronno	ING
+
+uova	ING
+di	ING
+lompo	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+prosecco	ING
+brut	ING
+
+50	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+1	AMT
+bicchiere	AMT
+scarso	O
+d'	O
+aceto	ING
+bianco	ING
+
+1	AMT
+l	AMT
+di	O
+aceto	ING
+di	ING
+vino	ING
+bianco	ING
+
+200	AMT
+g	AMT
+di	O
+burro	ING
+morbido	O
+
+1/2	AMT
+baguette	ING
+
+100	AMT
+g	AMT
+di	O
+fagioli	ING
+cannellini	ING
+lessati	O
+
+250	AMT
+g	AMT
+di	O
+fave	ING
+sgranate	ING
+anche	O
+
+350	AMT
+g	AMT
+orecchiette	ING
+
+2	AMT
+g	AMT
+di	O
+noce	ING
+moscata	ING
+
+20	AMT
+foglie	AMT
+di	O
+basilico	ING
+fresco	O
+
+1/2	AMT
+bicchiere	AMT
+di	O
+sherry	ING
+
+2	AMT
+cucchiaini	AMT
+di	O
+caffè	ING
+liofilizzato	ING
+
+1	AMT
+pezzo	AMT
+di	O
+manzo	ING
+
+100	AMT
+gr	AMT
+lardo	ING
+
+230	AMT
+g	AMT
+di	O
+pasta	ING
+sfoglia	ING
+pronta	O
+
+25	AMT
+g	AMT
+di	O
+tuorlo	ING
+
+80	AMT
+g	AMT
+di	O
+olio	ING
+extravergine	ING
+di	ING
+oliva	ING
+
+6	AMT
+uova	ING
+grandi	O
+
+20	AMT
+g	AMT
+di	O
+farina	ING
+"	O
+00	O
+"	O
+
+16	AMT
+pomodori	ING
+ciliegia	ING
+
+100	AMT
+g	AMT
+di	O
+robiola	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+mais	ING
+precotto	O
+
+300	AMT
+ml	AMT
+di	O
+latte	ING
+di	ING
+cocco	ING
+
+100	AMT
+g	AMT
+di	O
+pancetta	ING
+affumicata	ING
+tagliata	O
+
+90	AMT
+g	AMT
+di	O
+farina	ING
+
+120	AMT
+g	AMT
+di	O
+stracchino	ING
+
+125	AMT
+ml	AMT
+aceto	ING
+di	ING
+vino	ING
+rosso	ING
+
+1500	AMT
+g	AMT
+di	O
+albicocche	ING
+molto	O
+mature	O
+
+4	AMT
+cuori	O
+di	O
+carciofo	ING
+
+300	AMT
+g	AMT
+di	O
+funghi	ING
+champignon	ING
+
+basilico	ING
+fresco	O
+e	O
+abbondante	O
+
+2	AMT
+dl	AMT
+d'	O
+olio	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+concentrato	ING
+di	ING
+pomodoro	ING
+
+1	AMT
+kg	AMT
+di	O
+polpa	ING
+di	ING
+zucca	ING
+
+50	AMT
+g	AMT
+di	O
+nocciole	ING
+tostate	ING
+
+zenzero	ING
+fresco	O
+
+250	AMT
+g	AMT
+di	O
+mele	ING
+renette	ING
+
+220	AMT
+g	AMT
+di	O
+pomodoro	ING
+datterino	ING
+pelato	ING
+
+250	AMT
+g	AMT
+di	O
+biscotti	ING
+tipo	ING
+digestive	ING
+
+6	AMT
+-	AMT
+7	AMT
+albumi	ING
+
+pomodorini	ING
+datterini	ING
+
+una	AMT
+manciata	AMT
+di	O
+spinacini	ING
+
+300	AMT
+g	AMT
+di	O
+ventresca	ING
+di	ING
+tonno	ING
+sott'	ING
+olio	ING
+
+350	AMT
+g	AMT
+di	O
+filetto	ING
+o	ING
+controfiletto	ING
+di	ING
+vitello	ING
+tagliato	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+erbe	ING
+aromatiche	ING
+scelte	O
+
+350	AMT
+g	AMT
+di	O
+salsiccia	ING
+
+100	AMT
+g	AMT
+di	O
+porcini	ING
+puliti	O
+
+1	AMT
+trancio	AMT
+di	O
+tonno	ING
+di	O
+900	O
+g	O
+circa	O
+
+700	AMT
+g	AMT
+di	O
+filetto	ING
+
+200	AMT
+g	AMT
+d'	O
+olio	ING
+
+650gr	AMT
+acqua	ING
+
+500	AMT
+ml	AMT
+di	O
+latte	ING
+
+1	AMT
+sovraccoscia	ING
+di	ING
+tacchino	ING
+disossata	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+capperi	ING
+piccoli	O
+sott'	ING
+olio	ING
+
+20	AMT
+g	AMT
+di	O
+pecorino	ING
+romano	ING
+grattugiato	O
+
+200	AMT
+g	AMT
+di	O
+piselli	ING
+sgusciati	O
+
+1	AMT
+mattonella	AMT
+di	O
+tofu	ING
+da	O
+300	O
+g	O
+
+600	AMT
+g	AMT
+di	O
+seppie	ING
+
+500	AMT
+g	AMT
+di	O
+spinacino	ING
+fresco	O
+o	O
+spinaci	O
+surgelati	O
+
+1/2	AMT
+tazza	AMT
+di	O
+brodo	ING
+di	ING
+carne	ING
+
+4	AMT
+carciofi	ING
+romaneschi	ING
+
+foglie	AMT
+di	O
+salvia	ING
+fresca	ING
+
+3	AMT
+centimetri	AMT
+di	O
+radice	ING
+di	ING
+zenzero	ING
+
+10	AMT
+capperi	ING
+sottosale	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+curry	ING
+
+1/2	AMT
+cucchiaio	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+
+2	AMT
+dl	AMT
+di	O
+panna	ING
+acida	ING
+
+65	AMT
+ml	AMT
+di	O
+latte	ING
+tiepido	O
+
+1	AMT
+cucchiaino	AMT
+e	AMT
+mezzo	AMT
+di	O
+lievito	ING
+
+110	AMT
+-	AMT
+130	AMT
+ml	AMT
+di	O
+acqua	ING
+
+50	AMT
+g	AMT
+di	O
+misto	ING
+funghi	ING
+secchi	ING
+
+100	AMT
+g	AMT
+di	O
+olive	ING
+infornate	ING
+
+30	AMT
+g	AMT
+di	O
+dragoncello	ING
+
+10	AMT
+g	AMT
+di	O
+buccia	O
+di	O
+limone	ING
+
+16	AMT
+g	AMT
+di	O
+fogli	ING
+di	ING
+gelatina	ING
+
+700	AMT
+g	AMT
+di	O
+uva	ING
+tra	ING
+bianca	ING
+e	ING
+nera	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+200	AMT
+g	AMT
+di	O
+radice	ING
+di	ING
+rafano	ING
+
+3	AMT
+uova	ING
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+lievito	ING
+vanigliato	ING
+
+vongole	ING
+veraci	ING
+
+250	AMT
+g	AMT
+acqua	ING
+
+180	AMT
+g	AMT
+di	O
+uvetta	ING
+
+1	AMT
+ciuffo	AMT
+di	O
+basilico	ING
+
+4/6	AMT
+acciughe	ING
+
+20	AMT
+g	AMT
+di	O
+bacche	ING
+di	ING
+goji	ING
+
+170	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+
+2	AMT
+-	AMT
+3	AMT
+tuorli	ING
+
+nocciole	ING
+tostate	ING
+tritate	O
+
+200	AMT
+g	AMT
+di	O
+uva	ING
+nera	ING
+
+180	AMT
+g	AMT
+di	O
+riso	ING
+
+olive	ING
+
+parmigiano	ING
+reggiano	ING
+tenero	O
+
+4	AMT
+fette	AMT
+di	O
+pane	ING
+casereccio	ING
+tostate	ING
+
+125	AMT
+g	AMT
+di	O
+ribes	ING
+e	ING
+mirtilli	ING
+
+zucchero	ING
+da	O
+cospargere	O
+
+400	AMT
+g	AMT
+di	O
+filetti	ING
+di	ING
+branzino	ING
+
+12	AMT
+g	AMT
+di	O
+sale	ING
+
+cumino	ING
+qb	AMT
+
+polpa	ING
+di	ING
+pomodoro	ING
+
+220	AMT
+ml	AMT
+di	O
+vino	ING
+bianco	ING
+
+280	AMT
+g	AMT
+riso	ING
+carnaroli	ING
+
+800	AMT
+g	AMT
+di	O
+carne	ING
+di	ING
+manzo	ING
+
+1	AMT
+cucchiaino	AMT
+raso	O
+di	O
+cumino	ING
+
+1	AMT
+zampone	ING
+da	O
+1	O
+kg	O
+
+10	AMT
+gamberetti	ING
+sgusciati	O
+
+200	AMT
+g	AMT
+di	O
+champignons	ING
+
+200	AMT
+g	AMT
+di	O
+pasta	ING
+brisée	ING
+al	ING
+cioccolato	ING
+
+100	AMT
+g	AMT
+di	O
+burro	ING
+
+400	AMT
+ml	AMT
+latte	ING
+
+1	AMT
+dl	AMT
+d'	O
+aceto	ING
+
+80	AMT
+g	AMT
+di	O
+scamorza	ING
+bianca	ING
+
+4	AMT
+-	AMT
+5	AMT
+cucchiai	AMT
+di	O
+parmigiano	ING
+o	ING
+caciocavallo	ING
+tritato	O
+
+estratto	ING
+naturale	ING
+di	ING
+vaniglia	ING
+
+insalatina	ING
+di	O
+stagione	O
+
+2	AMT
+litri	AMT
+di	O
+brodo	ING
+di	ING
+pesce	ING
+
+100	AMT
+g	AMT
+di	O
+zucchero	ING
+
+120	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+tritato	O
+.	O
+
+6	AMT
+foglie	AMT
+di	O
+basilico	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+rosolio	ING
+di	ING
+cannella	ING
+
+1	AMT
+bicchiere	AMT
+d'	O
+acqua	ING
+
+40	AMT
+g	AMT
+di	O
+anacardi	ING
+sgusciati	O
+e	O
+tostati	ING
+
+1	AMT
+vasetto	AMT
+di	O
+uova	ING
+di	ING
+trota	ING
+
+spinaci	ING
+
+pepe	ING
+misto	ING
+
+30	AMT
+g	AMT
+di	O
+cipolla	ING
+rossa	O
+
+5	AMT
+-	AMT
+6	AMT
+spicchi	AMT
+d'	O
+aglio	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+acqua	ING
+bollente	O
+
+600	AMT
+g	AMT
+di	O
+zucca	ING
+delica	O
+pulita	O
+
+1	AMT
+cucchiaio	AMT
+raso	O
+di	O
+pan	ING
+grattato	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+semi	ING
+misti	ING
+tostati	ING
+
+1	AMT
+tortilla	ING
+grande	O
+
+30	AMT
+g	AMT
+di	O
+tuorli	ING
+
+1	AMT
+avocado	ING
+piccolo	O
+
+800	AMT
+g	AMT
+di	O
+salsiccia	ING
+
+panna	ING
+.	O
+
+800	AMT
+g	AMT
+di	O
+fesa	ING
+di	ING
+tacchino	ING
+
+250	AMT
+g	AMT
+di	O
+frutti	ING
+di	ING
+bosco	ING
+
+700	AMT
+g	AMT
+di	O
+macinato	ING
+misto	ING
+
+125	AMT
+g	AMT
+di	O
+passata	ING
+di	ING
+pomodoro	ING
+
+animelle	ING
+
+1	AMT
+bicchiere	AMT
+di	O
+blu	ING
+curacao	ING
+
+2	AMT
+petti	ING
+della	ING
+gallina	ING
+padovana	ING
+
+1	AMT
+mango	ING
+tagliato	O
+
+acqua	ING
+o	ING
+brodo	ING
+qb	AMT
+
+30	AMT
+g	AMT
+di	O
+mandorle	ING
+spellate	ING
+
+100	AMT
+g	AMT
+di	O
+roquefort	ING
+
+5	AMT
+pesche	ING
+gialle	ING
+
+2	AMT
+brioche	ING
+
+1/2	AMT
+litro	AMT
+d'	O
+aranciata	ING
+amara	ING
+
+100	AMT
+g	AMT
+di	O
+parma	ING
+sant'	ING
+ilario	ING
+stagionato	ING
+30	O
+mesi	O
+
+pepe	ING
+qb	AMT
+
+1	AMT
+verza	ING
+da	O
+600	O
+g	O
+
+550	AMT
+g	AMT
+di	O
+farina	ING
+00	ING
+
+25	AMT
+g	AMT
+di	O
+carote	ING
+
+1	AMT
+bicchierino	AMT
+di	O
+mistrà	ING
+
+1	AMT
+piccola	O
+cipolla	ING
+rossa	O
+di	ING
+tropea	ING
+
+palline	ING
+di	ING
+zucchero	ING
+colorate	O
+
+400	AMT
+g	AMT
+di	O
+mozzarella	ING
+
+125	AMT
+g	AMT
+di	O
+yogurt	ING
+bianco	ING
+
+buccia	O
+dʼarancia	ING
+esiccata	ING
+
+40	AMT
+g	AMT
+di	O
+cioccolato	ING
+amaro	ING
+
+1	AMT
+sedano	ING
+verde	ING
+
+1	AMT
+broccolo	ING
+romanesco	ING
+
+150	AMT
+g	AMT
+di	O
+tagliatelle	ING
+all'	ING
+uovo	ING
+
+200	AMT
+g	AMT
+di	O
+reginelle	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+panna	ING
+liquida	ING
+
+200	AMT
+g	AMT
+di	O
+piselli	ING
+sgranati	O
+anche	O
+surgelati	O
+
+datteri	ING
+
+1	AMT
+cipolla	ING
+rossa	O
+grande	O
+
+2	AMT
+grossi	O
+peperoni	ING
+rossi	ING
+
+foglioline	AMT
+di	O
+menta	ING
+
+240	AMT
+g	AMT
+di	O
+riso	ING
+arborio	ING
+
+1	AMT
+o	AMT
+2	AMT
+carote	ING
+
+1	AMT
+dozzina	AMT
+di	O
+olive	ING
+snocciolate	ING
+
+1/4	AMT
+di	O
+avocado	ING
+
+1	AMT
+litro	AMT
+di	O
+brodo	ING
+vegetale	ING
+
+57	AMT
+g	AMT
+di	O
+acqua	ING
+
+250	AMT
+gr	AMT
+di	O
+centrifugato	O
+di	O
+cetriolo	ING
+
+1/2	AMT
+l	AMT
+di	O
+vino	ING
+bianco	ING
+dolce	ING
+
+d'	O
+arancia	ING
+tagliati	O
+al	O
+vivo	O
+
+8	AMT
+sarde	ING
+sfilettate	O
+
+100	AMT
+g	AMT
+di	O
+fagioli	ING
+cannellini	ING
+
+1/2	AMT
+cipolla	ING
+rossa	O
+
+1	AMT
+anatra	ING
+da	O
+2	O
+-	O
+2	O
+kg	O
+e	O
+1/2	O
+
+300	AMT
+g	AMT
+di	O
+mozzarella	ING
+di	ING
+bufala	ING
+
+pane	ING
+casereccio	ING
+
+150	AMT
+g	AMT
+di	O
+pane	ING
+casareccio	ING
+
+1/2	AMT
+dose	AMT
+di	O
+besciamella	ING
+
+150	AMT
+g	AMT
+di	O
+granella	ING
+di	ING
+mandorle	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+miele	ING
+di	ING
+acacia	ING
+
+100	AMT
+g	AMT
+di	O
+gelatina	ING
+di	ING
+albicocche	ING
+.	O
+
+12	AMT
+prugne	ING
+secche	ING
+denocciolate	O
+
+400	AMT
+di	O
+pomodori	ING
+pelati	ING
+
+1/4	AMT
+di	O
+cappone	ING
+
+130	AMT
+g	AMT
+di	O
+ciliegie	ING
+
+300	AMT
+g	AMT
+di	O
+ceci	ING
+
+100	AMT
+g	AMT
+di	O
+taccole	ING
+
+150	AMT
+g	AMT
+di	O
+pasta	ING
+secca	ING
+
+300	AMT
+g	AMT
+di	O
+fave	ING
+
+900	AMT
+g	AMT
+zucchero	ING
+
+1	AMT
+mazzetto	AMT
+di	O
+prezzemolo	ING
+fresco	O
+
+250	AMT
+g	AMT
+di	O
+mozzarella	ING
+
+200	AMT
+g	AMT
+di	O
+ceci	ING
+
+1/2	AMT
+cipolla	ING
+bianca	ING
+
+140	AMT
+g	AMT
+di	O
+zucchero	ING
+
+700	AMT
+g	AMT
+di	O
+panna	ING
+
+olio	ING
+dimandorle	ING
+.	O
+
+65	AMT
+g	AMT
+di	O
+fiocchi	ING
+d'	ING
+avena	ING
+
+6	AMT
+fette	AMT
+di	O
+pane	ING
+da	ING
+toast	ING
+
+70	AMT
+g	AMT
+di	O
+salmone	ING
+affumicato	ING
+
+360	AMT
+g	AMT
+di	O
+farro	ING
+precotto	ING
+
+parmigiano	ING
+grattugiato	O
+qb	AMT
+
+180	AMT
+g	AMT
+di	O
+taleggio	ING
+
+300	AMT
+g	AMT
+di	O
+glucosio	ING
+
+150	AMT
+g	AMT
+di	O
+grano	ING
+cotto	ING
+
+2	AMT
+acciughe	ING
+sott'	ING
+olio	ING
+
+40	AMT
+g	AMT
+di	O
+pomodori	ING
+secchi	ING
+sott'	ING
+olio	ING
+
+60	AMT
+gr	AMT
+di	O
+pollo	ING
+
+1	AMT
+punta	O
+di	O
+rafano	ING
+
+30	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+grattugiato	O
+
+150	AMT
+g	AMT
+di	O
+noci	ING
+macadamia	ING
+
+150	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+merluzzo	ING
+
+150	AMT
+g	AMT
+di	O
+tuorli	ING
+
+parmigiano	ING
+reggiano	ING
+ben	O
+stagionato	O
+
+150	AMT
+g	AMT
+di	O
+acqua	ING
+
+1	AMT
+confezione	AMT
+da	AMT
+100	AMT
+-	AMT
+125	AMT
+g	AMT
+di	O
+caviale	ING
+
+200	AMT
+g	AMT
+di	O
+vitello	ING
+
+300	AMT
+g	AMT
+di	O
+mandorle	ING
+
+150	AMT
+g	AMT
+di	O
+ditalini	ING
+
+100	AMT
+g	AMT
+di	O
+emmentaler	ING
+
+150	AMT
+g	AMT
+circa	O
+di	O
+licoli	ING
+
+1	AMT
+kg	AMT
+e	AMT
+400	AMT
+g	AMT
+di	O
+pesce	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+miele	ING
+di	ING
+acacia	ING
+
+1/2	AMT
+mela	ING
+gialla	ING
+golden	ING
+
+100	AMT
+g	AMT
+di	O
+pistacchi	ING
+
+300	AMT
+gr	AMT
+di	O
+panna	ING
+
+100	AMT
+ml	AMT
+di	O
+olio	ING
+
+10	AMT
+canapé	AMT
+di	O
+pane	ING
+integrale	ING
+tagliati	O
+
+fragoloni	ING
+
+250	AMT
+g	AMT
+di	O
+cioccolato	ING
+da	O
+copertura	O
+
+200	AMT
+g	AMT
+di	O
+pancetta	ING
+
+150	AMT
+g	AMT
+di	O
+caciocavallo	ING
+
+350	AMT
+g	AMT
+di	O
+pane	ING
+
+50	AMT
+ml	AMT
+di	O
+marsala	ING
+
+di	O
+limone	ING
+
+polenta	ING
+
+400	AMT
+g	AMT
+di	O
+bacon	ING
+
+1⁄2	AMT
+dl	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+1/2	AMT
+cavolo	ING
+cappuccio	ING
+
+1	AMT
+cetriolo	ING
+
+coca	ING
+cola	ING
+o	O
+altra	O
+cola	O
+
+4	AMT
+rognoncini	ING
+
+340	AMT
+g	AMT
+di	O
+farina	ING
+00	ING
+
+acqua	ING
+calda	O
+
+350	AMT
+g	AMT
+di	O
+passata	ING
+di	ING
+pomodoro	ING
+
+20	AMT
+g	AMT
+di	O
+gelatina	ING
+
+buccia	O
+e	O
+succo	O
+di	O
+1	AMT
+limone	ING
+
+350	AMT
+g	AMT
+di	O
+maccheroni	ING
+calabresi	ING
+
+mezzo	AMT
+bicchiere	AMT
+di	O
+grappa	ING
+
+buccia	O
+di	O
+limone	ING
+
+paprika	ING
+affumicata	ING
+
+500	AMT
+g	AMT
+di	O
+fichi	ING
+verdi	ING
+piccoli	O
+
+250	AMT
+g	AMT
+di	O
+pane	ING
+tipo	ING
+ciabatta	ING
+
+2	AMT
+fogli	ING
+di	ING
+gelatina	ING
+alimentare	ING
+
+10	AMT
+pomodorini	ING
+
+50	AMT
+g	AMT
+di	O
+burro	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+olio	ING
+extravergine	ING
+d'	ING
+oliva	ING
+
+1⁄2	AMT
+cucchiaino	AMT
+di	O
+sale	ING
+
+25	AMT
+g	AMT
+d'	O
+olio	ING
+extravergine	ING
+di	ING
+oliva	ING
+
+40	AMT
+ml	AMT
+di	O
+rye	ING
+whisky	ING
+o	O
+canadian	O
+whisky	O
+
+200	AMT
+g	AMT
+di	O
+patate	ING
+farinose	O
+lessate	O
+
+150	AMT
+g	AMT
+di	O
+nocciole	ING
+tostate	ING
+e	O
+tritate	O
+
+130	AMT
+g	AMT
+di	O
+farina	ING
+
+350	AMT
+g	AMT
+di	O
+spinaci	ING
+
+400	AMT
+g	AMT
+di	O
+pasta	ING
+di	ING
+pane	ING
+lievitata	ING
+
+8	AMT
+filetti	ING
+di	ING
+pesce	ING
+persico	ING
+
+100	AMT
+g	AMT
+di	O
+funghi	ING
+porcini	ING
+
+1	AMT
+manciatina	AMT
+di	O
+pinoli	ING
+freschi	O
+
+7	AMT
+g	AMT
+di	O
+caffè	ING
+solubile	ING
+.	O
+
+2	AMT
+g	AMT
+sale	ING
+
+400	AMT
+g	AMT
+di	O
+pomodori	ING
+datterini	ING
+
+1	AMT
+rapa	ING
+rossa	O
+cotta	O
+
+1	AMT
+cucchiaio	AMT
+colmo	O
+di	O
+farina	ING
+
+50	AMT
+g	AMT
+di	O
+rafano	ING
+
+1	AMT
+vasetto	AMT
+yoghurt	ING
+greco	ING
+
+100	AMT
+g	AMT
+di	O
+burro	ING
+fuso	O
+
+perle	O
+o	O
+scaglie	O
+di	O
+cioccolato	ING
+
+1	AMT
+kg	AMT
+di	O
+mele	ING
+renette	ING
+o	O
+di	O
+pere	O
+williams	O
+
+10	AMT
+pomodorini	ING
+ciliegia	ING
+
+200	AMT
+g	AMT
+di	O
+riso	ING
+patna	ING
+o	O
+basmati	O
+
+5	AMT
+-	AMT
+6	AMT
+gambi	AMT
+di	O
+prezzemolo	ING
+
+230	AMT
+g	AMT
+di	O
+mozzarelline	ING
+
+200	AMT
+g	AMT
+di	O
+salmone	ING
+sott'	ING
+olio	ING
+
+1	AMT
+kg	AMT
+di	O
+pomodori	ING
+rossi	ING
+
+2	AMT
+cucchiaini	AMT
+colmi	O
+di	O
+curcuma	ING
+
+20	AMT
+g	AMT
+di	O
+olio	ING
+di	ING
+sesamo	ING
+
+3	AMT
+pomodori	ING
+maturi	O
+
+400	AMT
+g	AMT
+di	O
+panna	ING
+liquida	ING
+
+4	AMT
+cucchiaini	AMT
+di	O
+succo	ING
+di	ING
+lime	ING
+
+2	AMT
+cucchiai	AMT
+dimarmellata	ING
+d'	ING
+arance	ING
+amara	ING
+
+5	AMT
+g	AMT
+di	O
+bicarbonato	ING
+
+800	AMT
+g	AMT
+di	O
+lombo	ING
+di	ING
+maiale	ING
+
+400	AMT
+g	AMT
+di	O
+formaggio	ING
+montasio	ING
+stagionato	ING
+almeno	O
+10	O
+mesi	O
+
+300	AMT
+g	AMT
+di	O
+meringhette	ING
+pronte	ING
+
+1	AMT
+grosso	O
+scalogno	ING
+
+160	AMT
+g	AMT
+di	O
+zucchero	ING
+
+320	AMT
+g	AMT
+di	O
+tagliatelle	ING
+di	ING
+semola	ING
+
+100	AMT
+g	AMT
+farina	ING
+fioretto	ING
+di	ING
+mais	ING
+
+3	AMT
+cucchiaini	AMT
+di	O
+zucchero	ING
+
+200	AMT
+g	AMT
+di	O
+ciliegie	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+sassolino	ING
+
+80	AMT
+g	AMT
+di	O
+bietole	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+acqua	ING
+
+200	AMT
+g	AMT
+di	O
+mousse	ING
+di	ING
+foie	ING
+gras	ING
+
+pomodorini	ING
+confit	ING
+
+1	AMT
+oca	ING
+giovane	O
+
+200	AMT
+g	AMT
+di	O
+cipolline	ING
+
+40	AMT
+g	AMT
+di	O
+amido	ING
+di	ING
+mais	ING
+
+2	AMT
+melanzane	ING
+lunghe	ING
+viola	O
+piccole	O
+
+400	AMT
+g	AMT
+di	O
+bucatini	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+"	O
+0	ING
+"	O
+
+200	AMT
+g	AMT
+di	O
+burro	ING
+ammorbidito	O
+
+100	AMT
+g	AMT
+di	O
+provolina	ING
+
+1/2	AMT
+bicchiere	AMT
+d'	O
+aceto	ING
+
+1	AMT
+bacca	O
+di	O
+anice	ING
+stellato	ING
+
+1/2	AMT
+litro	AMT
+di	O
+crema	ING
+
+200	AMT
+g	AMT
+circa	O
+di	O
+stufato	ING
+di	ING
+cappone	ING
+e	ING
+faraona	ING
+
+brodo	ING
+di	ING
+carne	ING
+o	O
+di	O
+dado	O
+
+1	AMT
+dl	AMT
+di	O
+olio	ING
+di	ING
+arachide	ING
+
+5	AMT
+g	AMT
+di	O
+lievito	ING
+
+2	AMT
+gambi	O
+di	O
+sedano	ING
+
+1	AMT
+dl	AMT
+d'	O
+olio	ING
+
+1	AMT
+cetriolo	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+farina	ING
+00	ING
+
+100	AMT
+gr	AMT
+di	O
+zucchero	ING
+
+125	AMT
+g	AMT
+di	O
+latte	ING
+intero	ING
+
+1	AMT
+kg	AMT
+di	O
+fave	ING
+secche	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+di	ING
+pangrattato	ING
+abbrustolito	ING
+
+3	AMT
+carciofi	ING
+.	O
+
+160	AMT
+g	AMT
+di	O
+burro	ING
+
+1	AMT
+ciuffo	AMT
+di	O
+barba	ING
+di	ING
+finocchio	ING
+
+60	AMT
+g	AMT
+di	O
+olive	ING
+nere	ING
+
+ciuffo	AMT
+di	O
+prezzemolo	ING
+tritato	O
+
+1/2	AMT
+litro	AMT
+abbondante	O
+di	O
+brodo	ING
+
+30	AMT
+g	AMT
+di	O
+mandorle	ING
+sgusciate	O
+
+200	AMT
+gr	AMT
+circa	O
+di	O
+zucchero	ING
+
+40	AMT
+g	AMT
+di	O
+burro	ING
+leggermente	O
+salato	O
+
+70	AMT
+g	AMT
+di	O
+parmigiano	ING
+
+80	AMT
+g	AMT
+di	O
+piselli	ING
+sgranati	ING
+
+1	AMT
+pallina	AMT
+di	O
+gelato	ING
+alla	ING
+panna	ING
+
+200	AMT
+g	AMT
+circa	O
+di	O
+filetto	ING
+di	ING
+maiale	ING
+
+350	AMT
+ml	AMT
+di	O
+latte	ING
+intero	ING
+
+1	AMT
+-	AMT
+2	AMT
+cucchiai	AMT
+d'	O
+aceto	ING
+bianco	ING
+
+200	AMT
+g	AMT
+di	O
+latte	ING
+condensato	ING
+zuccherato	ING
+
+2	AMT
+petti	ING
+d'	ING
+anatra	ING
+
+500	AMT
+g	AMT
+di	O
+confettura	ING
+di	ING
+albicocche	ING
+
+pepe	ING
+sarawak	ING
+
+150	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+200	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+
+qualche	O
+rondella	O
+di	O
+mela	ING
+secca	ING
+
+3	AMT
+cucchiaini	AMT
+di	O
+semi	ING
+di	ING
+finocchio	ING
+
+1	AMT
+cappone	ING
+
+250	AMT
+g	AMT
+di	O
+capelli	ING
+d'	ING
+angelo	ING
+
+300	AMT
+g	AMT
+di	O
+macinato	ING
+di	ING
+tacchino	ING
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+agnello	ING
+
+300	AMT
+g	AMT
+di	O
+pomodori	ING
+rossi	ING
+
+50	AMT
+g	AMT
+di	O
+pinoli	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+aceto	ING
+balsamico	ING
+tradizionale	ING
+
+250	AMT
+g	AMT
+di	O
+latte	ING
+
+1	AMT
+piccolo	O
+tartufo	ING
+bianco	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+olio	ING
+d'	ING
+oliva	ING
+
+100	AMT
+cl	AMT
+di	O
+passato	ING
+di	ING
+pomodoro	ING
+
+riso	ING
+soffiato	ING
+al	ING
+lampone	ING
+
+1	AMT
+kg	AMT
+e	AMT
+600	AMT
+g	AMT
+di	O
+arista	ING
+di	ING
+maiale	ING
+
+1	AMT
+l	AMT
+di	O
+besciamella	ING
+
+cetriolini	ING
+
+240	AMT
+g	AMT
+di	O
+paccheri	ING
+
+sale	ING
+grosso	O
+e	ING
+fino	ING
+
+200	AMT
+g	AMT
+di	O
+pisellini	ING
+
+1	AMT
+kg	AMT
+di	O
+baccalà	ING
+
+1	AMT
+tuorlo	ING
+
+1	AMT
+cipolla	ING
+e	O
+mezza	O
+
+300	AMT
+g	AMT
+di	O
+farro	ING
+essiccato	ING
+
+18	AMT
+mandorle	ING
+
+250	AMT
+g	AMT
+di	O
+borlotti	ING
+
+alchermes	ING
+
+osso	ING
+di	ING
+coda	ING
+
+un	AMT
+trancio	AMT
+di	O
+tonno	ING
+tagliato	O
+alto	O
+
+120	AMT
+g	AMT
+di	O
+burro	ING
+chiarificato	ING
+
+1	AMT
+melanzana	ING
+tonda	ING
+
+8	AMT
+fettine	AMT
+di	O
+pane	ING
+tostato	ING
+
+80	AMT
+g	AMT
+di	O
+groviera	ING
+grattugiata	O
+
+2	AMT
+dl	AMT
+di	O
+latte	ING
+di	ING
+mandorle	ING
+
+1/4	AMT
+fumetto	ING
+di	ING
+pesce	ING
+
+1	AMT
+fetta	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+3	AMT
+cespi	AMT
+di	O
+radicchio	ING
+
+2	AMT
+dl	AMT
+circa	O
+di	O
+latte	ING
+
+750	AMT
+ml	AMT
+di	O
+latte	ING
+fresco	O
+di	O
+alta	O
+qualità	O
+
+200	AMT
+g	AMT
+di	O
+pomidoro	ING
+datterini	ING
+pelati	ING
+
+succo	ING
+di	ING
+un'	O
+arancia	ING
+
+60	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+8	AMT
+g	AMT
+di	O
+lievito	ING
+
+200	AMT
+g	AMT
+di	O
+biscotti	ING
+tipo	ING
+digestive	ING
+
+erbe	ING
+aromatiche	ING
+qb	AMT
+
+sale	ING
+marino	ING
+comune	O
+
+bottarga	ING
+vergine	ING
+
+800	AMT
+g	AMT
+di	O
+latte	ING
+di	ING
+cocco	ING
+
+olio	ING
+di	ING
+oliva	ING
+extravergine	ING
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+lievito	ING
+
+3	AMT
+dl	AMT
+di	O
+brodo	ING
+di	ING
+pesce	ING
+
+250	AMT
+g	AMT
+di	O
+sfoglie	ING
+di	ING
+pasta	ING
+all'	ING
+uovo	ING
+
+15	AMT
+ml	AMT
+di	O
+succo	ING
+di	ING
+lime	ING
+fresco	O
+
+salsa	ING
+chirizu	ING
+
+12	AMT
+gamberi	ING
+
+150	AMT
+g	AMT
+di	O
+spinaci	ING
+freschi	O
+
+4	AMT
+-	AMT
+5	AMT
+cucchiai	AMT
+di	ING
+pesto	ING
+alla	ING
+genovese	ING
+
+12	AMT
+gamberi	ING
+sgusciati	O
+
+200	AMT
+g	AMT
+di	O
+burro	ING
+
+farina	ING
+00	O
+qb	AMT
+
+1500	AMT
+g	AMT
+di	O
+mozzarella	ING
+di	ING
+bufala	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+rosmarino	ING
+
+un	AMT
+mazzetto	AMT
+di	O
+timo	ING
+
+salsa	ING
+di	ING
+soia	ING
+e	O
+zenzero	O
+sott'	O
+aceto	O
+
+350	AMT
+g	AMT
+di	O
+pennette	ING
+lisce	ING
+
+1	AMT
+falda	O
+di	O
+peperone	ING
+rosso	ING
+
+250	AMT
+g	AMT
+di	O
+penne	ING
+sottili	O
+
+6	AMT
+cappelle	ING
+di	ING
+funghi	ING
+porcini	ING
+
+50	AMT
+g	AMT
+di	O
+farina	ING
+“	O
+00	ING
+
+16-	AMT
+20	AMT
+vongole	ING
+veraci	ING
+
+325	AMT
+g	AMT
+di	O
+farina	ING
+"	O
+00	O
+"	O
+
+caffè	ING
+
+500	AMT
+g	AMT
+di	O
+zucchine	ING
+
+1	AMT
+cucchiaino	AMT
+da	O
+caffè	O
+di	O
+curry	ING
+
+100	AMT
+g	AMT
+di	O
+olio	ING
+evo	ING
+
+1	AMT
+pizzico	AMT
+di	O
+zafferano	ING
+
+6	AMT
+limoni	ING
+
+10	AMT
+pomodori	ING
+secchi	ING
+sott'	ING
+olio	ING
+
+60	AMT
+g	AMT
+di	O
+uova	ING
+
+250	AMT
+g	AMT
+di	O
+funghi	ING
+pioppini	ING
+
+60	AMT
+g	AMT
+di	O
+zucchero	ING
+
+5	AMT
+-	AMT
+6	AMT
+capperi	ING
+sotto	ING
+sale	ING
+
+130	AMT
+g	AMT
+di	O
+burro	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+passata	ING
+di	ING
+pomodoro	ING
+
+40	AMT
+ml	AMT
+soda	ING
+
+scorza	O
+di	O
+2	AMT
+arance	ING
+
+400	AMT
+g	AMT
+di	O
+piselli	ING
+lessati	O
+
+lamponi	ING
+qb	AMT
+
+30	AMT
+g	AMT
+di	O
+grani	ING
+di	ING
+senape	ING
+gialla	ING
+
+6	AMT
+-	AMT
+7	AMT
+rami	ING
+di	ING
+tenerumi	ING
+
+20	AMT
+grandi	O
+capesante	ING
+
+60	AMT
+g	AMT
+di	O
+grana	ING
+grattugiato	O
+
+piselli	ING
+freschi	O
+
+1	AMT
+filetto	ING
+di	ING
+pescatrice	ING
+
+pomidoro	ING
+oblungo	ING
+
+3	AMT
+rametti	AMT
+di	O
+dragoncello	ING
+
+250	AMT
+g	AMT
+di	O
+ricotta	ING
+vaccina	ING
+
+1	AMT
+mango	ING
+maturo	O
+
+200	AMT
+g	AMT
+di	O
+tofu	ING
+
+7	AMT
+g	AMT
+di	O
+lievito	ING
+di	ING
+birra	ING
+secco	ING
+
+85	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+4/6	AMT
+pomodori	ING
+piccadilly	ING
+
+15	AMT
+foglie	AMT
+di	O
+basilico	ING
+
+3	AMT
+zucchine	ING
+grandi	O
+
+600	AMT
+g	AMT
+di	O
+seppioline	ING
+
+10	AMT
+g	AMT
+di	O
+colla	ING
+di	ING
+pesce	ING
+
+250	AMT
+g	AMT
+di	O
+cervella	ING
+di	ING
+vitello	ING
+
+250	AMT
+g	AMT
+frutti	ING
+di	ING
+bosco	ING
+
+due	AMT
+quarti	AMT
+di	O
+coniglio	ING
+
+1	AMT
+baguette	ING
+media	O
+
+un	AMT
+pizzico	AMT
+di	O
+farina	ING
+di	ING
+carrube	ING
+
+100	AMT
+g	AMT
+di	O
+scamorza	ING
+bianca	ING
+
+10	AMT
+g	AMT
+di	O
+basilico	ING
+fresco	O
+
+1	AMT
+carciofo	ING
+romano	ING
+
+1	AMT
+barbabietola	ING
+al	O
+vapore	O
+
+1	AMT
+panetto	AMT
+pasta	ING
+di	ING
+mandorle	ING
+
+250	AMT
+g	AMT
+di	O
+biscotti	ING
+scuri	O
+allo	ING
+zucchero	ING
+di	ING
+canna	ING
+tipo	ING
+“	O
+digestive	ING
+
+marmellata	ING
+di	ING
+fragole	ING
+
+200	AMT
+g	AMT
+di	O
+cavolo	ING
+cappuccio	ING
+
+2	AMT
+carote	ING
+baby	ING
+
+100	AMT
+g	AMT
+di	O
+cornflakes	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+di	O
+capperi	ING
+sotto	ING
+aceto	ING
+
+1	AMT
+l	AMT
+circa	O
+di	O
+brodo	ING
+
+1	AMT
+kg	AMT
+pancetta	ING
+stesa	O
+con	O
+pelle	O
+
+2	AMT
+-	AMT
+3	AMT
+salsicce	ING
+
+200	AMT
+-	AMT
+220	AMT
+g	AMT
+di	O
+brodo	ING
+vegetale	ING
+
+20	AMT
+ml	AMT
+di	O
+rum	ING
+scuro	ING
+
+100	AMT
+g	AMT
+di	O
+pecorino	ING
+grattugiato	O
+
+300	AMT
+g	AMT
+di	O
+finocchio	ING
+selvatico	ING
+
+semi	ING
+di	ING
+sesamo	ING
+bianco	ING
+e	ING
+nero	ING
+qb	AMT
+
+1	AMT
+cucchiaio	AMT
+di	O
+capperi	ING
+piccoli	O
+sott'	ING
+aceto	ING
+
+2	AMT
+kg	AMT
+d'	O
+arance	ING
+
+150	AMT
+g	AMT
+di	O
+toma	ING
+
+20	AMT
+g	AMT
+uova	ING
+tuorlo	ING
+
+70	AMT
+g	AMT
+zucchero	ING
+
+75	AMT
+g	AMT
+di	O
+farina	ING
+bianca	ING
+
+1	AMT
+dl	AMT
+di	O
+spumante	ING
+secco	ING
+
+cerfoglio	ING
+fresco	O
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+lievito	ING
+vanigliato	ING
+
+30	AMT
+mandorle	ING
+pelate	ING
+
+300	AMT
+g	AMT
+di	O
+mozzarella	ING
+fiordilatte	ING
+
+100/150	ING
+g	AMT
+di	O
+olive	ING
+nere	ING
+
+4	AMT
+cucchiaini	AMT
+di	O
+lievito	ING
+
+25	AMT
+g	AMT
+di	O
+filetti	ING
+di	ING
+acciuga	ING
+sott'	ING
+olio	ING
+
+2	AMT
+-	AMT
+3	AMT
+rametti	AMT
+di	O
+rosmarino	ING
+
+150	AMT
+g	AMT
+di	O
+torrone	ING
+
+10	AMT
+fettine	AMT
+sottili	O
+di	O
+prosciutto	ING
+cotto	ING
+
+650	AMT
+ml	AMT
+di	O
+brodo	ING
+vegetale	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+timo	ING
+
+50	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+350	AMT
+g	AMT
+di	O
+fave	ING
+fresche	O
+
+80	AMT
+g	AMT
+di	O
+burro	ING
+di	O
+buona	O
+qualità	O
+
+2	AMT
+dl	AMT
+di	O
+brodo	ING
+
+1	AMT
+filetto	ING
+di	ING
+maiale	ING
+
+1	AMT
+bustina	AMT
+di	O
+lievito	ING
+vanigliato	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+lievito	ING
+vanigliato	ING
+
+200	AMT
+g	AMT
+di	O
+rigaglie	ING
+di	ING
+pollo	ING
+
+2	AMT
+dl	AMT
+di	O
+aceto	ING
+
+acqua	ING
+
+130	AMT
+g	AMT
+di	O
+farina	ING
+gialla	ING
+
+10	AMT
+germogli	ING
+di	ING
+daikon	ING
+verde	ING
+
+chiodi	ING
+di	ING
+garofano	ING
+
+24	AMT
+champignon	ING
+piccoli	O
+
+100	AMT
+g	AMT
+di	O
+pistacchi	ING
+freschi	O
+
+4	AMT
+cucchiai	AMT
+di	O
+aceto	ING
+bianco	ING
+
+500	AMT
+g	AMT
+di	O
+baccalà	ING
+ammollato	ING
+
+1	AMT
+lingua	ING
+di	ING
+vitello	ING
+piccola	O
+
+salsa	ING
+di	ING
+senape	ING
+delicata	O
+
+1/5	ING
+di	O
+panna	ING
+.	O
+
+1	AMT
+litro	AMT
+di	O
+brodo	ING
+di	ING
+pollo	ING
+bollente	O
+
+1	AMT
+litro	AMT
+di	O
+brodo	ING
+di	ING
+pesce	ING
+
+300	AMT
+g	AMT
+di	O
+biscotti	ING
+tipo	ING
+digestive	ING
+
+2	AMT
+-	AMT
+3	AMT
+pomodori	ING
+
+1	AMT
+bicchiere	AMT
+di	O
+vino	ING
+
+2	AMT
+fette	AMT
+di	O
+prosciutto	ING
+crudo	ING
+dolce	ING
+
+3	AMT
+kiwi	ING
+
+225	AMT
+g	AMT
+di	O
+farina	ING
+
+180	AMT
+g	AMT
+di	O
+zucchero	ING
+
+80	AMT
+di	ING
+burro	ING
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+pepe	ING
+macinato	ING
+fresco	O
+
+250	AMT
+g	AMT
+farina	ING
+di	ING
+castagne	ING
+
+2	AMT
+bacche	ING
+di	ING
+mirto	ING
+
+1	AMT
+tartufo	ING
+nero	ING
+medio	ING
+o	O
+anche	O
+un	O
+tubetto	O
+di	O
+pasta	O
+tartufata	O
+
+5	AMT
+-	AMT
+6	AMT
+cucchiai	AMT
+d'	O
+acqua	ING
+ghiacciata	O
+
+50	AMT
+g	AMT
+di	O
+olio	ING
+di	ING
+cocco	ING
+
+1	AMT
+g	AMT
+di	O
+noce	ING
+moscata	ING
+
+400	AMT
+ml	AMT
+di	O
+aceto	ING
+di	ING
+mele	ING
+
+700	AMT
+g	AMT
+di	O
+farina	ING
+tipo	ING
+2	ING
+
+20	AMT
+g	AMT
+di	O
+acciughe	ING
+
+olive	ING
+verdi	ING
+molto	O
+aromatiche	O
+
+1	AMT
+dl	AMT
+di	O
+olio	ING
+extravergine	ING
+di	ING
+oliva	ING
+
+1	AMT
+scatola	ING
+di	O
+piselli	ING
+fini	O
+
+3	AMT
+cucchiai	AMT
+di	O
+prezzemolo	ING
+
+essenza	ING
+di	ING
+gelsomino	ING
+
+marmellata	ING
+qb	AMT
+
+1	AMT
+cucchiaio	AMT
+di	O
+cacao	ING
+
+90	AMT
+g	AMT
+di	O
+pangrattato	ING
+
+1	AMT
+fungo	ING
+porcino	ING
+grande	O
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+cumino	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+rum	ING
+.	O
+
+200	AMT
+g	AMT
+di	O
+mandorle	ING
+
+200	AMT
+g	AMT
+di	O
+pomodori	ING
+datterini	ING
+
+1	AMT
+zucca	ING
+delica	O
+media	O
+
+400	AMT
+g	AMT
+di	O
+tortellini	ING
+
+4	AMT
+dl	AMT
+di	O
+panna	ING
+fresca	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+buccia	O
+grattugiata	O
+di	O
+limone	ING
+
+1	AMT
+porcino	ING
+di	O
+media	O
+grandezza	O
+
+100	AMT
+g	AMT
+di	O
+ricotta	ING
+fresca	ING
+
+1	AMT
+bicchierino	AMT
+di	O
+rum	ING
+bianco	ING
+
+1	AMT
+bicchiere	AMT
+colmo	O
+di	O
+riso	ING
+basmati	ING
+
+30	AMT
+g	AMT
+farina	ING
+di	ING
+tapioca	ING
+
+120	AMT
+g	AMT
+di	O
+fagiolini	ING
+
+10	AMT
+sfoglie	ING
+di	ING
+pasta	ING
+all'	ING
+uovo	ING
+
+50	AMT
+grammi	AMT
+di	O
+pancetta	ING
+
+150	AMT
+g	AMT
+di	O
+vitello	ING
+tritato	O
+
+15	AMT
+g	AMT
+di	O
+gelatina	ING
+
+150	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mandorle	ING
+
+zucchero	ING
+
+50	AMT
+g	AMT
+di	O
+mandorle	ING
+dolci	ING
+
+200	AMT
+g	AMT
+di	O
+mais	ING
+
+700	AMT
+g	AMT
+merluzzo	ING
+dissalato	ING
+
+150	AMT
+g	AMT
+di	O
+tuorlo	ING
+
+1	AMT
+bicchiere	AMT
+di	O
+aceto	ING
+di	ING
+vino	ING
+
+150	AMT
+ml	AMT
+di	O
+panna	ING
+liquida	ING
+
+150	AMT
+g	AMT
+di	O
+canditi	ING
+
+50	AMT
+g	AMT
+di	O
+burro	ING
+
+150	AMT
+ml	AMT
+di	O
+latte	ING
+fresco	O
+
+cannella	ING
+
+500	AMT
+kg	AMT
+pulito	O
+
+130	AMT
+gr	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+
+la	O
+scorza	O
+di	O
+1/2	AMT
+limone	ING
+
+cetrioli	ING
+
+la	O
+scorza	O
+grattugiata	O
+di	O
+1	AMT
+arancia	ING
+
+120	AMT
+g	AMT
+di	O
+burro	ING
+
+aceto	ING
+balsamico	ING
+dop	ING
+
+2	AMT
+barbabietole	ING
+rosse	ING
+cotte	ING
+
+2	AMT
+limoni	ING
+piccoli	O
+
+24	AMT
+filetti	ING
+d'	ING
+acciuga	ING
+sott'	ING
+olio	ING
+
+1	AMT
+bicchierino	AMT
+di	O
+vin	ING
+santo	ING
+secco	ING
+
+10	AMT
+g	AMT
+di	O
+bicarbonato	ING
+
+300	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+500	AMT
+g	AMT
+di	O
+lasagne	ING
+di	ING
+semola	ING
+di	ING
+grano	ING
+duro	ING
+
+600	AMT
+g	AMT
+di	O
+calamari	ING
+
+1	AMT
+kg	AMT
+di	O
+pane	ING
+bianco	ING
+tipo	ING
+francese	ING
+
+250	AMT
+g	AMT
+di	O
+animelle	ING
+
+capperi	ING
+piccoli	O
+
+timo	ING
+e	ING
+alloro	ING
+tritati	O
+
+1	AMT
+punta	ING
+di	ING
+cucchiaino	AMT
+di	ING
+bicarbonato	ING
+
+130	AMT
+g	AMT
+di	O
+gherigli	O
+di	O
+noci	ING
+
+15	AMT
+g	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+integrale	ING
+
+160	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+spalmabile	ING
+
+120	AMT
+gr	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+semi	ING
+di	ING
+senape	ING
+
+250	AMT
+g	AMT
+di	O
+pasta	ING
+
+1/2	AMT
+pera	ING
+
+lucidante	ING
+
+caramelle	ING
+dure	ING
+al	O
+limone	O
+e	O
+all'	O
+arancia	O
+
+8	AMT
+-	AMT
+10	AMT
+fette	AMT
+di	O
+scamorza	ING
+affumicata	ING
+
+80	AMT
+g	AMT
+di	O
+lardo	ING
+
+650	AMT
+g	AMT
+di	O
+farina	ING
+00	ING
+
+4	AMT
+cucchiaini	AMT
+di	O
+farro	ING
+soffiato	ING
+
+250	AMT
+g	AMT
+di	O
+lombo	ING
+di	ING
+maiale	ING
+macinato	ING
+
+il	O
+succo	ING
+di	ING
+1	AMT
+limone	ING
+filtrato	O
+
+farina	ING
+bianca	ING
+
+5	AMT
+-	AMT
+6	AMT
+cucchiai	AMT
+di	O
+farina	ING
+di	ING
+mandorle	ING
+
+250	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+grano	ING
+tenero	ING
+
+1	AMT
+presa	AMT
+di	O
+paprika	ING
+
+cioccolato	ING
+fondente	ING
+qb	AMT
+
+1/2	AMT
+l	AMT
+di	O
+grappa	ING
+bianca	ING
+
+75	AMT
+ml	AMT
+di	O
+latte	ING
+
+foglioline	O
+di	O
+menta	ING
+fresca	ING
+
+240	AMT
+g	AMT
+di	O
+penne	ING
+
+2	AMT
+-	AMT
+3	AMT
+cucchiaini	AMT
+di	O
+cannella	ING
+
+22	AMT
+dg	AMT
+di	O
+agar	ING
+agar	IO
+
+400	AMT
+g	AMT
+di	O
+crema	ING
+pasticciera	ING
+
+3/4	AMT
+di	O
+brodo	ING
+di	ING
+pollo	ING
+
+10	AMT
+g	AMT
+di	O
+gelatina	ING
+
+1	AMT
+kg	AMT
+di	O
+lonza	ING
+di	ING
+maiale	ING
+
+100	AMT
+g	AMT
+di	O
+mandorle	ING
+amare	ING
+
+150	AMT
+g	AMT
+di	O
+semolino	ING
+
+100	AMT
+g	AMT
+di	O
+pistacchi	ING
+di	ING
+bronte	ING
+
+more	ING
+qb	AMT
+
+1	AMT
+pompelmo	ING
+giallo	ING
+e	O
+1	O
+pompelmo	O
+rosa	O
+
+500	AMT
+gr	AMT
+di	O
+farina	ING
+di	ING
+grano	ING
+duro	ING
+
+50	AMT
+g	AMT
+di	O
+burro	ING
+freddo	O
+
+pane	ING
+cotto	ING
+a	ING
+legna	ING
+raffermo	O
+tagliato	O
+
+70	AMT
+g	AMT
+di	O
+farina	ING
+integrale	ING
+
+125	AMT
+g	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+40	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+ceci	ING
+circa	ING
+
+250	AMT
+g	AMT
+di	O
+tonno	ING
+sott'	ING
+olio	ING
+.	O
+
+1	AMT
+bicchierino	AMT
+di	O
+vino	ING
+porto	ING
+
+il	O
+succo	ING
+e	O
+la	O
+scorza	O
+di	ING
+1	O
+limone	ING
+
+150	AMT
+g	AMT
+di	O
+castagne	ING
+lessate	O
+
+200	AMT
+g	AMT
+di	O
+cipolle	ING
+bianche	ING
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+san	ING
+pietro	ING
+
+150	AMT
+g	AMT
+di	O
+olive	ING
+verdi	ING
+piccole	O
+
+2	AMT
+rotoli	AMT
+di	O
+pasta	ING
+sfoglia	ING
+rettangolari	O
+
+120	AMT
+g	AMT
+di	O
+pancarrè	ING
+o	O
+pane	O
+da	O
+tramezzini	O
+
+4	AMT
+g	AMT
+di	O
+lievito	ING
+di	ING
+birra	ING
+secco	ING
+
+1	AMT
+l	AMT
+di	O
+yogurt	ING
+
+acciughe	ING
+sott'	ING
+olio	ING
+
+3	AMT
+carciofi	ING
+moretti	ING
+
+100	AMT
+g	AMT
+di	O
+asparagi	ING
+di	ING
+mare	ING
+o	O
+salicornia	O
+
+1/2	AMT
+vasetto	AMT
+di	O
+carne	ING
+di	ING
+coniglio	ING
+liofilizzata	ING
+o	O
+omogeneizzata	O
+
+50	AMT
+g	AMT
+di	O
+uvette	ING
+
+porto	ING
+ruby	ING
+
+1	AMT
+piccola	O
+anguria	ING
+
+25	AMT
+g	AMT
+di	O
+croccante	ING
+
+150	AMT
+g	AMT
+di	O
+licoli	ING
+
+vermouth	ING
+
+una	ING
+confezione	AMT
+di	O
+pasta	ING
+sfoglia	ING
+
+250	AMT
+g	AMT
+di	O
+fagiolini	ING
+puliti	O
+
+4	AMT
+patate	ING
+medie	O
+possibilmente	O
+della	O
+stessa	O
+misura	O
+
+100	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+al	ING
+70	ING
+%	ING
+
+2	AMT
+cucchiai	AMT
+d'	O
+acqua	ING
+d'	ING
+arancia	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+"	O
+00	ING
+"	O
+
+zafferano	ING
+
+300	AMT
+g	AMT
+di	O
+scamorza	ING
+affumicata	ING
+
+200	AMT
+kg	AMT
+di	O
+zucchine	ING
+
+1	AMT
+parte	AMT
+di	O
+farina	ING
+di	ING
+grano	ING
+tenero	O
+00	O
+
+70	AMT
+-	AMT
+80	AMT
+g	AMT
+di	O
+grana	ING
+padano	ING
+grattugiato	O
+
+12	AMT
+uova	ING
+di	ING
+quaglia	ING
+.	
+
+1	AMT
+bicchiere	AMT
+di	O
+alchermes	ING
+
+4	AMT
+mele	ING
+renette	ING
+
+bottarga	ING
+intera	O
+
+6	AMT
+olive	ING
+nere	ING
+snocciolate	ING
+
+500	AMT
+g	AMT
+di	O
+besciamella	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+orzo	ING
+perlato	ING
+
+350	AMT
+g	AMT
+di	O
+piselli	ING
+freschi	O
+sgranati	ING
+
+250	AMT
+g	AMT
+di	O
+ricotta	ING
+di	ING
+mucca	ING
+
+olive	ING
+nere	ING
+snocciolate	ING
+
+pepe	ING
+bianco	ING
+di	ING
+sarawak	ING
+
+il	O
+succo	ING
+di	ING
+una	AMT
+arancia	ING
+
+7	AMT
+g	AMT
+di	O
+gelatina	ING
+
+60	AMT
+g	AMT
+di	O
+mollica	ING
+di	ING
+pane	ING
+raffermo	ING
+
+filetti	ING
+di	ING
+peperone	ING
+
+230	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+banane	ING
+molto	O
+mature	O
+
+1	AMT
+cestello	AMT
+di	O
+fragole	ING
+
+50	AMT
+gdi	AMT
+mollica	ING
+sbriciolata	O
+di	ING
+pane	ING
+morbido	O
+
+100	AMT
+g	AMT
+di	O
+uova	ING
+
+320	AMT
+g	AMT
+di	O
+pasta	ING
+frolla	ING
+pronta	O
+
+foglie	AMT
+di	O
+lattuga	ING
+cappuccio	ING
+.	O
+
+2	AMT
+-	AMT
+3	AMT
+fette	AMT
+di	O
+pane	ING
+casareccio	ING
+
+coda	ING
+di	ING
+rospo	ING
+
+2	AMT
+filetti	ING
+d'	ING
+acciuga	ING
+sott'	ING
+olio	ING
+
+300	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+tritato	O
+finemente	O
+
+120	AMT
+g	AMT
+di	O
+burro	ING
+fuso	O
+
+3	AMT
+vasetti	ING
+di	O
+yogurt	ING
+bianco	ING
+intero	ING
+
+50	AMT
+g	AMT
+di	O
+olio	ING
+d'	ING
+oliva	ING
+
+giallo	ING
+
+1/2	AMT
+busta	AMT
+di	O
+cremor	ING
+tartaro	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+aceto	ING
+rosso	ING
+o	O
+di	O
+vino	O
+
+80	AMT
+g	AMT
+di	O
+caciotta	ING
+
+1	AMT
+cipollotto	ING
+di	ING
+tropea	ING
+
+300	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+pomodoro	ING
+priva	O
+di	O
+bucce	O
+e	O
+semi	O
+
+1	AMT
+kg	AMT
+di	O
+friarielli	ING
+
+390	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+
+300	AMT
+g	AMT
+di	O
+carne	ING
+tritata	O
+di	ING
+manzo	ING
+
+noodles	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+miele	ING
+di	ING
+castagno	ING
+
+300	AMT
+g	AMT
+di	O
+lenticchie	ING
+rosse	ING
+
+200	AMT
+gr	AMT
+di	O
+pecorino	ING
+romano	ING
+grattugiato	O
+
+3	AMT
+uovaa	ING
+temperatura	O
+ambiente	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+farina	ING
+di	ING
+carruba	ING
+
+1	AMT
+cipolla	ING
+rosata	ING
+di	O
+pezzatura	O
+normale	O
+
+di	O
+zucchero	ING
+
+mozzarelline	ING
+
+500	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+spalmabile	ING
+
+sale	ING
+e	ING
+pepe	ING
+
+150	AMT
+g	AMT
+di	O
+bulgur	ING
+
+250	AMT
+g	AMT
+di	O
+tagliatelle	ING
+all'	ING
+uovo	ING
+
+6	AMT
+cucchiai	AMT
+di	O
+nutella	ING
+
+300	AMT
+g	AMT
+di	O
+farro	ING
+
+300	AMT
+g	AMT
+di	O
+spaghettini	ING
+finissimi	O
+
+130	AMT
+g	AMT
+d'	O
+olio	ING
+
+4	AMT
+zucchine	ING
+medie	O
+
+4	AMT
+fette	AMT
+di	O
+pane	ING
+di	ING
+altamura	ING
+
+300	AMT
+g	AMT
+di	O
+seppie	ING
+piccole	O
+
+150	AMT
+g	AMT
+circa	O
+di	O
+farina	ING
+
+8	AMT
+spiedini	ING
+di	ING
+rosmarino	ING
+
+100	AMT
+g	AMT
+d'	O
+insalata	ING
+sarset	ING
+
+agar	ING
+-	ING
+agar	ING
+
+peperoni	ING
+
+12	AMT
+fogli	ING
+di	O
+lasagne	ING
+all'	ING
+uovo	ING
+secche	ING
+
+cipolla	ING
+dorata	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+cointreau	ING
+e	O
+/	O
+o	O
+1/2	O
+bicchiere	O
+di	O
+cognac	O
+
+pezzettini	O
+di	O
+cioccolato	ING
+
+3	AMT
+dl	AMT
+d'	O
+acqua	ING
+bollente	O
+
+450	AMT
+g	AMT
+di	O
+farina	ING
+"	O
+00	ING
+"	O
+
+4	AMT
+pere	ING
+kaiser	ING
+
+60	AMT
+g	AMT
+di	O
+noci	ING
+di	ING
+macadamia	ING
+spezzettate	O
+
+200	AMT
+g	AMT
+di	O
+punte	O
+d'	O
+asparagi	ING
+lessate	O
+
+300	AMT
+g	AMT
+di	O
+pomodori	ING
+pizzutello	ING
+
+2	AMT
+cotenne	ING
+di	ING
+maiale	ING
+
+5	AMT
+cucchiai	AMT
+di	O
+yogurt	ING
+bianco	ING
+
+1/2	AMT
+litro	AMT
+d'	O
+aceto	ING
+
+1	AMT
+pezzetto	AMT
+di	O
+zenzero	ING
+
+20	AMT
+g	AMT
+di	O
+olio	ING
+extravergine	ING
+di	ING
+oliva	ING
+
+1/2	AMT
+kg	AMT
+di	O
+pasta	ING
+brioche	ING
+
+50	AMT
+g	AMT
+di	O
+olive	ING
+nere	ING
+
+40	AMT
+g	AMT
+di	O
+funghi	ING
+porcini	ING
+secchi	ING
+
+150	AMT
+g	AMT
+di	O
+scamorza	ING
+dolce	ING
+
+il	O
+succo	ING
+di	O
+1/2	AMT
+limone	ING
+
+8	AMT
+fette	AMT
+di	O
+pane	ING
+ai	ING
+cereali	ING
+
+30	AMT
+g	AMT
+di	O
+mandorle	ING
+
+800	AMT
+g	AMT
+di	O
+scamorza	ING
+
+erba	ING
+cipollina	ING
+secca	ING
+
+1	AMT
+cestino	AMT
+di	O
+mirtilli	ING
+
+4	AMT
+-	AMT
+5	AMT
+tuorli	ING
+
+1/2	AMT
+litro	AMT
+di	O
+vino	ING
+bianco	ING
+dolce	ING
+
+150	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+di	O
+copertura	O
+
+40	AMT
+g	AMT
+di	O
+prosciutto	ING
+di	ING
+parma	ING
+dolce	ING
+di	O
+ottima	O
+qualità	O
+
+2	AMT
+cucchiai	AMT
+succo	ING
+di	ING
+limone	ING
+
+2	AMT
+pan	ING
+di	ING
+spagna	ING
+pronti	O
+da	O
+18	O
+cm	O
+
+6	AMT
+marron	ING
+glacé	ING
+
+12	AMT
+pomodorini	ING
+
+1/2	AMT
+kg	AMT
+di	O
+farina	ING
+di	ING
+castagne	ING
+
+500	AMT
+g	AMT
+di	O
+insalatina	ING
+trevigiana	ING
+
+300	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+
+80	AMT
+g	AMT
+di	O
+pistacchi	ING
+freschi	O
+
+due	AMT
+cucchiai	AMT
+di	O
+miele	ING
+d'	ING
+acacia	ING
+
+la	O
+scorza	O
+grattugiata	O
+di	O
+1/2	AMT
+limone	ING
+
+1	AMT
+zucchina	ING
+piccola	O
+
+1/2	AMT
+bicchiere	AMT
+di	O
+marsala	ING
+
+albume	ING
+
+2	AMT
+dl	AMT
+di	O
+panna	ING
+fresca	ING
+da	O
+montare	O
+
+1/2	AMT
+dose	AMT
+crema	ING
+al	ING
+limone	ING
+
+85	AMT
+g	AMT
+di	O
+panna	ING
+fresca	ING
+
+90	AMT
+g	AMT
+di	O
+burro	ING
+
+aceto	ING
+di	ING
+mele	ING
+
+200	AMT
+g	AMT
+di	O
+panna	ING
+montata	O
+
+2	AMT
+bustine	AMT
+di	O
+zafferano	ING
+
+420	AMT
+g	AMT
+di	O
+acqua	ING
+minerale	ING
+frizzante	ING
+
+1	AMT
+peperone	ING
+rosso	ING
+arrosto	O
+
+1/2	AMT
+spicchiod'	O
+aglio	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+pepe	ING
+nero	ING
+
+miele	ING
+o	O
+gelatina	O
+
+30	AMT
+g	AMT
+di	O
+farina	ING
+00	ING
+
+150	AMT
+g	AMT
+di	O
+pisellini	ING
+freschi	O
+o	ING
+surgelati	ING
+
+2	AMT
+petti	ING
+di	ING
+pollo	ING
+tagliati	O
+
+40	AMT
+gr	AMT
+di	O
+farina	ING
+00	ING
+
+50	AMT
+g	AMT
+di	O
+porto	ING
+
+3/4	ING
+di	O
+brodo	ING
+vegetale	ING
+
+80	AMT
+gr	AMT
+di	O
+burro	ING
+morbido	O
+
+1	AMT
+kg	AMT
+di	O
+spezzatino	ING
+di	ING
+agnello	ING
+
+30	AMT
+g	AMT
+di	O
+buccia	O
+d'	O
+arancia	ING
+candita	ING
+tritata	O
+
+200	AMT
+g	AMT
+di	O
+meringhe	ING
+
+grattugiato	O
+
+50	AMT
+gr	AMT
+di	O
+acqua	ING
+
+4	AMT
+cm	AMT
+di	O
+radice	ING
+di	ING
+zenzero	ING
+grattugiata	O
+
+40	AMT
+g	AMT
+di	O
+stracchino	ING
+
+300	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+banana	ING
+matura	O
+
+yogurt	ING
+intero	ING
+naturale	ING
+100	AMT
+g	AMT
+
+200	AMT
+g	AMT
+di	O
+olive	ING
+nere	ING
+denocciolate	O
+
+40	AMT
+g	AMT
+di	O
+uvetta	ING
+
+35	AMT
+g	AMT
+di	O
+cacao	ING
+amaro	ING
+
+250	AMT
+g	AMT
+di	O
+fior	ING
+di	ING
+latte	ING
+
+260	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+extra	ING
+emilia	O
+
+6	AMT
+patate	ING
+viola	ING
+
+16	AMT
+olive	ING
+nere	ING
+
+300	AMT
+g	AMT
+di	O
+vitello	ING
+tritato	O
+
+qualche	AMT
+cappero	ING
+dissalato	ING
+
+poco	O
+brodo	ING
+di	ING
+carne	ING
+
+salty	ING
+fingers	ING
+koppert	ING
+cress	ING
+
+75	AMT
+g	AMT
+di	O
+latte	ING
+
+4	AMT
+pomodorini	ING
+ciliegini	ING
+
+patate	ING
+lessate	O
+
+1	AMT
+bicchiere	AMT
+di	O
+birra	ING
+scura	ING
+
+50	AMT
+g	AMT
+di	O
+pomodori	ING
+
+150	AMT
+g	AMT
+di	O
+marmellata	ING
+di	ING
+lamponi	ING
+
+1	AMT
+cipollina	ING
+sott'	ING
+aceto	ING
+
+80	AMT
+g	AMT
+di	O
+riso	ING
+o	O
+pasta	O
+corta	O
+
+120	AMT
+g	AMT
+di	O
+pancetta	ING
+
+100	AMT
+g	AMT
+di	O
+pinoli	ING
+.	O
+
+3	AMT
+-	AMT
+4	AMT
+rametti	AMT
+di	O
+maggiorana	ING
+
+grand	ING
+marnier	ING
+
+4	AMT
+-	AMT
+5	AMT
+cucchiai	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+1	AMT
+sedano	ING
+sardo	ING
+
+280	AMT
+g	AMT
+di	O
+tagliolini	ING
+
+6	AMT
+patate	ING
+grandi	O
+
+grani	ING
+di	ING
+pepe	ING
+
+30	AMT
+g	AMT
+di	O
+miele	ING
+fluido	O
+
+1	AMT
+cespo	AMT
+d'	O
+indivia	ING
+
+100	AMT
+g	AMT
+di	O
+speck	ING
+
+12	AMT
+fette	AMT
+di	O
+lardo	ING
+
+malto	ING
+
+menta	ING
+fresca	ING
+qb	AMT
+
+750	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+tipo	ING
+philadelphia	ING
+
+cacao	ING
+amaro	ING
+
+350	AMT
+g	AMT
+di	O
+ricotta	ING
+romana	ING
+
+120	AMT
+ml	AMT
+di	O
+panna	ING
+fresca	ING
+
+200	AMT
+gr	AMT
+di	O
+cioccolato	ING
+fondente	ING
+al	ING
+75	ING
+%	ING
+
+100	AMT
+g	AMT
+di	O
+caciotta	ING
+stagionata	O
+
+1	AMT
+ciuffo	AMT
+diprezzemolo	O
+
+315	AMT
+g	AMT
+di	O
+zucchero	ING
+
+30	AMT
+g	AMT
+d'	O
+arancia	ING
+candita	ING
+
+150	AMT
+g	AMT
+di	O
+stracciatella	ING
+freschissima	O
+
+1	AMT
+zucchino	ING
+fresco	O
+
+400	AMT
+g	AMT
+di	O
+totanetti	ING
+
+50	AMT
+g	AMT
+di	O
+confettura	ING
+di	ING
+albicocche	ING
+
+900	AMT
+g	AMT
+di	O
+verza	ING
+
+farina	ING
+o	O
+pangrattato	O
+
+125	AMT
+g	AMT
+farina	ING
+00	O
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+d'	O
+acqua	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+granella	ING
+di	ING
+nocciole	ING
+o	O
+di	O
+noci	O
+tritate	O
+
+6	AMT
+cl	AMT
+di	O
+olio	ING
+di	ING
+arachide	ING
+
+185	AMT
+g	AMT
+di	O
+mandorle	ING
+spellate	ING
+
+1fetta	O
+di	O
+pane	ING
+.	O
+
+300	AMT
+g	AMT
+di	O
+pomodori	ING
+freschi	O
+rossi	ING
+e	O
+sodi	O
+da	O
+sugo	O
+
+400	AMT
+g	AMT
+di	O
+cavolfiore	ING
+cotto	O
+al	O
+vapore	O
+
+400	AMT
+g	AMT
+di	O
+pelati	ING
+
+ricci	ING
+
+cannellini	ING
+
+200	AMT
+ml	AMT
+di	O
+vino	ING
+bianco	ING
+della	O
+valle	O
+isarco	O
+
+300	AMT
+g	AMT
+di	O
+patate	ING
+
+3/10	ING
+rum	ING
+bianco	ING
+
+scorza	O
+grattugiata	O
+di	O
+limone	ING
+
+40	AMT
+gr	AMT
+parmigiano	ING
+reggiano	ING
+
+150	AMT
+g	AMT
+di	O
+uva	ING
+pizzutella	ING
+
+1	AMT
+-	AMT
+2	AMT
+cucchiai	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+
+100	AMT
+g	AMT
+di	O
+insalate	ING
+miste	ING
+
+500	AMT
+ml	AMT
+di	O
+latte	ING
+di	ING
+soia	ING
+
+150	AMT
+g	AMT
+soia	ING
+edamame	ING
+
+75	AMT
+gr	AMT
+zucchero	ING
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+cipolle	ING
+di	ING
+cannara	ING
+
+80	AMT
+g	AMT
+di	O
+mandorle	ING
+
+300	AMT
+g	AMT
+di	O
+calamaretti	ING
+
+200	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+300	AMT
+g	AMT
+di	O
+filetti	ING
+di	ING
+halibut	ING
+
+1	AMT
+pizzico	AMT
+di	O
+cannella	ING
+
+60	AMT
+g	AMT
+di	O
+albumi	ING
+
+4	AMT
+fette	AMT
+di	O
+pollo	ING
+spesse	O
+
+200	AMT
+g	AMT
+di	O
+tortellini	ING
+freschi	O
+di	ING
+carne	ING
+
+1/4	AMT
+l	AMT
+d'	O
+acqua	ING
+
+50	AMT
+g	AMT
+di	O
+datteri	ING
+
+100	AMT
+g	AMT
+di	O
+formaggio	ING
+
+280	AMT
+g	AMT
+di	O
+zucchine	ING
+
+8	AMT
+filetti	ING
+di	ING
+sgombro	ING
+
+120	AMT
+g	AMT
+di	O
+filetto	ING
+di	ING
+pesce	ING
+.	O
+
+cocco	ING
+rapé	ING
+
+sciroppo	ING
+d'	ING
+acero	ING
+
+scorza	O
+grattugiata	O
+e	O
+succo	ING
+di	ING
+1	AMT
+lime	ING
+
+50	AMT
+g	AMT
+di	O
+formaggio	ING
+tipo	ING
+grana	ING
+
+40	AMT
+g	AMT
+di	O
+mandorle	ING
+
+600	AMT
+g	AMT
+pasta	ING
+frolla	ING
+
+1	AMT
+costa	AMT
+di	O
+sedano	ING
+tritato	O
+
+1	AMT
+mazzetto	AMT
+odoroso	ING
+
+400	AMT
+g	AMT
+di	O
+fagioli	ING
+borlotti	ING
+lessati	O
+
+200	AMT
+g	AMT
+di	O
+prosciutto	ING
+di	ING
+parma	ING
+
+4	AMT
+arance	ING
+
+4	AMT
+totani	ING
+piccoli	O
+
+3	AMT
+tuorli	ING
+d'	ING
+uovo	ING
+freschissimi	O
+
+100	AMT
+g	AMT
+di	O
+latte	ING
+condensato	ING
+nestlé	ING
+
+1	AMT
+l	AMT
+di	O
+panna	ING
+liquida	ING
+
+pane	ING
+tostato	ING
+
+50	AMT
+g	AMT
+di	O
+semi	ING
+di	ING
+sesamo	ING
+
+40	AMT
+g	AMT
+di	O
+scalogno	ING
+
+4	AMT
+falde	AMT
+di	O
+pomodori	ING
+secchi	ING
+sott'	ING
+olio	ING
+
+4	AMT
+fette	AMT
+di	O
+pane	ING
+casereccio	ING
+spesse	O
+1	O
+cm	O
+circa	O
+
+200	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+farro	ING
+
+100	AMT
+g	AMT
+di	O
+grasso	ING
+di	ING
+prosciutto	ING
+o	O
+di	O
+lardo	O
+
+4	AMT
+lasagne	ING
+di	ING
+farro	ING
+
+liquore	ING
+dolce	ING
+
+40	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+grattugiato	O
+
+200	AMT
+g	AMT
+di	O
+cipolle	ING
+bionde	ING
+o	O
+bianche	O
+
+1	AMT
+kg	AMT
+di	O
+zucchero	ING
+
+150	AMT
+g	AMT
+di	O
+bacon	ING
+
+lardo	ING
+poco	O
+stagionato	O
+
+4	AMT
+g	AMT
+erbe	ING
+aromatiche	ING
+
+1	AMT
+panettone	ING
+da	O
+1	O
+kg	O
+
+foglie	AMT
+d'	O
+insalata	ING
+riccia	ING
+
+20	AMT
+ml	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+leggero	O
+
+220	AMT
+ml	AMT
+di	O
+latte	ING
+di	ING
+cocco	ING
+
+1	AMT
+litro	AMT
+di	O
+latte	ING
+fresco	O
+
+2	AMT
+cucchiai	AMT
+di	O
+marmellata	ING
+all'	ING
+arancia	ING
+
+400	AMT
+g	AMT
+di	O
+petto	ING
+di	ING
+pollo	ING
+
+2	AMT
+caprini	ING
+
+150	AMT
+g	AMT
+di	O
+nocciole	ING
+
+1	AMT
+pizzico	AMT
+di	O
+zucchero	ING
+
+320	AMT
+g	AMT
+di	O
+riso	ING
+
+1	AMT
+l	AMT
+di	O
+brodo	ING
+di	ING
+pollo	ING
+
+12	AMT
+totani	ING
+o	O
+calamari	O
+medi	O
+
+35	AMT
+cl	AMT
+di	O
+latte	ING
+
+100	AMT
+g	AMT
+di	O
+maniche	ING
+di	ING
+frate	ING
+
+farina	ING
+o	O
+pangrattato	O
+
+erbe	ING
+di	ING
+provenza	ING
+essiccate	O
+
+1	AMT
+scatoletta	AMT
+di	O
+tonno	ING
+da	O
+160	O
+g	O
+
+olio	ING
+di	ING
+semi	ING
+di	ING
+arachide	ING
+di	O
+
+1	AMT
+piccola	O
+tazza	AMT
+di	ING
+maionese	ING
+pronta	O
+
+80	AMT
+g	AMT
+di	O
+olive	ING
+nere	ING
+denocciolate	O
+
+500	AMT
+g	AMT
+di	O
+piattoni	ING
+
+400	AMT
+g	AMT
+di	O
+salsiccia	ING
+sarda	ING
+
+50	AMT
+g	AMT
+di	O
+sale	ING
+grosso	O
+
+15	AMT
+pomodori	ING
+tipo	ING
+fiaschetta	ING
+
+cetriolo	ING
+
+1	AMT
+g	AMT
+di	O
+vaniglia	ING
+
+270	AMT
+g	AMT
+di	O
+farina	ING
+tipo	ING
+0	ING
+
+2	AMT
+manghi	ING
+
+acqua	ING
+o	O
+liquore	O
+qb	AMT
+
+250	AMT
+g	AMT
+di	O
+farina	ING
+0	ING
+
+4	AMT
+filetti	ING
+di	ING
+branzino	ING
+diliscati	ING
+
+qualche	AMT
+goccia	AMT
+di	O
+latte	ING
+
+2	AMT
+mele	ING
+pinova	ING
+
+ananas	ING
+
+10	AMT
+caramelle	ING
+alla	ING
+liquirizia	ING
+
+5	AMT
+foglie	AMT
+di	O
+basilico	ING
+
+24	AMT
+rigatoni	ING
+gerardo	O
+di	O
+nola	O
+
+250	AMT
+g	AMT
+di	O
+maccheroncini	ING
+rigati	ING
+
+150	AMT
+gr	AMT
+di	O
+zucchero	ING
+
+100	AMT
+g	AMT
+di	O
+ricotta	ING
+di	ING
+bufala	ING
+
+2	AMT
+pomodori	ING
+grandi	O
+
+1	AMT
+cucchiaino	AMT
+di	O
+semi	ING
+di	ING
+papavero	ING
+
+75	AMT
+g	AMT
+di	O
+miele	ING
+
+120	AMT
+g	AMT
+di	O
+mandorle	ING
+pelate	ING
+
+400	AMT
+g	AMT
+di	O
+brodo	ING
+
+1	AMT
+albume	ING
+.	O
+
+400	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+pesce	ING
+bianco	ING
+
+60	AMT
+g	AMT
+olio	ING
+d'	ING
+oliva	ING
+extra	ING
+vergine	ING
+
+30	AMT
+quadrati	O
+di	O
+10	O
+cm	O
+di	O
+pasta	ING
+all'	ING
+uovo	ING
+
+1	AMT
+kg	AMT
+e	AMT
+300	AMT
+g	AMT
+di	O
+sale	ING
+grosso	O
+
+1	AMT
+bicchiere	AMT
+di	O
+aceto	ING
+robusto	O
+
+coltivati	O
+
+1	AMT
+scatola	AMT
+di	O
+pelati	ING
+da	O
+250	O
+g	O
+
+2	AMT
+tazze	AMT
+di	O
+mollica	ING
+di	ING
+pane	ING
+fresco	O
+
+2	AMT
+avocado	ING
+
+1	AMT
+zucchina	ING
+scura	ING
+grande	O
+
+100	AMT
+g	AMT
+di	O
+formaggio	ING
+olandese	ING
+tritato	O
+
+2	AMT
+dl	AMT
+di	O
+brandy	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+zafferano	ING
+
+115	AMT
+g	AMT
+di	O
+amido	ING
+di	ING
+mais	ING
+o	O
+fecola	O
+di	O
+patate	O
+
+acqua	ING
+calda	O
+qb	AMT
+
+1	AMT
+lattina	AMT
+di	O
+pere	ING
+sciroppate	ING
+
+140	AMT
+g	AMT
+di	O
+formaggio	ING
+tipo	ING
+“	O
+latteria	ING
+o	O
+altro	O
+formaggio	O
+magro	O
+
+3	AMT
+cespi	AMT
+di	O
+lattuga	ING
+
+zucchero	ING
+
+30	AMT
+g	AMT
+di	O
+menta	ING
+bergamotto	O
+e	O
+prezzemolo	O
+
+1	AMT
+peperoncino	ING
+piccante	ING
+fresco	O
+
+2	AMT
+creste	ING
+di	ING
+gallo	ING
+
+timo	ING
+limone	O
+qb	AMT
+
+175	AMT
+g	AMT
+di	O
+burro	ING
+
+prezzemolo	ING
+o	O
+crescione	O
+
+200	AMT
+g	AMT
+di	O
+fagiolini	ING
+circa	O
+
+1	AMT
+pera	ING
+kaiser	ING
+
+500	AMT
+g	AMT
+di	O
+foglie	O
+di	O
+bietola	ING
+
+60	AMT
+g	AMT
+di	O
+olio	ING
+evo	ING
+
+4	AMT
+foglie	AMT
+di	O
+verza	ING
+
+600	AMT
+g	AMT
+di	O
+pane	ING
+raffermo	ING
+
+1/2	AMT
+dl	AMT
+di	O
+latte	ING
+tiepido	O
+
+contorno	ING
+:	ING
+
+pimpinella	ING
+
+20	AMT
+datteri	ING
+
+100	AMT
+g	AMT
+di	O
+salame	ING
+tipo	ING
+napoli	ING
+
+2	AMT
+salsiccette	ING
+magre	O
+di	ING
+maiale	ING
+
+360	AMT
+g	AMT
+di	O
+riso	ING
+carnaroli	ING
+
+50	AMT
+g	AMT
+'	ING
+nduja	ING
+
+180	AMT
+g	AMT
+di	O
+spaghetti	ING
+
+riso	ING
+carnaroli	ING
+
+1	AMT
+g	AMT
+vaniglia	ING
+baccello	O
+
+16	AMT
+code	ING
+di	ING
+gamberi	ING
+
+parmigiano	ING
+reggiano	ING
+grattugiato	O
+
+alcuni	O
+steli	O
+di	O
+erba	ING
+cipollina	ING
+
+1	AMT
+kg	AMT
+di	O
+tenerone	ING
+
+10	AMT
+g	AMT
+di	O
+sale	ING
+
+2	AMT
+calamari	ING
+medi	O
+puliti	O
+
+semi	ING
+misti	ING
+
+50	AMT
+ml	AMT
+d'	O
+olio	ING
+
+mezza	AMT
+zucchina	ING
+lunga	O
+
+ciuffetti	O
+di	O
+prezzemolo	ING
+riccio	O
+e	O
+fili	O
+d'	O
+erba	O
+cipollina	O
+
+400	AMT
+g	AMT
+di	O
+pane	ING
+raffermo	ING
+
+1	AMT
+coscia	ING
+di	ING
+pollo	ING
+
+120	AMT
+ml	AMT
+di	O
+panna	ING
+fresca	ING
+liquida	ING
+
+250	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+grano	ING
+saraceno	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+3	AMT
+salsicce	ING
+di	ING
+prosciutto	ING
+
+250	AMT
+g	AMT
+di	O
+fave	ING
+bollite	O
+
+cavolfiore	ING
+
+150	AMT
+g	AMT
+di	O
+salmone	ING
+
+100	AMT
+g	AMT
+di	O
+olive	ING
+nere	ING
+denocciolate	O
+
+7	AMT
+g	AMT
+di	O
+cacao	ING
+amaro	ING
+
+400	AMT
+g	AMT
+di	O
+farina	ING
+
+1/4	AMT
+di	ING
+vin	ING
+santo	ING
+
+600	AMT
+g	AMT
+di	O
+zucca	ING
+mantovana	ING
+
+7	AMT
+g	AMT
+di	O
+zenzero	ING
+fresco	O
+grattugiato	O
+
+12	AMT
+uova	ING
+di	ING
+quaglia	ING
+
+fagioli	ING
+secchi	ING
+
+5	AMT
+dl	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+600	AMT
+-	AMT
+700	AMT
+g	AMT
+di	O
+zucca	ING
+
+9	AMT
+pesche	ING
+bianche	ING
+mediamente	O
+mature	O
+
+erbe	ING
+aromatiche	ING
+
+150	AMT
+-	AMT
+200	AMT
+g	AMT
+di	O
+acciughe	ING
+sottosale	ING
+
+farina	ING
+di	ING
+ceci	ING
+
+400	AMT
+g	AMT
+di	O
+gnocchetti	ING
+sardi	ING
+
+50	AMT
+g	AMT
+di	O
+mandorle	ING
+pelate	ING
+e	ING
+tostate	ING
+
+550	AMT
+ml	AMT
+di	O
+panna	ING
+fresca	ING
+
+1	AMT
+kg	AMT
+di	O
+carne	ING
+di	ING
+manzo	ING
+
+120	AMT
+ml	AMT
+di	O
+acqua	ING
+tiepida	O
+
+800	AMT
+g	AMT
+di	O
+ricotta	ING
+di	ING
+pecora	ING
+
+90	AMT
+g	AMT
+di	O
+yogurt	ING
+intero	ING
+al	ING
+naturale	ING
+
+pomodoro	ING
+pachino	ING
+
+1	AMT
+piedino	ING
+di	ING
+maiale	ING
+
+200	AMT
+g	AMT
+di	O
+scamorza	ING
+affumicata	ING
+
+180	AMT
+g	AMT
+farina	ING
+"	O
+0	ING
+"	O
+
+1/2	AMT
+litro	AMT
+di	O
+caffè	ING
+
+125	AMT
+g	AMT
+di	O
+yogurt	ING
+al	ING
+naturale	ING
+
+2	AMT
+peperoni	ING
+gialli	ING
+corno	ING
+di	ING
+bue	ING
+
+300	AMT
+g	AMT
+di	O
+formaggio	ING
+di	ING
+capra	ING
+fresco	O
+
+2	AMT
+-	AMT
+3	AMT
+lime	ING
+
+150	AMT
+g	AMT
+di	O
+mandorle	ING
+spellate	ING
+e	O
+tritate	O
+
+1	AMT
+manciata	AMT
+di	O
+olive	ING
+verdi	ING
+
+1	AMT
+tazzina	AMT
+di	O
+caffè	ING
+.	O
+
+4	AMT
+fette	AMT
+di	O
+speck	ING
+tagliate	O
+spesse	O
+
+15	AMT
+ml	AMT
+di	O
+estratto	ING
+di	ING
+vaniglia	ING
+
+190	AMT
+ml	AMT
+di	O
+acqua	ING
+tiepida	O
+
+1	AMT
+ciuffetto	O
+di	O
+prezzemolo	ING
+
+400	AMT
+g	AMT
+di	O
+ritagli	O
+di	O
+baccalà	ING
+
+1	AMT
+bottiglia	AMT
+di	O
+barbera	ING
+
+1	AMT
+kg	AMT
+di	O
+abbacchio	ING
+
+1	AMT
+foglia	AMT
+di	O
+erba	ING
+cedrina	ING
+
+400	AMT
+g	AMT
+di	O
+filetto	ING
+di	ING
+maiale	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+d'	ING
+orzo	ING
+
+250	AMT
+g	AMT
+di	O
+animelle	ING
+d'	ING
+abbacchio	ING
+
+sciroppo	ING
+d'	ING
+acero	ING
+
+20	AMT
+g	AMT
+di	O
+panna	ING
+
+50	AMT
+g	AMT
+finferli	ING
+puliti	O
+
+vodka	ING
+
+1	AMT
+cetriolo	ING
+piccolo	O
+e	O
+dolce	O
+
+280	AMT
+g	AMT
+di	O
+pasta	ING
+sfoglia	ING
+pronta	O
+
+1	AMT
+foglio	ING
+d'	ING
+alga	ING
+nori	ING
+
+12	AMT
+prugne	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+succo	ING
+di	ING
+lamponi	ING
+
+3	AMT
+avocado	ING
+piccoli	O
+maturi	O
+
+2	AMT
+melanzane	ING
+lunghe	ING
+
+150	AMT
+ml	AMT
+di	O
+panna	ING
+montata	O
+
+3	AMT
+dl	AMT
+di	O
+albume	ING
+
+16	AMT
+dischi	AMT
+di	O
+pane	ING
+bianco	ING
+
+2	AMT
+cucchiaini	AMT
+di	O
+cremor	ING
+tartaro	ING
+
+750	AMT
+g	AMT
+di	O
+funghi	ING
+misti	ING
+surgelati	ING
+
+crostoni	ING
+di	ING
+pane	ING
+o	O
+friselle	O
+
+sale	ING
+e	O
+olio	O
+evo	O
+
+2	AMT
+bicchieri	AMT
+di	O
+barolo	ING
+
+75	AMT
+g	AMT
+di	O
+grappa	ING
+di	ING
+vinaccia	ING
+
+600	AMT
+g	AMT
+di	O
+spinaci	ING
+
+3	AMT
+kg	AMT
+di	O
+cime	ING
+di	ING
+cicorielle	ING
+
+scorza	O
+grattugiata	O
+di	O
+un'	O
+arancia	ING
+
+125	AMT
+g	AMT
+di	O
+yogurt	ING
+intero	ING
+
+16	AMT
+fichi	ING
+freschi	O
+
+4	AMT
+costate	ING
+di	ING
+vitello	ING
+spesse	O
+con	O
+l'	O
+osso	O
+
+pepe	ING
+aromatico	ING
+
+12	AMT
+cucchiaini	AMT
+di	O
+uova	ING
+di	ING
+lompo	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+pistacchi	ING
+sgusciati	O
+
+200	AMT
+g	AMT
+di	O
+salame	ING
+
+150	AMT
+g	AMT
+d'	O
+acqua	ING
+frizzante	ING
+
+estratto	ING
+di	ING
+mandorle	ING
+qb	AMT
+
+300	AMT
+g	AMT
+di	O
+mozzarella	ING
+
+320	AMT
+g	AMT
+di	O
+maccheroni	ING
+integrali	ING
+
+360	AMT
+g	AMT
+di	O
+maccheroncini	ING
+rigati	ING
+
+2	AMT
+cm	AMT
+di	O
+zenzero	ING
+
+1/2	AMT
+ananas	ING
+fresco	O
+tagliato	O
+
+4	AMT
+finocchi	ING
+teneri	O
+
+1	AMT
+kg	AMT
+di	O
+mele	ING
+sbucciate	O
+
+4	AMT
+cucchiai	AMT
+di	O
+piselli	ING
+
+10	AMT
+fichi	ING
+
+1	AMT
+ciuffo	AMT
+di	O
+origano	ING
+
+100	AMT
+g	AMT
+di	O
+pistacchi	ING
+di	ING
+bronte	ING
+al	O
+naturale	O
+
+1/2	AMT
+kg	AMT
+di	O
+taglierini	ING
+al	ING
+nero	ING
+di	ING
+seppia	ING
+
+300	AMT
+g	AMT
+di	O
+sfoglie	ING
+all'	ING
+uovo	ING
+
+500	AMT
+g	AMT
+di	O
+filetti	ING
+di	ING
+sogliola	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+d'	O
+olio	ING
+
+8	AMT
+fettine	AMT
+da	O
+70	O
+g	O
+di	O
+polpa	ING
+di	ING
+cavallo	ING
+
+300	AMT
+g	AMT
+di	O
+barbabietole	ING
+
+avocado	ING
+
+130	AMT
+g	AMT
+di	O
+pralinato	ING
+di	ING
+nocciole	ING
+
+4	AMT
+sogliole	ING
+sfilettate	O
+
+1/4	AMT
+di	O
+besciamella	ING
+
+lievito	ING
+di	ING
+birra	ING
+liofilizzato	ING
+
+150	AMT
+g	AMT
+di	O
+farina	ING
+integrale	ING
+di	ING
+grano	ING
+tenero	O
+
+2	AMT
+mele	ING
+cotogne	ING
+
+erbe	ING
+odorose	ING
+
+200	AMT
+g	AMT
+circa	O
+di	O
+farina	ING
+di	ING
+semola	ING
+
+300	AMT
+g	AMT
+di	O
+filetto	ING
+di	ING
+halibut	ING
+
+nepitella	ING
+
+16	AMT
+noci	ING
+di	ING
+cappesante	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+cacao	ING
+
+buccia	O
+di	O
+yuzu	ING
+grattugiata	O
+
+2	AMT
+cucchiai	AMT
+di	O
+acqua	ING
+di	ING
+fiori	ING
+d'	ING
+arancio	ING
+
+500	AMT
+g	AMT
+farina	ING
+integrale	ING
+
+800	AMT
+g	AMT
+di	O
+fagioli	ING
+cannellini	ING
+
+1	AMT
+disco	AMT
+di	O
+pasta	ING
+frolla	ING
+salata	ING
+
+1/2	AMT
+peperone	ING
+rosso	ING
+
+1/2	AMT
+cipolla	ING
+fresca	ING
+
+7/10	AMT
+succo	ING
+d'	ING
+arancia	ING
+
+scorza	ING
+d'	ING
+arancia	ING
+
+1	AMT
+finocchio	ING
+piccolo	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+foglie	O
+di	O
+nepitella	ING
+
+500	AMT
+g	AMT
+di	O
+piselli	ING
+sgusciati	O
+
+granella	ING
+di	ING
+pistacchio	ING
+
+gola	ING
+stagionata	O
+
+1	AMT
+mela	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+uvetta	ING
+
+1	AMT
+cucchiaio	AMT
+colmo	O
+di	O
+farina	ING
+setacciata	ING
+
+150	AMT
+g	AMT
+di	O
+bacon	ING
+
+3/4	AMT
+fette	AMT
+di	O
+pane	ING
+tostato	ING
+
+4	AMT
+fili	AMT
+d'	ING
+erba	ING
+cipollina	ING
+
+8	AMT
+-	AMT
+10	AMT
+fiori	ING
+di	ING
+zucca	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+formaggio	ING
+grana	ING
+
+50	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+castagne	ING
+
+1	AMT
+mazzetto	AMT
+di	O
+rosmarino	ING
+e	O
+alloro	O
+
+strutto	ING
+
+200	AMT
+g	AMT
+di	O
+gambi	ING
+di	ING
+sedano	ING
+
+4	AMT
+pere	ING
+sciroppate	ING
+
+lattuga	ING
+riccia	ING
+e	O
+liscia	O
+qb	AMT
+
+500	AMT
+g	AMT
+di	O
+maccheroncini	ING
+
+3	AMT
+rametti	AMT
+di	O
+menta	ING
+
+120	AMT
+g	AMT
+di	O
+avena	ING
+decorticata	ING
+
+pane	ING
+ai	ING
+cereali	ING
+o	O
+pane	O
+nero	O
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+ketchup	ING
+
+100	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+zucca	ING
+
+150	AMT
+g	AMT
+di	O
+gorgonzola	ING
+
+4	AMT
+filetti	ING
+di	ING
+trota	ING
+affumicata	ING
+
+45	AMT
+g	AMT
+di	O
+noci	ING
+e	O
+/	O
+o	O
+nocciole	O
+tritate	O
+grossolanamente	O
+
+gorgonzola	ING
+dolce	ING
+
+300	AMT
+g	AMT
+di	O
+fagiolini	ING
+
+100	AMT
+g	AMT
+di	O
+torrone	ING
+alla	ING
+mandorla	ING
+
+12	AMT
+fette	AMT
+di	O
+pane	ING
+
+16	AMT
+-	AMT
+17	AMT
+fette	AMT
+di	O
+pane	ING
+
+la	O
+buccia	O
+di	O
+1/2	AMT
+limone	ING
+
+400	AMT
+g	AMT
+di	O
+mirtilli	ING
+
+25	AMT
+g	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+cipolle	ING
+e	O
+carote	O
+tritate	O
+
+500	AMT
+g	AMT
+di	O
+pasta	ING
+brisée	ING
+
+400	AMT
+g	AMT
+di	O
+arancia	ING
+
+2	AMT
+mele	ING
+annurche	ING
+
+1	AMT
+kg	AMT
+e	AMT
+3	AMT
+etti	AMT
+di	O
+cappello	ING
+del	ING
+prete	ING
+
+250	AMT
+g	AMT
+di	O
+champignon	ING
+
+1	AMT
+punta	AMT
+di	O
+paprika	ING
+dolce	ING
+
+1/2	AMT
+melagrana	ING
+
+200	AMT
+cl	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+200	AMT
+g	AMT
+di	O
+spaghetti	ING
+spezzati	O
+
+rete	O
+di	O
+maiale	ING
+
+80	AMT
+g	AMT
+di	O
+pangrattato	ING
+
+zafferano	ING
+
+1/4	AMT
+di	O
+porto	ING
+
+150	AMT
+g	AMT
+di	O
+provolone	ING
+tagliato	O
+
+400	AMT
+g	AMT
+di	O
+pomodori	ING
+pelati	ING
+scolati	O
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+ciuffetti	O
+di	O
+spinaci	ING
+freschi	O
+
+90	AMT
+g	AMT
+di	O
+burro	ING
+fuso	O
+
+350	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+40	AMT
+g	AMT
+di	O
+uvetta	ING
+sultanina	ING
+
+250	AMT
+g	AMT
+di	O
+orzo	ING
+perlato	ING
+
+50	AMT
+gr	AMT
+di	O
+mandorle	ING
+tritate	O
+
+3	AMT
+amaretti	ING
+
+4	AMT
+alette	ING
+di	ING
+pollo	ING
+
+1	AMT
+foglia	AMT
+di	O
+alloro	ING
+secco	ING
+
+300	AMT
+g	AMT
+pasta	ING
+frolla	ING
+
+zucchero	ING
+di	ING
+canna	ING
+
+100	AMT
+g	AMT
+di	O
+spinaci	ING
+freschi	O
+
+600	AMT
+g	AMT
+di	O
+anguria	ING
+
+mezza	AMT
+bustina	AMT
+di	O
+lievito	ING
+
+50	AMT
+g	AMT
+di	O
+noci	ING
+
+2	AMT
+cucchiaini	AMT
+rasi	O
+di	O
+origano	ING
+
+8	AMT
+amaretti	ING
+
+1	AMT
+scalogno	ING
+finemente	O
+tritato	O
+
+1	AMT
+scalogno	ING
+
+12	AMT
+pomodori	ING
+
+paprica	ING
+dolce	ING
+e	O
+forte	O
+
+80	AMT
+g	AMT
+di	O
+provola	ING
+affumicata	ING
+
+4	AMT
+foglie	AMT
+di	O
+basilico	ING
+fresco	O
+
+120	AMT
+g	AMT
+di	O
+fecola	ING
+di	ING
+patate	ING
+
+brandy	ING
+
+lievito	ING
+chimico	ING
+14	AMT
+g	AMT
+
+1	AMT
+l	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+un	AMT
+pizzico	AMT
+di	O
+lievito	ING
+
+80	AMT
+g	AMT
+di	O
+rucola	ING
+
+4	AMT
+limoni	ING
+
+250	AMT
+g	AMT
+di	O
+mandorle	ING
+spellate	ING
+
+4	AMT
+-	AMT
+5	AMT
+cucchiai	AMT
+di	O
+panna	ING
+fresca	ING
+o	O
+yogurt	O
+
+150	AMT
+g	AMT
+di	O
+schienali	ING
+
+frutta	ING
+secca	ING
+
+700	AMT
+g	AMT
+di	O
+spezzatino	O
+di	O
+vitello	ING
+
+2	AMT
+bicchieri	AMT
+di	O
+colle	ING
+duga	ING
+di	ING
+damian	ING
+princic	ING
+
+4	AMT
+panini	ING
+
+1	AMT
+kg	AMT
+di	O
+passata	ING
+di	ING
+pomodoro	ING
+
+semi	ING
+misti	ING
+
+40	AMT
+g	AMT
+d'	O
+olio	ING
+
+3	AMT
+cipolle	ING
+bianche	ING
+
+350	AMT
+g	AMT
+di	O
+pesche	ING
+
+150	AMT
+ml	AMT
+di	O
+besciamella	ING
+
+400	AMT
+g	AMT
+di	O
+riso	ING
+venere	ING
+
+110	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+75	ING
+%	ING
+
+3	AMT
+fettine	AMT
+di	O
+lardo	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+olive	ING
+bella	ING
+di	ING
+cerignola	ING
+
+3	AMT
+stinchi	ING
+di	ING
+maiale	ING
+
+1	AMT
+pizzico	AMT
+di	O
+maggiorana	ING
+
+30	AMT
+g	AMT
+di	O
+farina	ING
+manitoba	ING
+
+250	AMT
+g	AMT
+di	O
+mascarpone	ING
+
+165	AMT
+g	AMT
+di	O
+zucchero	ING
+
+500	AMT
+g	AMT
+di	O
+formaggetta	ING
+ligure	ING
+
+300	AMT
+g	AMT
+di	O
+pasta	ING
+frolla	ING
+al	ING
+cacao	ING
+
+24	AMT
+noci	AMT
+di	O
+capesante	ING
+
+1	AMT
+cucchiaino	AMT
+aceto	ING
+di	ING
+mele	ING
+
+200	AMT
+g	AMT
+di	O
+frollini	ING
+al	ING
+cacao	ING
+
+200	AMT
+g	AMT
+gorgonzola	ING
+
+500	AMT
+g	AMT
+di	O
+cozze	ING
+
+8	AMT
+fette	AMT
+di	O
+provola	ING
+
+2	AMT
+-	AMT
+3	AMT
+cucchiai	AMT
+di	O
+panna	ING
+montata	O
+
+150	AMT
+g	AMT
+di	O
+macinato	ING
+di	ING
+bovino	ING
+
+20	AMT
+amaretti	ING
+piccoli	O
+
+10	AMT
+g	AMT
+di	O
+zenzero	ING
+fresco	O
+
+100	AMT
+g	AMT
+di	O
+emmenthal	ING
+
+8	AMT
+piantine	AMT
+di	O
+cicorino	ING
+giovane	O
+con	O
+la	O
+loro	O
+radice	O
+
+cipollotto	ING
+
+4	AMT
+mele	ING
+gala	ING
+
+30	AMT
+gr	AMT
+di	O
+zucchero	ING
+
+300	AMT
+g	AMT
+di	O
+pasta	ING
+brisée	ING
+
+cioccolato	ING
+fondente	ING
+grattugiato	O
+
+150	AMT
+g	AMT
+farina	ING
+di	ING
+farro	ING
+
+brodo	ING
+q.	O
+
+350	AMT
+g	AMT
+acqua	ING
+
+120	AMT
+g	AMT
+di	O
+noci	ING
+pecan	ING
+
+1⁄2	AMT
+cavolo	ING
+cappuccio	ING
+piccolo	O
+
+350	AMT
+g	AMT
+di	O
+orzo	ING
+precotto	ING
+
+800	AMT
+g	AMT
+di	O
+funghi	ING
+porcini	ING
+
+5	AMT
+tuorli	ING
+
+450	AMT
+g	AMT
+di	O
+bevanda	ING
+di	ING
+mandorla	ING
+
+330	AMT
+g	AMT
+di	O
+cioccolato	ING
+bianco	ING
+
+2	AMT
+grosse	ING
+melagrane	ING
+
+2	AMT
+prese	AMT
+di	O
+sale	ING
+
+peperoncino	ING
+secco	ING
+
+rametto	O
+di	O
+rosmarino	ING
+
+4	AMT
+fette	AMT
+sottili	O
+di	O
+polpa	ING
+di	ING
+vitello	ING
+da	O
+120	O
+g	O
+ciascuna	O
+
+500	AMT
+g	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+chiaro	O
+
+2	AMT
+bicchieri	AMT
+di	O
+negramaro	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+lievito	ING
+
+40	AMT
+g	AMT
+di	O
+amido	ING
+
+60	AMT
+gr	AMT
+aceto	ING
+
+2	AMT
+zucchine	ING
+
+500	AMT
+g	AMT
+di	O
+ravioli	ING
+di	ING
+verdura	O
+
+12	AMT
+fettine	AMT
+di	O
+pane	ING
+bianco	ING
+
+15	AMT
+olive	ING
+nere	ING
+denocciolate	O
+
+1/2	AMT
+bicchiere	AMT
+di	O
+passata	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+.	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+miele	ING
+fluido	O
+
+8	AMT
+amaretti	ING
+o	O
+5	O
+savoiardi	O
+
+400	AMT
+g	AMT
+di	O
+piselli	ING
+freschi	O
+
+2	AMT
+dl	AMT
+di	O
+acqua	ING
+.	ING
+
+20	AMT
+g	AMT
+di	O
+succo	ING
+d'	ING
+arancia	ING
+
+2	AMT
+meloni	ING
+retati	ING
+
+1	AMT
+stecca	AMT
+di	O
+cannella	ING
+
+9	AMT
+uova	ING
+di	O
+quaglia	ING
+
+185	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+tapioca	ING
+
+50	AMT
+ml	AMT
+di	O
+vermouth	ING
+
+il	O
+sugo	O
+di	O
+2	AMT
+ossibuchi	ING
+
+300	AMT
+g	AMT
+di	O
+sedani	ING
+rigati	ING
+
+150	AMT
+g	AMT
+di	O
+farina	ING
+finissima	O
+di	ING
+granoturco	ING
+
+150	AMT
+g	AMT
+
+500	AMT
+g	AMT
+di	O
+tagliatelle	ING
+
+4	AMT
+calamari	ING
+medi	O
+freschi	O
+
+3/4	ING
+di	ING
+aceto	ING
+bianco	ING
+
+marmellata	ING
+di	ING
+fragole	ING
+e	O
+mascarpone	O
+
+burro	ING
+fuso	O
+
+crudo	ING
+
+50	AMT
+g	AMT
+di	O
+fichi	ING
+secchi	ING
+
+185	AMT
+g	AMT
+di	O
+zucchero	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+foglioline	O
+fresche	O
+di	O
+timo	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+miele	ING
+d'	ING
+arancia	ING
+circa	O
+
+1	O
+giallo	O
+e	O
+1	O
+verde	O
+
+300	AMT
+g	AMT
+di	O
+savoiardi	ING
+
+30	AMT
+g	AMT
+di	O
+guanciale	ING
+
+2	AMT
+g	AMT
+di	O
+bicarbonato	ING
+
+60	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+
+800	AMT
+g	AMT
+di	O
+broccoli	ING
+
+fior	ING
+di	ING
+sale	ING
+o	O
+pepe	O
+bianco	O
+
+aceto	ING
+balsanico	ING
+
+200	AMT
+g	AMT
+d'	O
+insalatine	ING
+miste	ING
+.	O
+
+200	AMT
+g	AMT
+di	O
+maionese	ING
+
+150	AMT
+g	AMT
+di	O
+trota	ING
+salmonata	ING
+affumicata	ING
+
+75	AMT
+g	AMT
+di	O
+farina	ING
+
+150	AMT
+g	AMT
+di	O
+cacao	ING
+amaro	ING
+
+grattugiare	O
+
+miele	ING
+o	O
+vin	O
+cotto	O
+
+480	AMT
+g	AMT
+di	O
+farina	ING
+
+300	AMT
+g	AMT
+di	O
+farro	ING
+decorticato	ING
+
+400	AMT
+g	AMT
+di	O
+frutti	O
+di	O
+lamponi	ING
+e	O
+mirtilli	O
+
+500	AMT
+g	AMT
+di	O
+pomodori	ING
+perini	ING
+
+300	AMT
+g	AMT
+di	O
+ossa	ING
+di	ING
+bovino	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+80	AMT
+-	AMT
+100	AMT
+g	AMT
+di	O
+acciughe	ING
+sotto	ING
+sale	ING
+
+150	AMT
+ml	AMT
+panna	ING
+liquida	ING
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+pesce	ING
+misto	ING
+
+250	AMT
+g	AMT
+di	O
+pomodori	ING
+maturi	O
+
+1	AMT
+mezzaluna	O
+di	O
+camembert	ING
+
+250	AMT
+g	AMT
+di	O
+acqua	ING
+gasata	ING
+
+250	AMT
+g	AMT
+di	O
+mais	ING
+lessato	O
+
+60	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+succo	ING
+d'	ING
+arancia	ING
+
+2	AMT
+acciughe	ING
+salate	ING
+
+2	AMT
+bicchieri	AMT
+di	O
+marsala	ING
+o	O
+vino	O
+di	O
+pantelleria	O
+liquoroso	O
+
+100	AMT
+g	AMT
+di	O
+rigatino	ING
+
+acqua	ING
+
+formaggio	ING
+cremoso	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+cannella	ING
+e	O
+zenzero	O
+
+1	AMT
+vasetto	AMT
+di	O
+olive	ING
+nere	ING
+denocciolate	O
+
+100	AMT
+gr	AMT
+di	O
+ricotta	ING
+
+5	AMT
+tuorli	ING
+d'	ING
+uovo	ING
+
+4	AMT
+tazzine	AMT
+di	O
+caffè	ING
+amaro	ING
+
+1	AMT
+uovo	ING
+
+120	AMT
+g	AMT
+di	O
+fave	ING
+fresche	O
+sgusciate	O
+e	O
+spellate	O
+
+200	AMT
+gr	AMT
+di	O
+bietole	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+ragù	ING
+
+1	AMT
+-	AMT
+2	AMT
+cucchiai	AMT
+di	O
+succo	ING
+d'	ING
+arancia	ING
+filtrato	O
+
+birra	ING
+chiara	ING
+
+70	AMT
+g	AMT
+di	O
+more	ING
+
+3	AMT
+uova	ING
+grandi	O
+
+800	AMT
+g	AMT
+di	O
+fesa	ING
+di	ING
+vitello	ING
+
+1	AMT
+grossa	O
+arancia	ING
+
+100	AMT
+g	AMT
+di	O
+guanciale	ING
+
+300	AMT
+gr	AMT
+di	O
+formaggio	ING
+cremoso	ING
+
+2	AMT
+pollastrelli	ING
+di	O
+600	O
+g	O
+circa	O
+l'	O
+uno	O
+con	O
+le	O
+loro	O
+rigaglie	O
+
+1	AMT
+ciuffetto	O
+di	O
+rosmarino	ING
+
+2	AMT
+cucchiaini	AMT
+di	O
+aceto	ING
+bianco	ING
+
+6	AMT
+cucchiaini	AMT
+di	O
+zucchero	ING
+
+vino	ING
+di	O
+cottura	O
+
+250	AMT
+g	AMT
+di	O
+formaggio	ING
+cremoso	ING
+
+90	AMT
+g	AMT
+di	O
+burro	ING
+morbido	O
+
+16	AMT
+g	AMT
+di	O
+lievito	ING
+
+80	AMT
+g	AMT
+di	O
+burro	ING
+o	O
+strutto	O
+
+80	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+80	AMT
+g	AMT
+di	O
+amaretti	ING
+
+4	AMT
+g	AMT
+di	O
+zucchero	ING
+
+2	O
+bustine	O
+di	O
+nero	O
+
+25	AMT
+g	AMT
+di	O
+formaggio	ING
+grattugiato	O
+
+alcuni	AMT
+cucchiai	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+200	AMT
+g	AMT
+di	O
+yogurt	ING
+greco	ING
+o	O
+di	O
+soia	O
+
+2	AMT
+kg	AMT
+di	O
+pomodori	ING
+maturi	O
+
+700	AMT
+g	AMT
+di	O
+uva	ING
+bianca	ING
+e	O
+nera	O
+
+1	AMT
+noce	AMT
+di	O
+burro	ING
+
+1	AMT
+cipolla	ING
+rossa	O
+locale	O
+o	O
+di	O
+tropea	O
+
+30	AMT
+g	AMT
+d'	O
+acqua	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+integrale	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+zucchero	ING
+semolato	ING
+superfino	O
+
+aglio	ING
+ursino	ING
+
+1	AMT
+dl	AMT
+di	O
+panna	ING
+calda	O
+
+1/2	AMT
+vasetto	AMT
+di	O
+yogurt	ING
+intero	ING
+agli	ING
+agrumi	ING
+
+40	AMT
+g	AMT
+tamari	ING
+
+1	AMT
+cucchiaio	AMT
+raso	O
+di	O
+curry	ING
+
+100	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+granchio	ING
+
+pasta	ING
+all'	ING
+uovo	ING
+
+6	AMT
+gocce	AMT
+aroma	ING
+mandorla	ING
+dolce	ING
+
+5	AMT
+g	AMT
+di	O
+gelatina	ING
+alimentare	ING
+
+100	AMT
+g	AMT
+luganega	ING
+
+5	AMT
+foglie	AMT
+di	O
+menta	ING
+
+granella	ING
+di	ING
+nocciole	ING
+
+500	AMT
+g	AMT
+di	O
+sale	ING
+grosso	O
+iodato	ING
+
+250	AMT
+g	AMT
+di	O
+cioccolato	ING
+bianco	ING
+
+200	AMT
+g	AMT
+di	O
+scarola	ING
+
+300	AMT
+g	AMT
+di	O
+ciuffetti	ING
+di	ING
+spinaci	ING
+
+400	AMT
+g	AMT
+di	O
+panettone	ING
+raffermo	ING
+
+gocce	O
+di	O
+cioccolato	ING
+amaro	ING
+.	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+glucosio	ING
+
+un	AMT
+mazzetto	ING
+aromatico	ING
+
+15	AMT
+ml	AMT
+di	O
+olio	ING
+evo	ING
+
+una	AMT
+manciata	AMT
+di	O
+foglie	O
+di	O
+spinaci	ING
+
+6	AMT
+gocce	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+
+1	AMT
+tazza	AMT
+di	O
+pinoli	ING
+
+pesto	ING
+di	ING
+sesamo	ING
+nero	ING
+
+4	AMT
+uova	ING
+grandi	O
+
+1	AMT
+sedano	ING
+rapa	ING
+
+2	AMT
+cipolle	ING
+di	ING
+media	O
+grandezza	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+cipolla	ING
+tritata	O
+
+6	AMT
+foglie	AMT
+di	O
+alloro	ING
+
+200	AMT
+g	AMT
+di	O
+pomodori	ING
+pelati	ING
+passati	O
+
+24	AMT
+patatine	ING
+novelle	ING
+
+40	AMT
+g	AMT
+di	O
+mirtilli	ING
+rossi	ING
+
+1	AMT
+l	AMT
+di	O
+acqua	ING
+oligominerale	ING
+
+100	AMT
+g	AMT
+di	O
+mandorle	ING
+
+1/2	AMT
+dose	AMT
+di	O
+crema	ING
+al	ING
+limone	ING
+
+150	AMT
+g	AMT
+di	O
+provola	ING
+affumicata	ING
+
+aceto	ING
+di	ING
+xeres	ING
+
+120	AMT
+g	AMT
+di	O
+cioccolato	ING
+bianco	ING
+
+trombette	ING
+d'	ING
+aglio	ING
+
+4	AMT
+tranci	AMT
+di	O
+salmone	ING
+fresco	O
+norvegese	ING
+
+150	AMT
+gr	AMT
+ananas	ING
+
+250	AMT
+g	AMT
+di	O
+lenticchie	ING
+di	ING
+castelluccio	ING
+
+1	AMT
+mazzetto	AMT
+di	O
+origano	ING
+fresco	O
+
+10	AMT
+-	AMT
+15	AMT
+fagiolini	ING
+
+100	AMT
+g	AMT
+di	O
+confettura	ING
+di	ING
+albicocche	ING
+
+155	AMT
+g	AMT
+di	O
+farina	ING
+manitoba	ING
+
+700	AMT
+g	AMT
+di	O
+cozze	ING
+
+foglie	O
+di	O
+porro	ING
+tagliate	O
+
+2/3	AMT
+zampe	ING
+di	ING
+pollo	ING
+
+150	AMT
+g	AMT
+di	O
+pasta	ING
+brisée	ING
+
+1	AMT
+pomodoro	ING
+fresco	O
+
+100	AMT
+g	AMT
+di	O
+marmellata	ING
+di	ING
+mirtilli	ING
+rossi	ING
+
+40	AMT
+biscotti	ING
+secchi	ING
+
+4	AMT
+mele	ING
+smith	ING
+
+4	AMT
+cetrioli	ING
+freschissimi	O
+e	O
+possibilmente	O
+di	O
+uguale	O
+misura	O
+
+150	AMT
+gr	AMT
+circa	O
+di	O
+cioccolato	ING
+fondente	ING
+
+1	AMT
+vasetto	AMT
+piccolo	O
+di	ING
+formaggio	ING
+cremoso	ING
+
+1/2	AMT
+peperone	ING
+verde	ING
+e	O
+1/2	O
+rosso	O
+
+1/2	AMT
+bicchiere	AMT
+di	O
+marsala	ING
+
+60	AMT
+g	AMT
+di	O
+zucchero	ING
+semlolato	ING
+
+30	AMT
+g	AMT
+di	O
+semi	ING
+oleosi	ING
+
+3	AMT
+etti	AMT
+di	O
+farina	ING
+
+1	AMT
+petto	ING
+di	ING
+pollo	ING
+
+110	AMT
+ml	AMT
+di	O
+latte	ING
+
+200	AMT
+g	AMT
+di	O
+prosciutto	ING
+crudo	ING
+
+30	AMT
+grammi	AMT
+di	O
+pistacchi	ING
+
+60	AMT
+g	AMT
+di	O
+amido	ING
+di	ING
+mais	ING
+
+2	AMT
+tazzine	AMT
+di	O
+caffè	ING
+
+700	AMT
+g	AMT
+di	O
+ricotta	ING
+romana	ING
+
+3	AMT
+ravanelli	ING
+
+40	AMT
+ml	AMT
+di	O
+rum	ING
+
+400	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+pomodoro	ING
+
+400	AMT
+g	AMT
+di	O
+fave	ING
+sgranate	ING
+
+2	AMT
+zucchine	ING
+medie	O
+
+320	AMT
+g	AMT
+di	O
+riso	ING
+vialone	ING
+nano	ING
+
+50	AMT
+g	AMT
+di	O
+roquefort	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+bianca	ING
+
+4	AMT
+cespi	AMT
+di	O
+scarola	ING
+
+100	AMT
+g	AMT
+di	O
+pinoli	ING
+
+450	AMT
+g	AMT
+di	O
+cavolfiore	ING
+
+80	AMT
+ml	AMT
+di	O
+olio	ING
+extravergine	ING
+di	ING
+oliva	ING
+
+2	AMT
+dl	AMT
+e	AMT
+1/2	AMT
+d'	O
+acqua	ING
+
+5	AMT
+g	AMT
+lievito	ING
+
+6	AMT
+-	AMT
+8	AMT
+pomodori	ING
+secchi	ING
+
+200	AMT
+g	AMT
+di	O
+semola	ING
+di	ING
+grano	ING
+
+4	AMT
+olive	ING
+nere	ING
+denocciolate	O
+
+8	AMT
+pomodori	ING
+maturi	O
+
+300	AMT
+g	AMT
+di	O
+tagliolini	ING
+alla	ING
+liquirizia	ING
+
+spezie	ING
+
+80	AMT
+g	AMT
+di	O
+farina	ING
+tipo	ING
+00	O
+
+crema	ING
+al	ING
+mascarpone	ING
+
+8	AMT
+fettine	AMT
+di	O
+pancetta	ING
+affumicata	ING
+
+100	AMT
+gr	AMT
+uvetta	ING
+sultanina	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+ricotta	ING
+
+monte	ING
+veronese	ING
+
+250	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+olive	ING
+taggiasche	ING
+denocciolate	O
+
+200	AMT
+g	AMT
+polpa	ING
+di	ING
+maiale	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+pepe	ING
+verde	ING
+
+200	AMT
+g	AMT
+di	O
+fagiuoli	ING
+cannellini	ING
+
+ricotta	ING
+di	ING
+pecora	ING
+
+40	AMT
+g	AMT
+di	O
+mandorle	ING
+spellate	ING
+e	O
+tostate	O
+
+50	AMT
+g	AMT
+di	O
+pecorino	ING
+stagionato	ING
+
+4	AMT
+-	AMT
+5	AMT
+foglioline	AMT
+di	O
+menta	ING
+
+3	AMT
+steli	AMT
+di	O
+erba	ING
+cipollina	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+maionese	ING
+.	O
+
+560	AMT
+g	AMT
+di	O
+farina	ING
+
+1	AMT
+litro	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+e	O
+profumato	O
+
+2	AMT
+mestoli	AMT
+di	O
+brodo	ING
+di	ING
+pollo	ING
+
+1	AMT
+petto	ING
+d'	ING
+oca	ING
+
+250	AMT
+g	AMT
+di	O
+petto	ING
+di	ING
+pollo	ING
+
+250	AMT
+ml	AMT
+di	O
+olio	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+tipo	ING
+1	ING
+
+400	AMT
+g	AMT
+di	O
+tortellini	ING
+freschi	O
+al	ING
+prosciutto	ING
+
+100	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+grattugiato	O
+
+250	AMT
+g	AMT
+di	O
+ziti	ING
+
+800	AMT
+g	AMT
+di	O
+polipetti	ING
+puliti	O
+
+150	AMT
+g	AMT
+d'	O
+acqua	ING
+
+250	AMT
+gr	AMT
+ricotta	ING
+di	ING
+pecora	ING
+
+1/2	AMT
+dl	AMT
+d'	O
+acqua	ING
+
+zucchero	ING
+finissimo	ING
+
+1	AMT
+litro	AMT
+d'	O
+aceto	ING
+bianco	ING
+
+1/2	AMT
+bicchierino	AMT
+di	O
+grappa	ING
+
+1	AMT
+peperoncino	ING
+fresco	O
+piccolo	O
+
+120	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+3	AMT
+g	AMT
+di	O
+sale	ING
+maldon	ING
+
+80	AMT
+g	AMT
+di	O
+cocco	ING
+
+4	AMT
+pomodori	ING
+rossi	ING
+
+8	AMT
+fili	AMT
+di	ING
+erba	ING
+cipollina	ING
+.	O
+
+1	AMT
+cuore	O
+di	O
+sedano	ING
+bianco	ING
+
+300	AMT
+g	AMT
+di	O
+acqua	ING
+
+olio	ING
+
+150	AMT
+ml	AMT
+di	O
+latte	ING
+intero	ING
+fresco	O
+
+300	AMT
+g	AMT
+di	O
+porcini	ING
+
+2	AMT
+g	AMT
+di	O
+vaniglia	ING
+bourbon	ING
+
+rosmarino	ING
+
+350	AMT
+g	AMT
+di	O
+petto	ING
+di	ING
+tacchino	ING
+
+2	AMT
+fettine	AMT
+di	O
+lardo	ING
+stagionato	O
+e	O
+speziato	O
+
+50	AMT
+g	AMT
+di	O
+pistacchi	ING
+spellati	ING
+
+250	AMT
+g	AMT
+tra	O
+cuore	ING
+e	O
+milza	O
+
+200	AMT
+g	AMT
+di	O
+miglio	O
+
+240	AMT
+g	AMT
+di	O
+tubi	ING
+
+20	AMT
+g	AMT
+formaggio	ING
+di	ING
+fossa	ING
+
+4	AMT
+teste	O
+di	O
+pesce	ING
+persico	ING
+
+200	AMT
+g	AMT
+di	O
+piselli	ING
+freschi	O
+sgusciati	O
+
+80	AMT
+ml	AMT
+di	O
+panna	ING
+fresca	ING
+
+25	AMT
+foglie	AMT
+di	O
+basilico	ING
+
+400	AMT
+g	AMT
+di	O
+mozzarella	ING
+dura	O
+
+pepe	ING
+di	ING
+cayenna	ING
+
+1	AMT
+uovo	ING
+sbattuto	O
+
+300	AMT
+gr	AMT
+di	O
+zucchero	ING
+
+1/2	AMT
+cuore	O
+di	O
+lattuga	ING
+cappuccio	ING
+
+250	AMT
+g	AMT
+di	O
+piselli	ING
+surgelati	ING
+o	O
+freschi	O
+
+2	AMT
+grammi	AMT
+di	O
+pistilli	ING
+di	ING
+zafferano	ING
+
+50	AMT
+g	AMT
+di	O
+stracchino	ING
+
+800	AMT
+g	AMT
+di	O
+noce	O
+di	O
+vitello	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+miele	ING
+fluido	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+grattugiato	O
+
+2	AMT
+cavoli	ING
+cappucci	ING
+piccoli	O
+
+160	AMT
+g	AMT
+di	O
+farina	ING
+
+50	AMT
+gr	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+
+1	AMT
+kg	AMT
+di	O
+spinaci	ING
+350	O
+g	O
+di	O
+ricotta	O
+60	O
+g	O
+di	O
+burro	O
+
+1	AMT
+uovo	ING
+sodo	ING
+
+30	AMT
+g	AMT
+zenzero	ING
+
+40	AMT
+g	AMT
+
+1	AMT
+mazzetto	AMT
+di	O
+finocchietto	ING
+selvatico	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+latte	ING
+scremato	ING
+
+370	AMT
+ml	AMT
+di	O
+acqua	ING
+tiepida	O
+
+30	AMT
+-	AMT
+50	AMT
+ml	AMT
+di	O
+acqua	ING
+ghiacciata	O
+
+buccia	O
+grattugiata	O
+di	O
+1	AMT
+arancia	ING
+e	O
+1	O
+limone	O
+
+4	AMT
+pomodorini	ING
+perini	ING
+
+100	AMT
+g	AMT
+zucchero	ING
+canna	ING
+
+1	AMT
+kg	AMT
+di	O
+lombo	ING
+o	O
+spalla	O
+di	O
+maiale	O
+
+50	AMT
+g	AMT
+di	O
+cipolla	ING
+
+250	AMT
+g	AMT
+di	O
+burro	ING
+freddo	O
+
+400	AMT
+g	AMT
+di	O
+tagliatelle	ING
+fresche	O
+
+mezza	AMT
+mela	ING
+golden	ING
+
+4	AMT
+fette	AMT
+di	O
+pane	ING
+rustico	ING
+
+strutto	ING
+o	O
+olio	O
+di	O
+semi	O
+
+4	AMT
+uova	ING
+freschissime	O
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+250	AMT
+g	AMT
+di	O
+fagioli	ING
+cannellini	ING
+lessati	O
+
+200	AMT
+g	AMT
+di	O
+farina	ING
+bianca	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+vino	ING
+rosso	ING
+
+polpo	ING
+
+1	AMT
+sedano	ING
+
+aceto	ING
+balsamico	ING
+tradizionale	O
+di	O
+reggio	O
+emilia	O
+
+100	AMT
+gr	AMT
+salame	ING
+napoli	ING
+
+1	AMT
+rametto	AMT
+di	O
+menta	ING
+
+250	AMT
+g	AMT
+farina	ING
+di	ING
+semola	ING
+di	ING
+grano	ING
+duro	ING
+
+1	AMT
+coniglio	ING
+da	ING
+1	O
+kg	O
+e	O
+500	O
+g	O
+circa	O
+
+1	AMT
+spicchio	AMT
+d'	O
+aglio	ING
+tritato	O
+
+5o	ING
+g	AMT
+di	O
+pecorino	ING
+
+120	AMT
+g	AMT
+di	O
+muesli	ING
+al	ING
+cioccolato	ING
+
+4	AMT
+cespi	AMT
+di	O
+trevisana	ING
+
+250	AMT
+g	AMT
+di	O
+spaghetti	ING
+alla	ING
+chitarra	ING
+
+300	AMT
+g	AMT
+di	O
+dadolata	ING
+di	ING
+zucca	ING
+
+brodo	ING
+
+1	AMT
+mazzetto	AMT
+di	O
+coriandolo	ING
+fresco	O
+
+150	AMT
+g	AMT
+di	O
+fumetto	ING
+di	ING
+pesce	ING
+
+30	AMT
+ml	AMT
+di	O
+olio	ING
+extravergine	ING
+d'	ING
+oliva	ING
+
+2	AMT
+uova	ING
+grandi	O
+
+fagioli	ING
+borlotti	ING
+
+100	AMT
+g	AMT
+di	O
+ricotta	ING
+di	ING
+mucca	ING
+
+50	AMT
+g	AMT
+di	O
+mandorle	ING
+
+200	AMT
+g	AMT
+di	O
+crescenza	ING
+
+120	AMT
+g	AMT
+di	O
+quinoa	ING
+bianca	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+latte	ING
+intero	ING
+
+100	AMT
+g	AMT
+di	O
+scalogno	ING
+
+200	AMT
+g	AMT
+di	O
+cereali	ING
+misti	ING
+
+1	AMT
+l	AMT
+di	O
+brodo	ING
+di	ING
+carne	ING
+
+4	AMT
+trigliotte	ING
+
+800	AMT
+g	AMT
+di	O
+funghi	ING
+misti	ING
+surgelati	ING
+
+30	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+zenzero	ING
+candito	ING
+
+rughetta	ING
+
+300	AMT
+g	AMT
+d'	O
+acqua	ING
+.	O
+
+15	AMT
+g	AMT
+aceto	ING
+di	ING
+mele	ING
+
+succo	ING
+di	ING
+arancia	ING
+
+30	AMT
+g	AMT
+di	O
+lardo	ING
+
+800	AMT
+g	AMT
+di	O
+piselli	ING
+freschi	O
+sgranati	ING
+
+1	AMT
+bicchiere	AMT
+di	O
+porto	ING
+secco	ING
+
+3	AMT
+rametti	AMT
+di	O
+basilico	ING
+
+125	AMT
+ml	AMT
+di	O
+latte	ING
+
+85	AMT
+g	AMT
+di	O
+burro	ING
+morbido	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+aceto	ING
+di	ING
+mele	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+tipo	ING
+"	O
+0	ING
+"	O
+
+40	AMT
+g	AMT
+di	O
+semi	ING
+di	ING
+sesamo	ING
+
+80	AMT
+g	AMT
+di	O
+olive	ING
+taggiasche	ING
+
+2	AMT
+dischi	ING
+di	O
+pan	ING
+di	ING
+spagna	ING
+da	O
+20	O
+cm	O
+di	O
+diametro	O
+ciascuno	O
+
+4	AMT
+pomodori	ING
+grandi	O
+
+1	AMT
+l	AMT
+e	AMT
+1/2	AMT
+di	O
+brodo	ING
+di	ING
+pesce	ING
+
+800	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+spalmabile	ING
+
+240	AMT
+g	AMT
+di	O
+mezze	ING
+maniche	ING
+
+1	AMT
+bicchiere	AMT
+d'	O
+acqua	ING
+fredda	O
+
+1	AMT
+dentice	ING
+
+2	AMT
+peperoni	ING
+rossi	ING
+grandi	O
+
+pecorino	ING
+fiore	ING
+sardo	ING
+
+20	AMT
+g	AMT
+di	O
+lievito	ING
+di	ING
+birra	ING
+
+12	AMT
+capesante	ING
+
+300	AMT
+g	AMT
+di	O
+formaggio	ING
+brie	ING
+
+18	AMT
+fette	AMT
+di	O
+speck	ING
+
+miele	ING
+o	O
+sciroppo	O
+d'	O
+acero	O
+
+80	AMT
+g	AMT
+di	O
+emmental	ING
+
+100	AMT
+ml	AMT
+di	O
+acqua	ING
+bollente	O
+
+12	AMT
+cioccolatini	ING
+rossi	O
+o	O
+marroni	O
+
+3	AMT
+pere	ING
+williams	ING
+grandi	O
+
+2	AMT
+pomodori	ING
+tondi	ING
+grappolo	ING
+
+400	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+manzo	ING
+
+150	AMT
+g	AMT
+di	O
+guanciale	ING
+
+4	AMT
+hamburger	ING
+di	ING
+chianina	ING
+terre	O
+d'	O
+italia	O
+
+2	AMT
+cucchiai	AMT
+di	O
+olive	ING
+denocciolate	O
+
+2/10	AMT
+latte	ING
+di	ING
+cocco	ING
+
+5	AMT
+cucchiai	AMT
+di	O
+pecorino	ING
+grattugiato	O
+
+6	AMT
+fette	AMT
+di	O
+prosciutto	ING
+crudo	ING
+
+2	AMT
+foglie	AMT
+di	O
+menta	ING
+
+1	AMT
+etto	AMT
+e	AMT
+mezzo	AMT
+di	O
+capocollo	ING
+
+1	AMT
+arancia	ING
+
+50	AMT
+g	AMT
+di	O
+basilico	ING
+
+2	AMT
+cucchiaiate	ING
+di	ING
+capperi	ING
+sott'	ING
+aceto	ING
+
+125	AMT
+g	AMT
+zucchero	ING
+
+2	AMT
+rametti	AMT
+di	O
+timo	ING
+cedrato	ING
+
+400	AMT
+g	AMT
+di	O
+zucchine	ING
+scure	ING
+
+500	AMT
+g	AMT
+di	O
+prosciutto	ING
+cotto	ING
+
+2	AMT
+fogli	AMT
+di	ING
+alga	ING
+nori	ING
+
+8	AMT
+cipolline	ING
+
+riccioli	O
+e	O
+scagliette	O
+di	O
+cioccolato	ING
+gianduia	ING
+fondente	ING
+
+300	AMT
+g	AMT
+di	O
+ceci	ING
+
+500	AMT
+g	AMT
+di	O
+misto	O
+kamut	ING
+e	O
+farro	O
+
+1	AMT
+kg	AMT
+di	O
+pesche	ING
+gialle	ING
+mature	O
+al	O
+punto	O
+giusto	O
+
+3	AMT
+dischi	AMT
+di	O
+pasta	ING
+sfoglia	ING
+
+150	AMT
+g	AMT
+circa	O
+di	O
+farina	ING
+.	O
+
+40	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mandorle	ING
+
+40	AMT
+g	AMT
+di	O
+pistacchi	ING
+tritati	O
+
+50	AMT
+g	AMT
+di	O
+polpa	O
+di	O
+zucca	ING
+mantovana	ING
+
+1	AMT
+cipolla	ING
+di	ING
+tropea	ING
+
+50	AMT
+g	AMT
+di	O
+arachidi	ING
+sgusciate	O
+
+600	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+vitello	ING
+
+1	AMT
+presa	AMT
+di	ING
+zucchero	ING
+
+300	AMT
+g	AMT
+di	O
+carote	ING
+novelle	ING
+
+1	AMT
+litro	AMT
+e	AMT
+300	AMT
+g	AMT
+di	O
+panna	ING
+
+300	AMT
+g	AMT
+pasta	ING
+fresca	ING
+
+200	AMT
+g	AMT
+di	O
+mollica	ING
+di	ING
+pane	ING
+bianco	ING
+secco	ING
+
+1	AMT
+ciuffo	AMT
+di	O
+cerfoglio	ING
+
+4	AMT
+grosse	O
+zucchine	ING
+dalla	O
+buccia	O
+scura	O
+
+la	O
+scorza	O
+grattugiata	O
+di	O
+un	AMT
+limone	ING
+
+130	AMT
+g	AMT
+di	O
+mandorle	ING
+pralinate	ING
+
+50	AMT
+ml	AMT
+di	O
+panna	ING
+fresca	ING
+
+falde	O
+di	O
+peperoni	ING
+
+200	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+di	O
+ottima	O
+qualità	O
+
+1	AMT
+bicchiere	AMT
+scarso	O
+di	O
+latte	ING
+
+2	AMT
+pomidoro	ING
+verdi	ING
+
+3	AMT
+-	AMT
+4	AMT
+rametti	AMT
+di	O
+rosmarino	ING
+
+300	AMT
+g	AMT
+di	O
+riso	ING
+superfino	O
+
+20	AMT
+g	AMT
+di	O
+noce	ING
+moscata	ING
+.	O
+
+50	AMT
+g	AMT
+di	O
+sale	ING
+fino	ING
+
+1500	AMT
+ml	AMT
+di	O
+brodo	ING
+di	ING
+pesce	ING
+
+1	AMT
+kg	AMT
+di	O
+gamberi	ING
+rossi	ING
+
+8	AMT
+fettine	AMT
+sottili	O
+di	ING
+pancetta	ING
+steccata	ING
+
+mandarino	ING
+
+170	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+250	AMT
+g	AMT
+di	O
+uva	ING
+fragola	ING
+
+100	AMT
+g	AMT
+di	O
+olio	ING
+di	ING
+noci	ING
+
+10	AMT
+foglie	AMT
+di	O
+basilico	ING
+fresco	O
+
+1/2	AMT
+foglia	AMT
+d'	O
+alloro	ING
+
+1	AMT
+confezione	AMT
+di	O
+pasta	ING
+sfoglia	ING
+rettangolare	O
+pronta	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+miele	ING
+di	ING
+castagno	ING
+
+100	AMT
+g	AMT
+d'	O
+olio	ING
+
+3	AMT
+fette	AMT
+di	O
+pancarrè	ING
+bianco	ING
+
+32	AMT
+piselli	ING
+freschi	O
+
+2	AMT
+cucchiai	AMT
+di	O
+cerfoglio	ING
+tritato	O
+
+320	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+300	AMT
+g	AMT
+di	O
+fesa	ING
+magrissima	O
+di	ING
+vitello	ING
+
+300	AMT
+g	AMT
+di	O
+gamberetti	ING
+sgusciati	O
+
+1	AMT
+tazzina	AMT
+di	O
+caffè	ING
+espresso	ING
+
+12	AMT
+g	AMT
+di	O
+bicarbonato	ING
+d'	ING
+ammonio	ING
+
+3	AMT
+foglie	AMT
+d'	O
+alloro	ING
+
+8	AMT
+fogli	AMT
+di	O
+gelatina	ING
+
+qualche	AMT
+cetriolino	ING
+sott'	ING
+aceto	ING
+
+400	AMT
+g	AMT
+di	O
+tagliatelle	ING
+all'	ING
+uovo	ING
+
+1/4	AMT
+di	AMT
+cucchiaino	AMT
+di	O
+peperoncino	ING
+
+lische	ING
+di	ING
+pesce	ING
+
+la	O
+scorza	O
+di	O
+1	AMT
+arancia	ING
+
+120	AMT
+g	AMT
+di	O
+burro	ING
+fuso	O
+e	O
+intiepidito	O
+
+45	AMT
+g	AMT
+di	O
+cacao	ING
+amaro	ING
+
+500	AMT
+g	AMT
+di	O
+macinato	ING
+di	ING
+vitello	ING
+
+250	AMT
+g	AMT
+di	O
+rum	ING
+
+180	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+4	AMT
+pomodori	ING
+rossi	ING
+medi	O
+
+5	AMT
+spicchi	AMT
+di	O
+aglio	ING
+
+scarti	O
+di	O
+carciofi	ING
+
+1	AMT
+bottiglietta	O
+di	O
+crodino	ING
+
+succo	ING
+di	ING
+limone	ING
+filtrato	O
+
+mirtilli	ING
+
+2	AMT
+uova	ING
+piccole	O
+
+1	AMT
+-	AMT
+2	AMT
+cucchiaini	AMT
+di	O
+salsa	ING
+worcester	ING
+
+400	AMT
+g	AMT
+di	O
+pomodori	ING
+pelati	ING
+
+1	AMT
+bicchierino	AMT
+di	O
+vodka	ING
+
+basilico	ING
+abbondante	O
+
+100	AMT
+g	AMT
+di	O
+pasta	ING
+corta	ING
+
+150	AMT
+g	AMT
+di	O
+fragoline	ING
+di	ING
+bosco	ING
+
+1	AMT
+bicchiere	AMT
+di	O
+panna	ING
+
+sale	ING
+azzurro	ING
+
+1	O
+litro	O
+e	O
+1/2	O
+di	O
+
+1	AMT
+cipolla	ING
+e	O
+1/4	O
+
+marsala	ING
+
+4	AMT
+gamberi	ING
+viola	ING
+
+200	AMT
+g	AMT
+di	O
+prosciutto	ING
+crudo	ING
+dolce	ING
+
+10	AMT
+g	AMT
+di	O
+lievito	ING
+istantaneo	ING
+
+rigatoni	ING
+
+6	AMT
+pere	ING
+
+400	AMT
+g	AMT
+di	O
+gelato	ING
+al	ING
+fiordilatte	ING
+o	O
+crema	O
+
+100	AMT
+g	AMT
+di	O
+panna	ING
+vegetale	ING
+
+8	AMT
+patate	ING
+medie	O
+
+indivia	ING
+riccia	ING
+qb	AMT
+
+100	AMT
+g	AMT
+di	O
+grano	ING
+saraceno	ING
+
+4	AMT
+fettine	AMT
+di	O
+fesa	ING
+di	ING
+vitello	ING
+
+12	AMT
+cl	AMT
+di	O
+olio	ING
+di	ING
+arachide	ING
+
+3	AMT
+cucchiaiate	AMT
+di	O
+olive	ING
+taggiasche	ING
+
+2	AMT
+rettangoli	O
+di	O
+pasta	ING
+all'	ING
+uovo	ING
+di	O
+25x30	O
+cm	O
+
+4	AMT
+uova	ING
+
+150	AMT
+g	AMT
+di	O
+fontina	ING
+
+1	AMT
+lime	ING
+
+60	AMT
+g	AMT
+di	O
+uvette	ING
+
+1/2	AMT
+tazza	AMT
+di	O
+chai	ING
+tea	ING
+speziato	ING
+
+di	O
+barolo	ING
+
+50	AMT
+g	AMT
+stracchino	ING
+
+1	AMT
+cipollotto	ING
+rosso	ING
+
+5	AMT
+cucchiai	AMT
+di	O
+grana	ING
+padano	ING
+grattugiato	O
+
+2	AMT
+cucchiai	AMT
+di	O
+formaggio	ING
+grattugiato	O
+
+6	AMT
+g	AMT
+lecitina	ING
+di	ING
+soia	ING
+
+4	AMT
+fragole	ING
+
+50	AMT
+ml	AMT
+di	O
+emulsione	O
+di	O
+olio	ING
+di	ING
+arachidi	ING
+e	O
+olio	O
+extra	O
+vergine	O
+di	O
+oliva	O
+
+340	AMT
+g	AMT
+di	O
+yogurt	ING
+intero	ING
+tipo	ING
+greco	ING
+
+110	AMT
+g	AMT
+di	O
+burro	ING
+leggermente	O
+salato	O
+morbido	O
+
+1/2	AMT
+foglio	AMT
+di	O
+colla	ING
+di	ING
+pesce	ING
+
+600	AMT
+g	AMT
+di	O
+patate	ING
+
+30	AMT
+ml	AMT
+d'	O
+acqua	ING
+fredda	O
+
+2	AMT
+cucchiai	AMT
+di	O
+sale	ING
+fino	ING
+
+0.10	AMT
+g	AMT
+di	O
+sansho	ING
+
+4	AMT
+rape	ING
+
+stigmi	O
+di	O
+zafferano	ING
+qb	AMT
+
+250	AMT
+gr	AMT
+di	O
+ricotta	ING
+fresca	ING
+
+50	AMT
+g	AMT
+di	O
+grana	ING
+padano	ING
+grattugiato	O
+
+250	AMT
+g	AMT
+di	O
+ceci	ING
+precotti	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+uvetta	ING
+
+3	AMT
+cucchiaini	AMT
+di	O
+lievito	ING
+
+1	AMT
+pizzico	AMT
+di	O
+sale	ING
+.	O
+
+1	O
+bicchiere	O
+di	O
+
+1	AMT
+cucchiaio	AMT
+di	O
+cacao	ING
+amaro	ING
+
+1	AMT
+manciata	AMT
+di	O
+fagiolini	ING
+teneri	O
+
+mentuccia	ING
+
+4	AMT
+-	AMT
+5	AMT
+cucchiai	AMT
+di	O
+uvetta	ING
+
+750	AMT
+g	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+6	AMT
+pomodori	ING
+sardi	ING
+
+80	AMT
+g	AMT
+di	O
+quartirolo	ING
+
+30	AMT
+g	AMT
+di	O
+pangrattato	ING
+
+panna	ING
+montata	O
+
+16	AMT
+bacche	ING
+di	ING
+ginepro	ING
+
+60	AMT
+g	AMT
+di	O
+gorgonzola	ING
+piccante	ING
+
+1	AMT
+mazzetto	AMT
+di	O
+asparagi	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+miglio	ING
+
+1	AMT
+cipolla	ING
+piccola	O
+gialla	ING
+
+3	AMT
+limoni	ING
+
+guinness	ING
+
+1	AMT
+manciata	AMT
+di	O
+prezzemolo	ING
+fresco	O
+
+300	AMT
+g	AMT
+di	O
+mozzarella	ING
+
+2	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+cozze	ING
+
+semi	ING
+di	ING
+chia	ING
+
+50	AMT
+g	AMT
+rucola	ING
+fresca	O
+
+80	AMT
+g	AMT
+di	O
+uvetta	ING
+chiara	O
+
+30	AMT
+conchiglioni	ING
+
+mezzo	AMT
+cucchiaio	AMT
+di	O
+concentrato	ING
+di	ING
+pomodoro	ING
+
+100	AMT
+g	AMT
+di	O
+salame	ING
+piccante	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+di	O
+latte	ING
+
+250	AMT
+g	AMT
+di	O
+farro	ING
+precotto	O
+
+15	AMT
+gr	AMT
+di	O
+zucchero	ING
+
+100	AMT
+ml	AMT
+di	O
+birra	ING
+chiara	ING
+
+pane	ING
+raffermo	ING
+
+1	AMT
+1/2	AMT
+kg	AMT
+di	O
+sale	ING
+grosso	O
+
+500	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+tipo	ING
+2	ING
+di	O
+frumenti	O
+antichi	O
+
+100	AMT
+g	AMT
+di	O
+champignon	ING
+
+senape	ING
+dolce	ING
+
+200	AMT
+g	AMT
+di	O
+granella	ING
+di	ING
+nocciole	ING
+
+150	AMT
+g	AMT
+di	O
+zucchero	ING
+
+250	AMT
+g	AMT
+di	O
+speck	ING
+
+110	AMT
+g	AMT
+di	O
+farina	ING
+"	O
+00	ING
+"	O
+
+150	AMT
+g	AMT
+parmigiano	ING
+reggiano	ING
+
+dente	ING
+di	ING
+lupo	ING
+
+50	AMT
+g	AMT
+di	O
+capperi	ING
+di	O
+pantelleria	O
+
+400	AMT
+g	AMT
+di	O
+broccolo	ING
+
+375	AMT
+g	AMT
+di	O
+miele	ING
+
+4	AMT
+foglie	AMT
+di	O
+mentuccia	ING
+
+360	AMT
+g	AMT
+di	O
+spaghetti	ING
+tipo	ING
+vermicelli	ING
+
+pancetta	ING
+fresca	O
+di	ING
+maiale	ING
+
+100	AMT
+g	AMT
+burro	ING
+
+300	AMT
+ml	AMT
+di	O
+salsa	ING
+di	ING
+pomodoro	ING
+datterino	ING
+
+1	AMT
+bicchiere	AMT
+e	AMT
+1/2	AMT
+d'	O
+acqua	ING
+
+125	AMT
+g	AMT
+di	O
+lamponi	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+gherigli	O
+di	O
+noci	ING
+
+100	AMT
+g	AMT
+farina	ING
+
+100	AMT
+g	AMT
+di	O
+formaggio	ING
+cremoso	ING
+
+semi	ING
+di	ING
+papavero	ING
+
+2	AMT
+foglie	AMT
+di	O
+spinaci	ING
+freschi	O
+
+1	AMT
+cestino	AMT
+di	ING
+datterini	ING
+
+ovetti	ING
+confettati	ING
+colorati	ING
+
+1	AMT
+foglia	AMT
+d'	O
+alloro	ING
+
+300	AMT
+g	AMT
+di	O
+fagiolini	ING
+verdi	ING
+
+3	AMT
+-	AMT
+4	AMT
+gocce	ING
+di	ING
+tabasco	ING
+
+10	AMT
+g	AMT
+di	O
+rum	ING
+
+cotiche	ING
+
+zucchero	ING
+
+100	AMT
+g	AMT
+di	O
+latte	ING
+
+9	AMT
+dl	AMT
+circa	O
+di	O
+acqua	ING
+
+3	AMT
+cucchiai	AMT
+d'	O
+acqua	ING
+
+2	AMT
+dentici	ING
+piccoli	O
+sfilettati	ING
+
+100	AMT
+gr	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+
+1	AMT
+kg	AMT
+di	O
+frutta	ING
+mista	ING
+tagliata	O
+
+grana	ING
+
+1	AMT
+kg	AMT
+di	O
+polpo	ING
+
+pasta	ING
+di	ING
+peperoncino	ING
+
+8	AMT
+mezzi	O
+pomidoro	ING
+sotto	ING
+sale	ING
+
+300	AMT
+g	AMT
+di	O
+piselli	ING
+
+400	AMT
+-	AMT
+500	AMT
+g	AMT
+di	O
+polpa	O
+di	O
+zucca	ING
+mantovana	ING
+
+350	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+spalmabile	ING
+
+150	AMT
+g	AMT
+ceci	ING
+cotti	ING
+scolati	O
+
+4	AMT
+-	AMT
+6	AMT
+fette	AMT
+di	O
+pane	ING
+casereccio	ING
+
+yogurt	ING
+al	ING
+naturale	ING
+
+frutta	ING
+fresca	ING
+
+1	AMT
+litro	AMT
+d'	O
+acqua	ING
+bollente	O
+
+100	AMT
+ml	AMT
+latte	ING
+fresco	O
+intero	ING
+
+150	AMT
+g	AMT
+di	O
+stracciatella	ING
+di	ING
+burrata	ING
+
+150	AMT
+g	AMT
+di	O
+fegatini	ING
+di	ING
+pollo	ING
+tritati	O
+
+3	AMT
+cucchiai	AMT
+d'	O
+olio	ING
+
+2	AMT
+entrecote	ING
+di	ING
+manzo	ING
+da	O
+circa	O
+300	O
+g	O
+l'	O
+una	O
+
+semi	ING
+di	ING
+sesamo	ING
+bianco	O
+
+600	AMT
+g	AMT
+di	O
+riso	ING
+carnaroli	ING
+
+500	AMT
+g	AMT
+di	O
+merluzzo	ING
+fresco	O
+
+brodo	ING
+di	ING
+carne	ING
+o	O
+brodo	O
+di	O
+cappone	O
+
+altro	O
+rum	ING
+e	O
+sherry	O
+
+2	AMT
+-	AMT
+3	AMT
+cucchiai	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+375	AMT
+g	AMT
+di	O
+zucchero	ING
+
+pepe	ING
+di	ING
+sichuan	ING
+
+120	AMT
+g	AMT
+di	O
+provolone	ING
+piccante	ING
+
+50	AMT
+g	AMT
+di	O
+provola	ING
+affumicata	ING
+
+50	AMT
+g	AMT
+di	O
+bra	ING
+duro	ING
+
+300	AMT
+ml	AMT
+di	O
+brodo	ING
+vegetale	ING
+
+50	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+36	O
+mesi	O
+grattugiato	O
+al	O
+momento	O
+
+mezzo	AMT
+mango	ING
+
+220	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+all'85	ING
+%	ING
+
+400	AMT
+g	AMT
+di	O
+salmone	ING
+affumicato	ING
+
+50	AMT
+g	AMT
+di	O
+riso	ING
+soffiato	ING
+
+triglie	ING
+
+dischetti	O
+di	O
+cioccolato	ING
+fondente	ING
+di	O
+varie	O
+misure	O
+
+320	AMT
+g	AMT
+di	O
+garganelli	ING
+freschi	O
+all'	ING
+uovo	ING
+
+scampi	ING
+
+100	AMT
+g	AMT
+di	O
+finferli	ING
+secchi	ING
+
+40	AMT
+ml	AMT
+di	O
+olio	ING
+
+6	AMT
+sgombri	ING
+grandi	O
+
+aglio	ING
+ursino	ING
+secco	ING
+
+40	AMT
+g	AMT
+burro	ING
+
+1	AMT
+cotechino	ING
+
+4	AMT
+cucchiai	AMT
+di	O
+miele	ING
+millefiori	ING
+
+60	AMT
+g	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+
+100	AMT
+g	AMT
+di	O
+grana	ING
+padano	ING
+grattugiato	O
+
+300	AMT
+g	AMT
+di	O
+yogurt	ING
+alla	ING
+mela	ING
+verde	ING
+
+ribes	ING
+rosso	ING
+
+60	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+segale	ING
+
+crema	ING
+spalmabile	ING
+qb	AMT
+
+curcuma	ING
+
+1	AMT
+kg	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+macinata	O
+sottilmente	O
+
+160	AMT
+g	AMT
+mezzi	ING
+paccheri	ING
+
+2	AMT
+meloni	ING
+maturi	O
+
+3	AMT
+melanzane	ING
+tonde	ING
+piuttosto	O
+grandi	O
+e	O
+dalla	O
+forma	O
+regolare	O
+
+12	AMT
+fettine	AMT
+di	O
+pane	ING
+
+250	AMT
+g	AMT
+di	O
+mascapore	ING
+
+42	AMT
+cl	AMT
+di	O
+latte	ING
+di	ING
+cocco	ING
+
+kg	AMT
+1	AMT
+di	O
+lombata	ING
+di	ING
+vitello	ING
+disossata	O
+e	O
+
+100	AMT
+g	AMT
+di	O
+funghi	ING
+
+100	AMT
+g	AMT
+di	O
+lattuga	ING
+
+100	AMT
+g	AMT
+di	O
+miele	ING
+
+250	AMT
+g	AMT
+di	O
+pancetta	ING
+tesa	O
+
+brodo	ING
+di	ING
+carne	ING
+qb	AMT
+
+2	AMT
+banane	ING
+
+120	AMT
+g	AMT
+di	O
+formaggio	ING
+tipo	ING
+stanga	ING
+di	O
+dobbiaco	O
+
+1	AMT
+cipolla	ING
+dolce	ING
+rossa	O
+
+250	AMT
+g	AMT
+di	O
+pomodori	ING
+pelati	ING
+
+50	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+
+2	AMT
+etti	ING
+di	O
+lonza	ING
+di	ING
+maiale	ING
+
+un	AMT
+ciuffo	AMT
+di	O
+prezzemolo	ING
+
+120	AMT
+g	AMT
+di	O
+provola	ING
+
+1	AMT
+peperoncino	ING
+rosso	ING
+tondo	ING
+
+200	AMT
+g	AMT
+di	O
+piselli	ING
+freschi	O
+
+125	AMT
+g	AMT
+di	O
+lamponi	ING
+freschi	O
+
+200	AMT
+g	AMT
+di	O
+salame	ING
+ungherese	ING
+
+50	AMT
+g	AMT
+mandorle	ING
+
+qualche	O
+fogliolina	O
+di	O
+menta	ING
+
+0.10	AMT
+g	AMT
+di	O
+sansho	ING
+
+panna	ING
+di	ING
+soia	ING
+
+400	AMT
+g	AMT
+di	O
+purea	ING
+o	O
+mousse	O
+di	ING
+mele	ING
+confezionata	O
+
+1	AMT
+spicchio	AMT
+di	O
+aglio	ING
+
+1	AMT
+vasetto	AMT
+di	O
+farina	ING
+d'	ING
+avena	ING
+
+100	AMT
+g	AMT
+di	O
+pancetta	ING
+affumicata	ING
+
+5	AMT
+arance	ING
+rosse	ING
+di	O
+sicilia	O
+bio	O
+
+buccia	O
+grattugiata	O
+di	O
+limone	ING
+e	O
+arancia	O
+
+1	AMT
+cucchiaino	AMT
+di	O
+olio	ING
+
+800	AMT
+g	AMT
+di	O
+polpo	ING
+
+4	AMT
+dl	AMT
+e	AMT
+1/2	AMT
+d'	O
+acqua	ING
+
+150	AMT
+g	AMT
+di	O
+piselli	ING
+
+1	AMT
+anguria	ING
+piccola	O
+
+400	AMT
+g	AMT
+di	O
+carne	ING
+di	ING
+manzo	ING
+
+2	AMT
+mazzetti	AMT
+di	O
+cicorino	ING
+
+1	AMT
+limone	ING
+bio	O
+
+2	AMT
+di	O
+succo	ING
+di	ING
+lime	ING
+
+2	AMT
+patate	ING
+grandi	O
+
+2	AMT
+cucchiai	AMT
+di	O
+scorza	ING
+di	ING
+limone	ING
+
+scorza	O
+grattugiata	O
+di	O
+1	AMT
+limone	ING
+e	O
+di	O
+1	O
+arancia	O
+
+1l	ING
+di	O
+olio	ING
+di	ING
+girasole	ING
+
+nutella	ING
+qb	AMT
+
+una	AMT
+manciata	AMT
+di	O
+parmigiano	ING
+
+5	AMT
+litri	AMT
+d'	O
+acqua	ING
+
+100	AMT
+g	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+
+90	AMT
+g	AMT
+di	O
+pecorino	ING
+grattugiato	O
+
+mandorle	ING
+pelate	ING
+
+2	AMT
+melanzane	ING
+medie	O
+
+lievito	ING
+vanigliato	ING
+
+6	AMT
+pompelmi	ING
+rosa	ING
+
+30	AMT
+ml	AMT
+di	O
+latte	ING
+intero	ING
+
+50	AMT
+ml	AMT
+di	O
+latte	ING
+di	ING
+soia	ING
+al	O
+naturale	O
+
+10	AMT
+g	AMT
+di	O
+fecola	ING
+di	ING
+patate	ING
+
+1/2	AMT
+cipolla	ING
+bianca	ING
+
+1	AMT
+confezione	AMT
+di	O
+pasta	ING
+fillo	ING
+
+liquore	ING
+all'	ING
+arancia	ING
+
+2	AMT
+rametti	AMT
+di	O
+maggiorana	ING
+fresca	O
+
+salvia	ING
+fresca	O
+
+1	AMT
+vasetto	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+150	AMT
+g	AMT
+di	O
+grano	ING
+saraceno	ING
+
+1/2	AMT
+cucchiaio	AMT
+di	O
+liquore	ING
+d'	ING
+anice	ING
+o	O
+rum	O
+
+2	AMT
+gattucci	ING
+di	ING
+mare	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+riso	ING
+termotrattata	O
+
+150	AMT
+g	AMT
+di	O
+rigaglie	ING
+di	ING
+pollo	ING
+
+200	AMT
+g	AMT
+di	O
+pisellini	ING
+surgelati	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+funghetti	ING
+sott'	ING
+olio	ING
+
+2	AMT
+infiorescenze	ING
+di	ING
+finocchietto	ING
+secco	ING
+o	O
+1	O
+cucchiaino	O
+di	O
+semi	O
+di	O
+finocchio	O
+
+3	AMT
+cucchiai	AMT
+di	O
+aceto	ING
+di	ING
+lamponi	ING
+biologico	O
+
+260	AMT
+g	AMT
+zucchero	ING
+integrale	ING
+di	ING
+canna	ING
+
+fiocchi	ING
+di	ING
+sale	ING
+
+1	AMT
+polpo	ING
+fresco	O
+da	O
+1	O
+kg	O
+
+50	AMT
+cl	AMT
+latte	ING
+
+6	AMT
+fette	AMT
+di	O
+cetriolo	ING
+
+500	AMT
+g	AMT
+di	O
+pasta	ING
+frolla	ING
+pronta	O
+
+400	AMT
+g	AMT
+di	O
+pomodori	ING
+perini	ING
+
+4	AMT
+mele	ING
+pinova	ING
+
+300	AMT
+g	AMT
+di	O
+mascarpone	ING
+freddo	ING
+
+25	AMT
+g	AMT
+di	O
+uvetta	ING
+
+4	AMT
+-	AMT
+5	AMT
+pesche	ING
+gialle	ING
+mature	O
+ma	O
+sode	O
+
+250	AMT
+g	AMT
+di	O
+biscotti	ING
+all'	ING
+avena	ING
+
+gherigli	O
+di	O
+noci	ING
+
+pepe	ING
+rosa	ING
+
+400	AMT
+g	AMT
+di	O
+farina	ING
+bianca	ING
+
+4	AMT
+mele	ING
+red	ING
+delicious	ING
+
+80	AMT
+g	AMT
+di	O
+more	ING
+
+1	AMT
+dl	AMT
+scarso	O
+di	O
+aceto	ING
+
+mandarini	ING
+
+50	AMT
+g	AMT
+di	O
+prezzemolo	ING
+tritato	O
+
+500	AMT
+g	AMT
+di	O
+seppioline	ING
+
+parmigiano	ING
+
+75	AMT
+g	AMT
+malto	O
+di	O
+riso	ING
+
+1	AMT
+pizzico	AMT
+di	O
+lievito	ING
+vanigliato	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+amaranto	ING
+
+fioretto	ING
+di	ING
+mais	ING
+
+sorbetto	ING
+ai	ING
+lamponi	ING
+
+4	AMT
+-	AMT
+5	AMT
+foglie	AMT
+di	O
+salvia	ING
+
+15	AMT
+gr	AMT
+farina	ING
+di	ING
+mandorle	ING
+
+2	AMT
+cuori	O
+di	O
+sedano	ING
+
+250	AMT
+g	AMT
+di	O
+pecorino	ING
+
+2	AMT
+litri	AMT
+circa	O
+di	O
+acqua	ING
+
+30	AMT
+g	AMT
+di	O
+tuorlo	ING
+d'	ING
+uovo	ING
+
+300	AMT
+g	AMT
+di	O
+yogurt	ING
+intero	ING
+denso	O
+
+80	AMT
+g	AMT
+circa	O
+di	O
+farina	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+capperi	ING
+sotto	ING
+sale	ING
+
+200	AMT
+grammi	AMT
+di	O
+moscardini	ING
+
+150	AMT
+dl	AMT
+di	O
+brodo	ING
+vegetale	ING
+
+40	AMT
+g	AMT
+di	O
+mandorle	ING
+
+200	AMT
+g	AMT
+di	O
+riso	ING
+
+1/2	AMT
+litro	AMT
+di	O
+mosto	ING
+filtrato	O
+
+300	AMT
+g	AMT
+di	O
+ricotta	ING
+morbida	O
+
+3	AMT
+salsicce	ING
+fresche	O
+
+150	AMT
+g	AMT
+di	O
+confettura	ING
+di	ING
+albicocche	ING
+
+320	AMT
+g	AMT
+rigatoni	ING
+
+150	AMT
+g	AMT
+di	O
+spinaci	ING
+lessati	O
+
+300	AMT
+g	AMT
+di	O
+dadolata	ING
+di	ING
+pomodoro	ING
+pronta	O
+
+2	AMT
+g	AMT
+di	O
+gelatina	ING
+
+30	AMT
+g	AMT
+di	O
+carne	ING
+macinata	ING
+
+300	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+
+ricotta	ING
+
+200	AMT
+g	AMT
+di	O
+scamorza	ING
+fresca	O
+sfilacciata	O
+
+100	AMT
+g	AMT
+di	O
+burro	ING
+freddo	O
+
+2	AMT
+cucchiai	AMT
+di	O
+aceto	ING
+balsamico	ING
+di	ING
+modena	ING
+
+1	AMT
+melanzana	ING
+
+1	AMT
+bicchierino	AMT
+di	O
+grand	ING
+marnier	ING
+
+50	AMT
+g	AMT
+di	O
+formaggio	ING
+emmenthal	ING
+
+80	AMT
+g	AMT
+d'	O
+insalata	ING
+rossa	O
+trevisana	ING
+
+500	AMT
+g	AMT
+di	O
+riso	ING
+vialone	ING
+nano	ING
+
+20	AMT
+g	AMT
+di	O
+semolino	ING
+
+200	AMT
+g	AMT
+di	O
+macinato	ING
+di	ING
+maiale	ING
+
+600	AMT
+g	AMT
+di	O
+carré	ING
+di	ING
+vitello	ING
+
+100	AMT
+g	AMT
+di	O
+maionese	ING
+
+180	AMT
+g	AMT
+di	O
+salsa	ING
+di	ING
+pomodoro	ING
+
+2	AMT
+o	AMT
+3	AMT
+code	ING
+di	ING
+gambero	ING
+
+10	AMT
+ml	AMT
+di	O
+aceto	ING
+
+12	AMT
+lasagne	ING
+.	O
+
+mollica	O
+di	O
+1	AMT
+panino	ING
+
+10	AMT
+g	AMT
+di	O
+semi	ING
+di	ING
+sesamo	ING
+
+fiori	ING
+di	ING
+pesco	ING
+
+200	AMT
+g	AMT
+di	O
+formaggio	ING
+fresco	ING
+spalmabile	ING
+
+1/2	AMT
+spicchio	AMT
+d'	O
+aglio	ING
+
+2	AMT
+melanzane	ING
+bianche	ING
+
+4	AMT
+melanzane	ING
+tonde	ING
+viola	O
+chiare	O
+
+1/2	AMT
+dado	ING
+
+35	AMT
+g	AMT
+di	O
+fecola	ING
+di	ING
+patate	ING
+
+140	AMT
+g	AMT
+di	O
+fiocchi	ING
+d'	ING
+avena	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+burro	ING
+d'	ING
+arachidi	ING
+
+confettura	ING
+di	ING
+albicocche	ING
+
+50	AMT
+g	AMT
+di	O
+capperi	ING
+dissalati	ING
+
+moscato	ING
+
+olio	ING
+extra	ING
+vergine	ING
+
+150	AMT
+g	AMT
+di	O
+mandorle	ING
+spellate	ING
+
+100	AMT
+g	AMT
+di	O
+roquefort	ING
+
+il	O
+succo	O
+e	O
+la	O
+scorza	O
+di	O
+1	AMT
+lime	ING
+
+noce	O
+di	O
+burro	ING
+
+100	AMT
+g	AMT
+di	O
+fesa	ING
+di	ING
+tacchino	ING
+
+olio	ING
+di	ING
+arachidi	ING
+
+100	AMT
+g	AMT
+di	O
+sottilette	ING
+
+120	AMT
+g	AMT
+di	O
+zucchero	ING
+vanigliato	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+olive	ING
+verdi	ING
+denocciolate	O
+
+1	AMT
+bicchiere	AMT
+di	O
+maionese	ING
+pronta	O
+
+175	AMT
+g	AMT
+di	O
+zucchero	ING
+di	ING
+canna	ING
+
+650	AMT
+g	AMT
+di	O
+panna	ING
+
+240	AMT
+g	AMT
+riso	ING
+vialone	ING
+
+600	AMT
+g	AMT
+di	O
+fettine	O
+di	O
+polpa	ING
+di	ING
+maiale	ING
+
+basilico	ING
+o	O
+erbe	O
+
+2	AMT
+cucchiai	AMT
+di	O
+succo	ING
+d'	ING
+ananas	ING
+
+1	AMT
+dl	AMT
+di	O
+latte	ING
+
+500	AMT
+g	AMT
+di	O
+fegatini	ING
+di	ING
+pollo	ING
+
+350	AMT
+g	AMT
+di	O
+riso	ING
+lungo	ING
+
+2	AMT
+mestoli	ING
+circa	O
+di	O
+brodo	ING
+vegetale	ING
+
+2	AMT
+pere	ING
+williams	ING
+
+125	AMT
+ml	AMT
+di	O
+panna	ING
+fresca	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+pangrattato	ING
+
+12	AMT
+rettangoli	AMT
+di	O
+pasta	ING
+all'	ING
+uovo	ING
+.	O
+
+1	AMT
+kg	AMT
+circa	O
+di	O
+arista	ING
+
+6	AMT
+g	AMT
+di	O
+lievito	ING
+di	ING
+birra	ING
+disidratato	ING
+
+5	AMT
+litri	AMT
+di	O
+brodo	ING
+vegetale	ING
+
+600	AMT
+g	AMT
+di	O
+mele	ING
+golden	ING
+
+250	AMT
+g	AMT
+di	O
+pelati	ING
+o	O
+pomodori	O
+freschi	O
+
+30	AMT
+g	AMT
+di	O
+parmigiano	ING
+reggiano	ING
+
+50	AMT
+g	AMT
+di	O
+olive	ING
+verdi	ING
+
+40	AMT
+g	AMT
+granella	ING
+di	ING
+pistacchi	ING
+
+85	AMT
+g	AMT
+di	O
+latte	ING
+intero	ING
+
+60	AMT
+ml	AMT
+di	O
+burro	ING
+fuso	O
+
+1	AMT
+pizzico	AMT
+di	O
+origano	ING
+
+miele	ING
+
+riccioli	O
+di	O
+cioccolato	ING
+bianco	ING
+e	O
+fondente	O
+
+8	AMT
+calamari	ING
+freschi	O
+
+caviale	ING
+di	ING
+limone	ING
+
+12	AMT
+-	AMT
+14	AMT
+fettine	AMT
+di	O
+salmone	ING
+affumicato	ING
+
+poche	AMT
+gocce	AMT
+di	O
+tabasco	ING
+
+250	AMT
+g	AMT
+di	O
+petto	ING
+di	ING
+pollo	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+
+1	AMT
+bicchiere	AMT
+e	AMT
+1/2	AMT
+d'	O
+aceto	ING
+
+1/2	AMT
+cubetto	ING
+di	ING
+lievito	ING
+
+200	AMT
+g	AMT
+di	O
+burro	ING
+freddo	O
+da	O
+frigorifero	O
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+sale	ING
+
+cannella	ING
+
+500	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+farro	ING
+integrale	ING
+
+sciroppo	ING
+di	ING
+granatina	ING
+
+120	AMT
+g	AMT
+di	O
+tonno	ING
+
+10	AMT
+pomodori	ING
+maturi	O
+
+crunchy	ING
+di	ING
+riso	ING
+al	ING
+pepe	ING
+"	O
+gli	O
+aironi	O
+"	O
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+
+3	AMT
+pomodori	ING
+ramati	O
+
+insalata	ING
+mista	ING
+
+120	AMT
+g	AMT
+di	O
+salsa	ING
+di	ING
+pomodoro	ING
+
+patata	ING
+
+300	AMT
+g	AMT
+di	O
+patate	ING
+
+50	AMT
+g	AMT
+di	O
+manzo	ING
+
+1	AMT
+pollo	ING
+ruspante	O
+tagliato	O
+
+80	AMT
+ml	AMT
+di	O
+latte	ING
+intero	ING
+
+2	AMT
+mele	ING
+fuji	ING
+
+1/2	AMT
+bacca	AMT
+di	O
+vaniglia	ING
+bourbon	O
+
+burro	ING
+2	AMT
+cucchiai	AMT
+
+12	AMT
+acciughe	ING
+sott'	ING
+olio	ING
+
+cacio	ING
+fresco	O
+maremmano	ING
+
+4	AMT
+filetti	ING
+d'	ING
+acciuga	ING
+sott'	ING
+olio	ING
+
+2	AMT
+pomodori	ING
+perini	ING
+
+1/4	AMT
+di	AMT
+cucchiaino	AMT
+di	O
+curcuma	ING
+
+580	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+50	AMT
+g	AMT
+di	O
+olive	ING
+nere	ING
+e	O
+verdi	O
+
+250	AMT
+g	AMT
+di	O
+trita	ING
+di	ING
+manzo	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+senape	ING
+
+2	AMT
+listarelle	AMT
+di	O
+peperone	ING
+verde	ING
+
+gocce	O
+di	O
+cioccolato	ING
+fondente	ING
+qb	AMT
+
+wasabi	ING
+
+100	AMT
+g	AMT
+di	O
+ribes	ING
+
+400	AMT
+g	AMT
+di	O
+spinaci	ING
+
+1/2	AMT
+bustina	AMT
+di	O
+lievito	ING
+secco	ING
+
+la	O
+scorza	O
+e	O
+il	O
+succo	O
+di	O
+un	AMT
+limone	ING
+
+350	AMT
+g	AMT
+di	O
+fusilli	ING
+
+200	AMT
+g	AMT
+di	O
+savoiardi	ING
+
+1	AMT
+mela	ING
+fuji	ING
+
+250	AMT
+g	AMT
+di	O
+fagioli	ING
+borlotti	ING
+lessati	O
+
+100	AMT
+g	AMT
+di	O
+provola	ING
+affumicata	ING
+o	O
+scamorza	O
+
+olio	ING
+
+600	AMT
+g	AMT
+di	O
+mele	ING
+alto	O
+adige	O
+igp	O
+
+2	AMT
+peperoni	ING
+sott'	ING
+olio	ING
+
+scorze	O
+d'	O
+arancia	ING
+candite	ING
+
+5	AMT
+cucchiai	AMT
+di	O
+olive	ING
+taggiasche	ING
+
+400	AMT
+g	AMT
+di	O
+spada	ING
+
+1	AMT
+tazzina	AMT
+di	O
+caffè	ING
+espresso	ING
+
+230	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+macinata	ING
+finissima	O
+tipo	O
+fioretto	O
+
+1	AMT
+vasetto	AMT
+di	O
+salsa	ING
+aurora	ING
+
+320	AMT
+g	AMT
+di	O
+farina	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+piselli	ING
+lessati	O
+
+2	AMT
+cucchiai	AMT
+d'	O
+olio	ING
+di	ING
+oliva	ING
+
+tartufo	ING
+nero	ING
+
+8	AMT
+fettine	AMT
+di	O
+filetto	ING
+di	ING
+maiale	ING
+da	O
+100	O
+g	O
+l'	O
+una	O
+
+800	AMT
+g	AMT
+di	O
+fesa	ING
+di	ING
+vitello	ING
+
+4	AMT
+indivie	ING
+belghe	ING
+
+200	AMT
+g	AMT
+circa	O
+di	O
+risotto	ING
+ai	ING
+funghi	ING
+avanzato	O
+
+100	AMT
+g	AMT
+di	O
+pomodori	ING
+datterini	ING
+
+pepe	ING
+bianco	ING
+.	O
+
+4	AMT
+cucchiai	AMT
+di	O
+latte	ING
+condensato	ING
+
+1	AMT
+larga	O
+fetta	AMT
+di	O
+carne	ING
+di	ING
+vitello	ING
+
+24	AMT
+fette	AMT
+di	O
+bacon	ING
+
+150	AMT
+g	AMT
+di	O
+pangrattato	ING
+
+2	AMT
+cipollotti	ING
+viola	ING
+
+1	AMT
+noce	AMT
+di	O
+cocco	ING
+piccola	O
+
+400	AMT
+g	AMT
+di	O
+seirass	ING
+
+150	AMT
+gdi	O
+panna	ING
+
+1	AMT
+barattolo	AMT
+di	O
+pomodorini	ING
+datterini	ING
+pelati	ING
+
+15	AMT
+g	AMT
+di	O
+burro	ING
+.	ING
+
+320	AMT
+g	AMT
+di	O
+maccheroni	ING
+
+50	AMT
+g	AMT
+di	O
+salame	ING
+
+12	AMT
+cl	AMT
+di	O
+latte	ING
+intero	ING
+
+4	AMT
+piccioni	ING
+eviscerati	O
+e	O
+i	O
+loro	O
+fegatini	O
+
+6	AMT
+costine	ING
+di	ING
+maiale	ING
+
+300	AMT
+g	AMT
+di	O
+trota	ING
+affumicata	ING
+
+500	AMT
+g	AMT
+farina	ING
+
+6	AMT
+fette	AMT
+di	O
+pandoro	ING
+
+2	AMT
+foglie	AMT
+di	O
+lime	ING
+kaffir	ING
+
+1	AMT
+dose	AMT
+di	O
+crema	ING
+pasticciera	ING
+preparata	O
+con	O
+metà	O
+latte	O
+e	O
+metà	O
+latte	O
+di	O
+cocco	O
+
+2	AMT
+foglie	AMT
+di	O
+salvia	ING
+
+grappa	ING
+qb	AMT
+
+olio	ING
+di	ING
+semi	ING
+
+500	AMT
+g	AMT
+di	O
+scarola	ING
+lessata	O
+
+maniche	ING
+di	ING
+frate	ING
+
+450	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+manzo	ING
+tritata	O
+
+4	AMT
+tuorli	ING
+d'	ING
+uovo	ING
+
+30	AMT
+g	AMT
+di	O
+panna	ING
+montata	O
+
+4	AMT
+pomodori	ING
+rossi	ING
+di	O
+grandezza	O
+media	O
+
+800	AMT
+g	AMT
+di	O
+filetto	ING
+di	ING
+maiale	ING
+
+3	AMT
+-	AMT
+4	AMT
+cucchiai	AMT
+di	O
+panna	ING
+
+1/2	AMT
+cipolla	ING
+tritata	O
+molto	O
+fine	O
+
+1	AMT
+dl	AMT
+di	O
+acqua	ING
+
+300	AMT
+g	AMT
+di	O
+farina	ING
+“	O
+0	ING
+
+10	AMT
+foglie	AMT
+di	O
+menta	ING
+
+1	AMT
+kg	AMT
+di	O
+lische	O
+e	O
+teste	O
+di	O
+pesci	ING
+vari	ING
+
+1/2	AMT
+verza	ING
+piccola	O
+
+uno	AMT
+spicchio	AMT
+d'	O
+aglio	ING
+
+1	AMT
+cespo	AMT
+di	O
+lattuga	ING
+cappuccia	ING
+
+100	AMT
+g	AMT
+di	O
+fontina	ING
+
+maionese	ING
+qb	AMT
+
+4	AMT
+acciughe	ING
+sott'	ING
+olio	ING
+
+70	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+
+foglie	AMT
+di	O
+dragoncello	ING
+
+rosmarino	ING
+.	O
+
+150	AMT
+g	AMT
+di	O
+tarallini	ING
+
+55	AMT
+g	AMT
+di	O
+gocce	ING
+di	ING
+cioccolato	ING
+
+250	AMT
+g	AMT
+di	O
+panna	ING
+fresca	ING
+semimontata	O
+
+150	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+pomodoro	ING
+
+1	AMT
+cucchiaino	AMT
+d'	O
+olio	ING
+extravergine	ING
+d'	ING
+oliva	ING
+
+225	AMT
+ml	AMT
+di	O
+latte	ING
+di	ING
+soia	ING
+
+200	AMT
+g	AMT
+di	O
+emmental	ING
+
+800	AMT
+g	AMT
+di	O
+seppie	ING
+piccole	O
+
+30	AMT
+gr	AMT
+melissa	ING
+
+succo	ING
+di	ING
+pesca	ING
+e	O
+limone	O
+
+insalata	ING
+verde	ING
+
+400	AMT
+g	AMT
+circa	O
+di	O
+pomodori	ING
+rossi	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+
+100	AMT
+g	AMT
+di	O
+tarassaco	ING
+
+35	AMT
+ml	AMT
+tequila	ING
+bianca	ING
+o	O
+mezcal	O
+
+125	AMT
+g	AMT
+di	O
+succodi	ING
+limone	ING
+
+14	AMT
+uova	ING
+di	ING
+quaglia	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+fior	ING
+di	ING
+sale	ING
+
+16	AMT
+g	AMT
+farina	ING
+
+4	AMT
+fette	AMT
+di	O
+salame	ING
+toscano	ING
+
+1	AMT
+ciuffo	AMT
+abbondante	O
+di	ING
+mentuccia	ING
+fresca	O
+
+200	AMT
+g	AMT
+di	O
+spinaci	ING
+lessati	O
+
+250	AMT
+g	AMT
+di	O
+foglioline	O
+di	O
+ortiche	ING
+
+380	AMT
+g	AMT
+di	O
+scarola	ING
+
+100	AMT
+g	AMT
+di	O
+focaccia	ING
+
+3	AMT
+bicchieri	AMT
+di	O
+vino	ING
+bianco	ING
+secco	ING
+
+1	AMT
+kg	AMT
+di	O
+lombata	ING
+di	ING
+vitello	ING
+
+50	AMT
+g	AMT
+di	O
+bottarga	ING
+di	ING
+muggine	ING
+
+buccia	O
+di	O
+arancia	ING
+fresca	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+bicarbonato	ING
+
+300	AMT
+g	AMT
+di	O
+carne	ING
+macinata	ING
+di	ING
+vitello	ING
+
+2	AMT
+litri	AMT
+e	AMT
+1/2	AMT
+di	O
+acqua	ING
+
+1	AMT
+tazza	AMT
+di	O
+besciamella	ING
+
+pepe	ING
+di	O
+tre	O
+varietà	O
+
+105	AMT
+g	AMT
+di	O
+burro	ING
+morbido	O
+
+45	AMT
+g	AMT
+di	O
+burro	ING
+
+50	AMT
+ml	AMT
+di	O
+olio	ING
+evo	ING
+
+500	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+manitoba	ING
+
+400	AMT
+g	AMT
+di	O
+pasta	ING
+frolla	ING
+
+3	AMT
+fettine	AMT
+di	O
+pancetta	ING
+
+500	AMT
+g	AMT
+cime	ING
+di	ING
+rapa	ING
+
+200	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+castagne	ING
+
+4	AMT
+teste	ING
+di	ING
+tinca	ING
+
+1	AMT
+cestino	AMT
+di	O
+ribes	ING
+
+mandorle	ING
+con	O
+la	O
+buccia	O
+
+200	AMT
+gdi	AMT
+robiola	ING
+
+4	AMT
+o	AMT
+5	AMT
+amaretti	ING
+
+3	AMT
+tuorli	ING
+d'	ING
+uovo	ING
+
+200	AMT
+g	AMT
+di	O
+giardiniera	ING
+sott'	ING
+aceto	ING
+tra	O
+cipolline	O
+
+14	AMT
+albumi	ING
+
+75	AMT
+g	AMT
+farina	ING
+di	ING
+teff	ING
+
+500	AMT
+g	AMT
+di	O
+barba	ING
+di	ING
+frate	ING
+
+gelatina	ING
+alimentare	ING
+
+sciroppo	ING
+di	ING
+acqua	ING
+e	ING
+zucchero	ING
+
+400	AMT
+g	AMT
+di	O
+salmone	ING
+fresco	O
+
+150	AMT
+g	AMT
+di	O
+miele	ING
+
+240	AMT
+g	AMT
+di	O
+tacconi	ING
+di	ING
+farro	ING
+"	O
+pastificio	O
+apuano	O
+"	O
+
+aceto	ING
+aromatico	ING
+
+300	AMT
+g	AMT
+circa	O
+di	O
+rossetti	ING
+
+2	AMT
+cipolle	ING
+medie	O
+
+1	AMT
+manciatina	ING
+di	ING
+uvetta	ING
+
+200	AMT
+g	AMT
+di	O
+storione	ING
+crudo	ING
+
+400	AMT
+g	AMT
+di	O
+pasta	ING
+sfoglia	ING
+
+sale	ING
+3	AMT
+g	AMT
+
+150	AMT
+g	AMT
+farina	ING
+di	ING
+grano	ING
+saraceno	ING
+
+12	AMT
+fettine	AMT
+di	O
+fesa	ING
+di	ING
+vitello	ING
+
+ghiaccio	ING
+
+1	AMT
+cucchiaino	AMT
+di	O
+concentrato	ING
+di	ING
+pomodoro	ING
+
+1/2	AMT
+agnello	ING
+
+50	AMT
+g	AMT
+di	O
+formaggio	ING
+di	ING
+tipo	ING
+cremoso	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+panna	ING
+
+100	AMT
+g	AMT
+di	O
+corn	ING
+flakes	ING
+
+1/2	AMT
+bicchiere	AMT
+di	O
+latte	ING
+di	ING
+cocco	ING
+
+500	AMT
+g	AMT
+di	O
+prugne	ING
+snocciolate	ING
+
+2	AMT
+rametti	AMT
+di	O
+rosmarino	ING
+molto	O
+fresco	O
+
+20	AMT
+foglie	AMT
+di	O
+basilico	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+parmigiano	ING
+
+20	AMT
+g	AMT
+di	O
+granella	ING
+di	ING
+pistacchio	ING
+
+1	AMT
+lime	ING
+grande	O
+
+6	AMT
+cucchiai	AMT
+di	O
+olio	ING
+evo	ING
+
+2	AMT
+foglie	AMT
+di	O
+basilico	ING
+
+500	AMT
+g	AMT
+di	O
+porcini	ING
+
+1	AMT
+peperone	ING
+rosso	ING
+arrostito	O
+
+300	AMT
+g	AMT
+di	O
+doppione	ING
+
+360	AMT
+g	AMT
+di	O
+fettuccine	ING
+
+156	AMT
+g	AMT
+di	O
+farina	ING
+
+broccoli	ING
+
+100	AMT
+g	AMT
+farina	ING
+integrale	ING
+
+240	AMT
+g	AMT
+di	O
+fusilli	ING
+di	ING
+gragnano	ING
+
+pepe	ING
+misto	ING
+
+1/2	AMT
+cucchiaino	AMT
+di	O
+maggiorana	ING
+
+600	AMT
+g	AMT
+di	O
+fave	ING
+fresche	O
+
+1	AMT
+ciuffo	AMT
+di	O
+prezzemolo	ING
+
+yogurt	ING
+greco	ING
+
+16	AMT
+punte	ING
+d'	O
+asparagi	ING
+
+25	AMT
+g	AMT
+di	O
+salmone	ING
+
+40	AMT
+g	AMT
+di	O
+pane	ING
+integrale	ING
+
+200	AMT
+g	AMT
+di	O
+pane	ING
+di	ING
+semola	ING
+raffermo	ING
+
+40	AMT
+g	AMT
+di	O
+cioccolato	ING
+fondente	ING
+75	ING
+%	ING
+
+1	AMT
+lime	ING
+
+350	AMT
+g	AMT
+di	O
+fagiolini	ING
+
+4	AMT
+grandi	O
+melanzane	ING
+tonde	ING
+
+2	AMT
+cosce	ING
+di	ING
+coniglio	ING
+
+1	AMT
+carota	ING
+baby	O
+
+87	AMT
+g	AMT
+di	O
+zucchero	ING
+semolato	ING
+
+200	AMT
+g	AMT
+di	O
+burro	ING
+1	O
+uovo	O
+
+500	AMT
+g	AMT
+di	O
+pane	ING
+casareccio	ING
+raffermo	ING
+
+100	AMT
+g	AMT
+di	O
+crema	ING
+di	ING
+cioccolato	ING
+e	ING
+nocciole	ING
+o	O
+confettura	O
+
+1	AMT
+pizzico	AMT
+di	O
+peperoncino	ING
+piccante	ING
+
+120	AMT
+g	AMT
+d'	O
+olio	ING
+
+1	AMT
+fettina	AMT
+di	O
+aglio	ING
+
+2	AMT
+dl	AMT
+di	O
+sugo	ING
+di	ING
+garofolato	ING
+
+24	AMT
+bastoncini	AMT
+di	O
+formaggio	ING
+montasio	ING
+
+4	AMT
+cipolline	ING
+novelle	O
+
+30	AMT
+g	AMT
+di	O
+caciocavallo	ING
+grattugiato	O
+o	O
+parmigiano	O
+
+800	AMT
+g	AMT
+di	O
+crema	ING
+pasticciera	ING
+
+12	AMT
+amaretti	ING
+
+800	AMT
+g	AMT
+di	O
+farina	ING
+setacciata	ING
+
+30	AMT
+g	AMT
+di	O
+cacao	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+
+1	AMT
+ciuffo	AMT
+di	O
+maggiorana	ING
+
+150	AMT
+g	AMT
+di	O
+finocchi	ING
+
+la	O
+scorza	O
+di	O
+1	AMT
+limone	ING
+bio	O
+
+bicarbonato	ING
+
+4	AMT
+rametti	AMT
+di	O
+menta	ING
+fresca	ING
+
+30	AMT
+g	AMT
+di	O
+granella	ING
+di	ING
+mandorle	ING
+
+140	AMT
+g	AMT
+di	O
+panna	ING
+fresca	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+mais	ING
+tipo	ING
+fioretto	ING
+
+400	AMT
+g	AMT
+totali	O
+di	O
+pesce	ING
+
+formaggio	ING
+
+50	AMT
+gr	AMT
+di	O
+burro	ING
+fuso	O
+
+100	AMT
+g	AMT
+di	O
+strachitunt	ING
+
+500	AMT
+g	AMT
+di	O
+acciughe	ING
+
+10	AMT
+g	AMT
+di	O
+amido	ING
+di	ING
+mais	ING
+
+4	AMT
+sgombri	ING
+
+3	AMT
+cucchiai	AMT
+olio	ING
+
+100	AMT
+g	AMT
+di	O
+margarina	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+conserva	ING
+di	ING
+pomodoro	ING
+
+120ml	ING
+di	ING
+latte	ING
+
+1	AMT
+kg	AMT
+di	O
+spalla	ING
+
+700	AMT
+g	AMT
+di	O
+funghi	ING
+porcini	ING
+
+1	AMT
+confezione	AMT
+di	O
+pasta	ING
+sfoglia	ING
+rettangolare	O
+
+6	AMT
+fette	AMT
+di	O
+pancarrè	ING
+integrale	ING
+
+1	AMT
+tazza	AMT
+di	O
+brodo	ING
+
+aceto	ING
+balsamico	ING
+tradizionale	ING
+dop	O
+
+1	AMT
+sacchetto	AMT
+di	O
+granella	ING
+di	ING
+zucchero	ING
+
+1	AMT
+kg	AMT
+e	AMT
+500	AMT
+g	AMT
+di	O
+polpa	ING
+di	ING
+capriolo	ING
+
+150	AMT
+g	AMT
+di	O
+agnello	ING
+
+1	AMT
+porro	ING
+grande	O
+
+50	AMT
+g	AMT
+mandorle	ING
+tritate	O
+
+150	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+nocciole	ING
+
+4	AMT
+fogli	AMT
+di	O
+pasta	ING
+brick	ING
+
+25	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+1	AMT
+tazzina	AMT
+di	O
+whisky	ING
+
+semolato	ING
+
+30	AMT
+g	AMT
+di	O
+uva	ING
+passa	ING
+
+1	AMT
+caprino	AMT
+da	O
+80	O
+g	O
+
+3	AMT
+cucchiai	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+e	O
+2	O
+di	O
+arancia	O
+
+250	AMT
+g	AMT
+di	O
+pasta	ING
+brisée	ING
+
+800	AMT
+g	AMT
+di	O
+zucchero	ING
+
+500	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+grano	ING
+tenero	O
+
+1	AMT
+peperone	ING
+piccolo	O
+giallo	ING
+
+caffè	ING
+e	O
+cognac	O
+quanto	AMT
+bastano	AMT
+
+240	AMT
+g	AMT
+di	O
+linguine	ING
+integrali	ING
+
+salvia	ING
+qb	AMT
+
+50	AMT
+g	AMT
+di	O
+albicocche	ING
+secche	ING
+
+500	AMT
+g	AMT
+di	O
+dadolata	ING
+di	ING
+pomodori	ING
+
+2	AMT
+mele	ING
+granny	ING
+smith	ING
+
+2	AMT
+cucchiaini	AMT
+d'	O
+aroma	ING
+di	ING
+vaniglia	ING
+
+1	AMT
+mela	ING
+golden	ING
+
+375	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+riso	ING
+termotrattata	O
+
+rondelle	ING
+di	ING
+olive	ING
+verdi	ING
+
+300	AMT
+g	AMT
+di	O
+mirtilli	ING
+neri	ING
+
+100	AMT
+g	AMT
+di	O
+fegatini	ING
+di	ING
+pollo	ING
+e	O
+di	O
+faraona	O
+
+300	AMT
+g	AMT
+di	O
+marmellata	ING
+di	ING
+fragole	ING
+
+1	AMT
+scatola	ING
+di	O
+pomodori	ING
+pelati	ING
+
+30	AMT
+g	AMT
+di	O
+mandorle	ING
+con	O
+la	O
+buccia	O
+
+500	AMT
+gr	AMT
+di	O
+asparagi	ING
+
+12	AMT
+sarde	ING
+pulite	O
+e	O
+spinate	O
+
+500	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+1	AMT
+ciuffo	AMT
+di	O
+erba	ING
+cipollina	ING
+
+100	AMT
+g	AMT
+di	O
+burro	ING
+
+2	AMT
+cucchiai	AMT
+di	O
+colatura	O
+di	O
+alici	ING
+
+150	AMT
+g	AMT
+di	O
+carne	ING
+trita	O
+di	ING
+manzo	ING
+
+1	AMT
+carotina	ING
+
+extravergine	ING
+di	ING
+oliva	ING
+
+6	AMT
+cucchiai	AMT
+d'	O
+acqua	ING
+.	O
+
+50	AMT
+g	AMT
+zucchero	ING
+
+80	AMT
+g	AMT
+di	O
+carne	ING
+di	ING
+vitello	ING
+tritata	O
+
+400	AMT
+g	AMT
+di	O
+farina	ING
+00	O
+
+2	AMT
+filetti	ING
+di	O
+acciughe	ING
+sott'	ING
+olio	ING
+
+40	AMT
+g	AMT
+di	O
+uvetta	ING
+bionda	ING
+
+100	AMT
+gr	AMT
+di	O
+quinoa	ING
+
+2	AMT
+dl	AMT
+di	O
+aceto	ING
+rosso	ING
+
+1	AMT
+cocco	ING
+
+300	AMT
+g	AMT
+di	O
+miele	ING
+
+1/4	AMT
+di	AMT
+bicchiere	AMT
+d'	O
+acqua	ING
+fredda	O
+
+750	AMT
+g	AMT
+di	O
+sedano	ING
+rapa	ING
+
+1	AMT
+mazzo	AMT
+di	O
+tarassaco	ING
+
+300	AMT
+g	AMT
+di	O
+orecchiette	ING
+
+50	AMT
+ml	AMT
+di	O
+succo	ING
+di	ING
+mela	ING
+
+50	AMT
+g	AMT
+di	O
+scorze	O
+di	O
+arancia	ING
+candita	ING
+
+1/2	AMT
+bicchierino	AMT
+di	O
+calvados	ING
+
+2	AMT
+-	AMT
+3	AMT
+biscotti	ING
+secchi	ING
+tipo	ING
+digestive	ING
+
+140	AMT
+gr	AMT
+di	O
+panna	ING
+fresca	O
+
+una	AMT
+manciata	AMT
+di	O
+nocciole	ING
+
+1	AMT
+cucchiaio	AMT
+
+150	AMT
+g	AMT
+di	O
+germogli	ING
+di	ING
+soia	ING
+
+400	AMT
+g	AMT
+di	O
+panettone	ING
+
+5	AMT
+banane	ING
+
+300	AMT
+g	AMT
+di	O
+fontina	ING
+dolce	ING
+
+350	AMT
+g	AMT
+di	O
+pasta	ING
+
+100	AMT
+g	AMT
+di	O
+farina	ING
+integrale	ING
+di	ING
+farro	ING
+
+timo	ING
+essiccato	ING
+
+4	AMT
+fette	AMT
+di	O
+pancarrè	ING
+24x10	O
+
+4	AMT
+cucchiai	AMT
+scarsi	O
+di	O
+farina	ING
+
+300	AMT
+g	AMT
+di	O
+funghi	ING
+misti	ING
+
+2	AMT
+cespi	AMT
+di	O
+lattuga	ING
+
+300	AMT
+g	AMT
+di	O
+pennette	ING
+rigate	ING
+
+zucchero	ING
+
+2	AMT
+-	AMT
+3	AMT
+gocce	AMT
+di	O
+succo	ING
+di	ING
+limone	ING
+
+cioccolato	ING
+al	ING
+latte	ING
+
+3	AMT
+cucchiai	AMT
+di	O
+sugo	ING
+d'	ING
+arrosto	ING
+
+2	AMT
+fogli	ING
+di	ING
+gelatina	ING
+
+6	AMT
+sfoglie	ING
+di	ING
+pasta	ING
+all'	ING
+uovo	ING
+
+1	AMT
+cespo	AMT
+di	O
+broccoli	ING
+
+2	AMT
+di	O
+ketchup	ING
+
+150	AMT
+g	AMT
+di	O
+panna	ING
+
+1	AMT
+-	AMT
+2	AMT
+spicchi	AMT
+d'	O
+aglio	ING
+
+100	AMT
+g	AMT
+di	O
+speck	ING
+affettato	ING
+spesso	ING
+
+600	AMT
+g	AMT
+di	O
+zucchine	ING
+scure	ING
+
+100	AMT
+g	AMT
+di	O
+carne	ING
+arrosto	O
+
+20	AMT
+fettine	AMT
+sottili	O
+di	O
+pancetta	ING
+steccata	ING
+
+latte	ING
+vegetale	ING
+qb	AMT
+
+100	AMT
+g	AMT
+di	O
+anacardi	ING
+tostati	ING
+
+30	AMT
+g	AMT
+farina	ING
+di	ING
+riso	ING
+
+200	AMT
+g	AMT
+di	O
+cioccolato	ING
+
+50	AMT
+g	AMT
+di	O
+zucchero	ING
+mascobado	ING
+
+90	AMT
+g	AMT
+di	O
+farina	ING
+di	ING
+castagne	ING
+
+1	AMT
+cucchiaio	AMT
+di	O
+mandorle	ING
+
+300	AMT
+g	AMT
+taleggio	ING
+maturo	O
+
+200	AMT
+g	AMT
+di	O
+formaggio	ING
+tipo	ING
+montasio	ING
+
+d'	O
+aglio	ING
+
+1	AMT
+cucchiaio	AMT
+d'	O
+olio	ING
+
+50	AMT
+g	AMT
+semi	ING
+di	ING
+girasole	ING
+
+8	AMT
+scampi	ING
+di	O
+giornata	O
+
+musciame	ING
+di	ING
+tonno	ING
+
+jampet	ING
+leaves	ING
+koppert	ING
+cress	ING
+
+8/10	AMT
+noci	ING
+
+1	AMT
+kg	AMT
+tra	O
+lamponi	ING
+
+160	AMT
+g	AMT
+di	O
+farina	ING
+integrale	ING
+di	ING
+farro	ING
+
+280	AMT
+g	AMT
+di	O
+frutti	ING
+rossi	ING
+misti	ING
+
+100	AMT
+ml	AMT
+di	O
+latte	ING
+intero	ING
+tiepido	O
+
+un	AMT
+cucchiaino	AMT
+di	O
+paprika	ING
+dolce	ING
+
+110	AMT
+g	AMT
+di	O
+olio	ING
+di	ING
+semi	ING
+
+2	AMT
+acciughe	ING
+sotto	ING
+sale	ING
+diliscate	O
+
+400	AMT
+g	AMT
+petto	ING
+di	ING
+pollo	ING
+
+8	AMT
+nocciole	ING
+leggermente	O
+tostate	ING
+
+crema	ING
+alle	ING
+nocciole	ING
+e	ING
+cioccolato	ING
+
+grana	ING
+padano	ING
+grattugiato	O
+
+80	AMT
+g	AMT
+di	O
+tonno	ING
+al	ING
+naturale	ING
+sgocciolato	ING

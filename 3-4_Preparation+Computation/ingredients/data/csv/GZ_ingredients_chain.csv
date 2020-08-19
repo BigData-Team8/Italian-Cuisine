@@ -1,0 +1,1526 @@
+,Ingredient,Pre,Normalization,Freq
+0,Biscotti Digestive,biscotti digestive,biscotti digestive,69
+1,Burro,burro,burro,4606
+2,Ricotta vaccina,ricotta vaccina,ricotta vaccina,258
+3,Formaggio fresco spalmabile,formaggio fresco spalmabile,formaggio fresco spalmabile,134
+4,Zucchero a velo,zucchero,zucchero,4949
+5,Succo di limone,succo di limone,succo di limone,599
+6,Scorza di limone,scorza di limone,scorza di limone,567
+7,Panna fresca liquida,panna fresca liquida,panna fresca liquida,1860
+8,Gelatina in fogli,gelatina,gelatina,429
+9,Amido di mais (maizena),amido di mais,amido di mais,322
+10,Acqua,acqua,acqua,1976
+11,Coloranti alimentari,coloranti alimentari,coloranti alimentari,106
+12,Farina Manitoba,farina manitoba,farina manitoba,233
+13,Farina 00,farina 00,farina 00,1803
+14,Sale fino,sale fino,sale fino,9693
+15,Lievito di birra fresco,lievito di birra fresco,lievito di birra fresco,176
+16,Tonno sott'olio,tonno sott'olio,tonno sott'olio,121
+17,Passata di pomodoro,passata di pomodoro,passata di pomodoro,374
+18,Pomodorini datterini,pomodorini datterini,pomodorini datterini,128
+19,Fiori di zucca,fiori di zucca,fiori di zucca,68
+20,Burrata,burrata,burrata,28
+21,Capperi sotto sale,capperi sotto sale,capperi sotto sale,366
+22,Basilico,basilico,basilico,944
+23,Olio extravergine d'oliva,olio extravergine d'oliva,olio extravergine d'oliva,4337
+24,Pepe nero,pepe nero,pepe nero,5844
+25,Pandoro,pandoro,pandoro,22
+26,Nutella®,nutella®,nutella®,136
+27,Mascarpone,mascarpone,mascarpone,213
+28,Lievito istantaneo per preparazioni salate,lievito istantaneo,lievito istantaneo,994
+29,Carote,carote,carote,1077
+30,Zucchine,zucchine,zucchine,654
+31,Fontina,fontina,fontina,155
+32,Prosciutto cotto,prosciutto cotto,prosciutto cotto,324
+33,Melanzane,melanzane,melanzane,295
+34,Pane,pane,pane,363
+35,Aglio,aglio,aglio,2572
+36,Menta,menta,menta,533
+37,Aceto di vino bianco,aceto di vino bianco,aceto di vino bianco,528
+38,Uova,uova,uova,3872
+39,Fecola di patate,fecola di patate,fecola di patate,233
+40,Tuorli,tuorli,tuorli,1385
+41,Baccello di vaniglia,baccello di vaniglia,baccello di vaniglia,845
+42,Biscotti secchi al cioccolato,biscotti secchi al cioccolato,biscotti secchi al cioccolato,29
+43,Succo d'arancia,succo d'arancia,succo d'arancia,135
+44,Zucchero,zucchero,zucchero,4949
+45,Scorza d'arancia,scorza d'arancia,scorza d'arancia,187
+46,Cannella in polvere,cannella,cannella,499
+47,Biscotti secchi integrali,biscotti secchi integrali,biscotti,84
+48,Burro light,burro light,burro,4606
+49,Formaggio fresco spalmabile light,formaggio fresco spalmabile light,formaggio,134
+50,Yogurt magro,yogurt magro,yogurt magro,129
+51,Fruttosio,fruttosio,fruttosio,4
+52,Latte intero,latte intero,latte intero,2242
+53,Lievito in polvere per dolci,lievito,lievito,994
+54,Cacao amaro in polvere,cacao amaro,cacao amaro,524
+55,Pasta fillo,pasta fillo,pasta fillo,44
+56,Gelato alla crema,gelato alla crema,gelato alla crema,5
+57,Topping alla fragola,topping alla fragola,topping alla fragola,249
+58,Olio di semi di girasole,olio di semi di girasole,olio di semi di girasole,132
+59,Pane bianco in cassetta,pane bianco,pane bianco,363
+60,Cheddar,cheddar,cheddar,15
+61,Lievito di birra secco,lievito di birra secco,lievito di birra secco,364
+62,Cellentani,cellentani,cellentani,5
+63,Pangrattato,pangrattato,pangrattato,834
+64,Emmentaler,emmentaler,emmentaler,83
+65,Noce moscata,noce moscata,noce moscata,356
+66,Parmigiano Reggiano DOP,parmigiano reggiano dop,parmigiano reggiano dop,1291
+67,Mandorle in scaglie,mandorle,mandorle,415
+68,Olio di semi,olio di semi,olio di semi,323
+69,Grana Padano DOP,grana padano dop,grana padano dop,591
+70,Bicarbonato,bicarbonato,bicarbonato,142
+71,Paprika dolce,paprika dolce,paprika dolce,272
+72,Fichi secchi,fichi secchi,fichi secchi,41
+73,Farina 1,farina 1,farina 1,13
+74,Miele millefiori,miele millefiori,miele millefiori,89
+75,Baccalà,baccalà,baccalà,94
+76,Cavolfiore,cavolfiore,cavolfiore,101
+77,Olio di semi di arachide,olio di semi di arachide,olio di semi di arachide,339
+78,Prezzemolo,prezzemolo,prezzemolo,1668
+79,Farina di nocciole,farina di nocciole,farina di nocciole,53
+80,Pasta di nocciole,pasta di nocciole,pasta di nocciole,136
+81,Grano per pastiera,grano,grana,2121
+82,Gocce di cioccolato fondente,gocce di cioccolato fondente,gocce di cioccolato fondente,71
+83,Cedro,cedro,cedro,11
+84,Acqua di fiori d'arancio,acqua di fiori d'arancio,acqua di fiori d'arancio,27
+85,Cime di rapa,cime di rapa,cime di rapa,20
+86,Taleggio,taleggio,taleggio,49
+87,Cipollotto fresco,cipollotto fresco,cipollotto fresco,296
+88,Peperoncino in polvere,peperoncino,peperoncino,468
+89,Riso Carnaroli,riso carnaroli,riso carnaroli,233
+90,Pisellini,pisellini,pisellini,302
+91,Vino bianco secco,vino bianco secco,vino bianco secco,1177
+92,Brodo vegetale,brodo vegetale,brodo vegetale,571
+93,Cipolle,cipolle,cipolle,1415
+94,Crescenza,crescenza,crescenza,19
+95,Porri,porri,porri,299
+96,Groviera,groviera,groviera,90
+97,Salvia,salvia,salvia,484
+98,Avocado,avocado,avocado,136
+99,Salmone affumicato,salmone affumicato,salmone affumicato,121
+100,Erba cipollina,erba cipollina,erba cipollina,367
+101,Lime,lime,lime,135
+102,Pepe rosa in grani,pepe rosa,pepe rosa,5844
+103,Yogurt greco,yogurt greco,yogurt greco,196
+104,Cioccolato,cioccolato,cioccolato,105
+105,Agar agar,agar agar,agar agar,23
+106,Zucchero di canna,zucchero di canna,zucchero di canna,547
+107,Filetto di merluzzo,filetto di merluzzo,filetto di merluzzo,49
+108,Timo,timo,timo,874
+109,Petto di tacchino,petto di tacchino,petto di tacchino,43
+110,Pancetta affumicata,pancetta affumicata,pancetta affumicata,155
+111,Senape,senape,senape,236
+112,Vino rosso,vino rosso,vino rosso,219
+113,Albumi,albumi,albumi,436
+114,Granella di nocciole,granella di nocciole,granella di nocciole,102
+115,Sciroppo di latte di mandorla,sciroppo di latte di mandorla,sciroppo alla fragola,27
+116,Caffè,caffè,caffè,190
+117,Pasta Sfoglia,pasta sfoglia,pasta sfoglia,239
+118,Gorgonzola,gorgonzola,gorgonzola,83
+119,Gherigli di noci,gherigli di noci,gherigli di noci,68
+120,Pinoli,pinoli,pinoli,392
+121,Yogurt bianco naturale,yogurt bianco naturale,yogurt bianco naturale,121
+122,Fragole,fragole,fragole,249
+123,Mirtilli,mirtilli,mirtilli,144
+124,Lamponi,lamponi,lamponi,214
+125,Carciofi,carciofi,carciofi,222
+126,Banane,banane,banane,76
+127,Arachidi,arachidi,arachidi,24
+128,Farina di riso,farina di riso,farina di riso,103
+129,Latticello,latticello,latticello,12
+130,Semi di chia,semi di chia,semi di chia,107
+131,Cioccolato fondente,cioccolato fondente,cioccolato fondente,833
+132,Peperoni,peperoni,peperoni,612
+133,Patate,patate,patate,1000
+134,Pomodorini ciliegino,pomodorini ciliegino,pomodorini ciliegino,288
+135,Cipolle bianche,cipolle bianche,cipolle bianche,310
+136,Polpa di pomodoro,polpa di pomodoro,polpa di pomodoro,49
+137,Malto,malto,malto,79
+138,Semola di grano duro rimacinata,semola di grano duro rimacinata,semola di grano duro rimacinata,144
+139,Miele,miele,miele,335
+140,Granella di pistacchi,granella di pistacchi,granella di pistacchi,70
+141,Granella di zucchero,granella di zucchero,granella di zucchero,27
+142,Wurstel,wurstel,wurstel,25
+143,Farina di mais,farina di mais,farina di mais,144
+144,Petto di pollo,petto di pollo,petto di pollo,350
+145,Alloro,alloro,alloro,451
+146,Rosmarino,rosmarino,rosmarino,850
+147,Chiodi di garofano,chiodi di garofano,chiodi di garofano,180
+148,Pepe nero in grani,pepe nero,pepe nero,5844
+149,Pancarrè,pancarrè,pancarrè,96
+150,Pasta di salame,pasta di salame,pasta,5
+151,Birra chiara,birra chiara,birra chiara,103
+152,Ribes,ribes,ribes,85
+153,Baguette,baguette,baguette,23
+154,Filetto di salmone,filetto di salmone,filetto di salmone,173
+155,Aneto,aneto,aneto,105
+156,Pepe rosa,pepe rosa,pepe rosa,5844
+157,Latte di soia,latte di soia,latte di soia,42
+158,Rucola,rucola,rucola,133
+159,Nutella,nutella,nutella,136
+160,Confettura di albicocche,confettura di albicocche,confettura di albicocche,46
+161,Farina integrale di miglio,farina integrale di miglio,farina,108
+162,Erbette,erbette,erbette,30
+163,Provola affumicata,provola affumicata,provola affumicata,31
+164,Sale di maldon,sale di maldon,sale di maldon,9693
+165,Farina di castagne,farina di castagne,farina di castagne,38
+166,Ricotta salata,ricotta salata,ricotta salata,36
+167,Riso Arborio,riso arborio,riso arborio,37
+168,Pomodori ramati,pomodori ramati,pomodori ramati,123
+169,Caciocavallo,caciocavallo,caciocavallo,87
+170,Peperoni rossi,peperoni rossi,peperoni rossi,612
+171,Peperoni gialli,peperoni gialli,peperoni gialli,612
+172,Olive nere,olive nere,olive nere,244
+173,Cetriolini sottaceto,cetriolini sottaceto,cetriolini sottaceto,48
+174,Polpo,polpo,polpo,47
+175,Gamberi,gamberi,gamberi,194
+176,Gnocchi di patate,gnocchi di patate,gnocchi di patate,22
+177,Spinacini,spinacini,spinacini,38
+178,Barbabietole precotte,barbabietole precotte,barbabietole precotte,61
+179,Pere kaiser,pere kaiser,pere kaiser,14
+180,Aceto balsamico,aceto balsamico,aceto balsamico,172
+181,Funghi champignon,funghi champignon,funghi champignon,90
+182,Senape dolce,senape dolce,senape dolce,236
+183,Brodo di pollo,brodo di pollo,brodo di pollo,219
+184,Vino bianco,vino bianco,vino bianco,1177
+185,Scalogno,scalogno,scalogno,620
+186,Fettine di manzo,fettine di manzo,fettine di manzo,492
+187,Mozzarella,mozzarella,mozzarella,264
+188,Origano,origano,origano,397
+189,Caffè in polvere,caffè,caffè,190
+190,Granella di mandorle,granella di mandorle,granella di mandorle,19
+191,Pisto,pisto,pistacchi,193
+192,Ammoniaca per dolci,ammoniaca,ammoniaca,15
+193,Pere,pere,pere,111
+194,Brie,brie,brie,17
+195,Cannella in stecche,cannella,cannella,499
+196,Latte,latte,latte,2242
+197,Cacao zuccherato in polvere,cacao zuccherato,cacao zuccherato,14
+198,Gocce di cioccolato bianco,gocce di cioccolato bianco,gocce di cioccolato bianco,7
+199,Marmellata di prugne,marmellata di prugne,marmellata,46
+200,Cocco rapè,cocco rapè,cocco rapè,43
+201,Biga,biga,biga,3
+202,Miele di acacia,miele di acacia,miele di acacia,82
+203,Sciroppo di acero,sciroppo di acero,sciroppo di acero,32
+204,Latte condensato,latte condensato,latte condensato,97
+205,Uvetta,uvetta,uvetta,220
+206,Lattuga romana,lattuga romana,lattuga romana,25
+207,Maionese,maionese,maionese,139
+208,Sidro,sidro,sidro,6
+209,Farina integrale,farina integrale,farina integrale,108
+210,Concentrato di pomodoro,concentrato di pomodoro,concentrato di pomodoro,192
+211,Spinaci,spinaci,spinaci,245
+212,Cozze,cozze,cozze,115
+213,Pane casereccio,pane casereccio,pane casereccio,96
+214,Sedanini Rigati,sedanini rigati,sedanini rigati,12
+215,Fusilli Bucati Corti,fusilli bucati corti,fusilli bucati corti,71
+216,Zucca,zucca,zucca,226
+217,Cipolle dorate,cipolle dorate,cipolle dorate,142
+218,Amaretti,amaretti,amaretti,104
+219,Glucosio,glucosio,glucosio,35
+220,Glicerina,glicerina,glicerina,2
+221,Platessa,platessa,platessa,8
+222,Burro chiarificato,burro chiarificato,burro chiarificato,31
+223,Pepe bianco,pepe bianco,pepe bianco,5844
+224,Aceto di mele,aceto di mele,aceto di mele,91
+225,Sale,sale,sale,9693
+226,Estratto di vaniglia,estratto di vaniglia,estratto di vaniglia,100
+227,Cremor tartaro,cremor tartaro,cremor tartaro,30
+228,Kiwi,kiwi,kiwi,47
+229,Frutti della passione,frutti della passione,frutti della passione,19
+230,Ricotta di bufala,ricotta di bufala,ricotta di bufala,17
+231,Maggiorana,maggiorana,maggiorana,288
+232,Pane raffermo,pane raffermo,pane raffermo,106
+233,Farina,farina,farina,2121
+234,Rigatoni,rigatoni,rigatoni,59
+235,Pajata,pajata,pajata,1
+236,Sedano,sedano,sedano,796
+237,Sale grosso,sale grosso,sale grosso,9693
+238,Carne bovina,carne bovina,carne bovina,492
+239,Bacche di ginepro,bacche di ginepro,bacche di ginepro,89
+240,Cipolle rosse,cipolle rosse,cipolle rosse,1415
+241,Asparagi,asparagi,asparagi,192
+242,Curcuma in polvere,curcuma,curcuma,79
+243,Pepe misto in grani,pepe misto,pepe misto,5844
+244,Formaggio fresco,formaggio fresco,formaggio fresco,38
+245,Oro alimentare,oro alimentare,oro alimentare,2
+246,Meringhe,meringhe,meringhe,28
+247,Sedano rapa,sedano rapa,sedano rapa,25
+248,Mele Granny Smith,mele granny smith,mele granny smith,43
+249,Scarola (indivia),scarola,scarola,44
+250,Uva passa,uva passa,uva passa,87
+251,Acciughe sott'olio,acciughe sott'olio,acciughe sott'olio,403
+252,Pecorino,pecorino,pecorino,519
+253,La Bottega di Olivia&Marino,,,
+254,Mortadella,mortadella,mortadella,84
+255,Cous cous,cous cous,cous cous,41
+256,Paprika piccante,paprika piccante,paprika piccante,272
+257,Stracchino,stracchino,stracchino,47
+258,Tonno,tonno,tonno,101
+259,Patate rosse,patate rosse,patate rosse,1000
+260,Scamorza affumicata,scamorza affumicata,scamorza affumicata,58
+261,Prosciutto crudo,prosciutto crudo,prosciutto crudo,182
+262,Caffè solubile,caffè solubile,caffè solubile,42
+263,Pasta di zucchero,pasta di zucchero,pasta di zucchero,26
+264,Matite alimentari,matite alimentari,matite alimentari,9
+265,Decorazione alimentare,decorazione alimentare,decorazione alimentare,17
+266,Sciroppo di glucosio,sciroppo di glucosio,sciroppo di glucosio,12
+267,Farina di semi di carrube,farina di semi di carrube,farina,2121
+268,Rum,rum,rum,218
+269,Pistacchi,pistacchi,pistacchi,193
+270,Mandorle pelate,mandorle pelate,mandorle pelate,146
+271,Scamorza (provola),scamorza,scamorza,97
+272,Quartirolo Lombardo,quartirolo lombardo,quartirolo,6
+273,Semi di sesamo nero,semi di sesamo nero,semi di sesamo nero,132
+274,Farina di mandorle,farina di mandorle,farina di mandorle,177
+275,Farina di mais fioretto,farina di mais fioretto,farina di mais fioretto,144
+276,Lonza di maiale,lonza di maiale,lonza di maiale,60
+277,Cotenna di suino,cotenna di suino,cotenna di suino,25
+278,Salame,salame,salame,59
+279,Provola,provola,provola,62
+280,Olive di Gaeta,olive di gaeta,olive di gaeta,13
+281,Cocomero (anguria),cocomero,cocomero,25
+282,Confettura di amarene,confettura di amarene,confettura,46
+283,Pan di Spagna,pan di spagna,pan di spagna,30
+284,Limoni,limoni,limoni,1394
+285,Limoncello,limoncello,limoncello,19
+286,Codette colorate,codette colorate,codette colorate,28
+287,Farina di riso senza glutine,farina di riso,farina di riso,103
+288,Farina di lupini,farina di lupini,farina,2121
+289,Amido di mais (maizena) senza glutine,amido di mais,amido di mais,322
+290,Braciole di maiale,braciole di maiale,braciole di maiale,202
+291,Salsa di soia,salsa di soia,salsa di soia,135
+292,Farina di grano saraceno,farina di grano saraceno,farina di grano saraceno,59
+293,Farina 0,farina 0,farina 0,181
+294,Olio di cocco,olio di cocco,olio di cocco,14
+295,Nocciole intere spellate,nocciole intere spellate,nocciole intere spellate,164
+296,Zucchero muscovado,zucchero muscovado,zucchero muscovado,33
+297,Cioccolato bianco,cioccolato bianco,cioccolato bianco,160
+298,Aroma al limone,aroma al limone,aroma alla mandorla,10
+299,Prosecco,prosecco,prosecco,11
+300,Zenzero in polvere,zenzero,zenzero,285
+301,Salsiccia,salsiccia,salsiccia,225
+302,Ricciola,ricciola,ricciola,7
+303,Fiocchi di sale,fiocchi di sale,fiocchi di sale,55
+304,Miele di castagno,miele di castagno,miele di castagno,15
+305,Succo di lime,succo di lime,succo di lime,83
+306,Tabasco®,tabasco®,tabasco®,79
+307,Succo di mandarino,succo di mandarino,succo di mandarino,9
+308,Uova di salmone,uova di salmone,uova,23
+309,Zafferano,zafferano,zafferano,177
+310,Pancetta (tesa),pancetta,pancetta,245
+311,Liquore alle erbe,liquore alle erbe,liquore,38
+312,Lemon curd,lemon curd,lemongrass,13
+313,Mandorle,mandorle,mandorle,415
+314,Cioccolatini,cioccolatini,cioccolatini,105
+315,Smarties,smarties,smarties,1
+316,Palline colorate,palline colorate,palline colorate,2
+317,Torrone,torrone,torrone,25
+318,Anacardi,anacardi,anacardi,23
+319,Edamer,edamer,edamer,40
+320,Vaniglia,vaniglia,vaniglia,845
+321,Semi di papavero,semi di papavero,semi di papavero,88
+322,Conchiglioni,conchiglioni,conchiglioni,17
+323,Carne di suino,carne di suino,carne di suino,202
+324,Patate bianche,patate bianche,patate,1000
+325,Coniglio,coniglio,coniglio,65
+326,Prugne,prugne,prugne,37
+327,Zenzero fresco,zenzero fresco,zenzero fresco,285
+328,Marsala,marsala,marsala,121
+329,Strutto,strutto,strutto,134
+330,Noci,noci,noci,222
+331,Mele Golden,mele golden,mele golden,47
+332,Chiodi di garofano macinati,chiodi di garofano macinati,chiodi di garofano macinati,180
+333,Pesche,pesche,pesche,106
+334,Fagioli neri secchi,fagioli neri secchi,fagioli,87
+335,Cumino,cumino,cumino,79
+336,Coriandolo,coriandolo,coriandolo,67
+337,Mele Cotogne,mele cotogne,mele cotogne,6
+338,Castagne,castagne,castagne,56
+339,Carrè di vitello,carrè di vitello,carrè di agnello,492
+340,Brodo di carne,brodo di carne,brodo di carne,219
+341,Fragoline di bosco,fragoline di bosco,fragoline di bosco,31
+342,More,more,more,68
+343,Ribes rosso,ribes rosso,ribes rosso,85
+344,Confettura di melagrana,confettura di melagrana,confettura,46
+345,Fontal,fontal,fontal,4
+346,Pomodori secchi,pomodori secchi,pomodori secchi,141
+347,Acqua gassata,acqua gassata,acqua gassata,43
+348,Ghiaccio,ghiaccio,ghiaccio,50
+349,Pomodori secchi sott'olio,pomodori secchi sott'olio,pomodori secchi sott'olio,141
+350,Semi di girasole,semi di girasole,semi di girasole,28
+351,Semi di lino,semi di lino,semi di lino,19
+352,Semi di zucca,semi di zucca,semi di zucca,33
+353,Farina di ceci,farina di ceci,farina di ceci,26
+354,Filetti di tonno,filetti di tonno,filetti di tonno,101
+355,Ceci precotti,ceci precotti,ceci precotti,48
+356,Tahina,tahina,tahina,18
+357,Paprika affumicata,paprika affumicata,paprika affumicata,272
+358,Amarene sciroppate,amarene sciroppate,amarene sciroppate,47
+359,Fichi,fichi,fichi,82
+360,Pistacchi non salati,pistacchi,pistacchi,193
+361,Paprika,paprika,paprika,272
+362,Mirto,mirto,mirto,20
+363,Bucatini,bucatini,bucatini,26
+364,Piselli surgelati,piselli surgelati,piselli surgelati,302
+365,Latte di cocco,latte di cocco,latte di cocco,57
+366,Pancarrè integrale,pancarrè integrale,pancarrè,96
+367,Mirtilli rossi,mirtilli rossi,mirtilli rossi,144
+368,Confettura di fragole,confettura di fragole,confettura di fragole,22
+369,Peperoncino,peperoncino,peperoncino,468
+370,Yogurt,yogurt,yogurt,129
+371,Frutti di bosco,frutti di bosco,frutti di bosco,72
+372,Peperoncino fresco,peperoncino fresco,peperoncino fresco,213
+373,Confettura d'arance,confettura d'arance,confettura,46
+374,Fagioli borlotti precotti,fagioli borlotti precotti,fagioli,87
+375,Fagioli cannellini precotti,fagioli cannellini precotti,fagioli cannellini precotti,61
+376,Acciughe (alici),acciughe,acciughe,403
+377,Cipolle rosse di Tropea,cipolle rosse di tropea,cipolle rosse di tropea,103
+378,Aceto di vino rosso,aceto di vino rosso,aceto di vino rosso,528
+379,Tacchino,tacchino,tacchino,43
+380,Ricotta,ricotta,ricotta,324
+381,Broccoli,broccoli,broccoli,95
+382,Lasagne all'uovo,lasagne all'uovo,lasagne all'uovo,51
+383,Semi di finocchio,semi di finocchio,semi di finocchio,76
+384,Funghi porcini,funghi porcini,funghi porcini,107
+385,Marmellata,marmellata,marmellata,46
+386,Riso Basmati,riso basmati,riso basmati,42
+387,Riso rosso,riso rosso,riso,289
+388,Cetrioli,cetrioli,cetrioli,121
+389,Feta,feta,feta,64
+390,Speck,speck,speck,139
+391,Mini Penne Rigate,mini penne rigate,mini penne rigate,16
+392,Dischetti di pasta,dischetti di pasta,dischetti di pasta,17
+393,Cioccolato al latte,cioccolato al latte,cioccolato al latte,59
+394,Cioccolato fondente al 55%,cioccolato fondente al 55%,cioccolato fondente al 55%,833
+395,Vanillina,vanillina,vanillina,53
+396,Topinambur,topinambur,topinambur,20
+397,Gelatina,gelatina,gelatina,429
+398,Pappardelle Ricce all'uovo,pappardelle ricce all'uovo,pappardelle,17
+399,Cinta senese,cinta senese,cinta senese,44
+400,Ginepro,ginepro,ginepro,89
+401,Farfalle,farfalle,farfalle,35
+402,Valtellina Casera,valtellina casera,valtellina casera,8
+403,Guanciale,guanciale,guanciale,54
+404,Pecorino romano,pecorino romano,pecorino romano,519
+405,Pomodorini in scatola,pomodorini,pomodorini,142
+406,Linguine,linguine,linguine,56
+407,Bottarga di muggine,bottarga di muggine,bottarga di muggine,50
+408,Spaghetti Senza Glutine,spaghetti,spaghetti,201
+409,Fave,fave,fave,103
+410,Penne Rigate,penne rigate,penne rigate,104
+411,Manzo,manzo,manzo,492
+412,Zucchine baby,zucchine baby,zucchine baby,654
+413,Provolone piccante,provolone piccante,provolone piccante,36
+414,Ananas,ananas,ananas,78
+415,Aglio in polvere,aglio,aglio,2572
+416,Cosce di pollo,cosce di pollo,cosce di pollo,350
+417,Anice stellato,anice stellato,anice stellato,21
+418,Tonno al naturale,tonno al naturale,tonno al naturale,101
+419,Agnello,agnello,agnello,57
+420,Uova sode,uova sode,uova sode,50
+421,Pecorino sardo,pecorino sardo,pecorino sardo,519
+422,Olive verdi,olive verdi,olive verdi,119
+423,Arance,arance,arance,358
+424,Branzino (spigola),branzino,branzino,39
+425,Birra scura,birra scura,birra scura,103
+426,Radicchio,radicchio,radicchio,103
+427,Lardo di Colonnata,lardo di colonnata,lardo di colonnata,12
+428,Salmone,salmone,salmone,173
+429,Vitello,vitello,vitello,492
+430,Cardamomo,cardamomo,cardamomo,47
+431,Ciliegie,ciliegie,ciliegie,86
+432,Confettura di ciliegie,confettura di ciliegie,confettura di ciliegie,6
+433,Pepe bianco in grani,pepe bianco,pepe bianco,5844
+434,Confettura di mele e arance,confettura di mele e arance,confettura,46
+435,Fagioli borlotti secchi,fagioli borlotti secchi,fagioli borlotti secchi,47
+436,Sbrinz,sbrinz,sbrinz,3
+437,Robiola,robiola,robiola,98
+438,Sgombro,sgombro,sgombro,20
+439,Semi di sesamo,semi di sesamo,semi di sesamo,132
+440,Spaghetti,spaghetti,spaghetti,201
+441,Pomodori pelati,pomodori pelati,pomodori pelati,196
+442,Peperoncino secco,peperoncino secco,peperoncino secco,43
+443,Pere Williams,pere williams,pere williams,20
+444,Pomodori piccadilly,pomodori piccadilly,pomodori piccadilly,17
+445,Tagliatelle all'uovo,tagliatelle all'uovo,tagliatelle all'uovo,29
+446,Spaghetti di soia,spaghetti di soia,spaghetti,201
+447,Tagliolini all'uovo,tagliolini all'uovo,tagliolini all'uovo,23
+448,Tranci di salmone,tranci di salmone,tranci di salmone,173
+449,Olio di sesamo,olio di sesamo,olio di sesamo,23
+450,Savoiardi,savoiardi,savoiardi,82
+451,Scorza di lime,scorza di lime,scorza di lime,567
+452,Fagioli bianchi secchi,fagioli bianchi secchi,fagioli,87
+453,Gamberetti,gamberetti,gamberetti,67
+454,Capperi sott'aceto,capperi sott'aceto,capperi sott'aceto,366
+455,Peperoni sott'aceto,peperoni sott'aceto,peperoni,612
+456,Aceto,aceto,aceto,528
+457,Pesche noci,pesche noci,pesche noci,21
+458,Schiacciate al forno,schiacciate al forno,schiacciate al forno,9
+459,Mozzarella di bufala,mozzarella di bufala,mozzarella di bufala,43
+460,Pomodori San Marzano,pomodori san marzano,pomodori san marzano,31
+461,Farina di farro,farina di farro,farina di farro,35
+462,Aroma di mandarino,aroma di mandarino,aroma alla mandorla,10
+463,Cioccolato fondente al 70%,cioccolato fondente al 70%,cioccolato fondente al 70%,833
+464,Tartufi di cioccolato,tartufi di cioccolato,tartufi di cioccolato,4
+465,Mele renette,mele renette,mele renette,32
+466,Farina di pistacchi,farina di pistacchi,farina di pistacchi,8
+467,Pere abate,pere abate,pere abate,12
+468,Troccoli freschi,troccoli freschi,troccoli,4
+469,Caramello,caramello,caramello,17
+470,Zucca mantovana,zucca mantovana,zucca mantovana,23
+471,Mostarda mantovana,mostarda mantovana,mostarda di frutta,10
+472,Pesto alla Genovese,pesto alla genovese,pesto alla genovese,8
+473,Fiori eduli,fiori eduli,fiori eduli,39
+474,Succo di ananas,succo di ananas,succo di ananas,41
+475,Ginger beer,ginger beer,ginger beer,3
+476,Lattuga,lattuga,lattuga,112
+477,Pane integrale,pane integrale,pane integrale,43
+478,Sciroppo alla menta,sciroppo alla menta,sciroppo alla menta,27
+479,Semi di anice,semi di anice,semi di anice,107
+480,Confettura di mirtilli rossi,confettura di mirtilli rossi,confettura,46
+481,Nocciole,nocciole,nocciole,164
+482,Melagrana,melagrana,melagrana,50
+483,Marmellata di albicocche,marmellata di albicocche,marmellata di albicocche,14
+484,Cioccolato gianduia,cioccolato gianduia,cioccolato gianduia,20
+485,Capesante,capesante,capesante,50
+486,Asparagi bianchi,asparagi bianchi,asparagi,192
+487,Brandy,brandy,brandy,122
+488,Albicocche,albicocche,albicocche,69
+489,Zucchero integrale di canna,zucchero integrale di canna,zucchero integrale di canna,547
+490,Cipollotti rossi,cipollotti rossi,cipollotti rossi,296
+491,Aceto di riso,aceto di riso,aceto di riso,29
+492,Peperoncini Jalapeno,peperoncini jalapeno,peperoncini,468
+493,Fettine di vitello,fettine di vitello,fettine di vitello,492
+494,Pancetta,pancetta,pancetta,245
+495,Cicoria,cicoria,cicoria,37
+496,Codette al cioccolato,codette al cioccolato,codette al cioccolato,5
+497,Farina per chapati,farina,farina,2121
+498,Capretto,capretto,capretto,10
+499,Pasta di pistacchi,pasta di pistacchi,pasta di pistacchi,18
+500,Casarecce di ceci,casarecce di ceci,casarecce,16
+501,Puntarelle,puntarelle,puntarelle,7
+502,Primosale,primosale,primosale,19
+503,Panini di farro,panini di farro,panini,78
+504,Salsa Tabasco®,salsa tabasco®,tabasco®,79
+505,Costine di maiale,costine di maiale,costine di maiale,202
+506,Olio di oliva,olio di oliva,olio di oliva,122
+507,Marsala all'uovo,marsala all'uovo,marsala,121
+508,Torrone bianco,torrone bianco,torrone bianco,25
+509,Farina istantanea per polenta,farina istantanea,farina istantanea,9
+510,Carrè di agnello,carrè di agnello,carrè di agnello,57
+511,Succo di mela,succo di mela,succo di mela,8
+512,Semi di coriandolo,semi di coriandolo,semi di coriandolo,107
+513,Indivia belga,indivia belga,indivia belga,16
+514,Pannocchie,pannocchie,pannocchie,7
+515,Fiocchi di avena,fiocchi di avena,fiocchi di avena,31
+516,Risotto allo zafferano,risotto allo zafferano,risotto allo zafferano,9
+517,Nesquik,nesquik,nesquik,10
+518,Curry thai verde,curry thai verde,curry,89
+519,Salmone sott'olio,salmone sott'olio,salmone,173
+520,Bruscandoli,bruscandoli,bruscandoli,3
+521,Montasio,montasio,montasio,25
+522,Peperoni friggitelli,peperoni friggitelli,peperoni,9
+523,Taccole,taccole,taccole,23
+524,Fruttapec 1:1,fruttapec,fruttapec,3
+525,Filetto di manzo,filetto di manzo,filetto di manzo,492
+526,Pasta brisé,pasta brisé,pasta brisé,60
+527,Toma piemontese,toma piemontese,toma,20
+528,Grappa,grappa,grappa,56
+529,Pepe,pepe,pepe,5844
+530,Merluzzo,merluzzo,merluzzo,49
+531,Vongole,vongole,vongole,83
+532,Maiale,maiale,maiale,202
+533,Mele Fuji,mele fuji,mele fuji,204
+534,Gamberoni,gamberoni,gamberoni,28
+535,Farina di grano duro,farina di grano duro,farina di grano duro,2121
+536,Pavesini,pavesini,pavesini,11
+537,Fagiolini,fagiolini,fagiolini,153
+538,Bevanda alla mandorla,bevanda alla mandorla,bevanda di riso,2
+539,Uva fragola,uva fragola,uva fragola,29
+540,Alcol puro,alcol puro,alcol puro,23
+541,Moscardini,moscardini,moscardini,15
+542,Pappardelle all'uovo,pappardelle all'uovo,pappardelle all'uovo,17
+543,Cinghiale,cinghiale,cinghiale,9
+544,Palamita,palamita,palamita,3
+545,Orata,orata,orata,23
+546,Paglia e Fieno all'uovo,paglia e fieno all'uovo,paglia e fieno all'uovo,4
+547,Mezze Penne Rigate,mezze penne rigate,mezze penne rigate,16
+548,Scampi,scampi,scampi,60
+549,Pan brioche,pan brioche,pan di spagna,7
+550,Susine,susine,susine,10
+551,Cotto di fichi,cotto di fichi,cotto di fichi,1
+552,Fior di sale,fior di sale,fior di sale,55
+553,Pennette Rigate,pennette rigate,pennette rigate,104
+554,Vino liquoroso,vino liquoroso,vino,43
+555,Biscotti secchi,biscotti secchi,biscotti secchi,84
+556,Pennette Rigate Integrali,pennette rigate integrali,pennette,104
+557,Trofie,trofie,trofie,13
+558,Ditaloni Rigati,ditaloni rigati,ditaloni rigati,10
+559,Ceci secchi,ceci secchi,ceci secchi,72
+560,Mix tandoori,mix tandoori,tandoori,10
+561,Finocchietto selvatico,finocchietto selvatico,finocchietto selvatico,96
+562,Garam Masala,garam masala,garam masala,11
+563,Riso nero Venere,riso nero venere,riso nero venere,17
+564,Patate novelle,patate novelle,patate novelle,27
+565,Calamari,calamari,calamari,102
+566,Mazzancolle,mazzancolle,mazzancolle,31
+567,Gelato,gelato,gelatina,8
+568,Birra rossa,birra rossa,birra rossa,103
+569,Piadine,piadine,piadine,31
+570,Peperoncino verde,peperoncino verde,peperoncino verde,468
+571,Stracciatella,stracciatella,stracciatella,23
+572,Fesa di vitello,fesa di vitello,fesa di vitello,492
+573,Porchetta,porchetta,porchetta,3
+574,Provolone,provolone,provolone,36
+575,Songino,songino,songino,34
+576,Funghi finferli (gallinacci),funghi finferli,funghi finferli,21
+577,Pesce spada affumicato,pesce spada affumicato,pesce spada affumicato,7
+578,Acciughe sotto sale,acciughe sotto sale,acciughe sotto sale,403
+579,Olive taggiasche,olive taggiasche,olive taggiasche,106
+580,Salame piccante,salame piccante,salame piccante,8
+581,Capperi sott'olio,capperi sott'olio,capperi sott'olio,366
+582,Confettura di ananas,confettura di ananas,confettura,46
+583,Insalata mista,insalata mista,insalata mista,28
+584,Farina di Kamut®,farina di kamut®,farina,2121
+585,Lievito madre,lievito madre,lievito madre,30
+586,Aroma alla mandorla,aroma alla mandorla,aroma alla mandorla,14
+587,Ricotta di pecora,ricotta di pecora,ricotta di pecora,63
+588,Arancia candita,arancia candita,arancia candita,60
+589,Panini di grano duro,panini di grano duro,panini,78
+590,Caprino,caprino,caprino,58
+591,Tomini,tomini,tomini,11
+592,Farina di segale,farina di segale,farina di segale,11
+593,Bettelmatt,bettelmatt,bettelmatt,2
+594,Amarene con sciroppo,amarene con sciroppo,amarene,47
+595,Wurstel di maiale,wurstel di maiale,wurstel,25
+596,Pasta per il pane,pasta,pasta,78
+597,Mandorle armelline,mandorle armelline,mandorle,415
+598,Estratto di mandorla,estratto di mandorla,estratto di vaniglia,11
+599,Latte di riso,latte di riso,latte di riso,14
+600,Margarina vegetale,margarina vegetale,margarina vegetale,10
+601,Bresaola,bresaola,bresaola,20
+602,Bacon,bacon,bacon,39
+603,Zucca delica,zucca delica,zucca delica,226
+604,Fichi viola,fichi viola,fichi,82
+605,Pecorino toscano,pecorino toscano,pecorino toscano,519
+606,Noci pecan,noci pecan,noci pecan,24
+607,Cavolo nero,cavolo nero,cavolo nero,44
+608,Farina di mais bramata,farina di mais bramata,farina di mais bramata,144
+609,Ketchup,ketchup,ketchup,38
+610,Senape gialla in polvere,senape gialla,senape gialla,236
+611,Ceci neri secchi,ceci neri secchi,ceci,72
+612,Formaggio,formaggio,formaggio,264
+613,Pomodori,pomodori,pomodori,634
+614,Panini integrali,panini integrali,panini,78
+615,Burro di arachidi,burro di arachidi,burro di arachidi,8
+616,Lievito madre liquido,lievito madre liquido,lievito,30
+617,Paccheri,paccheri,paccheri,33
+618,Pancetta dolce,pancetta dolce,pancetta dolce,22
+619,Semola,semola,semola,144
+620,Spaghetti Integrali,spaghetti integrali,spaghetti integrali,19
+621,Fiordilatte,fiordilatte,fiordilatte,53
+622,Spaghetti 5 cereali,spaghetti 5 cereali,spaghetti 5 cereali,201
+623,Finocchi,finocchi,finocchi,98
+624,Fusilli Senza Glutine,fusilli,fusilli,71
+625,Peperoni dolci,peperoni dolci,peperoni,612
+626,Pomodori datterini pelati,pomodori datterini pelati,pomodori datterini pelati,128
+627,Cipollotti,cipollotti,cipollotti,296
+628,Fusilli 5 cereali,fusilli 5 cereali,fusilli,71
+629,Pomodori cuore di bue,pomodori cuore di bue,pomodori cuore di bue,15
+630,Chicchi di caffè,chicchi di caffè,chicchi di caffè,21
+631,Pollo,pollo,pollo,350
+632,Confettura di fichi,confettura di fichi,confettura,46
+633,Zuccheri glitterati,zuccheri glitterati,zuccheri glitterati,6
+634,Worcestershire sauce,worcestershire sauce,worcestershire sauce,47
+635,Cognac,cognac,cognac,64
+636,Salsa ketchup,salsa ketchup,salsa ketchup,38
+637,Sarde,sarde,sarde,32
+638,Strozzapreti,strozzapreti,strozzapreti,7
+639,Funghi chiodini,funghi chiodini,funghi chiodini,8
+640,Nasello,nasello,nasello,16
+641,Burro di cacao,burro di cacao,burro di cacao,9
+642,Grand Marnier,grand marnier,grand marnier,34
+643,Frutti di bosco disidratati,frutti di bosco disidratati,frutti della passione,72
+644,Friselle,friselle,friselle,9
+645,Lenticchie secche,lenticchie secche,lenticchie secche,28
+646,Panini da hamburger,panini da hamburger,panini da hamburger,78
+647,Insalata,insalata,insalata,75
+648,Sottilette,sottilette,sottilette,5
+649,Pane toscano,pane toscano,pane toscano,26
+650,Arista,arista,arista,13
+651,Senape di Digione,senape di digione,senape di digione,29
+652,Coriandolo in polvere,coriandolo,coriandolo,67
+653,Lecitina di soia,lecitina di soia,lecitina di soia,5
+654,Piselli precotti,piselli precotti,piselli,302
+655,Funghi,funghi,funghi,48
+656,Pesce spada,pesce spada,pesce spada,66
+657,Pepe verde in grani,pepe verde,pepe verde,5844
+658,Sale dell'Himalaya (rosa),sale dell'himalaya,sale,9693
+659,Dragoncello,dragoncello,dragoncello,31
+660,Zenzero,zenzero,zenzero,285
+661,Caramelle di zucchero colorate,caramelle di zucchero colorate,caramelle di zucchero colorate,10
+662,Fagioli cannellini,fagioli cannellini,fagioli cannellini,61
+663,Latte di mandorle,latte di mandorle,latte di mandorle,32
+664,Miele di erica,miele di erica,miele,335
+665,Liquore,liquore,liquore,38
+666,Frutta disidratata,frutta disidratata,frutta,22
+667,Verza,verza,verza,78
+668,Pesche gialle,pesche gialle,pesche gialle,106
+669,Lavanda,lavanda,lavanda,39
+670,Pomodorini gialli,pomodorini gialli,pomodorini gialli,16
+671,Amaretto (liquore),amaretto,amaretto,104
+672,Confettura di lamponi,confettura di lamponi,confettura di lamponi,12
+673,Biscotti,biscotti,biscotti,84
+674,Tortillas di mais,tortillas di mais,tortillas,20
+675,Peperoncino verde dolce,peperoncino verde dolce,peperoncino,468
+676,Panna acida,panna acida,panna acida,57
+677,Olive baresane,olive baresane,olive,72
+678,Funghi orecchioni o ostrica (Pleurotus),funghi orecchioni,funghi orecchioni,6
+679,Cioccolato al latte 40%,cioccolato al latte 40%,cioccolato,59
+680,Patate dolci (o americane),patate dolci,patate dolci,23
+681,Lambrusco,lambrusco,lambrusco,5
+682,Whisky,whisky,whisky,22
+683,Wasabi,wasabi,wasabi,30
+684,Zucchero grezzo di canna,zucchero grezzo di canna,zucchero grezzo di canna,547
+685,Lasagne Sottili all'uovo,lasagne sottili all'uovo,lasagne sottili all'uovo,51
+686,Panini da hot dog,panini da hot dog,panini,78
+687,Astice,astice,astice,9
+688,Lattuga iceberg,lattuga iceberg,lattuga iceberg,16
+689,Chicchi di farina di legumi (lenticchie rosse e piselli),chicchi di farina di legumi,chicchi di caffè,5
+690,Pomodori sardi (camone),pomodori sardi,pomodori sardi,634
+691,Pomodori pizzutelli,pomodori pizzutelli,pomodori,634
+692,Mini Farfalle,mini farfalle,mini penne rigate,16
+693,Mele,mele,mele,204
+694,Moscato,moscato,moscato,22
+695,Penne Rigate Senza Glutine,penne rigate,penne rigate,104
+696,Carciofi mammole,carciofi mammole,carciofi mammole,222
+697,Mini Pipe Rigate,mini pipe rigate,mini penne rigate,16
+698,Filetti di platessa,filetti di platessa,filetti di platessa,8
+699,Ditalini Senza Glutine,ditalini,ditalini,12
+700,Cicerchie secche,cicerchie secche,cicerchie secche,4
+701,Tartufo nero,tartufo nero,tartufo nero,44
+702,Tagliatelle 5 cereali e uova,tagliatelle 5 cereali e uova,tagliatelle,37
+703,Ravanelli,ravanelli,ravanelli,52
+704,Penne di lenticchie rosse,penne di lenticchie rosse,penne,104
+705,Casarecce,casarecce,casarecce,16
+706,Pasta,pasta,pasta,78
+707,Pomodori di Pachino,pomodori di pachino,pomodori di pachino,35
+708,Pennette rigate 5 cereali,pennette rigate 5 cereali,pennette rigate 5 cereali,104
+709,Vino rosato,vino rosato,vino rosato,9
+710,Curry,curry,curry,89
+711,Asiago,asiago,asiago,30
+712,Capperi,capperi,capperi,366
+713,Peperoni verdi,peperoni verdi,peperoni verdi,612
+714,Pomodorini,pomodorini,pomodorini,142
+715,Mozzarelline ciliegine,mozzarelline ciliegine,mozzarelline ciliegine,264
+716,Lattuga lollo,lattuga lollo,lattuga,112
+717,Mango,mango,mango,61
+718,Miglio,miglio,miglio,1
+719,Zucchine trombetta,zucchine trombetta,zucchine,654
+720,Riso vialone nano,riso vialone nano,riso vialone nano,34
+721,Ciliegie candite,ciliegie candite,ciliegie candite,30
+722,Reginette,reginette,reginette,12
+723,Amaro,amaro,amaranto,5
+724,Mele verdi,mele verdi,mele verdi,43
+725,Camembert,camembert,camembert,8
+726,Lamponi disidratati,lamponi disidratati,lamponi,214
+727,Baccalà dissalato,baccalà dissalato,baccalà dissalato,94
+728,Vino,vino,vino,43
+729,Brodo,brodo,brodo,215
+730,Confettura di more,confettura di more,confettura,46
+731,Biscotti al cacao,biscotti al cacao,biscotti,29
+732,Zucchero a velo vanigliato,zucchero,zucchero,4949
+733,Aroma di alchermes,aroma di alchermes,aroma alla mandorla,10
+734,Cavolo rosso,cavolo rosso,cavolo rosso,18
+735,Maraschino,maraschino,maraschino,21
+736,Colla alimentare,colla alimentare,colla alimentare,7
+737,Panini ai cereali,panini ai cereali,panini ai cereali,78
+738,Kirsch,kirsch,kirsch,22
+739,Aragosta,aragosta,aragosta,10
+740,Carrè di maiale,carrè di maiale,carrè di agnello,202
+741,Spumante,spumante,spumante,25
+742,Corn flakes,corn flakes,corn flakes,20
+743,Farina di cocco,farina di cocco,farina di cocco,20
+744,Verzini,verzini,verzini,2
+745,Cipolle borettane,cipolle borettane,cipolle borettane,103
+746,Scorze di fave,scorze di fave,scorzette d'arancia candita,103
+747,Pomodorini verdi,pomodorini verdi,pomodorini,142
+748,Rocoto,rocoto,rocoto,1
+749,Carote viola,carote viola,carote viola,7
+750,Patate viola,patate viola,patate viola,10
+751,Barbabietole,barbabietole,barbabietole,61
+752,Cachi,cachi,cachi,17
+753,Mele Ambrosia,mele ambrosia,mele,204
+754,Porto,porto,porto,27
+755,Pasta di pinoli,pasta di pinoli,pasta,392
+756,Tortillas di farina,tortillas di farina,tortillas di farina,20
+757,Marmellata di arance,marmellata di arance,marmellata di arance,28
+758,Gocce di cioccolato,gocce di cioccolato,gocce di cioccolato,11
+759,Visciole,visciole,visciole,3
+760,Uva bianca,uva bianca,uva bianca,21
+761,Uva nera,uva nera,uva nera,13
+762,Prugne secche,prugne secche,prugne secche,32
+763,Triglie,triglie,triglie,31
+764,Merluzzetti,merluzzetti,merluzzetti,49
+765,Cepole,cepole,cepole,1
+766,Aglio fresco,aglio fresco,aglio,2572
+767,Friggitelli,friggitelli,friggitelli,9
+768,Pane grattugiato,pane grattugiato,pane,363
+769,Fave secche,fave secche,fave secche,9
+770,Scorza di mandarino,scorza di mandarino,scorza d'arancia,187
+771,Rana pescatrice,rana pescatrice,rana pescatrice,17
+772,Anice in polvere,anice,anice,9
+773,Riso per sushi,riso,riso,289
+774,Alga nori,alga nori,alga nori,31
+775,Surimi,surimi,surimi,10
+776,Uova di lompo (succedaneo caviale),uova di lompo,uova di lompo,23
+777,Zenzero sott'aceto,zenzero sott'aceto,zenzero sott'aceto,285
+778,Fagioli rossi precotti,fagioli rossi precotti,fagioli,87
+779,Olio di semi di mais,olio di semi di mais,olio di semi di mais,27
+780,Carne ovina,carne ovina,carne,350
+781,Spezie,spezie,spezie,13
+782,Semolino,semolino,semolino,56
+783,Bacche di mirto,bacche di mirto,bacche di mirto,20
+784,Fesa di tacchino,fesa di tacchino,fesa di tacchino,20
+785,Fagioli dall'occhio secchi,fagioli dall'occhio secchi,fagioli,5
+786,Fagioli cannellini secchi,fagioli cannellini secchi,fagioli cannellini secchi,61
+787,Lenticchie rosse decorticate,lenticchie rosse decorticate,lenticchie,49
+788,Insalata misticanza,insalata misticanza,insalata misticanza,28
+789,Cotechino,cotechino,cotechino,29
+790,Lenticchie,lenticchie,lenticchie,49
+791,Mandarini,mandarini,mandarini,29
+792,Pane guttiau,pane guttiau,pane,363
+793,Olive verdi in salamoia,olive verdi,olive verdi,119
+794,Fagiolini piattoni,fagiolini piattoni,fagiolini piattoni,153
+795,Cumino in polvere,cumino,cumino,79
+796,Farfalle Integrali,farfalle integrali,farfalle,35
+797,Pomodorini secchi sottolio,pomodorini secchi sottolio,pomodorini secchi sottolio,141
+798,Capriolo,capriolo,capriolo,5
+799,Torchietti all'uovo,torchietti all'uovo,torchietti all'uovo,2
+800,Aglio rosso,aglio rosso,aglio,2572
+801,Noodles,noodles,noodles,14
+802,Germogli di soia,germogli di soia,germogli di soia,23
+803,Linguine senza glutine,linguine,linguine,56
+804,Yogurt senza lattosio,yogurt,yogurt,129
+805,Succo di pesca,succo di pesca,succo di pesca,3
+806,Penne Rigate Bio,penne rigate bio,penne,104
+807,Farina istantanea per polenta taragna,farina istantanea,farina istantanea,9
+808,Broccoli romaneschi,broccoli romaneschi,broccoli romaneschi,95
+809,Cavoletti di Bruxelles,cavoletti di bruxelles,cavoletti di bruxelles,20
+810,Cavoli rossi,cavoli rossi,cavolini di bruxelles,18
+811,Valeriana (songino),valeriana,valeriana,14
+812,Lardo,lardo,lardo,114
+813,Melone,melone,melone,39
+814,Luganega,luganega,luganega,23
+815,Culatello,culatello,culatello,8
+816,Cipolline sott'aceto,cipolline sott'aceto,cipolline,103
+817,Raspadura,raspadura,raspadura,5
+818,Sfoglie croccanti al forno,sfoglie croccanti al forno,sfoglie croccanti al forno,5
+819,Crema di castagne,crema di castagne,crema,25
+820,Mele Evelina,mele evelina,mele evelina,204
+821,Zucchine tonde,zucchine tonde,zucchine tonde,654
+822,Sciroppo di amarene,sciroppo di amarene,sciroppo alla fragola,2
+823,Pasta di curry,pasta di curry,pasta,89
+824,Lemongrass,lemongrass,lemongrass,13
+825,Carote baby,carote baby,carote baby,1077
+826,Sfilati con olive al forno,sfilati con olive al forno,sfilati al pomodoro al forno,6
+827,Prosciutto,prosciutto,prosciutto,22
+828,Frutti di cappero,frutti di cappero,frutti di cappero,366
+829,Cosciotto d'agnello,cosciotto d'agnello,cosciotto d'agnello,57
+830,Miele di arancio,miele di arancio,miele,335
+831,Mezzi Canneroni,mezzi canneroni,mezzi paccheri,6
+832,Caciocavallo silano,caciocavallo silano,caciocavallo,87
+833,Nduja,nduja,nduja,9
+834,Uova di quaglia,uova di quaglia,uova di quaglia,23
+835,Farina di mais senza glutine,farina di mais,farina di mais,144
+836,Bietole,bietole,bietole,64
+837,Pasta per la pizza,pasta,pasta,78
+838,Salame napoletano,salame napoletano,salame napoletano,11
+839,Isomalto,isomalto,isomalto,1
+840,Melanzane ovali nere,melanzane ovali nere,melanzane,295
+841,Orecchiette,orecchiette,orecchiette,18
+842,Farina di farro integrale,farina di farro integrale,farina di farro integrale,35
+843,Aceto di lamponi,aceto di lamponi,aceto di lamponi,12
+844,Filoncini di pane,filoncini di pane,filoncini di pane,363
+845,Squacquerone,squacquerone,squacquerone,5
+846,Fettuccine 5 cereali e uova,fettuccine 5 cereali e uova,fettuccine 5 cereali e uova,23
+847,Farina 2,farina 2,farina 2,15
+848,Mortadella con pistacchi,mortadella con pistacchi,mortadella,84
+849,Seppioline,seppioline,seppioline,17
+850,Riso,riso,riso,289
+851,Fegatini di pollo,fegatini di pollo,fegatini di pollo,39
+852,Funghi secchi,funghi secchi,funghi secchi,48
+853,Peperoncino dolce,peperoncino dolce,peperoncino dolce,468
+854,Rose in pasta di zucchero,rose,rose,8
+855,Fiori in ostia,fiori,fiori di zucca,39
+856,Yogurt alla frutta,yogurt alla frutta,yogurt,129
+857,Carote gialle,carote gialle,carote,1077
+858,Nocciole tostate,nocciole tostate,nocciole tostate,45
+859,Zucchine bianche,zucchine bianche,zucchine bianche,654
+860,Chorizo,chorizo,chorizo,4
+861,Ovetti di cioccolato al latte,ovetti di cioccolato al latte,ovetti di quaglia,5
+862,Prosciutto cotto alle erbe,prosciutto cotto alle erbe,prosciutto,324
+863,Triplo concentrato di pomodoro,triplo concentrato di pomodoro,triplo concentrato di pomodoro,192
+864,Latte senza lattosio,latte,latte,2242
+865,Ortiche,ortiche,ortiche,15
+866,Rum bianco,rum bianco,rum bianco,218
+867,Erbe aromatiche,erbe aromatiche,erbe aromatiche,70
+868,Cipolle essiccate,cipolle essiccate,cipolle,1415
+869,Pesche bianche,pesche bianche,pesche bianche,106
+870,Cavolo cappuccio,cavolo cappuccio,cavolo cappuccio,44
+871,Riso Ribe,riso ribe,riso,289
+872,Menta essiccata,menta essiccata,menta,533
+873,Carvi,carvi,carvi,1
+874,Aroma all'arancia,aroma all'arancia,aroma alla mandorla,10
+875,Mezze Maniche Rigate,mezze maniche rigate,mezze maniche rigate,21
+876,Codetta,codetta,codetta,28
+877,Cocco,cocco,cocco,45
+878,Panettone,panettone,panettone,39
+879,Mandarini canditi,mandarini canditi,mandarini,29
+880,Fusilli Integrali,fusilli integrali,fusilli integrali,10
+881,Tagliatelle Senza Glutine,tagliatelle,tagliatelle,37
+882,Fusilli,fusilli,fusilli,71
+883,Cipolle ramate,cipolle ramate,cipolle ramate,1415
+884,Pangrattato senza glutine,pangrattato,pangrattato,834
+885,Sgombro sott'olio,sgombro sott'olio,sgombro,20
+886,Liquore all'anice,liquore all'anice,liquore all'anice,8
+887,Sale marino integrale,sale marino integrale,sale,9693
+888,Pepe di Sarawak,pepe di sarawak,pepe,5844
+889,Farro,farro,farro,31
+890,Orzo perlato,orzo perlato,orzo perlato,37
+891,Tofu,tofu,tofu,23
+892,Entrecote,entrecote,entrecote,492
+893,Birra,birra,birra,103
+894,Peperoncino verde piccante,peperoncino verde piccante,peperoncino verde piccante,44
+895,Burro vegano,burro vegano,burro,4606
+896,Granella di noci,granella di noci,granella di cioccolato,222
+897,Alga kombu,alga kombu,alga nori,31
+898,Cioccolato fondente al 50%,cioccolato fondente al 50%,cioccolato,833
+899,Sambuca,sambuca,sambuca,4
+900,Tonno affumicato,tonno affumicato,tonno,101
+901,Totani,totani,totani,16
+902,Curcuma fresca,curcuma fresca,curcuma,79
+903,Abbacchio,abbacchio,abbacchio,4
+904,Alette di pollo,alette di pollo,alette di pollo,350
+905,Alaccia,alaccia,alaccia,1
+906,Panko,panko,panko,4
+907,Prugne disidratate,prugne disidratate,prugne,32
+908,Brodo di manzo,brodo di manzo,brodo di manzo,219
+909,Cipolline,cipolline,cipolline,103
+910,Pane di segale,pane di segale,pane di segale,20
+911,Mais,mais,mais,31
+912,Costolette di agnello,costolette di agnello,costolette di agnello,57
+913,Salsa Worcestershire,salsa worcestershire,salsa worcestershire,47
+914,Fagioli neri precotti,fagioli neri precotti,fagioli,87
+915,Wafer al cacao,wafer al cacao,wafer al cacao,6
+916,codette,codette,codette colorate,28
+917,Zafferano in pistilli,zafferano,zafferano,177
+918,Mele Golden Delicious,mele golden delicious,mele,204
+919,Sardine sott'olio,sardine sott'olio,sardine,19
+920,Burro salato,burro salato,burro,4606
+921,Biancostato di manzo,biancostato di manzo,biancostato di manzo,492
+922,Barba di frate (agretti),barba di frate,barba di frate,15
+923,Fregola,fregola,fregola,18
+924,Funghi portobello,funghi portobello,funghi,48
+925,Confettura di pesche,confettura di pesche,confettura di pesche,7
+926,Ziti,ziti,ziti,11
+927,Vodka,vodka,vodka,26
+928,Avena,avena,avena,5
+929,Bacche di Goji,bacche di goji,bacche di goji,8
+930,Mele Gala,mele gala,mele,204
+931,Fagioli borlotti,fagioli borlotti,fagioli borlotti,47
+932,Risotto alla parmigiana,risotto alla parmigiana,risotto allo zafferano,9
+933,Funghi prataioli,funghi prataioli,funghi,48
+934,Ciliegie sotto spirito,ciliegie sotto spirito,ciliegie,86
+935,Frutta fresca,frutta fresca,frutta fresca,8
+936,Capocollo,capocollo,capocollo,3
+937,Xantana,xantana,xantana,4
+938,Patate americane,patate americane,patate,23
+939,Olive nere Greche,olive nere greche,olive nere greche,244
+940,Pesto di rucola,pesto di rucola,pesto,24
+941,Liquirizia in polvere,liquirizia,liquirizia,21
+942,Cioccolato fondente al 60%,cioccolato fondente al 60%,cioccolato,833
+943,Confettura di prugne,confettura di prugne,confettura,46
+944,Anelli Siciliani,anelli siciliani,anelli siciliani,2
+945,Alchermes,alchermes,alchermes,15
+946,Troccoli,troccoli,troccoli,4
+947,Pane per tramezzini,pane,pane,363
+948,Stoccafisso,stoccafisso,stoccafisso,18
+949,Sarde sotto sale,sarde sotto sale,sarde,32
+950,Marron glaces,marron glaces,marron glacè,20
+951,Farina di mais giallo,farina di mais giallo,farina,144
+952,Bulgur,bulgur,bulgur,14
+953,Cannelloni all'uovo,cannelloni all'uovo,cannelloni all'uovo,6
+954,Mix di cereali,mix di cereali,mix di cereali,7
+955,Sfoglie alle olive,sfoglie alle olive,sfoglie alle olive,8
+956,Amarene,amarene,amarene,47
+957,Preparato per confetture 3:1,preparato,preparato,3
+958,Latte scremato,latte scremato,latte scremato,2242
+959,Cotechino precotto,cotechino precotto,cotechino precotto,29
+960,Farina di avena,farina di avena,farina,2121
+961,Amido di riso,amido di riso,amido di riso,18
+962,Frumina,frumina,frumina,6
+963,Topping al caramello,topping al caramello,topping al caramello,17
+964,Gnocchetti Sardi,gnocchetti sardi,gnocchetti sardi,12
+965,Crema di pomodorini,crema di pomodorini,crema,142
+966,Germogli di barbabietola,germogli di barbabietola,germogli di barbabietola,5
+967,Germogli alfa alfa,germogli alfa alfa,germogli,15
+968,Pancetta arrotolata,pancetta arrotolata,pancetta,245
+969,Cedro candito,cedro candito,cedro candito,34
+970,Uva sultanina,uva sultanina,uva sultanina,87
+971,Pane di farro,pane di farro,pane,363
+972,Spaghetti Bio,spaghetti bio,spaghetti,201
+973,Pasta Mista,pasta mista,pasta,78
+974,Mezze Penne Rigate Integrali,mezze penne rigate integrali,mezze penne rigate integrali,5
+975,Pomodori perini,pomodori perini,pomodori perini,634
+976,Scialatielli,scialatielli,scialatielli,5
+977,Panna fresca senza lattosio,panna fresca,panna fresca,1860
+978,Spaghetti alla Chitarra all'uovo,spaghetti alla chitarra all'uovo,spaghetti alla chitarra all'uovo,12
+979,Tartufi,tartufi,tartufi neri,18
+980,Sciroppo di fiori di sambuco,sciroppo di fiori di sambuco,sciroppo alla fragola,27
+981,Fiori di lavanda,fiori di lavanda,fiori di zucca,39
+982,Aroma al maraschino,aroma al maraschino,aroma alla mandorla,10
+983,Preparato per decorazioni,preparato,preparato,3
+984,Limone candito,limone candito,limone,1394
+985,Marzapane,marzapane,marzapane,11
+986,Piselli secchi,piselli secchi,piselli,302
+987,Trota salmonata,trota salmonata,trota salmonata,15
+988,Frattaglie di pollo,frattaglie di pollo,frattaglie di pollo,350
+989,Pepe di Sichuan,pepe di sichuan,pepe di sichuan,5844
+990,Biscottini di Novara,biscottini di novara,biscottini di novara,84
+991,Acai in polvere,acai,acai,1
+992,Pesce di mare,pesce di mare,pesce,29
+993,Filetti di nasello,filetti di nasello,filetti di nasello,16
+994,Cappone,cappone,cappone,15
+995,Controfiletto di manzo,controfiletto di manzo,controfiletto di manzo,492
+996,Mele Royal Gala,mele royal gala,mele,204
+997,Calamarata,calamarata,calamarata,9
+998,Confettini colorati,confettini colorati,confettini colorati,14
+999,Arachidi salate tostate,arachidi salate tostate,arachidi,24
+1000,Pistacchi tostati salati,pistacchi tostati salati,pistacchi,11
+1001,Fusi di pollo,fusi di pollo,fusi di pollo,350
+1002,Tartufi neri,tartufi neri,tartufi neri,44
+1003,Fruttapec 2:1,fruttapec,fruttapec,3
+1004,Muesli,muesli,muesli,10
+1005,Lenticchie precotte,lenticchie precotte,lenticchie,49
+1006,Semi misti,semi misti,semi misti,107
+1007,Fettuccine all'uovo,fettuccine all'uovo,fettuccine all'uovo,23
+1008,Gallinella,gallinella,gallinella,13
+1009,Daikon,daikon,daikon,7
+1010,Grano,grano,grana,2121
+1011,Coda di rospo,coda di rospo,coda di rospo,28
+1012,Quinoa,quinoa,quinoa,30
+1013,Sedani Rigati,sedani rigati,sedanini rigati,12
+1014,Farina di mais bramata bianca,farina di mais bramata bianca,farina,144
+1015,Fumetto di pesce,fumetto di pesce,fumetto di pesce,26
+1016,Ossibuchi di vitello,ossibuchi di vitello,ossibuchi di vitello,16
+1017,Fusilli di lenticchie rosse,fusilli di lenticchie rosse,fusilli,71
+1018,Olive,olive,olive,72
+1019,Vino secco da dessert,vino secco da dessert,vino,43
+1020,Crostacei,crostacei,crostacei,3
+1021,Cicorino,cicorino,cicorino,37
+1022,Spaghetti di riso,spaghetti di riso,spaghetti,201
+1023,Ricci di mare,ricci di mare,ricci di mare,8
+1024,Mix di farine senza glutine,mix di farine,mix di cereali,2121
+1025,Lievito di birra secco senza glutine,lievito di birra secco,lievito di birra secco,364
+1026,Farina di tapioca,farina di tapioca,farina,2121
+1027,Tortiglioni,tortiglioni,tortiglioni,12
+1028,Latte parzialmente scremato,latte parzialmente scremato,latte,2242
+1029,Sciroppo di zucchero,sciroppo di zucchero,sciroppo di zucchero,7
+1030,Codette bianche,codette bianche,codette,28
+1031,Perline di zucchero,perline di zucchero,perline di zucchero,1
+1032,Biscotti integrali,biscotti integrali,biscotti,84
+1033,Papaya,papaya,papaya,16
+1034,Noce di cocco,noce di cocco,noce,45
+1035,Filini,filini,filini,1
+1036,Datteri,datteri,datteri,33
+1037,Mele stark,mele stark,mele,204
+1038,Pistacchi tostati,pistacchi tostati,pistacchi tostati,11
+1039,Pere Decana,pere decana,pere,111
+1040,Confettura di frutti di bosco,confettura di frutti di bosco,confettura,46
+1041,Birra analcolica,birra analcolica,birra,103
+1042,Tartufo,tartufo,tartufo,18
+1043,Champagne,champagne,champagne,16
+1044,Riso pilaf,riso pilaf,riso,289
+1045,Essenza di vaniglia,essenza di vaniglia,essenza di vaniglia,100
+1046,Filetto di vitello,filetto di vitello,filetto di vitello,492
+1047,Crema pasticcera,crema pasticcera,crema pasticcera,65
+1048,Burro senza lattosio,burro,burro,4606
+1049,Tortillas,tortillas,tortillas,20
+1050,Biscotti secchi senza glutine,biscotti secchi,biscotti secchi,84
+1051,Burro di soia,burro di soia,burro,4606
+1052,Formaggio fresco spalmabile senza lattosio,formaggio fresco spalmabile,formaggio fresco spalmabile,134
+1053,Patate ratte,patate ratte,patate,1000
+1054,Vene cress,vene cress,vene cress,1
+1055,Zucca gialla,zucca gialla,zucca gialla,20
+1056,Yogurt greco 2% di grassi,yogurt greco,yogurt greco,196
+1057,Olive nere infornate,olive nere infornate,olive,72
+1058,Mentuccia,mentuccia,mentuccia,533
+1059,Bottarga di tonno,bottarga di tonno,bottarga di tonno,50
+1060,Cracker,cracker,cracker,3
+1061,Farfalline all'uovo,farfalline all'uovo,farfalline all'uovo,35
+1062,Zucca napoletana,zucca napoletana,zucca,226
+1063,Pasta di arance,pasta di arance,pasta,46
+1064,Pasta di mandarini,pasta di mandarini,pasta,29
+1065,Pasta di limoni,pasta di limoni,pasta,1394
+1066,Farina di grano arso,farina di grano arso,farina,2121
+1067,Coregone,coregone,coregone,1
+1068,Crema di pistacchi,crema di pistacchi,crema,18
+1069,Mele Red Delicious,mele red delicious,mele red delicious,8
+1070,Penne di grano saraceno,penne di grano saraceno,penne,104
+1071,Polpetti,polpetti,polpetti,6
+1072,Pepe in grani,pepe,pepe,5844
+1073,Confettura di ribes,confettura di ribes,confettura,46
+1074,Sciroppo di agave,sciroppo di agave,sciroppo alla fragola,4
+1075,Sardine,sardine,sardine,19
+1076,Pepe verde,pepe verde,pepe verde,5844
+1077,Timo limonato,timo limonato,timo,874
+1078,Mortadella di Bologna,mortadella di bologna,mortadella,84
+1079,Petto d'anatra,petto d'anatra,petto d'anatra,27
+1080,Biscotti melighe,biscotti melighe,biscotti,84
+1081,Passito di Pantelleria,passito di pantelleria,passito,7
+1082,Barolo,barolo,barolo,9
+1083,Tè verde,tè verde,tè verde,15
+1084,Peperoni verdi a cornetto,peperoni verdi,peperoni verdi,612
+1085,Pectina,pectina,pectina,2
+1086,Vincotto,vincotto,vincotto,7
+1087,Santoreggia,santoreggia,santoreggia,4
+1088,Gelato al fiordilatte,gelato al fiordilatte,gelato al fiordilatte,11
+1089,Melanzane tonde,melanzane tonde,melanzane tonde,25
+1090,Roquefort,roquefort,roquefort,17
+1091,Sake,sake,sake,11
+1092,Ostia,ostia,ostia,12
+1093,Mele Fujion,mele fujion,mele,204
+1094,Salsa di pomodori messicana,salsa di pomodori messicana,salsa,90
+1095,Guacamole,guacamole,guacamole,2
+1096,Faraona,faraona,faraona,16
+1097,Lingua salmistrata,lingua salmistrata,lingua salmistrata,10
+1098,Brodo di pesce,brodo di pesce,brodo di pesce,27
+1099,Gelato allo yogurt,gelato allo yogurt,gelato al cioccolato,8
+1100,Panna vegetale senza lattosio,panna vegetale,panna,1860
+1101,Farro perlato,farro perlato,farro perlato,11
+1102,Seppie,seppie,seppie,40
+1103,Pasta fresca,pasta fresca,pasta,78
+1104,Mini Ruote,mini ruote,ruote,8
+1105,Clementine,clementine,clementine,7
+1106,Legumi misti,legumi misti,legumi misti,4
+1107,Marroni,marroni,marron glacè,20
+1108,Ossibuchi di tacchino,ossibuchi di tacchino,ossibuchi,16
+1109,Sale delle Hawaii,sale,sale,9693
+1110,Riso di semola,riso di semola,riso,289
+1111,Biete,biete,biete,64
+1112,Fasolari,fasolari,fasolari,11
+1113,Sogliola,sogliola,sogliola,30
+1114,Marmellata di lamponi,marmellata di lamponi,marmellata di lamponi,7
+1115,Cotechino Modena precotto,cotechino modena precotto,cotechino,29
+1116,Marmellata di peperoncini,marmellata di peperoncini,marmellata,46
+1117,Prosciutto cotto di praga,prosciutto cotto di praga,prosciutto,324
+1118,Frutta candita,frutta candita,frutta candita,33
+1119,Essenza di mandorla,essenza di mandorla,essenza di senape,11
+1120,Farina di riso integrale,farina di riso integrale,farina di riso integrale,103
+1121,Spaghetti Rigati,spaghetti rigati,spaghetti,201
+1122,Coda di bue,coda di bue,coda di bue,8
+1123,Salamella,salamella,salamella,59
+1124,Topping al cioccolato,topping al cioccolato,topping al cioccolato,105
+1125,Rossese di Dolceacqua,rossese di dolceacqua,rossese di dolceacqua,1
+1126,Confettura,confettura,confettura di albicocche,46
+1127,Albicocche sciroppate,albicocche sciroppate,albicocche,69
+1128,Macarons,macarons,macarons,2
+1129,Pasta di mandorle,pasta di mandorle,pasta di mandorle,8
+1130,Alchechengi,alchechengi,alchechengi,6
+1131,Polenta istantanea,polenta istantanea,polenta,26
+1132,Curry thai rosso,curry thai rosso,curry,89
+1133,Soppressata,soppressata,soppressata,4
+1134,Patate fritte,patate fritte,patate,1000
+1135,Lasagne Verdi all'uovo,lasagne verdi all'uovo,lasagne,51
+1136,Pancetta fresca,pancetta fresca,pancetta,245
+1137,Spaghetti Quadrati,spaghetti quadrati,spaghetti,201
+1138,Zucca violina,zucca violina,zucca,226
+1139,Tortiglioni Senza Glutine,tortiglioni,tortiglioni,12
+1140,Melone cantalupo,melone cantalupo,melone,39
+1141,Tortiglioni Integrali,tortiglioni integrali,tortiglioni,12
+1142,Insalata trocadero,insalata trocadero,insalata,75
+1143,Cioccolato fondente all'85%,cioccolato fondente all'85%,cioccolato,833
+1144,Mostarda bolognese,mostarda bolognese,mostarda di frutta,10
+1145,Spaghettini Integrali,spaghettini integrali,spaghettini,19
+1146,Salsa alle noci,salsa alle noci,salsa,222
+1147,Melassa,melassa,melassa,4
+1148,Patè di olive nere,patè di olive nere,patè di olive nere,11
+1149,Orzo,orzo,orzo,11
+1150,Fagioli rossi secchi,fagioli rossi secchi,fagioli,87
+1151,Tortilla chips,tortilla chips,tortillas,20
+1152,Berberè,berberè,berberè,2
+1153,Olio,olio,olio,2191
+1154,Canocchie,canocchie,canocchie,14
+1155,"Chicchi di farina di legumi (lenticchie rosse, ceci e piselli)",chicchi di farina di legumi,chicchi di caffè,5
+1156,Coni per gelato,coni,coniglio,4
+1157,Nesquik Squeeze,nesquik squeeze,nesquik,10
+1158,Costolette di vitello,costolette di vitello,costolette d'agnello,492
+1159,Fusilloni,fusilloni,fusilloni,5
+1160,Glassa di aceto balsamico,glassa di aceto balsamico,glassa di aceto balsamico,8
+1161,Tilsit,tilsit,tilsit,4
+1162,Seitan,seitan,seitan,10
+1163,Scorza di pompelmo,scorza di pompelmo,scorza d'arancia,187
+1164,Pepe di Caienna,pepe di caienna,pepe di caienna,5844
+1165,Pane integrale multi-cereali,pane integrale multicereali,pane,43
+1166,Blu di Capra,blu di capra,blu di capra,8
+1167,Caglio,caglio,caglio,3
+1168,Succo di pompelmo,succo di pompelmo,succo di pompelmo,5
+1169,Pasta tandoori,pasta tandoori,pasta,10
+1170,Pasta di aglio,pasta di aglio,pasta,2572
+1171,Pepe giamaicano,pepe giamaicano,pepe,5844
+1172,Arance essicate,arance essicate,arance,358
+1173,Cavatelli,cavatelli,cavatelli,6
+1174,Pane integrale in cassetta,pane integrale,pane integrale,43
+1175,Confettura di frutti rossi,confettura di frutti rossi,confettura,46
+1176,Coppa di maiale,coppa di maiale,coppa di maiale,4
+1177,Pane rustico,pane rustico,pane rustico,363
+1178,Peperoni sott'olio,peperoni sott'olio,peperoni,612
+1179,Farina di riso venere,farina di riso venere,farina,103
+1180,Grano cotto,grano cotto,grano cotto,9
+1181,Lievito in polvere per dolci senza glutine,lievito,lievito,994
+1182,Zucchero a velo senza glutine,zucchero,zucchero,4949
+1183,Sfilati al pomodoro al forno,sfilati al pomodoro al forno,sfilati al pomodoro al forno,6
+1184,Pici,pici,pici,1
+1185,Cocco disidratato,cocco disidratato,cocco disidratato,43
+1186,Torta al cioccolato,torta al cioccolato,torta al cioccolato,2
+1187,Rotella di liquirizia,rotella di liquirizia,rotella di liquirizia,21
+1188,Riso integrale,riso integrale,riso,289
+1189,Bignè,bignè,bignè,11
+1190,Polpa di granchio,polpa di granchio,polpa di pomodoro,10
+1191,Tè verde Matcha,tè verde matcha,tè verde matcha,15
+1192,Mandorle in polvere,mandorle,mandorle,415
+1193,Skyr,skyr,skyr,5
+1194,Confettura di mirtilli,confettura di mirtilli,confettura di mirtilli,7
+1195,Composta di mirtilli,composta di mirtilli,composta di mirtilli,5
+1196,Caciotta romana,caciotta romana,caciotta,15
+1197,Birra Guinness,birra guinness,birra,103
+1198,Sottofesa di vitello,sottofesa di vitello,sottofesa di vitello,492
+1199,Trippa,trippa,trippa,21
+1200,Ovetti confettati,ovetti confettati,ovetti di cioccolato al latte,3
+1201,Caciottina,caciottina,caciottina,15
+1202,Trippa di bovino,trippa di bovino,trippa,21
+1203,Stelline Senza Glutine,stelline,stelline,1
+1204,Tartufo bianco,tartufo bianco,tartufo bianco,13
+1205,Colomba,colomba,colomba,4
+1206,Pane lungo per tramezzini,pane lungo,pane,363
+1207,Sale affumicato,sale affumicato,sale affumicato,9693
+1208,Nero di seppia,nero di seppia,nero di seppia,13
+1209,Tortellini,tortellini,tortellini,7
+1210,Scarola riccia,scarola riccia,scarola,44
+1211,Vin santo,vin santo,vin santo,12
+1212,Cranberry,cranberry,cranberries,5
+1213,Dashi,dashi,dashi,2
+1214,Pecora,pecora,pecorino,519
+1215,Fave surgelate,fave surgelate,fave,103
+1216,Crostini di pane,crostini di pane,crostini di pane,5
+1217,Castelmagno,castelmagno,castelmagno,7
+1218,Vino porto,vino porto,vino,27
+1219,Preparato per confetture 1:1,preparato,preparato,3
+1220,Ciliegie sciroppate,ciliegie sciroppate,ciliegie,3
+1221,Sciroppo alla fragola,sciroppo alla fragola,sciroppo alla menta,27
+1222,Garganelli all'uovo,garganelli all'uovo,garganelli all'uovo,9
+1223,Uva passa sultanina,uva passa sultanina,uva,87
+1224,Pak choi,pak choi,pak choi,3
+1225,Cavolo riccio (Kale),cavolo riccio,ricciola,44
+1226,Pasta kataifi,pasta kataifi,pasta,3
+1227,Broccoletti,broccoletti,broccoletti,95
+1228,Senape bianca in polvere,senape bianca,senape,236
+1229,Salsa cocktail,salsa cocktail,salsa cocktail,3
+1230,Riso Bomba,riso bomba,riso,289
+1231,Fumetto di crostacei,fumetto di crostacei,fumetto di crostacei,6
+1232,Mini Fusilli,mini fusilli,mini penne rigate,16
+1233,Rose,rose,rose,8
+1234,Farina di mais integrale per polenta istantanea,farina di mais integrale,farina,144
+1235,zenzero candito,zenzero candito,zenzero,285
+1236,Cialde da cannolo,cialde da cannolo,cialde da cannolo,2
+1237,Bitto,bitto,bitto,5
+1238,Lievito chimico in polvere,lievito chimico,lievito,994
+1239,Patè di olive,patè di olive,patè di olive,11
+1240,Olive nere nizzarde,olive nere nizzarde,olive,72
+1241,Olive riviera,olive riviera,olive,72
+1242,Topping ai frutti di bosco,topping ai frutti di bosco,topping ai frutti di bosco,72
+1243,Ricotta di capra,ricotta di capra,ricotta,324
+1244,Pimento,pimento,pimenton,272
+1245,Cioccolato bianco 35%,cioccolato bianco 35%,cioccolato,160
+1246,Amaranto,amaranto,amaranto,6
+1247,Farina di amaranto,farina di amaranto,farina,2121
+1248,Gocce di cioccolato fondente senza glutine,gocce di cioccolato fondente,gocce di cioccolato fondente,71
+1249,Granella di nocciole senza glutine,granella di nocciole,granella di nocciole,102
+1250,Yogurt di soia,yogurt di soia,yogurt,129
+1251,Farina per pane senza glutine,farina,farina,2121
+1252,Lievito di birra fresco senza glutine,lievito di birra fresco,lievito di birra fresco,176
+1253,Malto di riso senza glutine,malto di riso,malto,79
+1254,Canditi senza glutine,canditi,canditi,33
+1255,Farina di teff,farina di teff,farina,2121
+1256,Burro di cocco,burro di cocco,burro,4606
+1257,Pane ai 3 farri,pane ai 3 farri,pane,363
+1258,Pere coscia,pere coscia,pere,111
+1259,Nocciole intere,nocciole intere,nocciole intere,164
+1260,Carambola,carambola,carambola,3
+1261,Aglio orsino,aglio orsino,aglio,2572
+1262,Fagioli di spagna,fagioli di spagna,fagioli,87
+1263,Orecchiette fresche,orecchiette fresche,orecchiette,18
+1264,Pipe Rigate,pipe rigate,pipe rigate,78
+1265,Radiatori,radiatori,radiatori,1
+1266,Cosce di coniglio,cosce di coniglio,cosce di pollo,65
+1267,Frattaglie di maiale,frattaglie di maiale,frattaglie di maiale,202
+1268,Ricotta mista,ricotta mista,ricotta,324
+1269,Savoiardi senza glutine,savoiardi,savoiardi,82
+1270,Cioccolato fondente al 70% senza glutine,cioccolato fondente al 70%,cioccolato fondente al 70%,833
+1271,Yogurt greco 0% di grassi,yogurt greco,yogurt greco,196
+1272,Chicchi di mais giallo in scatola,chicchi di mais giallo,chicchi di caffè,144
+1273,Appenzeller,appenzeller,appenzeller,2
+1274,Anatra,anatra,anatra,27
+1275,Friarielli,friarielli,friarielli,4
+1276,Melissa,melissa,melissa,10
+1277,Malto di riso,malto di riso,malto,79
+1278,Liquirizia,liquirizia,liquirizia,21
+1279,Salsa teriyaki,salsa teriyaki,salsa teriyaki,3
+1280,Acqua di rose,acqua di rose,acqua di rose,6
+1281,Lasagne ricce,lasagne ricce,lasagne,51
+1282,Segatura di faggio,segatura di faggio,segatura di faggio,1
+1283,Carbone vegetale,carbone vegetale,carbone vegetale,2
+1284,Panini al sesamo,panini al sesamo,panini,78
+1285,Ovetti,ovetti,ovetti di quaglia,23
+1286,Bigoli,bigoli,bigoli,7
+1287,Rombo,rombo,rombo,12
+1288,Vongole veraci,vongole veraci,vongole veraci,83
+1289,Cannolicchi,cannolicchi,cannolicchi,14
+1290,Olive nere in salamoia,olive nere,olive nere,244
+1291,Trota,trota,trota salmonata,13
+1292,Gelato alla panna,gelato alla panna,gelato al cioccolato,4
+1293,Piadine integrali,piadine integrali,piadine,31
+1294,Aceto di sidro,aceto di sidro,aceto di sidro,528
+1295,Mix di frutta secca/essiccata,mix di frutta secca,mix di cereali,10
+1296,Frutti di cappero sott'aceto,frutti di cappero sott'aceto,frutti della passione,366
+1297,Grissini,grissini,grissini,8
+1298,Biscotti all'avena senza glutine,biscotti all'avena,biscotti,84
+1299,Formaggio fresco spalmabile senza glutine,formaggio fresco spalmabile,formaggio fresco spalmabile,134
+1300,Gelatina in fogli senza glutine,gelatina,gelatina,429
+1301,Biscotti di grano saraceno,biscotti di grano saraceno,biscotti,84
+1302,Zucchero di canna a velo,zucchero di canna,zucchero di canna,547
+1303,Budino di cioccolato,budino di cioccolato,budino di cioccolato,1
+1304,Canditi,canditi,canditi,33
+1305,Malto d'orzo,malto d'orzo,malto,79
+1306,Sedano bianco,sedano bianco,sedano bianco,796
+1307,Fiocchi di latte,fiocchi di latte,fiocchi di avena,31
+1308,Cajun,cajun,cajun,2
+1309,Fiori di zucchero,fiori di zucchero,fiori di zucca,4949
+1310,Insalata riccia,insalata riccia,insalata riccia,17
+1311,Pane nero ai cereali,pane nero ai cereali,pane,363
+1312,Cialde,cialde,cialde,1
+1313,Skuta,skuta,skuta,1
+1314,Asparagi selvatici,asparagi selvatici,asparagi,192
+1315,Cioccolato fondente al 60-69%,cioccolato fondente al 60%,cioccolato,833
+1316,Marshmallow,marshmallow,marshmallow,1
+1317,Wurstel di vitello,wurstel di vitello,wurstel,25
+1318,Polenta,polenta,polenta,26
+1319,Taralli,taralli,tarallini,9
+1320,Vermicelli,vermicelli,vermicelli,11
+1321,Freselle,freselle,freselle,9
+1322,Zucchine gialle,zucchine gialle,zucchine,654
+1323,Farina di grano saraceno senza glutine,farina di grano saraceno,farina di grano saraceno,59
+1324,Sugo di pomodoro,sugo di pomodoro,sugo di pomodoro,5
+1325,Crema spalmabile alle nocciole,crema spalmabile alle nocciole,crema,136
+1326,Panna di soia,panna di soia,panna,1860
+1327,Vitellone,vitellone,vitellone,492
+1328,Anice nero,anice nero,nero di seppia,9
+1329,Marmellata di fragole,marmellata di fragole,marmellata di fragole,12
+1330,Fecola di patate senza glutine,fecola di patate,fecola di patate,233
+1331,Lievito istantaneo per preparazioni salate senza glutine,lievito istantaneo,lievito istantaneo,994
+1332,Pompelmi rosa,pompelmi rosa,pompelmi rosa,21
+1333,Filetti di cernia,filetti di cernia,filetti di cernia,8
+1334,Aroma al rum,aroma al rum,aroma alla mandorla,10
+1335,Lupini,lupini,lupini,5
+1336,Golden syrup,golden syrup,golden syrup,1
+1337,Stracapra,stracapra,stracapra,1
+1338,Melanzane perlina,melanzane perlina,melanzane,18
+1339,Semi di cumino,semi di cumino,semi di cumino,107
+1340,Lampascioni,lampascioni,lampascioni,3
+1341,Spaghettini,spaghettini,spaghettini,201
+1342,Fagioli,fagioli,fagioli,87
+1343,Pane nero,pane nero,pane nero,14
+1344,Lumaconi,lumaconi,lumaconi,10
+1345,Lepre,lepre,lepre,9
+1346,Formaggio latteria,formaggio latteria,formaggio,264
+1347,Miele di corbezzolo,miele di corbezzolo,miele,335
+1348,Farina di quinoa,farina di quinoa,farina,2121
+1349,Albicocche disidratate,albicocche disidratate,albicocche,69
+1350,Latte in polvere,latte,latte,2242
+1351,Puccia salentina,puccia salentina,puccia salentina,1
+1352,Cavallo,cavallo,cavallo,5
+1353,Riso Roma,riso roma,riso,289
+1354,Cacao amaro in polvere senza lattosio,cacao amaro,cacao amaro,524
+1355,Nocciole pralinate,nocciole pralinate,nocciole,164
+1356,Mortadella di fegato,mortadella di fegato,mortadella,84
+1357,Gambi di cipollotto,gambi di cipollotto,gambi di rabarbaro,296
+1358,Cointreau,cointreau,cointreau,10
+1359,Tacos,tacos,tacos,2
+1360,Frutto della passione,frutto della passione,fruttosio,19
+1361,Granella di cioccolato,granella di cioccolato,granella di mandorle,4
+1362,Biscotti Oreo®,biscotti oreo,biscotti oreo,29
+1363,Biscotti Oreo,biscotti oreo,biscotti oreo,29
+1364,Farina di mais fumetto,farina di mais fumetto,farina,144
+1365,Mele annurche,mele annurche,mele,204
+1366,Distillato,distillato,distillato,2
+1367,Il latte condensato Nestlé,latte condensato,latte condensato,97
+1368,Cardi,cardi,cardi,19
+1369,Crauti precotti,crauti precotti,crauti,10
+1370,Dadi,dadi,dadi,18
+1371,Cookies al cioccolato,cookies al cioccolato,cookies al cioccolato,29
+1372,Olio di riso,olio di riso,olio di riso,14
+1373,Fagioli bianchi precotti,fagioli bianchi precotti,fagioli,87
+1374,Bananito,bananito,bananito,1
+1375,Foglie di vite,foglie di vite,foglie di vite,2
+1376,Ricotta affumicata,ricotta affumicata,ricotta affumicata,11
+1377,Granchio,granchio,granchio,14
+1378,Tè al limone in foglie,tè al limone,tè matcha,9
+1379,Olive Ascolane tenere,olive ascolane tenere,olive,72
+1380,Tagliatelle di riso,tagliatelle di riso,tagliatelle,37
+1381,Pasta di pesce,pasta di pesce,pasta,78
+1382,Succo di tamarindo,succo di tamarindo,succo d'ananas,41
+1383,Panettoncini,panettoncini,panettoncini,39
+1384,Sambuco,sambuco,sambuca,4
+1385,Pesche Percoche,pesche percoche,pesche,106
+1386,Pesce Persico,pesce persico,pesce,9
+1387,Farina di mais bianco,farina di mais bianco,farina,144
+1388,Rabarbaro,rabarbaro,rabarbaro,20
+1389,Sponsali,sponsali,sponsali,1
+1390,Colla di pesce,colla di pesce,colla di pesce,37
+1391,Tagliatelle Larghe all'uovo,tagliatelle larghe all'uovo,tagliatelle,37
+1392,Pannocchia di mais,pannocchia di mais,pannocchia di mais,7
+1393,Ostriche,ostriche,ostriche,13
+1394,Asparagi di mare,asparagi di mare,asparagi,192
+1395,Angostura,angostura,angostura,6
+1396,Pomodori verdi,pomodori verdi,pomodori verdi,7
+1397,Pomodori marinda,pomodori marinda,pomodori,634
+1398,Pecorino di fossa,pecorino di fossa,pecorino,519
+1399,Mix di pepi,mix di pepi,mix di cereali,5844
+1400,Zucca candita,zucca candita,zucca,226
+1401,Filetto di maiale,filetto di maiale,filetto di maiale,202
+1402,Pita,pita,pita,1
+1403,Toma,toma,toma,20
+1404,Cavolo cinese,cavolo cinese,cavolo,13
+1405,Miele di timo,miele di timo,miele,335
+1406,Cosce di tacchino,cosce di tacchino,cosce di coniglio,43
+1407,Pomodori secchi sottolio,pomodori secchi sottolio,pomodori,141
+1408,Monte Veronese,monte veronese,monte veronese,2
+1409,Midollo,midollo,midollo,7
+1410,Spianatine con pomodorini scarpariello,spianatine con pomodorini scarpariello,spianatine con pomodorini scarpariello,1
+1411,Riso soffiato,riso soffiato,riso soffiato,10
+1412,Mars,mars,marsala,121
+1413,Glutine di frumento,glutine di frumento,glutine di frumento,1
+1414,Barbera,barbera,barbera,3
+1415,Ombrina,ombrina,ombrina,8
+1416,Dolcetto,dolcetto,dolcetto,1
+1417,Fegato di vitello,fegato di vitello,fegato di vitello,10
+1418,Sardella,sardella,sardella,1
+1419,Succo di cranberry,succo di cranberry,succo d'ananas,41
+1420,Blue Curaçao,blue curaçao,blue curaçao,4
+1421,Gassosa,gassosa,gassosa,2
+1422,Pane arabo,pane arabo,pane,363
+1423,Guancia di maiale,guancia di maiale,guanciale,54
+1424,Essenza di senape,essenza di senape,essenza di vaniglia,6
+1425,Farina per polenta taragna,farina,farina,2121
+1426,Stinco di maiale,stinco di maiale,stinco di maiale,6
+1427,Miso,miso,miso,4
+1428,Alga Wakame,alga wakame,alga kombu,31
+1429,Tortelloni,tortelloni,tortelloni,1
+1430,Nespole,nespole,nespole,3
+1431,Acqua tonica,acqua tonica,acqua,1976
+1432,Limonata,limonata,limonata,1
+1433,Catalogna,catalogna,catalogna,37
+1434,Campari,campari,campari,5
+1435,Gin,gin,gin,7
+1436,Vermouth,vermouth,vermouth,14
+1437,Scorfano,scorfano,scorfano,15
+1438,Peperoncini piccanti,peperoncini piccanti,peperoncini piccanti,44
+1439,Vacherin Mont d'Or,vacherin mont d'or,vacherin mont d'or,1
+1440,Wafer,wafer,wafer,6
+1441,Cicerchie,cicerchie,cicerchie,4
+1442,Chicchi di farina di legumi (lenticchie rosse e ceci),chicchi di farina di legumi,chicchi di caffè,5
+1443,Pezzogna,pezzogna,pezzogna,1
+1444,Pomodori insalatari,pomodori insalatari,pomodori,634
+1445,Borragine,borragine,borragine,9
+1446,Wafer alla nocciola,wafer alla nocciola,wafer alla nocciola,6
+1447,Farina di enkir,farina di enkir,farina,2121
+1448,Rape,rape,rape,38
+1449,Mele Stayman,mele stayman,mele,204
+1450,Uvetta tipo Malaga,uvetta tipo malaga,uvetta,220
+1451,Baileys,baileys,baileys,2
+1452,Ovetti di cioccolato fondente,ovetti di cioccolato fondente,ovetti di cioccolato al latte,5
+1453,Cialda di ostia,cialda di ostia,cialda di ostia,12
+1454,Mezzi paccheri,mezzi paccheri,paccheri,33
+1455,Pesce San Pietro,pesce san pietro,pesce,29
+1456,Vernaccia,vernaccia,vernaccia,2
+1457,Cachaca,cachaca,cachaca,2
+1458,Pasta di aglio e zenzero,pasta di aglio e zenzero,pasta,2572
+1459,Salsiccia di Bra,salsiccia di bra,salsiccia,225
+1460,Nebbiolo,nebbiolo,nebbiolo,1
+1461,Tartufi di mare,tartufi di mare,tartufi,18
+1462,Formaggio fresco al peperoncino,formaggio fresco al peperoncino,formaggio,38
+1463,Pannocchie precotte,pannocchie precotte,pannocchie,7
+1464,Gelato alla fragola,gelato alla fragola,gelato al cioccolato,5
+1465,Gelato al cioccolato,gelato al cioccolato,gelato al fiordilatte,5
+1466,Kumquat,kumquat,kumquat,4
+1467,Carta di riso,carta di riso,carta di riso,2
+1468,Formaggio di Fossa,formaggio di fossa,formaggio,3
+1469,Chevre,chevre,chevre,1
+1470,Aperol,aperol,aperol,3
+1471,Reblochon,reblochon,reblochon,2
+1472,Cuori di carciofo,cuori di carciofo,cuori di carciofo,222
+1473,Fromage blanc,fromage blanc,fromage blanc,1
+1474,Crauti,crauti,crauti,10
+1475,Insalata russa,insalata russa,insalata russa,6
+1476,Cacao crudo in polvere,cacao crudo,cacao,524
+1477,Animelle di vitello,animelle di vitello,animelle,12
+1478,Casizolu,casizolu,casizolu,1
+1479,Semi di senape,semi di senape,semi di senape,236
+1480,Tête de Moine,tête de moine,tête de moine,1
+1481,Funghi pioppini,funghi pioppini,funghi pioppini,6
+1482,Branzino affumicato,branzino affumicato,branzino,39
+1483,Zucca rossa,zucca rossa,zucca,226
+1484,Capellini,capellini,capellini,6
+1485,Gnocchetti di patate,gnocchetti di patate,gnocchetti sardi,1
+1486,Peperoncini tondi piccanti,peperoncini tondi piccanti,peperoncini,44
+1487,Naruto,naruto,naruto,1
+1488,Succo di mirtillo rosso,succo di mirtillo rosso,succo d'ananas,41
+1489,Pannerone,pannerone,pannerone,1
+1490,Pompelmi,pompelmi,pompelmi rosa,20
+1491,Soda,soda,soda,5
+1492,Langres,langres,langres,1
+1493,Boursault,boursault,boursault,1
+1494,Pennoni rigati,pennoni rigati,pennoni rigati,104
+1495,Mele chantecler,mele chantecler,mele,204
+1496,Jack Daniel's Barbecue Sauce,jack daniel's barbecue sauce,jack daniel's barbecue sauce,2
+1497,Vov,vov,vov,2
+1498,Schiacciate La Bottega di Olivia&Marino,,,
+1499,Lorighittas,lorighittas,lorighittas,1
+1500,Condimento per sushi,condimento,condimento balsamico,172
+1501,Bottarga,bottarga,bottarga,50
+1502,Tempeh,tempeh,tempeh,2
+1503,Farina di mais e cereali per polenta istantanea,farina di mais e cereali,farina,144
+1504,Pepe di Kampot,pepe di kampot,pepe,5844
+1505,Mostarda di Cremona,mostarda di cremona,mostarda di frutta,10
+1506,Succo del frutto della passione,succo del frutto della passione,succo d'ananas,41
+1507,Tubetti,tubetti,tubetti,5
+1508,Brigante,brigante,brigante,1
+1509,Maccheroncini al pettine,maccheroncini al pettine,maccheroncini,16
+1510,Cren o rafano,cren,cren,5
+1511,Salsa barbecue,salsa barbecue,salsa,18
+1512,Piadine senza strutto,piadine,piadine,31
+1513,Scamone di manzo,scamone di manzo,scamone di manzo,492
+1514,Caramelle di liquirizia,caramelle di liquirizia,caramelle di zucchero colorate,10
+1515,Salsa verde,salsa verde,salsa,18
+1516,Salsa rossa (salsa rubra),salsa rossa,salsa,18
+1517,Bonarda,bonarda,bonarda,1
+1518,Pan carrè,pan carrè,pan brioche,96
+1519,Tequila,tequila,tequila,5
+1520,Triple sec,triple sec,triple sec,1
+1521,Farina di mais integrale,farina di mais integrale,farina,144
+1522,Sella di coniglio,sella di coniglio,sella di coniglio,65
+1523,Tequila bianca,tequila bianca,tequila,5
+1524,Sciroppo di granatina,sciroppo di granatina,sciroppo di granatina,27

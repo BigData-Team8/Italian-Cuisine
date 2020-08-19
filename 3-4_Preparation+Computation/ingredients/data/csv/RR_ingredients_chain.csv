@@ -1,0 +1,2154 @@
+,Ingredient,Pre,NER+Post,NER-Amount,Normalization,Def,Freq
+0,20 olive verdi in salamoia,20 olive verdi,olive verdi,20,olive verdi,olive verdi,119
+1,100 gr di manzo macinato,100 gr di manzo macinato,manzo macinato,100 gr,manzo,macinato di bovino,51
+2,100 gr di maiale macinato,100 gr di maiale macinato,maiale macinato,100 gr,maiale,macinato di suino,21
+3,100 gr di pollo macinato,100 gr di pollo macinato,pollo macinato,100 gr,pollo,macinato di pollo,5
+4,50 gr di mortadella,50 gr di mortadella,mortadella,50 gr,mortadella,mortadella,84
+5,50 gr di prosciutto crudo,50 gr di prosciutto crudo,prosciutto crudo,50 gr,prosciutto crudo,prosciutto crudo,182
+6,100 gr di parmigiano grattugiato,100 gr di parmigiano grattugiato,parmigiano,100 gr,parmigiano,parmigiano reggiano dop,1291
+7,3 uova,3 uova,uova,3,uova,uova,3872
+8,1 cipolla,1 cipolla,cipolla,1,cipolla,cipolla,1415
+9,1 carota,1 carota,carota,1,carota,carote,1077
+10,1 costola di sedano,1 costola di sedano,sedano,1 costola,sedano,sedano,796
+11,prezzemolo,prezzemolo,prezzemolo,,prezzemolo,prezzemolo,1668
+12,noce moscata,noce moscata,noce moscata,noce,noce moscata,noce moscata,356
+13,mollica di pane,mollica di pane,mollica di pane,,mollica di pane,mollica di pane,98
+14,pangrattato,pangrattato,pangrattato,,pangrattato,pangrattato,834
+15,1 cucchiaino di concentrato di pomodoro,1 cucchiaino di concentrato di pomodoro,concentrato di pomodoro,1 cucchiaino,concentrato di pomodoro,concentrato di pomodoro,192
+16,1 limone,1 limone,limone,1,limone,limone,1394
+17,olio extravergine d'oliva,olio extravergine d'oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+18,sale,sale,sale,,sale,sale,9693
+19,pepe,pepe,pepe,,pepe,pepe,5844
+20,350 gr di riso,350 gr di riso,riso,350 gr,riso,riso,289
+21,2 piedi di maiale,2 piedi di maiale,carne di maiale,2,carne di maiale,carne di suino,202
+22,2 orecchie,2 orecchie,,,,,
+23,1 gambo di sedano,1 gambo di sedano,sedano,1 gambo,sedano,sedano,796
+24,1 pomodoro,1 pomodoro,pomodoro,1,pomodoro,pomodori,634
+25,500 g di baccalà,500 g di baccalà,baccalà,500 g,baccalà,baccalà,94
+26,100 g di farina,100 g di farina,farina,100 g,farina,farina,2121
+27,400 g di pomodori,400 g di pomodori,pomodori,400 g,pomodori,pomodori,634
+28,aglio,aglio,aglio,,aglio,aglio,2572
+29,200 g di mandorle amare,200 g di mandorle amare,mandorle amare,200 g,mandorle,mandorle,415
+30,300 g di mandorle dolci,300 g di mandorle dolci,mandorle,300 g,mandorle,mandorle,415
+31,3 albumi,3 albumi,albumi,3,albumi,albumi,436
+32,500 g di zucchero,500 g di zucchero,zucchero,500 g,zucchero,zucchero,4949
+33,50 g di zucchero a velo,50 g di zucchero,zucchero,50 g,zucchero,zucchero,4949
+34,250 g di castagne,250 g di castagne,castagne,250 g,castagne,castagne,56
+35,500 g di mele,500 g di mele,mele,500 g,mele,mele,204
+36,1 oca da 3 kg pulita,1 oca da 3 kg pulita,oca,1,oca,oca,6
+37,30g di burro,30g di burro,burro,30 g,burro,burro,4606
+38,1 uovo,1 uovo,uovo,1,uovo,uova,3872
+39,2 cucchiai di olio extravergine d'oliva,2 cucchiai di olio extravergine d'oliva,olio extravergine d'oliva,2 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+40,4 braciole di maiale,4 braciole di maiale,braciole di maiale,4,braciole di maiale,carne di suino,202
+41,200 gr di riso,200 gr di riso,riso,200 gr,riso,riso,289
+42,1 verza,1 verza,verza,1,verza,verza,78
+43,2 pomodori pelati,2 pomodori pelati,pomodori pelati,2,pomodori pelati,pomodori pelati,196
+44,1 bicchiere di olio extravergine d'oliva,1 bicchiere di olio extravergine d'oliva,olio extravergine d'oliva,1 bicchiere,olio extravergine d'oliva,olio extravergine d'oliva,4337
+45,formaggio grattugiato,formaggio grattugiato,formaggio,,formaggio,formaggio,264
+46,200 gr di farina,200 gr di farina,farina,200 gr,farina,farina,2121
+47,2 uova,2 uova,uova,2,uova,uova,3872
+48,1 cucchiaio di olio extravergine d'oliva o di sugna,1 cucchiaio di olio extravergine d'oliva,olio extravergine d'oliva,1 cucchiaio,olio extravergine d'oliva,olio extravergine d'oliva,4337
+49,1 cucchiaio di zucchero,1 cucchiaio di zucchero,zucchero,1 cucchiaio,zucchero,zucchero,4949
+50,150 g di salame,150 g di salame,salame,150 g,salame,salame,59
+51,400 gr di formaggio di capra grattugiato,400 gr di formaggio di capra grattugiato,formaggio di capra,400 gr,formaggio,formaggio di capra,8
+52,300 gr di formaggio fresco,300 gr di formaggio fresco,formaggio fresco,300 gr,formaggio fresco,formaggio fresco,38
+53,6 uova,6 uova,uova,6,uova,uova,3872
+54,"1 kg di pesce \r                                     lucerne, merluzzi, triglie, pannocchie, seppioline, cozze, vongole \r                                     ed altro pesce di scoglio","1 kg di pesce \r                                     lucerne, merluzzi, triglie, pannocchie, seppioline, cozze, vongole \r",,1 kg,,,
+55,10 gr di concentrato di pomodoro,10 gr di concentrato di pomodoro,concentrato di pomodoro,10 gr,concentrato di pomodoro,concentrato di pomodoro,192
+56,aceto,aceto,aceto,,aceto,aceto,528
+57,120 g di tartufi,120 g di tartufi,tartufi,120 g,tartufi neri,tartufo,18
+58,150 g di burro,150 g di burro,burro,150 g,burro,burro,4606
+59,2 filetti d'acciuga,2 filetti d'acciuga,filetti d'acciuga,2,filetti acciughe,acciughe,403
+60,4 fette di pane tostato,4 fette di pane tostato,pane tostato,4 fette,pane tostato,pane tostato,18
+61,mezzo spicchio d'aglio,mezzo spicchio d'aglio,aglio,mezzo spicchio,aglio,aglio,2572
+62,olio d'oliva,olio d'oliva,olio d'oliva,,olio d'oliva,olio d'oliva,122
+63,800 g di carne di cinghiale (spalla o coscia),800 g di carne di cinghiale,carne di cinghiale,800 g,carne,carne di cinghiale,9
+64,2 l di vino rosso cannonau,2 l di vino rosso cannonau,vino rosso cannonau,2 l,vino,vino rosso,219
+65,aceto (facoltativo),aceto,aceto,,aceto,aceto,528
+66,2 cipolle,2 cipolle,cipolle,2,cipolle,cipolla,1415
+67,3 aglio,3 aglio,aglio,3,aglio,aglio,2572
+68,4 foglie di alloro,4 foglie di alloro,alloro,4 foglie,alloro,alloro,451
+69,4 pomodori secchi,4 pomodori secchi,pomodori secchi,4,pomodori secchi,pomodori secchi,141
+70,60 g di olive sarde al finocchietto selvatico,60 g di olive sarde al finocchietto selvatico,olive,60 g,olive,olive,72
+71,sale e pepe in grani,sale,sale,,sale,sale,9693
+72,1 costa di sedano,1 costa di sedano,sedano,1 costa,sedano,sedano,796
+73,1 ciuffo di prezzemolo,1 ciuffo di prezzemolo,prezzemolo,1 ciuffo,prezzemolo,prezzemolo,1668
+74,1/2 bicchiere di olio extravergine di oliva,1/2 bicchiere di olio extravergine di oliva,olio extravergine di oliva,1/2 bicchiere,olio extravergine di oliva,olio extravergine d'oliva,4337
+75,300 g di farina 00,300 g di farina 00,farina,300 g,farina,farina,2121
+76,100 g di zucchero,100 g di zucchero,zucchero,100 g,zucchero,zucchero,4949
+77,200 ml di latte,200 ml di latte,latte,200 ml,latte,latte,2242
+78,80 g di uva passa,80 g di uva passa,uva passa,80 g,uva passa,uva passa,87
+79,scorza grattugiata di 1 limone,scorza grattugiata di 1 limone,limone,1,limone,limone,1394
+80,1 bustina di lievito per dolci,1 bustina di lievito,lievito,1 bustina,lievito,lievito,994
+81,1 pizzico di sale,1 pizzico di sale,sale,1 pizzico,sale,sale,9693
+82,zucchero a velo,zucchero,zucchero,,zucchero,zucchero,4949
+83,olio di semi di arachidi,olio di semi di arachidi,olio di semi di arachidi,,olio di semi di arachidi,olio di arachide,339
+84,500 g di lumache,500 g di lumache,lumache,500 g,lumache,lumache,10
+85,1/2 kg di pomodori pelati,1/2 kg di pomodori pelati,pomodori pelati,1/2 kg,pomodori pelati,pomodori pelati,196
+86,200 g di finocchio selvatico,200 g di finocchio selvatico,finocchio selvatico,200 g,finocchio,finocchi,98
+87,1/2 bicchiere d'olio,1/2 bicchiere d'olio,olio,1/2 bicchiere,olio,olio,2191
+88,peperoncino macinato,peperoncino macinato,peperoncino macinato,,peperoncino,peperoncino,468
+89,300 g di riso,300 g di riso,riso,300 g,riso,riso,289
+90,mezzo litro di brodo di carne,mezzo litro di brodo di carne,brodo di carne,mezzo litro,brodo di carne,brodo di carne,219
+91,mezzo litro di barolo,mezzo litro di barolo,barolo,mezzo litro,barolo,barolo,9
+92,parmigiano reggiano grattugiato,parmigiano reggiano grattugiato,parmigiano reggiano,,parmigiano reggiano,parmigiano reggiano dop,1291
+93,una cipolla,una cipolla,cipolla,una,cipolla,cipolla,1415
+94,burro,burro,burro,,burro,burro,4606
+95,500 g di primosale,500 g di primosale,primosale,500 g,primosale,primosale,19
+96,farina,farina,farina,,farina,farina,2121
+97,70 g di sarde,70 g di sarde,sarde,70 g,sarde,sarde,32
+98,300 gr di farro,300 gr di farro,farro,300 gr,farro,farro,31
+99,250 gr di rape,250 gr di rape,rape,250 gr,rape,rape,38
+100,400 gr. di bucatini,400 gr. di bucatini,bucatini,400 gr .,bucatini,bucatini,26
+101,8 sarde fresche,8 sarde fresche,sarde,8,sarde,sarde,32
+102,2 acciughe sotto sale,2 acciughe sotto sale,acciughe sotto sale,2,acciughe sotto sale,acciughe,403
+103,200 gr. di finocchietto selvatico,200 gr. di finocchietto selvatico,finocchietto selvatico,200 gr .,finocchietto selvatico,finocchietto selvatico,96
+104,100 gr. di pinoli,100 gr. di pinoli,pinoli,100 gr .,pinoli,pinoli,392
+105,1 bustina si zafferano,1 bustina si zafferano,zafferano,1 bustina si,zafferano,zafferano,177
+106,sale grosso,sale grosso,sale,,sale,sale,9693
+107,pepe nero,pepe nero,pepe nero,,pepe nero,pepe,5844
+108,1 kg di baccalà,1 kg di baccalà,baccalà,1 kg,baccalà,baccalà,94
+109,patate,patate,patate,,patate,patate,1000
+110,700 gr. di baccalà,700 gr. di baccalà,baccalà,700 gr .,baccalà,baccalà,94
+111,1 bicchiere di olio d'oliva,1 bicchiere di olio d'oliva,olio d'oliva,1 bicchiere,olio d'oliva,olio d'oliva,122
+112,sedano,sedano,sedano,,sedano,sedano,796
+113,carota,carota,carota,,carota,carote,1077
+114,cipolla,cipolla,cipolla,,cipolla,cipolla,1415
+115,400 gr. di patate,400 gr. di patate,patate,400 gr .,patate,patate,1000
+116,1 patata,1 patata,patata,1,patata,patate,1000
+117,1 cucchiaio di senape,1 cucchiaio di senape,senape,1 cucchiaio,senape,senape,236
+118,2 filetti di alici,2 filetti di alici,filetti di alici,2,filetti di alici,acciughe,403
+119,1 cetriolo sottaceto,1 cetriolo sottaceto,cetrioli sott'aceto,1,cetrioli,cetriolini sott'aceto,48
+120,4 trote,4 trote,trote,4,trota,trota,13
+121,salvia,salvia,salvia,,salvia,salvia,484
+122,maggiorana,maggiorana,maggiorana,,maggiorana,maggiorana,288
+123,rosmarino,rosmarino,rosmarino,,rosmarino,rosmarino,850
+124,timo,timo,timo,,timo,timo,874
+125,50 gr di burro,50 gr di burro,burro,50 gr,burro,burro,4606
+126,500 g di semola,500 g di semola,semola,500 g,semola,semola,144
+127,1/2 cubetto di lievito di birra,1/2 cubetto di lievito di birra,lievito di birra,1/2,lievito di birra,lievito di birra,364
+128,acqua,acqua,acqua,,acqua,acqua,1976
+129,zucchero,zucchero,zucchero,,zucchero,zucchero,4949
+130,500 g di patate,500 g di patate,patate,500 g,patate,patate,1000
+131,2 cucchiai di strutto,2 cucchiai di strutto,strutto,2 cucchiai,strutto,strutto,134
+132,1/2 cipolla,1/2 cipolla,cipolla,1/2,cipolla,cipolla,1415
+133,1 spicchio d'aglio,1 spicchio d'aglio,aglio,1 spicchio,aglio,aglio,2572
+134,1/2 mazzetto di menta fresca (o un cucchiaio di menta secca),1/2 mazzetto di menta fresca,menta fresca,1/2 mazzetto,menta fresca,menta,533
+135,50 g di formaggio salato (frue) o 200 g di fisciù (formaggio acidulo in salamoia),50 g di formaggio salato,formaggio salato,50 g,formaggio,formaggio,264
+136,320 g di maccheroni,320 g di maccheroni,maccheroni,320 g,maccheroni,maccheroni,25
+137,50 g di prosciutto crudo,50 g di prosciutto crudo,prosciutto crudo,50 g,prosciutto crudo,prosciutto crudo,182
+138,6 carciofi,6 carciofi,carciofi,6,carciofi,carciofi,222
+139,mezza cipolla,mezza cipolla,cipolla,mezza,cipolla,cipolla,1415
+140,70 g di salsiccia,70 g di salsiccia,salsiccia,70 g,salsiccia,salsiccia,225
+141,70 g di fave,70 g di fave,fave,70 g,fave,fave,103
+142,150 g di polpa di pomodoro,150 g di polpa di pomodoro,polpa di pomodoro,150 g,polpa di pomodoro,polpa di pomodoro,49
+143,1 kg di zucchine,1 kg di zucchine,zucchine,1 kg,zucchine,zucchine,654
+144,400 gr di pomodori,400 gr di pomodori,pomodori,400 gr,pomodori,pomodori,634
+145,300 g di fagioli,300 g di fagioli,fagioli,300 g,fagioli,fagioli,87
+146,50 g di lardo,50 g di lardo,lardo,50 g,lardo,lardo,114
+147,brodo di carne,brodo di carne,brodo di carne,,brodo di carne,brodo di carne,219
+148,un pezzetto di salamino sotto sugna,un pezzetto di salamino sotto sugna,salamino,un pezzetto,salamino,salame,59
+149,cotica di maiale,cotica di maiale,cotica di maiale,,cotica di maiale,cotenna di suino,25
+150,1 kg di cozze,1 kg di cozze,cozze,1 kg,cozze,cozze,115
+151,400 gr di riso,400 gr di riso,riso,400 gr,riso,riso,289
+152,4 patate,4 patate,patate,4,patate,patate,1000
+153,1/2 kg di pomodori,1/2 kg di pomodori,pomodori,1/2 kg,pomodori,pomodori,634
+154,formaggio grattuggiato,formaggio grattuggiato,formaggio grattuggiato,,formaggio,formaggio,264
+155,"1 anatra da 1,5 kg","1 anatra da 1,5 kg",anatra,1,anatra,carne di anatra,27
+156,10-12 rametti di mirto,10-12 rametti di mirto,mirto,10 - 12 rametti,mirto,mirto,20
+157,pane carasau,pane carasau,pane carasau,,pane carasau,pane carasau,9
+158,500 g di carme di manzo,500 g di carme di manzo,carme di manzo,500 g,carme di manzo,carne di bovino,492
+159,100 g di orzo perlato,100 g di orzo perlato,orzo perlato,100 g,orzo perlato,orzo perlato,37
+160,3 coste di sedano,3 coste di sedano,sedano,3,sedano,sedano,796
+161,2 carote,2 carote,carote,2,carote,carote,1077
+162,1 spichhio d'aglio,1 spichhio d'aglio,aglio,1,aglio,aglio,2572
+163,1 ciuffetto di prezzemolo,1 ciuffetto di prezzemolo,prezzemolo,1,prezzemolo,prezzemolo,1668
+164,2 foglie d'alloro,2 foglie d'alloro,alloro,2 foglie,alloro,alloro,451
+165,1 porro,1 porro,porro,1,porro,porri,299
+166,120 g di speck,120 g di speck,speck,120 g,speck,speck,139
+167,200 g di carne di maiale affumicata,200 g di carne di maiale affumicata,carne di maiale affumicata,200 g,carne,carne di suino,202
+168,3 cucchiai di olio extravergine d'oliva,3 cucchiai di olio extravergine d'oliva,olio extravergine d'oliva,3 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+169,500 gr di peperoni,500 gr di peperoni,peperoni,500 gr,peperoni,peperoni,612
+170,8 uova,8 uova,uova,8,uova,uova,3872
+171,8 pomodori,8 pomodori,pomodori,8,pomodori,pomodori,634
+172,basilico,basilico,basilico,,basilico,basilico,944
+173,peperoncino,peperoncino,peperoncino,,peperoncino,peperoncino,468
+174,400 g di semola,400 g di semola,semola,400 g,semola,semola,144
+175,300 g di pecoroino sardo fresco,300 g di pecoroino sardo fresco,pecorino sardo,300 g,pecorino sardo,pecorino,519
+176,100 g di miele di corbezzolo (miele amaro),100 g di miele di corbezzolo,miele di corbezzolo,100 g,miele,miele,335
+177,30 g di strutto,30 g di strutto,strutto,30 g,strutto,strutto,134
+178,"2,5 dl di olio extraverhine d'oliva (oppure olio di arachidi)","2,5 dl di olio extraverhine d'oliva",olio extravergine d'oliva,"2,5 dl",olio extravergine d'oliva,olio extravergine d'oliva,4337
+179,1 kg di cardi,1 kg di cardi,cardi,1 kg,cardi,cardi,19
+180,acciughe sotto sale,acciughe sotto sale,acciughe sotto sale,,acciughe sotto sale,acciughe,403
+181,capperi,capperi,capperi,,capperi,capperi,366
+182,olive nere,olive nere,olive nere,,olive nere,olive nere,244
+183,pecorino grattugiato,pecorino grattugiato,pecorino,,pecorino,pecorino,519
+184,8 melenzane,8 melenzane,melenzane,8,melenzane,melanzane,295
+185,1 cucchiaino di aceto,1 cucchiaino di aceto,aceto,1 cucchiaino,aceto,aceto,528
+186,origano,origano,origano,,origano,origano,397
+187,8 foglioline di menta,8 foglioline di menta,menta,8 foglioline,menta,menta,533
+188,1 cucchiaino di zucchero,1 cucchiaino di zucchero,zucchero,1 cucchiaino,zucchero,zucchero,4949
+189,750  g di agnello,750  g di agnello,agnello,750 g,agnello,carne di agnello,57
+190,300 g di patate,300 g di patate,patate,300 g,patate,patate,1000
+191,,,,,,,
+192,1 spicchio d’aglio,1 spicchio d’aglio,aglio,1 spicchio,aglio,aglio,2572
+193,1/2 l di brodo di carne,1/2 l di brodo di carne,brodo di carne,1/2 l,brodo di carne,brodo di carne,219
+194,1 pizzico di paprica forte,1 pizzico di paprica forte,paprica forte,1 pizzico,paprica,paprika,272
+195,1/2  bicchiere di vino rosso,1/2  bicchiere di vino rosso,vino rosso,1/2 bicchiere,vino rosso,vino rosso,219
+196,2 foglie d’alloro,2 foglie d’alloro,alloro,2 foglie,alloro,alloro,451
+197,1 rametto di rosmarino,1 rametto di rosmarino,rosmarino,1 rametto,rosmarino,rosmarino,850
+198,2 foglie di salvia,2 foglie di salvia,salvia,2 foglie,salvia,salvia,484
+199,1 rametto di timo,1 rametto di timo,timo,1 rametto,timo,timo,874
+200,4 cucchiai di olio extravergine d’oliva,4 cucchiai di olio extravergine d’oliva,olio extravergine d'oliva,4 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+201,800 gr. di patate,800 gr. di patate,patate,800 gr,patate,patate,1000
+202,300 gr. di farina,300 gr. di farina,farina,300 gr .,farina,farina,2121
+203,200 gr. di erbette,200 gr. di erbette,erbette,200 gr .,erbette,erbette,30
+204,100 gr. di burro,100 gr. di burro,burro,100 gr .,burro,burro,4606
+205,un rosso d'uovo,un rosso d'uovo,tuorlo d'uovo,un,tuorlo d'uovo,tuorli,1385
+206,parmigiano reggiano,parmigiano reggiano,parmigiano reggiano,,parmigiano reggiano,parmigiano reggiano dop,1291
+207,1 kg di alici,1 kg di alici,alici,1 kg,alici,alici,44
+208,limone,limone,limone,,limone,limone,1394
+209,olio extavergine d'oliva,olio extavergine d'oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+210,1 kg di coda di pescatrice,1 kg di coda di pescatrice,coda di pescatrice,1 kg,coda di bue,coda di rospo,28
+211,10 pomodorini,10 pomodorini,pomodorini,10,pomodorini,pomodorini,142
+212,3 patate,3 patate,patate,3,patate,patate,1000
+213,cozze,cozze,cozze,,cozze,cozze,115
+214,olio extravergine,olio extravergine,olio extravergine,,olio extravergine,olio extravergine d'oliva,4337
+215,pane grattugiato,pane grattugiato,pane,,pane,pane,363
+216,400 g di mascolini,400 g di mascolini,mascolini,400 g,mascolini,mascolini,2
+217,400 g di maccheroncini,400 g di maccheroncini,maccheroncini,400 g,maccheroncini,maccheroncini,16
+218,80 g di pecorino grattugiato,80 g di pecorino grattugiato,pecorino,80 g,pecorino,pecorino,519
+219,2 spicchi d’aglio,2 spicchi d’aglio,aglio,2 spicchi,aglio,aglio,2572
+220,4 mazzi di finocchio riccio di montagna (finocchietti),4 mazzi di finocchio riccio di montagna,finocchio,4 mazzi,finocchio,finocchi,98
+221,olio extravergine d’oliva,olio extravergine d’oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+222,100 gr di tartufo nero di norcia,100 gr di tartufo nero di norcia,tartufo nero di norcia,100 gr,tartufo,tartufo nero,44
+223,2 cucchiai di strutto oppure olio extravergine d'oliva,2 cucchiai di strutto,strutto,2 cucchiai,strutto,strutto,134
+224,8 fette di frisedda,8 fette di frisedda,,8 fette,,,
+225,pomodori freschi,pomodori freschi,pomodori,,pomodori,pomodori,634
+226,olio extra vergine d'oliva,olio extra vergine d'oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+227,400 g di bavette,400 g di bavette,bavette,400 g,bavette,bavette,4
+228,4 spicchi d'aglio,4 spicchi d'aglio,aglio,4 spicchi,aglio,aglio,2572
+229,1 bicchiere di vino rosso,1 bicchiere di vino rosso,vino rosso,1 bicchiere,vino rosso,vino rosso,219
+230,50 g di acciughe salate,50 g di acciughe salate,acciughe salate,50 g,acciughe salate,acciughe,403
+231,150 g di passata di pomodoro,150 g di passata di pomodoro,passata di pomodoro,150 g,passata di pomodoro,passata di pomodoro,374
+232,80 g di pangrattato,80 g di pangrattato,pangrattato,80 g,pangrattato,pangrattato,834
+233,1/2 bicchiere di olio extravergine d’oliva,1/2 bicchiere di olio extravergine d’oliva,olio extravergine d'oliva,1/2 bicchiere,olio extravergine d'oliva,olio extravergine d'oliva,4337
+234,300 g di semola,300 g di semola,semola,300 g,semola,semola,144
+235,2 spicchi d'aglio,2 spicchi d'aglio,aglio,2 spicchi,aglio,aglio,2572
+236,800 g di patate rosse,800 g di patate rosse,patate rosse,800 g,patate rosse,patate,1000
+237,5-6 foglie di menta,5-6 foglie di menta,menta,5 - 6 foglie,menta,menta,533
+238,300 g di pecorino stagionato grattugiato,300 g di pecorino stagionato grattugiato,pecorino stagionato,300 g,pecorino stagionato,pecorino,519
+239,1/2 bicchiere di olio extravergine d'oliva,1/2 bicchiere di olio extravergine d'oliva,olio extravergine d'oliva,1/2 bicchiere,olio extravergine d'oliva,olio extravergine d'oliva,4337
+240,150 g di toma di gressoney,150 g di toma di gressoney,toma di gressoney,150 g,toma,toma,20
+241,270 g di farina di mais,270 g di farina di mais,farina di mais,270 g,farina di mais,farina di mais,144
+242,700 g di burro,700 g di burro,burro,700 g,burro,burro,4606
+243,ingredienti per quattro persone:,ingredienti,,,,,
+244,300 gr. di pane toscano raffermo,300 gr. di pane toscano raffermo,pane toscano raffermo,300 gr .,pane,pane toscano,26
+245,"500 gr. di pomodori maturi o ""pelati""",500 gr. di pomodori maturi,pomodori,500 gr,pomodori,pomodori,634
+246,2 patate,2 patate,patate,2,patate,patate,1000
+247,una costa di sedano,una costa di sedano,sedano,una costa,sedano,sedano,796
+248,8 carciofi,8 carciofi,carciofi,8,carciofi,carciofi,222
+249,1 l di aceto di vino bianco,1 l di aceto di vino bianco,aceto di vino bianco,1 l,aceto di vino bianco,aceto,528
+250,1 l e mezzo di vino bianco secco,1 l,,,,,
+251,chiodi di garofano,chiodi di garofano,chiodi di garofano,,chiodi di garofano,chiodi di garofano,180
+252,pepe rosa in grani,pepe rosa,pepe rosa,,pepe rosa,pepe,5844
+253,pepe nero in grani,pepe nero,pepe nero,,pepe nero,pepe,5844
+254,60 g di sale grosso,60 g di sale grosso,sale,60 g,sale,sale,9693
+255,pepe in grani,pepe,pepe,,pepe,pepe,5844
+256,1 kg di agnello,1 kg di agnello,di agnello,1 kg,dischetti di pasta,di agnello,7
+257,olive verdi,olive verdi,olive verdi,,olive verdi,olive verdi,119
+258,500 gr. di patate,500 gr. di patate,patate,500 gr,patate,patate,1000
+259,3 cipolle,3 cipolle,cipolle,3,cipolle,cipolla,1415
+260,1 bicchiere di vino bianco,1 bicchiere di vino bianco,vino bianco,1 bicchiere,vino bianco,vino bianco,1177
+261,360 g di semola,360 g di semola,semola,360 g,semola,semola,144
+262,1 bustina di zafferano,1 bustina di zafferano,zafferano,1 bustina,zafferano,zafferano,177
+263,1 dl di olio extravergine di oliva,1 dl di olio extravergine di oliva,olio extravergine di oliva,1 dl,olio extravergine di oliva,olio extravergine d'oliva,4337
+264,1 mazzetto di prezzemolo,1 mazzetto di prezzemolo,prezzemolo,1 mazzetto,prezzemolo,prezzemolo,1668
+265,300 g di salsiccia sarda fresca,300 g di salsiccia sarda fresca,salsiccia sarda,300 g,salsiccia,salsiccia,225
+266,2 dl di vino bianco secco,2 dl di vino bianco secco,vino bianco secco,2 dl,vino bianco secco,vino bianco,1177
+267,400 g di pomodori maturi,400 g di pomodori maturi,pomodori,400 g,pomodori,pomodori,634
+268,100 g di pecorino sardo,100 g di pecorino sardo,pecorino sardo,100 g,pecorino sardo,pecorino,519
+269,sale e pepe,sale,sale,,sale,sale,9693
+270,200 g farina 00,200 g farina 00,farina,200 g,farina,farina,2121
+271,25 grammi burro fuso,25 grammi burro fuso,burro,25 grammi,burro,burro,4606
+272,250 ml di latte,250 ml di latte,latte,250 ml,latte,latte,2242
+273,30 g di zucchero,30 g di zucchero,zucchero,30 g,zucchero,zucchero,4949
+274,20 ml di grappa bianca,20 ml di grappa bianca,grappa bianca,20 ml,grappa,grappa,56
+275,marmellata di mirtilli o frutti di bosco a piacere,marmellata di mirtilli,marmellata di mirtilli,,marmellata,marmellata,46
+276,1 kg di fiori di zucca,1 kg di fiori di zucca,fiori di zucca,1 kg,fiori di zucca,fiori di zucca,68
+277,200 g di pangrattato,200 g di pangrattato,pangrattato,200 g,pangrattato,pangrattato,834
+278,200 g di farina 00,200 g di farina 00,farina,200 g,farina,farina,2121
+279,400 grammi di farina bianca tipo 0,400 grammi di farina bianca tipo 0,farina bianca tipo 0,400 grammi,farina,farina 0,181
+280,4 uova,4 uova,uova,4,uova,uova,3872
+281,2 cucchiai di olio extravergine di oliva,2 cucchiai di olio extravergine di oliva,olio extravergine di oliva,2 cucchiai,olio extravergine di oliva,olio extravergine d'oliva,4337
+282,200 grammi di spinaci,200 grammi di spinaci,spinaci,200 grammi,spinaci,spinaci,245
+283,300 grammi di ricotta fresca di pecora,300 grammi di ricotta fresca di pecora,ricotta di pecora,300 grammi,ricotta di pecora,ricotta di pecora,63
+284,100 gr. parmigiano,100 gr. parmigiano,parmigiano,100 gr,parmigiano,parmigiano reggiano dop,1291
+285,olio extravergine di oliva,olio extravergine di oliva,olio extravergine di oliva,,olio extravergine di oliva,olio extravergine d'oliva,4337
+286,1 cipolla rossa,1 cipolla rossa,cipolla,1,cipolla,cipolla,1415
+287,un ciuffetto di prezzemolo,un ciuffetto di prezzemolo,prezzemolo,un,prezzemolo,prezzemolo,1668
+288,pepe nero\r,pepe nero\r,,,,,
+289,qualche foglia di alloro,qualche foglia di alloro,alloro,qualche foglia,alloro,alloro,451
+290,150 gr. di macinato di prima scelta di chianina,150 gr. di macinato di prima scelta di chianina,macinato di bovino,150 gr .,macinato di maiale,macinato di bovino,51
+291,150 gr. di carne magra macinata di maiale,150 gr. di carne magra macinata di maiale,carne macinata di maiale,150 gr,carne,macinato di suino,21
+292,1 salsiccia,1 salsiccia,salsiccia,1,salsiccia,salsiccia,225
+293,"1,5 l di passata di pomodoro","1,5 l di passata di pomodoro",passata di pomodoro,"1,5 l",passata di pomodoro,passata di pomodoro,374
+294,1/2 bicchiere di vino rosso toscano,1/2 bicchiere di vino rosso toscano,vino rosso,1/2 bicchiere,vino rosso,vino rosso,219
+295,800 g di polenta fredda,800 g di polenta fredda,polenta,800 g,polenta,polenta,26
+296,300 g di  toma,300 g di  toma,toma,300 g,toma,toma,20
+297,200  g di carne di bovino macinata,200  g di carne di bovino macinata,carne di bovino macinata,200 g,carne,macinato di bovino,51
+298,1 scatola pomodori pelati,1 scatola pomodori pelati,scatola di pelati,1,scatola di pelati,pomodori pelati,196
+299,70  burro,70  burro,burro,70,burro,burro,4606
+300,2 cucchiai di olio extravergine d’oliva,2 cucchiai di olio extravergine d’oliva,olio extravergine d'oliva,2 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+301,600 gr. di pesce spada fresco,600 gr. di pesce spada fresco,pesce spada,600 gr .,pesce spada,pesce spada,66
+302,pepe bianco,pepe bianco,pepe bianco,,pepe bianco,pepe,5844
+303,prezzemolo tritato,prezzemolo tritato,prezzemolo,,prezzemolo,prezzemolo,1668
+304,400 g di spaghetti,400 g di spaghetti,spaghetti,400 g,spaghetti,spaghetti,201
+305,700 g di cavolfiore,700 g di cavolfiore,cavolfiore,700 g,cavolfiore,cavolfiore,101
+306,1 spicchio d’ aglio,1 spicchio d’ aglio,,1 spicchio,,,
+307,1 cucchiaio di vino bianco,1 cucchiaio di vino bianco,vino bianco,1 cucchiaio,vino bianco,vino bianco,1177
+308,½ bicchiere di olio extravergine d’oliva,½ bicchiere di olio extravergine d’oliva,olio extravergine d'oliva,bicchiere,olio extravergine d'oliva,olio extravergine d'oliva,4337
+309,100 g di caciocavallo grattugiato,100 g di caciocavallo grattugiato,caciocavallo,100 g,caciocavallo,caciocavallo,87
+310,600 gr. di funghi finferli,600 gr. di funghi finferli,funghi finferli,600 gr .,funghi finferli,finferli,21
+311,200 gr. di pomodori pelati,200 gr. di pomodori pelati,pomodori pelati,200 gr .,pomodori pelati,pomodori pelati,196
+312,20 gr. di burro,20 gr. di burro,burro,20 gr .,burro,burro,4606
+313,4 cucchiai d’olio d’oliva,4 cucchiai d’olio d’oliva,olio d'oliva,4 cucchiai,olio d'oliva,olio d'oliva,122
+314,320 gr. di riso arborio o vialone nano,320 gr. di riso arborio,riso arborio,320 gr .,riso arborio,riso arborio,37
+315,40 gr. di burro,40 gr. di burro,burro,40 gr .,burro,burro,4606
+316,brodo vegetale,brodo vegetale,brodo vegetale,,brodo vegetale,brodo vegetale,571
+317,tre mele,tre mele,mele,tre,mele,mele,204
+318,2 dl di vino bianco,2 dl di vino bianco,vino bianco,2 dl,vino bianco,vino bianco,1177
+319,"1,25 l di brodo","1,25 l di brodo",brodo,l,brodo,brodo,215
+320,40 gr. grana padano,40 gr. grana padano,grana padano,40 gr .,grana padano,grana padano dop,591
+321,1 limone non trattato,1 limone,limone,1,limone,limone,1394
+322,"150 g di carne macinata (a piacere di maiale o mista, o misto vitello, manzo, salame)",150 g di carne macinata,carne macinata,150 g,carne macinata,macinato,13
+323,100 g di pancetta affumicata,100 g di pancetta affumicata,pancetta affumicata,100 g,pancetta affumicata,pancetta affumicata,155
+324,5 uova,5 uova,uova,5,uova,uova,3872
+325,80 g di parmigiano reggiano grattugiato,80 g di parmigiano reggiano grattugiato,parmigiano reggiano,80 g,parmigiano reggiano,parmigiano reggiano dop,1291
+326,20 g di burro,20 g di burro,burro,20 g,burro,burro,4606
+327,700 g di zucchine,700 g di zucchine,zucchine,700 g,zucchine,zucchine,654
+328,125 g di mozzarella,125 g di mozzarella,mozzarella,125 g,mozzarella,mozzarella,264
+329,30 g di burro,30 g di burro,burro,30 g,burro,burro,4606
+330,300 g di filetto di manzo,300 g di filetto di manzo,filetto di manzo,300 g,filetto di manzo,carne di bovino,492
+331,1 scalogna,1 scalogna,scalogno,1,scalogno,scalogno,620
+332,500 g di cicoria,500 g di cicoria,,,,,
+333,5 cucchiai di olio extravergine d’oliva,5 cucchiai di olio extravergine d’oliva,olio extravergine d'oliva,5 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+334,100 g di grana in scaglie,100 g di grana,grana,100 g,grana,grana padano dop,591
+335,400 gr di penne rigate,400 gr di penne rigate,penne rigate,400 gr,penne rigate,penne,104
+336,800 gr di pomodori maturi,800 gr di pomodori maturi,pomodori,800 gr,pomodori,pomodori,634
+337,2 melanzane,2 melanzane,melanzane,2,melanzane,melanzane,295
+338,200 gr di ricotta salata,200 gr di ricotta salata,ricotta salata,200 gr,ricotta salata,ricotta salata,36
+339,olio etravergine d'oliva,olio etravergine d'oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+340,1 kg di asparagi,1 kg di asparagi,asparagi,1 kg,asparagi,asparagi,192
+341,350 g di riso vialone nano,350 g di riso vialone nano,riso vialone nano,350 g,riso vialone nano,riso vialone nano,34
+342,4 cucchiai di olio extravergine d'oliva,4 cucchiai di olio extravergine d'oliva,olio extravergine d'oliva,4 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+343,60 g di burro,60 g di burro,burro,60 g,burro,burro,4606
+344,1 l di brodo vegetale,1 l di brodo vegetale,brodo vegetale,1 l,brodo vegetale,brodo vegetale,571
+345,50 g di parmigiano grattugiato,50 g di parmigiano grattugiato,parmigiano,50 g,parmigiano,parmigiano reggiano dop,1291
+346,2 chcchiai di passata di pomodoro (facoltativo),2 chcchiai di passata di pomodoro,passata di pomodoro,2 chcchiai,passata di pomodoro,passata di pomodoro,374
+347,350 g circa di farina,350 g circa di farina,farina,350 g,farina,farina,2121
+348,80 g di zucchero,80 g di zucchero,zucchero,80 g,zucchero,zucchero,4949
+349,350 g di miele,350 g di miele,miele,350 g,miele,miele,335
+350,1 arancia,1 arancia,arancia,1,arancia,arance,358
+351,frutta candita,frutta candita,frutta candita,,frutta candita,frutta candita,33
+352,olio di arachidi,olio di arachidi,olio di arachidi,,olio di arachidi,olio di arachide,339
+353,4 nodini di vitello,4 nodini di vitello,nodini di vitello,4,nodini di vitello,carne di bovino,492
+354,6 spicchi d’aglio,6 spicchi d’aglio,,6 spicchi,,,
+355,1 mazzetto di maggiorana,1 mazzetto di maggiorana,maggiorana,1 mazzetto,maggiorana,maggiorana,288
+356,1 mazzetto di basilico,1 mazzetto di basilico,basilico,1 mazzetto,basilico,basilico,944
+357,5 foglie di mentuccia,5 foglie di mentuccia,mentuccia,5 foglie,mentuccia,menta,533
+358,2 acciughe salate,2 acciughe salate,acciughe salate,2,acciughe salate,acciughe,403
+359,1 pizzico di senape in polvere,1 pizzico di senape,senape,1 pizzico,senape,senape,236
+360,30 ml di aceto di vino bianco,30 ml di aceto di vino bianco,aceto di vino bianco,30 ml,aceto di vino bianco,aceto,528
+361,50 ml di olio extravergine d’oliva,50 ml di olio extravergine d’oliva,,50 ml,,,
+362,5 limoni,5 limoni,limoni,5,limoni,limone,1394
+363,280 gr di farina bianca,280 gr di farina bianca,farina bianca,280 gr,farina bianca,farina 00,1803
+364,100 gr di pancetta stufata,100 gr di pancetta stufata,pancetta,100 gr,pancetta,pancetta,245
+365,3 spicchi d'aglio,3 spicchi d'aglio,aglio,3 spicchi,aglio,aglio,2572
+366,400 gr di funghi freschi,400 gr di funghi freschi,funghi,400 gr,funghi,funghi,48
+367,1 peperoncino,1 peperoncino,peperoncino,1,peperoncino,peperoncino,468
+368,1 tartufo nero piccolo,1 tartufo nero piccolo,tartufo nero,1,tartufo nero,tartufo nero,44
+369,2 cucchiai di pecorino grattugiato,2 cucchiai di pecorino grattugiato,pecorino,2 cucchiai,pecorino,pecorino,519
+370,1 kg trippa (croce e centopelle),1 kg trippa,trippa,1 kg,trippa,trippa,21
+371,400 gr. di pomodori pelati,400 gr. di pomodori pelati,pomodori pelati,400 gr,pomodori pelati,pomodori pelati,196
+372,30 gr. di burro,30 gr. di burro,burro,30 gr .,burro,burro,4606
+373,alloro (facoltativo),alloro,alloro,,alloro,alloro,451
+374,parmigiano grattugiato,parmigiano grattugiato,parmigiano,,parmigiano,parmigiano reggiano dop,1291
+375,un bicchiere di vino bianco secco,un bicchiere di vino bianco secco,vino bianco secco,un bicchiere,vino bianco secco,vino bianco,1177
+376,brodo di carne: circa mezzo litro,brodo di carne: circa mezzo litro,brodo di carne,,brodo di carne,brodo di carne,219
+377,8 fette di pane toscano,8 fette di pane toscano,pane toscano,8 fette,pane toscano,pane toscano,26
+378,100 gr. di milza di vitello o di maiale,100 gr. di milza di vitello,carne di bovino,100 gr .,carne,carne di bovino,492
+379,100 gr. di fegatini di pollo,100 gr. di fegatini di pollo,fegatini di pollo,100 gr .,fegatini di pollo,fegatini di pollo,39
+380,"70 gr. di rigaglie (creste, stomaco, cuore) (facoltativo)",70 gr. di rigaglie,rigaglie di pollo,70 gr .,rigaglie di pollo,carne di pollo,350
+381,30 gr. di capperi,30 gr. di capperi,capperi,30 gr .,capperi,capperi,366
+382,conserva di pomodoro (facoltativo),conserva di pomodoro,conserva di pomodoro,,conserva di pomodoro,passata di pomodoro,374
+383,vino bianco secco,vino bianco secco,vino bianco secco,,vino bianco secco,vino bianco,1177
+384,300 g di farina di segale,300 g di farina di segale,farina di segale,300 g,farina di segale,farina di segale,11
+385,120 g di fontina,120 g di fontina,fontina,120 g,fontina,fontina,155
+386,100 g di burro,100 g di burro,burro,100 g,burro,burro,4606
+387,200 g di pane integrale di segale,200 g di pane integrale di segale,pane integrale di segale,200 g,pane,pane integrale,43
+388,120 g di farina 00,120 g di farina 00,farina,120 g,farina,farina,2121
+389,250 g di grana trentino grattugiato,250 g di grana trentino grattugiato,grana,250 g,grana,grana padano dop,591
+390,2 mazzetti di basilico,2 mazzetti di basilico,basilico,2 mazzetti,basilico,basilico,944
+391,400 g di pomodori pelati,400 g di pomodori pelati,pomodori pelati,400 g,pomodori pelati,pomodori pelati,196
+392,5 cucchiai di olio extravergine d'oliva,5 cucchiai di olio extravergine d'oliva,olio extravergine d'oliva,5 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+393,400 g di fontina,400 g di fontina,fontina,400 g,fontina,fontina,155
+394,40 g di burro,40 g di burro,burro,40 g,burro,burro,4606
+395,latte,latte,latte,,latte,latte,2242
+396,crostini di pane,crostini di pane,pane,,pane,pane,363
+397,4 tuorli,4 tuorli,tuorli,4,tuorli,tuorli,1385
+398,1 kg di lombo di maiale,1 kg di lombo di maiale,lombo di maiale,1 kg,lombo di maiale,lonza di maiale,60
+399,semi di finocchio,semi di finocchio,semi di finocchio,,semi di finocchio,semi di finocchio,76
+400,500 g di farina manitoba,500 g di farina manitoba,farina manitoba,500 g,farina manitoba,farina manitoba,233
+401,1 panetto di lievito di birra,1 panetto di lievito di birra,lievito di birra,1 panetto,lievito di birra,lievito di birra,364
+402,mezzo bicchiere di olio extravergine d’oliva,mezzo bicchiere di olio extravergine d’oliva,olio extravergine d'oliva,mezzo bicchiere,olio extravergine d'oliva,olio extravergine d'oliva,4337
+403,120 g di pecorino grattugiato,120 g di pecorino grattugiato,pecorino,120 g,pecorino,pecorino,519
+404,120 g di grana padano grattugiato,120 g di grana padano grattugiato,grana padano,120 g,grana padano,grana padano dop,591
+405,8 capesante,8 capesante,capesante,8,capesante,capesante,50
+406,1 rametto di aneto,1 rametto di aneto,aneto,1 rametto,aneto,aneto,105
+407,150 g di mirtilli,150 g di mirtilli,mirtilli,150 g,mirtilli,mirtilli,144
+408,100 d di ribes rosso,100 d di ribes rosso,ribes,100 d,ribes,ribes,85
+409,700 g di cinghiale,700 g di cinghiale,cinghiale,700 g,cinghiale,carne di cinghiale,9
+410,1/2 l di vini rosso corposo,1/2 l di vini rosso corposo,vino rosso,1/2 l,vino rosso,vino rosso,219
+411,1 ciuffo di salvia,1 ciuffo di salvia,salvia,1 ciuffo,salvia,salvia,484
+412,2 chiodi di garofano,2 chiodi di garofano,chiodi di garofano,2,chiodi di garofano,chiodi di garofano,180
+413,100 g di funghi porcini freschi,100 g di funghi porcini freschi,funghi porcini,100 g,funghi porcini,funghi porcini,107
+414,polenta (facoltativo),polenta,polenta,,polenta,polenta,26
+415,750 g di patate,750 g di patate,patate,750 g,patate,patate,1000
+416,2 panini raffermi,2 panini raffermi,panini,2,panini,panini,78
+417,150 g di speck,150 g di speck,speck,150 g,speck,speck,139
+418,80 g di burro,80 g di burro,burro,80 g,burro,burro,4606
+419,2 dl di latte,2 dl di latte,latte,2 dl,latte,latte,2242
+420,20 g di grana trentino grattugiato,20 g di grana trentino grattugiato,grana,20 g,grana,grana padano dop,591
+421,20 g di semolino,20 g di semolino,semolino,20 g,semolino,semolino,56
+422,2 tuorli,2 tuorli,tuorli,2,tuorli,tuorli,1385
+423,800 g di zucca,800 g di zucca,zucca,800 g,zucca,zucca,226
+424,500 g di funghi porcini,500 g di funghi porcini,funghi porcini,500 g,funghi porcini,funghi porcini,107
+425,400 g di farina di mais,400 g di farina di mais,farina di mais,400 g,farina di mais,farina di mais,144
+426,"2,5 dl di olio extravergine d'oliva","2,5 dl di olio extravergine d'oliva",olio extravergine d'oliva,"2,5 dl",olio extravergine d'oliva,olio extravergine d'oliva,4337
+427,100 g di grana grattugiato,100 g di grana grattugiato,grana,100 g,grana,grana padano dop,591
+428,800 g di arista di maiale in un pezzo,800 g di arista di maiale,arista di maiale,800 g,arista,arista,13
+429,60 g di pancetta affumicata,60 g di pancetta affumicata,pancetta affumicata,60 g,pancetta affumicata,pancetta affumicata,155
+430,4 foglie di cavolo nero o verza,4 foglie di cavolo nero,cavolo nero,4 foglie,cavolo nero,cavolo nero,44
+431,1 melagrana,1 melagrana,melagrana,1,melagrana,melagrana,50
+432,50 g di burro,50 g di burro,burro,50 g,burro,burro,4606
+433,1 bicchiere di vino bianco secco,1 bicchiere di vino bianco secco,vino bianco secco,1 bicchiere,vino bianco secco,vino bianco,1177
+434,1 kg di asparagi di bassano,1 kg di asparagi di bassano,asparagi,1 kg,asparagi,asparagi,192
+435,4 tuorli sodi,4 tuorli sodi,tuorli,4,tuorli,tuorli,1385
+436,aceto di vino bianco o succo di limone,aceto di vino bianco,aceto di vino bianco,,aceto di vino bianco,aceto,528
+437,5 cucciai di olio extravergine d'oliva,5 cucciai di olio extravergine d'oliva,olio extravergine d'oliva,5 cucciai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+438,450 g di pane nero (di grano),450 g di pane nero,pane nero,450 g,pane nero,pane nero,14
+439,320 g di zucchero,320 g di zucchero,zucchero,320 g,zucchero,zucchero,4949
+440,10 dl di vino rosso secco,10 dl di vino rosso secco,vino rosso secco,10 dl,vino rosso secco,vino rosso,219
+441,1 pizzico di cannella in polvere,1 pizzico di cannella,cannella,1 pizzico,cannella,cannella,499
+442,6 chiodi di garofano,6 chiodi di garofano,chiodi di garofano,6,chiodi di garofano,chiodi di garofano,180
+443,100 g di olive nere,100 g di olive nere,olive nere,100 g,olive nere,olive nere,244
+444,scorza di mezz'arancia,scorza di mezz'arancia,scorza d'arancia,,scorza d'arancia,buccia d'arancia,187
+445,400 g di cipolle bianche,400 g di cipolle bianche,cipolle bianche,400 g,cipolle bianche,cipolla bianca,310
+446,500 g di fegato di vitello a fette,500 g di fegato di vitello,vitello,500 g,vitello,carne di bovino,492
+447,1 ciuffetto di prezzemolo tritato,1 ciuffetto di prezzemolo tritato,prezzemolo,1,prezzemolo,prezzemolo,1668
+448,600 gr di stoccafisso già ammollato,600 gr di stoccafisso,stoccafisso,600 gr,stoccafisso,stoccafisso,18
+449,1 dl di olio extravergine d'oliva,1 dl di olio extravergine d'oliva,olio extravergine d'oliva,1 dl,olio extravergine d'oliva,olio extravergine d'oliva,4337
+450,1 foglia d'alloro,1 foglia d'alloro,alloro,1 foglia,alloro,alloro,451
+451,"1,5 dl di vino bianco secco","1,5 dl di vino bianco secco",vino bianco secco,"1,5 dl",vino bianco secco,vino bianco,1177
+452,"1 anatra selvatica da 1,5 kg","1 anatra selvatica da 1,5 kg",anatra selvatica,1,anatra,carne di anatra,27
+453,500 g di pomodori da sugo maturi,500 g di pomodori da sugo maturi,pomodori,500 g,pomodori,pomodori,634
+454,"150 g di prosciutto cotto, in una sola fetta","150 g di prosciutto cotto,",prosciutto cotto,150 g,prosciutto cotto,prosciutto cotto,324
+455,20 ml di brodo vegetale,20 ml di brodo vegetale,brodo vegetale,20 ml,brodo vegetale,brodo vegetale,571
+456,1 ciuffetto di basilico,1 ciuffetto di basilico,basilico,1,basilico,basilico,944
+457,70 g di burro,70 g di burro,burro,70 g,burro,burro,4606
+458,3 foglie d'alloro,3 foglie d'alloro,alloro,3 foglie,alloro,alloro,451
+459,600 g di fegato di vitellone,600 g di fegato di vitellone,fegato di vitello,600 g,fegato di vitello,fegato di vitello,10
+460,1 cucchiaio di farina,1 cucchiaio di farina,farina,1 cucchiaio,farina,farina,2121
+461,1/2 bicchiere di vino rosso,1/2 bicchiere di vino rosso,vino rosso,1/2 bicchiere,vino rosso,vino rosso,219
+462,1 pizzico di noce moscata,1 pizzico di noce moscata,noce moscata,1 pizzico,noce moscata,noce moscata,356
+463,300 gr di mandorle dolci,300 gr di mandorle dolci,mandorle dolci,300 gr,mandorle,mandorle,415
+464,100 gr di cioccolato,100 gr di cioccolato,cioccolato,100 gr,cioccolato,cioccolato,105
+465,1 l di mosto cotto,1 l di mosto cotto,mosto cotto,1 l,mosto cotto,mosto d'uva,3
+466,250 gr di olio d'oliva,250 gr di olio d'oliva,olio d'oliva,250 gr,olio d'oliva,olio d'oliva,122
+467,250 gr di vino bianco,250 gr di vino bianco,vino bianco,250 gr,vino bianco,vino bianco,1177
+468,100 gr di zucchero,100 gr di zucchero,zucchero,100 gr,zucchero,zucchero,4949
+469,500 gr di purè di castagne,500 gr di purè di castagne,purè di castagne,500 gr,purè di castagne,castagne,56
+470,1/2 bicchiere di rum,1/2 bicchiere di rum,rum,1/2 bicchiere,rum,rum,218
+471,1 bicchiere d'olio,1 bicchiere d'olio,olio,1 bicchiere,olio,olio,2191
+472,cannella,cannella,cannella,,cannella,cannella,499
+473,400g farina di grano duro,400g farina di grano duro,farina di grano duro,400 g,farina di grano duro,farina,2121
+474,200g di salsiccia,200g di salsiccia,salsiccia,200 g,salsiccia,salsiccia,225
+475,50g di uva passa,50g di uva passa,uva passa,50 g,uva passa,uva passa,87
+476,300 gr di carne macinata,300 gr di carne macinata,carne macinata,300 gr,carne macinata,macinato,13
+477,20 gr di burro,20 gr di burro,burro,20 gr,burro,burro,4606
+478,3 cuchiai di olio extravergine d'oliva,3 cuchiai di olio extravergine d'oliva,olio extravergine d'oliva,3 cuchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+479,3 coste di cardo,3 coste di cardo,coste di cardo,3,coste di cardo,coste,2
+480,300 gr di pomodori (o polpa di pomodoro),300 gr di pomodori,pomodori,300 gr,pomodori,pomodori,634
+481,sale pepe,sale pepe,sale pepe,,sale,sale,9693
+482,1 kg di palombo o razza,1 kg di palombo,palombo,1 kg,palombo,palombo,6
+483,75 cl di aceto bianco,75 cl di aceto bianco,aceto bianco,75 cl,aceto bianco,aceto,528
+484,zafferano,zafferano,zafferano,,zafferano,zafferano,177
+485,8 cipolle rosse di tropea,8 cipolle rosse di tropea,cipolle rosse di tropea,8,cipolle rosse di tropea,cipolla di tropea,103
+486,pan grattato,pan grattato,grattato,pan,grattato,grattato,1
+487,50g di pecorino grattugiato,50g di pecorino grattugiato,pecorino,50 g,pecorino,pecorino,519
+488,100g di farina,100g di farina,farina,100 g,farina,farina,2121
+489,500 gr di farina,500 gr di farina,farina,500 gr,farina,farina,2121
+490,100 gr di strutto,100 gr di strutto,strutto,100 gr,strutto,strutto,134
+491,150 gr di zucchero,150 gr di zucchero,zucchero,150 gr,zucchero,zucchero,4949
+492,250 gr di mandorle,250 gr di mandorle,mandorle,250 gr,mandorle,mandorle,415
+493,500 gr di marmellata di uva,500 gr di marmellata di uva,marmellata di uva,500 gr,marmellata,marmellata,46
+494,50 gr di uva sultanina,50 gr di uva sultanina,uva sultanina,50 gr,uva sultanina,uva passa,87
+495,20 gr di cannella,20 gr di cannella,cannella,20 gr,cannella,cannella,499
+496,200 gr di cacao,200 gr di cacao,cacao,200 gr,cacao,cacao amaro,524
+497,un bicchiere di liquore strega,un bicchiere di liquore strega,liquore strega,un bicchiere,liquore strega,liquore strega,8
+498,50 gr di zucchero a velo,50 gr di zucchero,zucchero,50 gr,zucchero,zucchero,4949
+499,400 gr di bucatini,400 gr di bucatini,bucatini,400 gr,bucatini,bucatini,26
+500,finocchietto selvatico,finocchietto selvatico,finocchietto selvatico,,finocchietto selvatico,finocchietto selvatico,96
+501,2 cosciotti d'agnello,2 cosciotti d'agnello,cosciotti,2,cosciotto d'agnello,carne di pollo,350
+502,200 gr di pancetta,200 gr di pancetta,pancetta,200 gr,pancetta,pancetta,245
+503,1/2 bicchiere di succo di bergamotto,1/2 bicchiere di succo di bergamotto,succo di bergamotto,1/2 bicchiere,succo d'ananas,succo d'ananas,41
+504,300 gr di pomodori,300 gr di pomodori,pomodori,300 gr,pomodori,pomodori,634
+505,200 gr di patate,200 gr di patate,patate,200 gr,patate,patate,1000
+506,200 gr di melanzane,200 gr di melanzane,melanzane,200 gr,melanzane,melanzane,295
+507,600 gr di tagliatelle all'uovo,600 gr di tagliatelle all'uovo,tagliatelle all'uovo,600 gr,tagliatelle all'uovo,tagliatelle all'uovo,29
+508,3 kg di lumache,3 kg di lumache,lumache,3 kg,lumache,lumache,10
+509,6 pomodori,6 pomodori,pomodori,6,pomodori,pomodori,634
+510,1 olio extravergine d'oliva,1 olio extravergine d'oliva,olio extravergine d'oliva,1,olio extravergine d'oliva,olio extravergine d'oliva,4337
+511,menta,menta,menta,,menta,menta,533
+512,1 pollo,1 pollo,pollo,1,pollo,carne di pollo,350
+513,500 gr di pomodori pelati (o polpa di pomodoro),500 gr di pomodori pelati,pomodori pelati,500 gr,pomodori pelati,pomodori pelati,196
+514,2 peperoni,2 peperoni,peperoni,2,peperoni,peperoni,612
+515,1 kg di cipolle rosse di tropea,1 kg di cipolle rosse di tropea,cipolle rosse di tropea,1 kg,cipolle rosse di tropea,cipolla di tropea,103
+516,800 gr di pesce spada,800 gr di pesce spada,pesce spada,800 gr,pesce spada,pesce spada,66
+517,6 peperoni,6 peperoni,peperoni,6,peperoni,peperoni,612
+518,4 cucchiai di pangrattato,4 cucchiai di pangrattato,pangrattato,4 cucchiai,pangrattato,pangrattato,834
+519,4 acciughe,4 acciughe,acciughe,4,acciughe,acciughe,403
+520,1/2 bicchiere di olio,1/2 bicchiere di olio,olio,1/2 bicchiere,olio,olio,2191
+521,1/2 bicchierino di liquore strega,1/2 bicchierino di liquore strega,liquore strega,1/2 bicchierino,liquore strega,liquore strega,8
+522,1/2 bustina di vaniglia,1/2 bustina di vaniglia,vaniglia,1/2 bustina,vaniglia,baccello di vaniglia,845
+523,250 gr di zucchero,250 gr di zucchero,zucchero,250 gr,zucchero,zucchero,4949
+524,800 gr di fesa di tacchino,800 gr di fesa di tacchino,fesa di tacchino,800 gr,fesa di tacchino,fesa di tacchino,20
+525,2 cedri,2 cedri,cedri,2,cedro,cedro,11
+526,5 albumi,5 albumi,albumi,5,albumi,albumi,436
+527,1/2 kg di zucchero,1/2 kg di zucchero,zucchero,1/2 kg,zucchero,zucchero,4949
+528,1/2 kg di farina,1/2 kg di farina,farina,1/2 kg,farina,farina,2121
+529,1/2 kg di mandorle,1/2 kg di mandorle,mandorle,1/2 kg,mandorle,mandorle,415
+530,cioccolato,cioccolato,cioccolato,,cioccolato,cioccolato,105
+531,buccia di limone grattugiata,buccia di limone grattugiata,limone,,limone,limone,1394
+532,300 gr di farina,300 gr di farina,farina,300 gr,farina,farina,2121
+533,120 gr di sugna,120 gr di sugna,sugna,120 gr,sugna,sugna,4
+534,vino bianco,vino bianco,vino bianco,,vino bianco,vino bianco,1177
+535,300 gr di pomdorini,300 gr di pomdorini,pomdorini,300 gr,pomdorini,pomodorini,142
+536,250 g di zucchero,250 g di zucchero,zucchero,250 g,zucchero,zucchero,4949
+537,250 g di mandorle,250 g di mandorle,mandorle,250 g,mandorle,mandorle,415
+538,50 g di scorza d'arancia candita,50 g di scorza d'arancia candita,scorza d'arancia candita,50 g,scorza d'arancia,buccia d'arancia,187
+539,1 pizzico di cannella,1 pizzico di cannella,cannella,1 pizzico,cannella,cannella,499
+540,400 gr di spaghetti,400 gr di spaghetti,spaghetti,400 gr,spaghetti,spaghetti,201
+541,300 gr di seppie,300 gr di seppie,seppie,300 gr,seppie,seppie,40
+542,polpa di pomodoro,polpa di pomodoro,polpa di pomodoro,,polpa di pomodoro,polpa di pomodoro,49
+543,500 g di maltagliati,500 g di maltagliati,maltagliati,500 g,maltagliati,maltagliati,8
+544,300 g di melanzane,300 g di melanzane,melanzane,300 g,melanzane,melanzane,295
+545,300 g di pomodori pelati,300 g di pomodori pelati,pomodori pelati,300 g,pomodori pelati,pomodori pelati,196
+546,150 g di mozzarella,150 g di mozzarella,mozzarella,150 g,mozzarella,mozzarella,264
+547,3 acciughe sotto sale,3 acciughe sotto sale,acciughe sotto sale,3,acciughe sotto sale,acciughe,403
+548,scalogno,scalogno,scalogno,,scalogno,scalogno,620
+549,600 gr di fave fresche,600 gr di fave fresche,fave,600 gr,fave,fave,103
+550,150 gr di guanciale,150 gr di guanciale,guanciale,150 gr,guanciale,guanciale,54
+551,2 aragoste da 1 kg,2 aragoste da 1 kg,aragoste,2,aragosta,aragosta,10
+552,1 mazzetto di insalata mista,1 mazzetto di insalata mista,insalata mista,1 mazzetto,insalata mista,insalata misticanza,28
+553,2 l d’acqua,2 l d’acqua,,2 l,,,
+554,1 cavolfiore,1 cavolfiore,cavolfiore,1,cavolfiore,cavolfiore,101
+555,un pizzico di noce moscata,un pizzico di noce moscata,noce moscata,un pizzico,noce moscata,noce moscata,356
+556,80 g di parmigiano grattugiato,80 g di parmigiano grattugiato,parmigiano,80 g,parmigiano,parmigiano reggiano dop,1291
+557,350 ml di latte,350 ml di latte,latte,350 ml,latte,latte,2242
+558,35 g di farina 00,35 g di farina 00,farina,35 g,farina,farina,2121
+559,"1,5 kg di ricotta","1,5 kg di ricotta",ricotta,"1,5 kg",ricotta,ricotta,324
+560,300 gr di zucchero,300 gr di zucchero,zucchero,300 gr,zucchero,zucchero,4949
+561,1 bicchiere di panna montata,1 bicchiere di panna montata,panna,1 bicchiere,panna,panna fresca,1860
+562,1 bustina di vaniglia,1 bustina di vaniglia,vaniglia,1 bustina,vaniglia,baccello di vaniglia,845
+563,500 g di mascarpone,500 g di mascarpone,mascarpone,500 g,mascarpone,mascarpone,213
+564,300 g di zucchero,300 g di zucchero,zucchero,300 g,zucchero,zucchero,4949
+565,150 g di amaretti,150 g di amaretti,amaretti,150 g,amaretti,amaretti,104
+566,500 g di savoiardi,500 g di savoiardi,savoiardi,500 g,savoiardi,savoiardi,82
+567,1 tazzina di brandy,1 tazzina di brandy,brandy,1 tazzina,brandy,brandy,122
+568,1 tazzina di caffè ristretto,1 tazzina di caffè ristretto,caffè,1 tazzina,caffè,caffè,190
+569,100 ml di caffè,100 ml di caffè,caffè,100 ml,caffè,caffè,190
+570,2 cucchiai di cacao dolce,2 cucchiai di cacao dolce,cacao dolce,2 cucchiai,cacao dolce,cacao dolce,14
+571,2 cucchiai di zucchero a velo,2 cucchiai di zucchero,zucchero,2 cucchiai,zucchero,zucchero,4949
+572,4 melanzane,4 melanzane,melanzane,4,melanzane,melanzane,295
+573,1/2 kg di stocco,1/2 kg di stocco,stocco,1/2 kg,stoccafisso,stocco,20
+574,formaggio pecorino,formaggio pecorino,formaggio pecorino,,pecorino,pecorino,519
+575,150 gr di pangrattato,150 gr di pangrattato,pangrattato,150 gr,pangrattato,pangrattato,834
+576,150 parmigiano reggiano,150 parmigiano reggiano,parmigiano reggiano,150,parmigiano reggiano,parmigiano reggiano dop,1291
+577,sfoglia per ravioli,sfoglia,sfoglia,,sfoglie,sfoglia,6
+578,500 gr di stocco,500 gr di stocco,stocco,500 gr,stoccafisso,stocco,20
+579,400 gr di pelati,400 gr di pelati,pelati,400 gr,pelati,pomodori pelati,196
+580,pecorino grattuggiato,pecorino grattuggiato,pecorino,,pecorino,pecorino,519
+581,spinaci,spinaci,spinaci,,spinaci,spinaci,245
+582,1 kg di canocchie,1 kg di canocchie,canocchie,1 kg,canocchie,canocchie,14
+583,1 coniglio,1 coniglio,coniglio,1,coniglio,carne di coniglio,65
+584,strutto,strutto,strutto,,strutto,strutto,134
+585,800 gr di stocco,800 gr di stocco,stocco,800 gr,stoccafisso,stocco,20
+586,olive,olive,olive,,olive,olive,72
+587,600 gr di filetto di manzo,600 gr di filetto di manzo,filetto di manzo,600 gr,filetto di manzo,carne di bovino,492
+588,100 gr di parmigiano reggiano,100 gr di parmigiano reggiano,parmigiano reggiano,100 gr,parmigiano reggiano,parmigiano reggiano dop,1291
+589,4 fette di prosciutto di parma,4 fette di prosciutto di parma,prosciutto di parma,4 fette,prosciutto,prosciutto crudo,182
+590,1/2 litro di lambrusco,1/2 litro di lambrusco,lambrusco,1/2 litro,lambrusco,lambrusco,5
+591,1/2 bicchiere di marsala,1/2 bicchiere di marsala,marsala,1/2 bicchiere,marsala,marsala,121
+592,80 ml di panna da cucina,80 ml di panna da cucina,panna da cucina,80 ml,panna,panna fresca,1860
+593,1 pan di spagna,1 pan di spagna,pan di spagna,1 pan,pan di spagna,pan di spagna,30
+594,150 gr di burro,150 gr di burro,burro,150 gr,burro,burro,4606
+595,50 gr di torrone,50 gr di torrone,torrone,50 gr,torrone,torrone,25
+596,30 gr di croccante,30 gr di croccante,croccante,30 gr,croccante,croccante,6
+597,30 gr di cioccolato al latte,30 gr di cioccolato al latte,cioccolato al latte,30 gr,cioccolato al latte,cioccolato al latte,59
+598,30 gr di cacao amaro,30 gr di cacao amaro,cacao amaro,30 gr,cacao amaro,cacao amaro,524
+599,100 gr di zucchero a velo,100 gr di zucchero,zucchero,100 gr,zucchero,zucchero,4949
+600,1 bicchierino di liquore centerba,1 bicchierino di liquore centerba,liquore centerba,1 bicchierino,liquore,liquore,38
+601,1 kg di farina di granturco per polenta,1 kg di farina di granturco,farina di granturco,1 kg,farina,farina,2121
+602,300 gr di pancetta,300 gr di pancetta,pancetta,300 gr,pancetta,pancetta,245
+603,6 salsicce,6 salsicce,salsicce,6,salsicce,salsiccia,225
+604,1/2 bicchiere di olio d'oliva,1/2 bicchiere di olio d'oliva,olio d'oliva,1/2 bicchiere,olio d'oliva,olio d'oliva,122
+605,1 kg di pomodoro,1 kg di pomodoro,pomodoro,1 kg,pomodoro,pomodori,634
+606,3 melanzane,3 melanzane,melanzane,3,melanzane,melanzane,295
+607,700 g di polpa di pomodoro,700 g di polpa di pomodoro,polpa di pomodoro,700 g,polpa di pomodoro,polpa di pomodoro,49
+608,250 g di mozzarella o provola,250 g di mozzarella,mozzarella,250 g,mozzarella,mozzarella,264
+609,400 g di funghi porcini,400 g di funghi porcini,funghi porcini,400 g,funghi porcini,funghi porcini,107
+610,800 gr di castrato,800 gr di castrato,castrato,800 gr,castrato,castrato,4
+611,150 gr di farina di mais,150 gr di farina di mais,farina di mais,150 gr,farina di mais,farina di mais,144
+612,150 gr di farina 00,150 gr di farina 00,farina,150 gr,farina,farina,2121
+613,70 gr di uva sultanina,70 gr di uva sultanina,uva sultanina,70 gr,uva sultanina,uva passa,87
+614,60 gr di noci,60 gr di noci,noci,60 gr,noci,noci,222
+615,60 gr di fichi secchi,60 gr di fichi secchi,fichi secchi,60 gr,fichi secchi,fichi secchi,41
+616,60 gr di burro,60 gr di burro,burro,60 gr,burro,burro,4606
+617,1 bustina di lievito in polvere per dolci,1 bustina di lievito,lievito,1 bustina,lievito,lievito,994
+618,130 ml di latte intero,130 ml di latte intero,latte intero,130 ml,latte intero,latte,2242
+619,8 fette di pancarrè,8 fette di pancarrè,pancarrè,8 fette,pancarrè,pancarrè,96
+620,2 mozzarelle,2 mozzarelle,mozzarelle,2,mozzarelle,mozzarella,264
+621,400 g di farina,400 g di farina,farina,400 g,farina,farina,2121
+622,4 cucchiai di latte,4 cucchiai di latte,latte,4 cucchiai,latte,latte,2242
+623,40 g di asiago d'allevo stravecchio grattugiato,40 g di asiago d'allevo stravecchio grattugiato,asiago,40 g,asiago,asiago,30
+624,100 gr di zucchine,100 gr di zucchine,zucchine,100 gr,zucchine,zucchine,654
+625,100 gr di fagiolini,100 gr di fagiolini,fagiolini,100 gr,fagiolini,fagiolini,153
+626,100 gr di patate,100 gr di patate,patate,100 gr,patate,patate,1000
+627,100 gr di pomodori,100 gr di pomodori,pomodori,100 gr,pomodori,pomodori,634
+628,100 gr di peperoni,100 gr di peperoni,peperoni,100 gr,peperoni,peperoni,612
+629,100 gr di sedano,100 gr di sedano,sedano,100 gr,sedano,sedano,796
+630,100 gr di carote,100 gr di carote,carote,100 gr,carote,carote,1077
+631,100 gr di cipolle,100 gr di cipolle,cipolle,100 gr,cipolle,cipolla,1415
+632,olio extraverginne d'oliva,olio extraverginne d'oliva,olio extraverginne d'oliva,,olio,olio extravergine d'oliva,4337
+633,4 sogliole,4 sogliole,sogliole,4,sogliola,sogliola,30
+634,300 g di piattoni,300 g di piattoni,piattoni,300 g,piattoni,piattoni,2
+635,150 g di zucca,150 g di zucca,zucca,150 g,zucca,zucca,226
+636,50 g di pancetta,50 g di pancetta,pancetta,50 g,pancetta,pancetta,245
+637,300 g di mandorle,300 g di mandorle,mandorle,300 g,mandorle,mandorle,415
+638,180 g di zucchero,180 g di zucchero,zucchero,180 g,zucchero,zucchero,4949
+639,olio di semi,olio di semi,olio di semi,,olio di semi,olio di semi,323
+640,200 gr di mandorle,200 gr di mandorle,mandorle,200 gr,mandorle,mandorle,415
+641,una bustina di cannella,una bustina di cannella,cannella,una bustina,cannella,cannella,499
+642,buccia di limone grattuggiata,buccia di limone grattuggiata,limone,,limone,limone,1394
+643,8 mandorle,8 mandorle,mandorle,8,mandorle,mandorle,415
+644,8 noci,8 noci,noci,8,noci,noci,222
+645,1 cucchiaio di uva sultanina,1 cucchiaio di uva sultanina,uva sultanina,1 cucchiaio,uva sultanina,uva passa,87
+646,olio per friggere,olio,olio,,olio,olio,2191
+647,miele,miele,miele,,miele,miele,335
+648,600 gr di patate,600 gr di patate,patate,600 gr,patate,patate,1000
+649,1 cavolo rapa,1 cavolo rapa,cavolo rapa,1,rapa,rape,38
+650,30 gr di burro,30 gr di burro,burro,30 gr,burro,burro,4606
+651,250 gr di farina,250 gr di farina,farina,250 gr,farina,farina,2121
+652,fichi secchi,fichi secchi,fichi secchi,,fichi secchi,fichi secchi,41
+653,1 cucchiaio di ricotta affumicata e grattugiata,1 cucchiaio di ricotta affumicata,ricotta affumicata,1 cucchiaio,ricotta affumicata,ricotta affumicata,11
+654,1 cucchiaio di formaggio grattugiato,1 cucchiaio di formaggio grattugiato,formaggio,1 cucchiaio,formaggio,formaggio,264
+655,1 cucchiaio di pangrattato,1 cucchiaio di pangrattato,pangrattato,1 cucchiaio,pangrattato,pangrattato,834
+656,1 chiodo di garofano,1 chiodo di garofano,chiodo di garofano,1,chiodo di garofano,chiodi di garofano,180
+657,1 cucchiaio di uvetta passa,1 cucchiaio di uvetta passa,uvetta passa,1 cucchiaio,uvetta,uva passa,87
+658,melissa,melissa,melissa,,melissa,melissa,10
+659,800 g di fagioli borlotti freschi,800 g di fagioli borlotti freschi,fagioli borlotti,800 g,fagioli borlotti,fagioli borlotti,47
+660,1 pollo da 1 kg,1 pollo da 1 kg,pollo,1,pollo,carne di pollo,350
+661,2 fette di lardo,2 fette di lardo,lardo,2 fette,lardo,lardo,114
+662,50 g di soppressa,50 g di soppressa,soppressa,50 g,soppressa,soppressa,4
+663,2 rametti di rosmarino,2 rametti di rosmarino,rosmarino,2 rametti,rosmarino,rosmarino,850
+664,"1,25 dl di vino bianco secco","1,25 dl di vino bianco secco",vino bianco secco,dl,vino bianco secco,vino bianco,1177
+665,1 lepre,1 lepre,lepre,1,lepre,carne di lepre,9
+666,vino rosso,vino rosso,vino rosso,,vino rosso,vino rosso,219
+667,cipolle rosse di tropea,cipolle rosse di tropea,cipolle rosse di tropea,,cipolle rosse di tropea,cipolla di tropea,103
+668,alloro,alloro,alloro,,alloro,alloro,451
+669,farina d'orzo,farina d'orzo,farina d'orzo,,farina,farina,2121
+670,pane raffermo,pane raffermo,pane raffermo,,pane raffermo,pane raffermo,106
+671,500 gr di fettuccine,500 gr di fettuccine,fettuccine,500 gr,fettuccine all'uovo,fettuccine all'uovo,23
+672,4 peperoni,4 peperoni,peperoni,4,peperoni,peperoni,612
+673,200 ml di panna liquida,200 ml di panna liquida,panna liquida,200 ml,panna liquida,panna fresca,1860
+674,mandorle,mandorle,mandorle,,mandorle,mandorle,415
+675,cioccolato fondente,cioccolato fondente,cioccolato fondente,,cioccolato fondente,cioccolato fondente,833
+676,essenza di limone,essenza di limone,essenza di limone,,essenza di senape,essenza,6
+677,150 gr di fagioli borlotti,150 gr di fagioli borlotti,fagioli borlotti,150 gr,fagioli borlotti,fagioli borlotti,47
+678,50 gr di lardo,50 gr di lardo,lardo,50 gr,lardo,lardo,114
+679,50 gr di pancetta,50 gr di pancetta,pancetta,50 gr,pancetta,pancetta,245
+680,250 gr di patate,250 gr di patate,patate,250 gr,patate,patate,1000
+681,2 foglie di alloro,2 foglie di alloro,alloro,2 foglie,alloro,alloro,451
+682,1/2 cucchiaio di concentrato di pomodoro,1/2 cucchiaio di concentrato di pomodoro,concentrato di pomodoro,1/2 cucchiaio,concentrato di pomodoro,concentrato di pomodoro,192
+683,400 gr di fagioli,400 gr di fagioli,fagioli,400 gr,fagioli,fagioli,87
+684,500 gr di polpa di pomodoro,500 gr di polpa di pomodoro,polpa di pomodoro,500 gr,polpa di pomodoro,polpa di pomodoro,49
+685,cicale di mare,cicale di mare,cicale mare,,cicale mare,cicale,2
+686,gamberi,gamberi,gamberi,,gamberi,gamberi,194
+687,scorfani,scorfani,scorfani,,scorfano,scorfano,15
+688,razze,razze,razze,,razze,razza,4
+689,tracine,tracine,tracine,,tracine,tracine,1
+690,sogliole,sogliole,sogliole,,sogliola,sogliola,30
+691,merluzzi,merluzzi,merluzzi,,merluzzo,merluzzo,49
+692,triglie,triglie,triglie,,triglie,triglie,31
+693,calamari,calamari,calamari,,calamari,calamari,102
+694,800 g di pomodori,800 g di pomodori,pomodori,800 g,pomodori,pomodori,634
+695,1/2 peperone,1/2 peperone,peperone,1/2,peperone,peperoni,612
+696,4 calamari,4 calamari,calamari,4,calamari,calamari,102
+697,70 g di gherigli di noce,70 g di gherigli di noce,noce,70 g,noce,noci,222
+698,70 g di parmigiano reggiano grattugiato,70 g di parmigiano reggiano grattugiato,parmigiano reggiano,70 g,parmigiano reggiano,parmigiano reggiano dop,1291
+699,1 spicchio di aglio,1 spicchio di aglio,aglio,1 spicchio,aglio,aglio,2572
+700,400 ml di salsa di pomodoro,400 ml di salsa di pomodoro,salsa di pomodoro,400 ml,salsa di pomodoro,salsa di pomodoro,90
+701,4 cucchiai di olio extravergine di oliva,4 cucchiai di olio extravergine di oliva,olio extravergine di oliva,4 cucchiai,olio extravergine di oliva,olio extravergine d'oliva,4337
+702,4 acciughe sotto sale,4 acciughe sotto sale,acciughe sotto sale,4,acciughe sotto sale,acciughe,403
+703,16 olive nere,16 olive nere,olive nere,16,olive nere,olive nere,244
+704,1 kg di aguglie grandi,1 kg di aguglie grandi,aguglie,1 kg,aguglie,aguglie,2
+705,20 triglie,20 triglie,triglie,20,triglie,triglie,31
+706,200 gr. prosciutto crudo,200 gr. prosciutto crudo,prosciutto crudo,200 gr .,prosciutto crudo,prosciutto crudo,182
+707,20 foglie di alloro,20 foglie di alloro,alloro,20 foglie,alloro,alloro,451
+708,1/2 bicchiere di vino bianco,1/2 bicchiere di vino bianco,vino bianco,1/2 bicchiere,vino bianco,vino bianco,1177
+709,1 musèt o cotechino,1 musèt,musèt,1,musèt,musèt,2
+710,600 gr di brovade (rape macerate al vino),600 gr di brovade,brovade,600 gr,brovade,brovade,2
+711,40 g di lardo,40 g di lardo,lardo,40 g,lardo,lardo,114
+712,1 cipolla piccola,1 cipolla piccola,cipolla,1,cipolla,cipolla,1415
+713,500 g di pasta frolla,500 g di pasta frolla,pasta frolla,500 g,pasta frolla,pasta frolla,77
+714,200 g di grano cotto,200 g di grano cotto,grano cotto,200 g,grano cotto,grano cotto,9
+715,500 g di ricotta,500 g di ricotta,ricotta,500 g,ricotta,ricotta,324
+716,200 g di zucchero,200 g di zucchero,zucchero,200 g,zucchero,zucchero,4949
+717,cedro ed arancia canditi,cedro,cedro,,cedro,cedro,11
+718,800 gr. di fette di pesce spada,800 gr. di fette di pesce spada,pesce spada,800 gr,pesce spada,pesce spada,66
+719,olio extra-vergine d'oliva,olio extra-vergine d'oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+720,un limone,un limone,limone,un,limone,limone,1394
+721,500 gr di patate,500 gr di patate,patate,500 gr,patate,patate,1000
+722,300 gr di provola,300 gr di provola,provola,300 gr,provola,provola,62
+723,100 gr di prosciutto cotto in un'unica fetta,100 gr di prosciutto cotto,prosciutto cotto,100 gr,prosciutto cotto,prosciutto cotto,324
+724,parmigiano,parmigiano,parmigiano,,parmigiano,parmigiano reggiano dop,1291
+725,2 kg di rape,2 kg di rape,rape,2 kg,rape,rape,38
+726,1 kg di tonno in un unico pezzo,1 kg di tonno,tonno,1 kg,tonno,tonno,101
+727,2 acciughe,2 acciughe,acciughe,2,acciughe,acciughe,403
+728,250 gr di funghi ovoli,250 gr di funghi ovoli,funghi ovoli,250 gr,funghi,funghi,48
+729,2 coste di sedano,2 coste di sedano,sedano,2,sedano,sedano,796
+730,40 gr di pancetta,40 gr di pancetta,pancetta,40 gr,pancetta,pancetta,245
+731,400 gr di stocco,400 gr di stocco,stocco,400 gr,stoccafisso,stocco,20
+732,800 gr di alici,800 gr di alici,alici,800 gr,alici,alici,44
+733,200 gr di pomodorini,200 gr di pomodorini,pomodorini,200 gr,pomodorini,pomodorini,142
+734,capperi sotto sale,capperi sotto sale,capperi sotto sale,,capperi sotto sale,capperi,366
+735,300 g di miele,300 g di miele,miele,300 g,miele,miele,335
+736,400 g zucchero semolato,400 g zucchero semolato,zucchero semolato,400 g,zucchero semolato,zucchero,4949
+737,250 g cioccolato,250 g cioccolato,cioccolato,250 g,cioccolato,cioccolato,105
+738,700 g di nocciole,700 g di nocciole,nocciole,700 g,nocciole,nocciole,164
+739,ostie,ostie,ostie,,ostia,ostia,12
+740,200 g di ricotta di bufala,200 g di ricotta di bufala,ricotta di bufala,200 g,ricotta di bufala,ricotta di bufala,17
+741,125 g di semolino,125 g di semolino,semolino,125 g,semolino,semolino,56
+742,1 tuorlo,1 tuorlo,tuorlo,1,tuorlo,tuorli,1385
+743,1/2 cucchiaino di essenza di vaniglia,1/2 cucchiaino di essenza di vaniglia,essenza di vaniglia,1/2 cucchiaino,essenza di vaniglia,essenza di vaniglia,100
+744,50 g di arancia candita,50 g di arancia candita,arancia candita,50 g,arancia candita,arancia candita,60
+745,1 cucchiaio di zucchero a velo,1 cucchiaio di zucchero,zucchero,1 cucchiaio,zucchero,zucchero,4949
+746,500 gr di fusilli,500 gr di fusilli,fusilli,500 gr,fusilli,fusilli,71
+747,300 gr di funghi,300 gr di funghi,funghi,300 gr,funghi,funghi,48
+748,1 kg di asparagi verdi,1 kg di asparagi verdi,asparagi verdi,1 kg,asparagi verdi,asparagi,192
+749,1 scalogno,1 scalogno,scalogno,1,scalogno,scalogno,620
+750,8 filetti di acciughe,8 filetti di acciughe,filetti acciughe,8,filetti di acciuga,acciughe,403
+751,1 cuchiaino di aceto di vino bianco,1 cuchiaino di aceto di vino bianco,aceto di vino bianco,1 cuchiaino,aceto di vino bianco,aceto,528
+752,1 kg di pesce da zuppa,1 kg di pesce da zuppa,pesce da zuppa,1 kg,pesce,pesce,29
+753,san pietro,san pietro,,,,,
+754,gallinella,gallinella,gallinella,,gallinella,gallinella,13
+755,scorfano,scorfano,scorfano,,scorfano,scorfano,15
+756,triglia,triglia,trigilia,,trigilia,triglie,31
+757,150 g di pomodorini,150 g di pomodorini,pomodorini,150 g,pomodorini,pomodorini,142
+758,500 gr di tagliatelle,500 gr di tagliatelle,tagliatelle,500 gr,tagliatelle,tagliatelle,37
+759,400 gr di baccalà,400 gr di baccalà,baccalà,400 gr,baccalà,baccalà,94
+760,25 gr di funghi secchi,25 gr di funghi secchi,funghi secchi,25 gr,funghi secchi,funghi secchi,48
+761,40 gr di burro,40 gr di burro,burro,40 gr,burro,burro,4606
+762,scorza grattugiata di limone,scorza grattugiata di limone,limone,,limone,limone,1394
+763,300 gr di pasta mista,300 gr di pasta mista,pasta mista,300 gr,pasta,pasta,78
+764,30 castagne,30 castagne,castagne,30,castagne,castagne,56
+765,un cappone,un cappone,cappone,un,cappone,cappone,15
+766,120 gr di burro,120 gr di burro,burro,120 gr,burro,burro,4606
+767,10 filetti di acciuga,10 filetti di acciuga,filetti di acciuga,10,filetti di acciuga,acciughe,403
+768,marsala,marsala,marsala,,marsala,marsala,121
+769,mezzo limone,mezzo limone,limone,mezzo,limone,limone,1394
+770,300 g di farina di castagne,300 g di farina di castagne,farina di castagne,300 g,farina di castagne,farina di castagne,38
+771,1/2 bicchiere di latte,1/2 bicchiere di latte,latte,1/2 bicchiere,latte,latte,2242
+772,4-5 cucchiai di olio extravergine d'oliva,4-5 cucchiai di olio extravergine d'oliva,olio extravergine d'oliva,4 - 5 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+773,8 salsicce,8 salsicce,salsicce,8,salsicce,salsiccia,225
+774,1 kg di friarielli,1 kg di friarielli,friarielli,1 kg,friarielli,friarielli,4
+775,piedini di maiale,piedini di maiale,piedini di maiale,,piedini di maiale,carne di suino,202
+776,cotiche di maiale,cotiche di maiale,cotiche di maiale,,cotiche di maiale,cotenna di suino,25
+777,orecchie di maiale,orecchie di maiale,maiale,orecchie,maiale,carne di suino,202
+778,costata di maiale,costata di maiale,maiale,,maiale,carne di suino,202
+779,muso di maiale,muso di maiale,muso di maiale,,muso di maiale,carne di suino,202
+780,800 g di baccalà già ammollato,800 g di baccalà,baccalà,800 g,baccalà,baccalà,94
+781,500 ml di latte intero fresco,500 ml di latte intero fresco,latte intero,500 ml,latte intero,latte,2242
+782,250 g di olive verdi snocciolate,250 g di olive verdi snocciolate,olive verdi snocciolate,250 g,olive verdi snocciolate,olive verdi,119
+783,1 kg di patate,1 kg di patate,patate,1 kg,patate,patate,1000
+784,200 g di farina,200 g di farina,farina,200 g,farina,farina,2121
+785,1/2 bicchiere di vino bianco secco,1/2 bicchiere di vino bianco secco,vino bianco secco,1/2 bicchiere,vino bianco secco,vino bianco,1177
+786,1 kg di stocco,1 kg di stocco,stocco di mammola,1 kg,stocco,stocco,20
+787,pomodori pelati,pomodori pelati,pomodori pelati,,pomodori pelati,pomodori pelati,196
+788,1 kg di castagne,1 kg di castagne,castagne,1 kg,castagne,castagne,56
+789,300 ml do vino rosso,300 ml do vino rosso,vino rosso,300 ml,vino rosso,vino rosso,219
+790,400 gr di carne di manzo,400 gr di carne di manzo,carne di manzo,400 gr,carne di manzo,carne di bovino,492
+791,100 gr di pangrattato,100 gr di pangrattato,pangrattato,100 gr,pangrattato,pangrattato,834
+792,spezie,spezie,spezie,,spezie,spezie,13
+793,2 cucchiai di salsa di pomodoro,2 cucchiai di salsa di pomodoro,salsa di pomodoro,2 cucchiai,salsa di pomodoro,salsa di pomodoro,90
+794,4 finocchi,4 finocchi,finocchi,4,finocchi,finocchi,98
+795,700 gr di tonno,700 gr di tonno,tonno,700 gr,tonno,tonno,101
+796,farina 00,farina 00,farina,,farina,farina,2121
+797,50 g di farina 00,50 g di farina 00,farina,50 g,farina,farina,2121
+798,1 l di mosto d'uva (o di succo d'uva),1 l di mosto d'uva,mosto d'uva,1 l,mosto d'uva,mosto d'uva,3
+799,500 gr di farina bianca,500 gr di farina bianca,farina bianca,500 gr,farina bianca,farina 00,1803
+800,olio extravergine d'olia,olio extravergine d'olia,olio extravergine d'olia,,olio,olio extravergine d'oliva,4337
+801,300 g di farina bianca,300 g di farina bianca,farina bianca,300 g,farina bianca,farina 00,1803
+802,"50 g di maiale, pollo, mortadella e prosciutto","50 g di maiale, pollo, mortadella",maiale,50 g,maiale,carne di suino,202
+803,100 g di roast beef,100 g di roast beef,roastbeef,100 g,roastbeef,roastbeef,2
+804,2 cucchiai di burro,2 cucchiai di burro,burro,2 cucchiai,burro,burro,4606
+805,100 g di parmigiano grattugiato,100 g di parmigiano grattugiato,parmigiano,100 g,parmigiano,parmigiano reggiano dop,1291
+806,2 litri di brodo di manzo o di pollo,2 litri di brodo di manzo,brodo di manzo,2 litri,brodo di manzo,brodo di carne,219
+807,3 uova e due tuorli,3 uova,uova,3,uova,uova,3872
+808,150 g di zucchero,150 g di zucchero,zucchero,150 g,zucchero,zucchero,4949
+809,150 g di cocozza,150 g di cocozza,cocozza,150 g,cocozza,cocozza,1
+810,2 cucchiai di zucchero,2 cucchiai di zucchero,zucchero,2 cucchiai,zucchero,zucchero,4949
+811,cedro e arancia canditi,cedro,cedro,,cedro,cedro,11
+812,confettini colorati d'argento,confettini colorati d'argento,confettini colorati d'argento,,confettini colorati,confettini colorati,14
+813,150 gr di parmigiano reggiano,150 gr di parmigiano reggiano,parmigiano reggiano,150 gr,parmigiano reggiano,parmigiano reggiano dop,1291
+814,1 cucchiaio di farina 00,1 cucchiaio di farina 00,farina,1 cucchiaio,farina,farina,2121
+815,4 petti di pollo,4 petti di pollo,petti di pollo,4,petti di pollo,carne di pollo,350
+816,4 fette di prosciutto cotto,4 fette di prosciutto cotto,prosciutto cotto,4 fette,prosciutto cotto,prosciutto cotto,324
+817,4 fette di fontina,4 fette di fontina,fontina,4 fette,fontina,fontina,155
+818,1/2 bicchiere di vino,1/2 bicchiere di vino,vino,1/2 bicchiere,vino,vino,43
+819,olio extra vergine d’oliva,olio extra vergine d’oliva,olio extravergine d'oliva,,olio extravergine d'oliva,olio extravergine d'oliva,4337
+820,besciamella,besciamella,besciamella,,besciamella,besciamella,110
+821,1/2 kg di friarielli,1/2 kg di friarielli,friarielli,1/2 kg,friarielli,friarielli,4
+822,1 kg. di capretto,1 kg. di capretto,capretto,1 kg .,capretto,capretto,10
+823,1 bicchiere di vino secco,1 bicchiere di vino secco,vino secco,1 bicchiere,vino,vino,43
+824,un cucchiaio di salsa di pomodoro,un cucchiaio di salsa di pomodoro,salsa di pomodoro,un cucchiaio,salsa di pomodoro,salsa di pomodoro,90
+825,un cucchiaio di brodo,un cucchiaio di brodo,brodo,un cucchiaio,brodo,brodo,215
+826,lardo,lardo,lardo,,lardo,lardo,114
+827,400 g di cavolo verza,400 g di cavolo verza,cavolo verza,400 g,cavolo verza,cavolo verza,13
+828,2 cucchiai di aceto,2 cucchiai di aceto,aceto,2 cucchiai,aceto,aceto,528
+829,400 gr di riso carnaroli,400 gr di riso carnaroli,riso carnaroli,400 gr,riso carnaroli,riso carnaroli,233
+830,4 carciofi,4 carciofi,carciofi,4,carciofi,carciofi,222
+831,8 zucchine,8 zucchine,zucchine,8,zucchine,zucchine,654
+832,100 gr di pecorino grattugiato,100 gr di pecorino grattugiato,pecorino,100 gr,pecorino,pecorino,519
+833,400 gr di salsiccia modenese,400 gr di salsiccia modenese,salsiccia modenese,400 gr,salsiccia,salsiccia,225
+834,1 peperone,1 peperone,peperone,1,peperone,peperoni,612
+835,4 cipolle,4 cipolle,cipolle,4,cipolle,cipolla,1415
+836,1 kg di pomodori,1 kg di pomodori,pomodori,1 kg,pomodori,pomodori,634
+837,300 gr di farina 00,300 gr di farina 00,farina,300 gr,farina,farina,2121
+838,70 gr di zucchero,70 gr di zucchero,zucchero,70 gr,zucchero,zucchero,4949
+839,50 ml di latte,50 ml di latte,latte,50 ml,latte,latte,2242
+840,4 cucchiai di rum o di grappa,4 cucchiai di rum,rum,4 cucchiai,rum,rum,218
+841,semi di anice,semi di anice,semi di anice,,semi di anice,semi,107
+842,1 bicchiere e 1/2 di vino bianco,1 bicchiere,,,,,
+843,16 costolette di agnello,16 costolette di agnello,costolette di agnello,16,costolette di agnello,carne di agnello,57
+844,carciofi sott'olio,carciofi sott'olio,carciofi sott'olio,,carciofi,carciofi,222
+845,funghi sott'olio,funghi sott'olio,funghi sott'olio,,funghi,funghi,48
+846,800 gr di piselli,800 gr di piselli,piselli,800 gr,piselli,piselli,302
+847,30 gr di pancetta,30 gr di pancetta,pancetta,30 gr,pancetta,pancetta,245
+848,1 spicchio d'aglio affettato,1 spicchio d'aglio affettato,aglio affettato,1 spicchio,aglio,aglio,2572
+849,1/2 bicchiere di aceto bianco,1/2 bicchiere di aceto bianco,aceto bianco,1/2 bicchiere,aceto bianco,aceto,528
+850,olio,olio,olio,,olio,olio,2191
+851,400 gr di alici,400 gr di alici,alici,400 gr,alici,alici,44
+852,4 fette di pane raffermo,4 fette di pane raffermo,pane raffermo,4 fette,pane raffermo,pane raffermo,106
+853,montasio stagionato,montasio stagionato,montasio stagionato,,montasio,montasio,25
+854,2 limoni,2 limoni,limoni,2,limoni,limone,1394
+855,1/2 kg di fagioli borlotti secchi,1/2 kg di fagioli borlotti secchi,fagioli borlotti secchi,1/2 kg,fagioli borlotti secchi,fagioli borlotti,47
+856,1 kg di scarola,1 kg di scarola,scarola,1 kg,scarola,scarola,44
+857,5 pomodori,5 pomodori,pomodori,5,pomodori,pomodori,634
+858,sale ed olio,sale,sale,,sale,sale,9693
+859,250 g di patate,250 g di patate,patate,250 g,patate,patate,1000
+860,50 g di zucchero semolato,50 g di zucchero semolato,zucchero semolato,50 g,zucchero semolato,zucchero,4949
+861,100 ml di panna fresca,100 ml di panna fresca,panna fresca,100 ml,panna fresca,panna fresca,1860
+862,1 cucchiaino di farina 00,1 cucchiaino di farina 00,farina,1 cucchiaino,farina,farina,2121
+863,50 g di uvetta,50 g di uvetta,uvetta,50 g,uvetta,uvetta,220
+864,40 g di pinoli,40 g di pinoli,pinoli,40 g,pinoli,pinoli,392
+865,1/2 cucchiaino di cannella in polvere,1/2 cucchiaino di cannella,cannella,1/2 cucchiaino,cannella,cannella,499
+866,100 gr di manzo,100 gr di manzo,manzo,100 gr,manzo,carne di bovino,492
+867,100 gr di vitello,100 gr di vitello,vitello,100 gr,vitello,carne di bovino,492
+868,100 gr di maiale,100 gr di maiale,maiale,100 gr,maiale,carne di suino,202
+869,100 gr di pancetta,100 gr di pancetta,pancetta,100 gr,pancetta,pancetta,245
+870,1 vino rosso,1 vino rosso,vino rosso,1,vino rosso,vino rosso,219
+871,3 cucchiai salsa di pomodoro,3 cucchiai salsa di pomodoro,salsa di pomodoro,3 cucchiai,salsa di pomodoro,salsa di pomodoro,90
+872,1 tazza di brodo,1 tazza di brodo,brodo,1 tazza,brodo,brodo,215
+873,320 gr di farina 00,320 gr di farina 00,farina,320 gr,farina,farina,2121
+874,170 gr di burro,170 gr di burro,burro,170 gr,burro,burro,4606
+875,200 gr di montasio fresco grattugiato,200 gr di montasio fresco grattugiato,montasio fresco,200 gr,montasio,montasio,25
+876,100 gr di montasio stagionato grattugiato,100 gr di montasio stagionato grattugiato,montasio stagionato,100 gr,montasio,montasio,25
+877,120 gr di ricotta fresca,120 gr di ricotta fresca,ricotta fresca,120 gr,ricotta fresca,ricotta,324
+878,150 gr di prosciutto san daniele,150 gr di prosciutto san daniele,prosciutto san daniele,150 gr,prosciutto,prosciutto crudo,182
+879,1 ciuffetto di menta,1 ciuffetto di menta,menta,1,menta,menta,533
+880,2 pomodori,2 pomodori,pomodori,2,pomodori,pomodori,634
+881,320 gr di farina di mais,320 gr di farina di mais,farina di mais,320 gr,farina di mais,farina di mais,144
+882,110 gr di burro,110 gr di burro,burro,110 gr,burro,burro,4606
+883,180 gr di formaggio montasio o carnico semistagionato,180 gr di formaggio montasio,formaggio montasio,180 gr,formaggio,montasio,25
+884,350 g di farina 00,350 g di farina 00,farina,350 g,farina,farina,2121
+885,"12,5 g di lievito di birra secco","12,5 g di lievito di birra secco",lievito di birra secco,"12,5 g",lievito di birra secco,lievito di birra,364
+886,250 g di burro,250 g di burro,burro,250 g,burro,burro,4606
+887,350 g di zucchero,350 g di zucchero,zucchero,350 g,zucchero,zucchero,4949
+888,20 ml di latte,20 ml di latte,latte,20 ml,latte,latte,2242
+889,20 ml di rum,20 ml di rum,rum,20 ml,rum,rum,218
+890,10 ml di acqua,10 ml di acqua,acqua,10 ml,acqua,acqua,1976
+891,2 dl di crema di latte,2 dl di crema di latte,crema di latte,2 dl,crema,crema,25
+892,cognac,cognac,cognac,,cognac,cognac,64
+893,350 gr di spinaci,350 gr di spinaci,spinaci,350 gr,spinaci,spinaci,245
+894,200 gr di fagioli cannellini,200 gr di fagioli cannellini,fagioli cannellini,200 gr,fagioli cannellini,fagioli cannellini,61
+895,150 gr di polpa di pomodoro,150 gr di polpa di pomodoro,polpa di pomodoro,150 gr,polpa di pomodoro,polpa di pomodoro,49
+896,800 g di calamari,800 g di calamari,calamari,800 g,calamari,calamari,102
+897,2 bicchieri di vino bianco secco,2 bicchieri di vino bianco secco,vino bianco secco,2 bicchieri,vino bianco secco,vino bianco,1177
+898,4 olio di extravergine di oliva,4 olio di extravergine di oliva,extravergine di oliva,4 olio,extravergine di oliva,olio extravergine d'oliva,4337
+899,4 fette di pane,4 fette di pane,pane,4 fette,pane,pane,363
+900,2 kg di coda di bue,2 kg di coda di bue,coda di bue,2 kg,coda di bue,coda di manzo,8
+901,1 foglia di lauro,1 foglia di lauro,lauro,1 foglia,lauro,lauro,1
+902,2 cucchiai di olio,2 cucchiai di olio,olio,2 cucchiai,olio,olio,2191
+903,1 cucchiaio di pinoli,1 cucchiaio di pinoli,pinoli,1 cucchiaio,pinoli,pinoli,392
+904,1 cucchiaio di uva saltanina,1 cucchiaio di uva saltanina,uva saltanina,1 cucchiaio,uva,uva passa,87
+905,1 kg di polpa di pomodoro,1 kg di polpa di pomodoro,polpa di pomodoro,1 kg,polpa di pomodoro,polpa di pomodoro,49
+906,"1,5 kg di cuore di sedano","1,5 kg di cuore di sedano",cuore di sedano,"1,5 kg",cuore di sedano,sedano,796
+907,125 gr di prociutto,125 gr di prociutto,prociutto,125 gr,prociutto,prosciutto,22
+908,1 cipollina,1 cipollina,cipollina,1,cipollina,cipolle borettane,103
+909,100 gr di mozzarella,100 gr di mozzarella,mozzarella,100 gr,mozzarella,mozzarella,264
+910,50 gr di parmigiano,50 gr di parmigiano,parmigiano,50 gr,parmigiano,parmigiano reggiano dop,1291
+911,250 gr di passata di pomodoro,250 gr di passata di pomodoro,passata di pomodoro,250 gr,passata di pomodoro,passata di pomodoro,374
+912,40 gr di farina,40 gr di farina,farina,40 gr,farina,farina,2121
+913,800 gr di patate,800 gr di patate,patate,800 gr,patate,patate,1000
+914,60 gr di lardo,60 gr di lardo,lardo,60 gr,lardo,lardo,114
+915,1 mestolo di brodo,1 mestolo di brodo,di brodo,1 mestolo,dischetti di pasta,di brodo,1
+916,800 gr di spezzatino di manzo,800 gr di spezzatino di manzo,manzo,800 gr,manzo,carne di bovino,492
+917,70 gr di lardo,70 gr di lardo,lardo,70 gr,lardo,lardo,114
+918,1/2 kg di cipolle affettate,1/2 kg di cipolle affettate,cipolle affettate,1/2 kg,cipolle,cipolla,1415
+919,2 cucchiai di concentrato di pomodoro,2 cucchiai di concentrato di pomodoro,concentrato di pomodoro,2 cucchiai,concentrato di pomodoro,concentrato di pomodoro,192
+920,brodo,brodo,brodo,,brodo,brodo,215
+921,paprika in polvere,paprika,paprika,,paprika,paprika,272
+922,1 foglia di alloro,1 foglia di alloro,alloro,1 foglia,alloro,alloro,451
+923,600 gr di farina,600 gr di farina,farina,600 gr,farina,farina,2121
+924,1 bustina di lievito,1 bustina di lievito,lievito,1 bustina,lievito,lievito,994
+925,1 bustina di zucchero vanigliato,1 bustina di zucchero vanigliato,zucchero vanigliato,1 bustina,zucchero vanigliato,zucchero vanigliato,26
+926,100 gr di farina,100 gr di farina,farina,100 gr,farina,farina,2121
+927,200 gr di zucchero,200 gr di zucchero,zucchero,200 gr,zucchero,zucchero,4949
+928,1 cucchiaio di fecola di patate,1 cucchiaio di fecola di patate,fecola di patate,1 cucchiaio,fecola di patate,fecola di patate,233
+929,3 limoni,3 limoni,limoni,3,limoni,limone,1394
+930,vaniglia,vaniglia,vaniglia,,vaniglia,baccello di vaniglia,845
+931,1 kg di seppie,1 kg di seppie,seppie,1 kg,seppie,seppie,40
+932,600 gr di piselli,600 gr di piselli,piselli,600 gr,piselli,piselli,302
+933,400 gr di salsa di pomodoro,400 gr di salsa di pomodoro,salsa di pomodoro,400 gr,salsa di pomodoro,salsa di pomodoro,90
+934,600 g di alici fresche,600 g di alici fresche,alici,600 g,alici,alici,44
+935,250 g di pangrattato,250 g di pangrattato,pangrattato,250 g,pangrattato,pangrattato,834
+936,1 kg di spinaci,1 kg di spinaci,spinaci,1 kg,spinaci,spinaci,245
+937,70 gr di farina 00,70 gr di farina 00,farina,70 gr,farina,farina,2121
+938,70 gr di burro,70 gr di burro,burro,70 gr,burro,burro,4606
+939,"2,5 kg di melanzane","2,5 kg di melanzane",melanzane,"2,5 kg",melanzane,melanzane,295
+940,2 l di aceto di puro vino,2 l di aceto di puro vino,aceto di vino,2 l,aceto di vino,aceto,528
+941,10 foglie d'alloro per la bollitura,10 foglie d'alloro,alloro,10 foglie,alloro,alloro,451
+942,1 manciata di grani di pepe nero,1 manciata di grani di pepe nero,pepe nero,1 manciata,pepe nero,pepe,5844
+943,5 spicchi d’aglio,5 spicchi d’aglio,,5 spicchi,,,
+944,1 l di olio extravergine d’oliva,1 l di olio extravergine d’oliva,olio extravergine d'oliva,1 l,olio extravergine d'oliva,olio extravergine d'oliva,4337
+945,400 gr di ricotta di pecora,400 gr di ricotta di pecora,ricotta di pecora,400 gr,ricotta di pecora,ricotta di pecora,63
+946,200 gr di pangrattato,200 gr di pangrattato,pangrattato,200 gr,pangrattato,pangrattato,834
+947,600 g di totani,600 g di totani,totani,600 g,totani,totani,16
+948,600 kg di patate,600 kg di patate,patate,600 kg,patate,patate,1000
+949,100 gr di pomodorini,100 gr di pomodorini,pomodorini,100 gr,pomodorini,pomodorini,142
+950,"1 branzino da 1,6 kg circa","1 branzino da 1,6 kg circa",branzino,1,branzino,branzino,39
+951,500 g di pomodori maturi,500 g di pomodori maturi,pomodori,500 g,pomodori,pomodori,634
+952,600 g di patate,600 g di patate,patate,600 g,patate,patate,1000
+953,50 g di pinoli,50 g di pinoli,pinoli,50 g,pinoli,pinoli,392
+954,40 g di uvetta,40 g di uvetta,uvetta,40 g,uvetta,uvetta,220
+955,50 g di olive nere al forno,50 g di olive nere al forno,olive nere,50 g,olive nere,olive nere,244
+956,200 g di spinaci,200 g di spinaci,spinaci,200 g,spinaci,spinaci,245
+957,6 fettine di pesce spada,6 fettine di pesce spada,pesce spada,6 fettine,pesce spada,pesce spada,66
+958,60 g di pecorino,60 g di pecorino,pecorino,60 g,pecorino,pecorino,519
+959,10 fette di pancarrè,10 fette di pancarrè,pancarrè,10 fette,pancarrè,pancarrè,96
+960,120 g di olive di gaeta,120 g di olive di gaeta,olive di gaeta,120 g,olive di gaeta,olive di gaeta,13
+961,8 pomodorini,8 pomodorini,pomodorini,8,pomodorini,pomodorini,142
+962,400 g di farina di castagne,400 g di farina di castagne,farina di castagne,400 g,farina di castagne,farina di castagne,38
+963,80 g di uvetta sultanina,80 g di uvetta sultanina,uvetta sultanina,80 g,uvetta sultanina,uva passa,87
+964,50 g di zucchero,50 g di zucchero,zucchero,50 g,zucchero,zucchero,4949
+965,1 cucchiaio di semi di finocchio,1 cucchiaio di semi di finocchio,semi di finocchio,1 cucchiaio,semi di finocchio,semi di finocchio,76
+966,1/2 bicchiere di olio extra vergine d'oliva,1/2 bicchiere di olio extra vergine d'oliva,olio extra vergine d'oliva,1/2 bicchiere,olio,olio extravergine d'oliva,4337
+967,16 gamberoni,16 gamberoni,gamberoni,16,gamberoni,gamberoni,28
+968,16 fette di prosciutto crudo dolce,16 fette di prosciutto crudo dolce,prosciutto crudo dolce,16 fette,prosciutto crudo dolce,prosciutto crudo,182
+969,4 rametti di rosmarino,4 rametti di rosmarino,rosmarino,4 rametti,rosmarino,rosmarino,850
+970,400 gr di vermicelli,400 gr di vermicelli,vermicelli,400 gr,vermicelli,vermicelli,11
+971,6 tuorli,6 tuorli,tuorli,6,tuorli,tuorli,1385
+972,"1,2 kg di pesce misto (scorfano, orata, cernia, triglia, san pietro, branzino…)","1,2 kg di pesce misto",pesce misto,"1,2 kg",pesce misto,pesce,29
+973,300 g di vongole,300 g di vongole,vongole,300 g,vongole,vongole,83
+974,300 g di cozze,300 g di cozze,cozze,300 g,cozze,cozze,115
+975,100 g di gamberetti,100 g di gamberetti,gamberetti,100 g,gamberetti,gamberetti,67
+976,150 g di totani,150 g di totani,totani,150 g,totani,totani,16
+977,6 scampi,6 scampi,scampi,6,scampi,scampi,60
+978,2 spicchi di aglio,2 spicchi di aglio,aglio,2 spicchi,aglio,aglio,2572
+979,300 g di polpa di pomodoro,300 g di polpa di pomodoro,polpa di pomodoro,300 g,polpa di pomodoro,polpa di pomodoro,49
+980,3 cucchiai di olio extravergine di oliva,3 cucchiai di olio extravergine di oliva,olio extravergine di oliva,3 cucchiai,olio extravergine di oliva,olio extravergine d'oliva,4337
+981,6 fette di pane casereccio,6 fette di pane casereccio,pane casereccio,6 fette,pane casereccio,pane casereccio,96
+982,12 scampi grandi sgusciati,12 scampi grandi sgusciati,scampi,12,scampi,scampi,60
+983,2 cucchiai di pangrattato,2 cucchiai di pangrattato,pangrattato,2 cucchiai,pangrattato,pangrattato,834
+984,500 gr di trippa,500 gr di trippa,trippa,500 gr,trippa,trippa,21
+985,500 gr di cipolle,500 gr di cipolle,cipolle,500 gr,cipolle,cipolla,1415
+986,sugna,sugna,sugna,,sugna,sugna,4
+987,2 litri di brodo di carne,2 litri di brodo di carne,brodo di carne,2 litri,brodo di carne,brodo di carne,219
+988,150 gr parmigiano,150 gr parmigiano,parmigiano,150 gr,parmigiano,parmigiano reggiano dop,1291
+989,800 g di farina,800 g di farina,farina,800 g,farina,farina,2121
+990,1 cubetto di lievito di birra,1 cubetto di lievito di birra,lievito di birra,1 cubetto,lievito di birra,lievito di birra,364
+991,150 g olive nere,150 g olive nere,olive nere,150 g,olive nere,olive nere,244
+992,450 g di polpa di pomodoro o passata,450 g di polpa di pomodoro,polpa di pomodoro,450 g,polpa di pomodoro,polpa di pomodoro,49
+993,1 cucchiaio di origano,1 cucchiaio di origano,origano,1 cucchiaio,origano,origano,397
+994,1 cucchiaio di capperi sotto sale,1 cucchiaio di capperi sotto sale,capperi sotto sale,1 cucchiaio,capperi sotto sale,capperi,366
+995,300 gr zucca,300 gr zucca,zucca,300 gr,zucca,zucca,226
+996,1 kg di puntarelle,1 kg di puntarelle,puntarelle,1 kg,puntarelle,puntarelle,7
+997,5 filetti di acciughe salate,5 filetti di acciughe salate,filetti acciughe salate,5,filetti acciughe,acciughe,403
+998,150 g di farina,150 g di farina,farina,150 g,farina,farina,2121
+999,500 g di pesto,500 g di pesto,pesto,500 g,pesto,pesto,24
+1000,"2,5 dl di besciamella","2,5 dl di besciamella",besciamella,"2,5 dl",besciamella,besciamella,110
+1001,1 pizzico di zucchero,1 pizzico di zucchero,zucchero,1 pizzico,zucchero,zucchero,4949
+1002,2 cucchiai d'olio extravergine d'oliva,2 cucchiai d'olio extravergine d'oliva,olio extravergine d'oliva,2 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1003,2 cucchiai di grana grattugiato,2 cucchiai di grana grattugiato,grana,2 cucchiai,grana,grana padano dop,591
+1004,8 patate,8 patate,patate,8,patate,patate,1000
+1005,400 gr di polpa di pomodoro,400 gr di polpa di pomodoro,polpa di pomodoro,400 gr,polpa di pomodoro,polpa di pomodoro,49
+1006,200 gr di olive nere,200 gr di olive nere,olive nere,200 gr,olive nere,olive nere,244
+1007,50 gr di uvetta sultanina,50 gr di uvetta sultanina,uvetta sultanina,50 gr,uvetta sultanina,uva passa,87
+1008,400 gr di zucchine (chicocce),400 gr di zucchine,zucchine,400 gr,zucchine,zucchine,654
+1009,400 gr di patate,400 gr di patate,patate,400 gr,patate,patate,1000
+1010,600 gr di trippa,600 gr di trippa,trippa,600 gr,trippa,trippa,21
+1011,200 gr di fagioli bianchi,200 gr di fagioli bianchi,fagioli bianchi,200 gr,fagioli,fagioli,87
+1012,60 gr di pancetta,60 gr di pancetta,pancetta,60 gr,pancetta,pancetta,245
+1013,salsa di pomodoro,salsa di pomodoro,salsa di pomodoro,,salsa di pomodoro,salsa di pomodoro,90
+1014,350 g di riso,350 g di riso,riso,350 g,riso,riso,289
+1015,100 g di castagne secche,100 g di castagne secche,castagne secche,100 g,castagne secche,castagne secche,6
+1016,2 cucchiai di farina 00,2 cucchiai di farina 00,farina,2 cucchiai,farina,farina,2121
+1017,"1,5 l di latte","1,5 l di latte",latte,"1,5 l",latte,latte,2242
+1018,180 gr di zucchero,180 gr di zucchero,zucchero,180 gr,zucchero,zucchero,4949
+1019,260 gr di latte,260 gr di latte,latte,260 gr,latte,latte,2242
+1020,10 gr di ammoniaca,10 gr di ammoniaca,ammoniaca,10 gr,ammoniaca,ammoniaca,15
+1021,cannella macinata,cannella macinata,cannella,,cannella,cannella,499
+1022,1 cotechino di circa 500 g,1 cotechino,cotechino,1,cotechino,cotechino,29
+1023,1 fetta di punta di vitella larga e sottile del peso di circa 400 g,1 fetta di punta di vitella larga,punta di vitella,1 fetta,puntarelle,carne di bovino,492
+1024,1 larga fetta di prosciutto crudo di 100 g circa,1 larga fetta di prosciutto crudo di 100 g circa,prosciutto crudo,1 fetta di 100,prosciutto crudo,prosciutto crudo,182
+1025,1/2 di brodo di carne,1/2 di brodo di carne,brodo di carne,1/2,brodo di carne,brodo di carne,219
+1026,1/2 di vino lambrusco secco,1/2 di vino lambrusco secco,vino lambrusco secco,1/2,vino,vino,43
+1027,3-4 cucchiai di olio d'oliva,3-4 cucchiai di olio d'oliva,olio d'oliva,3 - 4 cucchiai,olio d'oliva,olio d'oliva,122
+1028,poco sale,poco sale,poco sale,,poco sale,sale,9693
+1029,350 di fagioli cannellini secchi,350 di fagioli cannellini secchi,fagioli cannellini secchi,350,fagioli cannellini secchi,fagioli cannellini,61
+1030,350 gr di polpa di pomodoro,350 gr di polpa di pomodoro,polpa di pomodoro,350 gr,polpa di pomodoro,polpa di pomodoro,49
+1031,150 gr di cotenne di prosciutto,150 gr di cotenne di prosciutto,cotenne di prosciutto,150 gr,cotenne di maiale,cotenna di suino,25
+1032,1 cucchiaio di olio di oliva,1 cucchiaio di olio di oliva,olio di oliva,1 cucchiaio,olio di oliva,olio d'oliva,122
+1033,1 osso di prosciutto,1 osso di prosciutto,osso di prosciutto,1,osso di prosciutto,osso di prosciutto,3
+1034,500 g di funghi,500 g di funghi,funghi,500 g,funghi,funghi,48
+1035,1/2 bicchiere di panna,1/2 bicchiere di panna,panna,1/2 bicchiere,panna,panna fresca,1860
+1036,350 gr di farina di grano,350 gr di farina di grano,farina di grano,350 gr,farina di grano,farina,2121
+1037,150 gr di farina di granturco,150 gr di farina di granturco,farina di granturco,150 gr,farina,farina,2121
+1038,"400 gr di macinato misto di manzo, maiale, agnello","400 gr di macinato misto di manzo, maiale, agnello","macinato misto di manzo , maiale ,",400 gr,macinato di maiale,macinato di suino,21
+1039,100 gr di pecorino macinato,100 gr di pecorino macinato,pecorino macinato,100 gr,pecorino,pecorino,519
+1040,400 gr di maccheroni,400 gr di maccheroni,maccheroni,400 gr,maccheroni,maccheroni,25
+1041,200 gr di ricotta di pecora,200 gr di ricotta di pecora,ricotta di pecora,200 gr,ricotta di pecora,ricotta di pecora,63
+1042,1 zampone,1 zampone,zampone,1,zampone,zampone,2
+1043,500 gr di lenticchie,500 gr di lenticchie,lenticchie,500 gr,lenticchie,lenticchie,49
+1044,150 gr di mascarpone,150 gr di mascarpone,mascarpone,150 gr,mascarpone,mascarpone,213
+1045,erba cipollina,erba cipollina,erba cipollina,,erba cipollina,erba cipollina,367
+1046,200 gr di sale grosso,200 gr di sale grosso,sale,200 gr,sale,sale,9693
+1047,1 cucchiaino di semi di anice,1 cucchiaino di semi di anice,semi di anice,1 cucchiaino,semi di anice,semi,107
+1048,500 gr di farina 00,500 gr di farina 00,farina,500 gr,farina,farina,2121
+1049,125 gr di zucchero,125 gr di zucchero,zucchero,125 gr,zucchero,zucchero,4949
+1050,75 gr di burro,75 gr di burro,burro,75 gr,burro,burro,4606
+1051,3 tuorli,3 tuorli,tuorli,3,tuorli,tuorli,1385
+1052,50 gr di lievito di birra,50 gr di lievito di birra,lievito di birra,50 gr,lievito di birra,lievito di birra,364
+1053,1-2 cucchiai di rum,1-2 cucchiai di rum,rum,1 - 2 cucchiai,rum,rum,218
+1054,1/2 cucchiaino di sale,1/2 cucchiaino di sale,sale,1/2 cucchiaino,sale,sale,9693
+1055,1 albume,1 albume,albume,1,albume,albumi,436
+1056,200 g di farina di mais,200 g di farina di mais,farina di mais,200 g,farina di mais,farina di mais,144
+1057,1.5 l di latte,1.5 l di latte,latte,1.5 l,latte,latte,2242
+1058,220 g di farina di mais fumetto,220 g di farina di mais fumetto,farina di mais,220 g,farina di mais,farina di mais,144
+1059,150 g di farina 00,150 g di farina 00,farina,150 g,farina,farina,2121
+1060,50 g di strutto,50 g di strutto,strutto,50 g,strutto,strutto,134
+1061,110 g di burro,110 g di burro,burro,110 g,burro,burro,4606
+1062,100 g di uvetta,100 g di uvetta,uvetta,100 g,uvetta,uvetta,220
+1063,1/2 bicchiere di grappa,1/2 bicchiere di grappa,grappa,1/2 bicchiere,grappa,grappa,56
+1064,100 gr di farina tipo 00,100 gr di farina tipo 00,farina tipo 00,100 gr,farina,farina 00,1803
+1065,100 gr di burro,100 gr di burro,burro,100 gr,burro,burro,4606
+1066,1 kg di biete,1 kg di biete,biete,1 kg,biete,biete,64
+1067,65 gr di burro,65 gr di burro,burro,65 gr,burro,burro,4606
+1068,margarina,margarina,margarina,,margarina vegetale,margarina vegetale,10
+1069,2 kg di mele,2 kg di mele,mele,2 kg,mele,mele,204
+1070,2 cucchiaini di cannella,2 cucchiaini di cannella,cannella,2 cucchiaini,cannella,cannella,499
+1071,130 gr di uva passa,130 gr di uva passa,uva passa,130 gr,uva passa,uva passa,87
+1072,1 scorza grattugiata di limone,1 scorza grattugiata di limone,limone,1,limone,limone,1394
+1073,500 gr di spinaci,500 gr di spinaci,spinaci,500 gr,spinaci,spinaci,245
+1074,80 gr di burro,80 gr di burro,burro,80 gr,burro,burro,4606
+1075,poco zucchero,poco zucchero,poco zucchero,,poco zucchero,zucchero,4949
+1076,50 gr di uvetta,50 gr di uvetta,uvetta,50 gr,uvetta,uvetta,220
+1077,400 gr di farina bianca,400 gr di farina bianca,farina bianca,400 gr,farina bianca,farina 00,1803
+1078,50 gr di cedro candito,50 gr di cedro candito,cedro candito,50 gr,cedro candito,cedro candito,34
+1079,50 gr di cioccolato fondente,50 gr di cioccolato fondente,cioccolato fondente,50 gr,cioccolato fondente,cioccolato fondente,833
+1080,100 gr di ricotta affumicata grattugiata,100 gr di ricotta affumicata grattugiata,ricotta affumicata,100 gr,ricotta affumicata,ricotta affumicata,11
+1081,50 gr di formaggio carnico stravecchio,50 gr di formaggio carnico stravecchio,formaggio carnico,50 gr,formaggio,formaggio,264
+1082,50 gr di pane di segale grattugiato,50 gr di pane di segale grattugiato,pane di segale,50 gr,pane di segale,pane di segale,20
+1083,360g di farina,360g di farina,farina,360 g,farina,farina,2121
+1084,40 g di semolino,40 g di semolino,semolino,40 g,semolino,semolino,56
+1085,4 cucchiai di zucchero a velo,4 cucchiai di zucchero,zucchero,4 cucchiai,zucchero,zucchero,4949
+1086,1 tacchino da 2/3 kg,1 tacchino da 2/3 kg,tacchino,1,tacchino,carne di tacchino,43
+1087,"1,5 kg di castagne","1,5 kg di castagne",castagne,"1,5 kg",castagne,castagne,56
+1088,4 zucchine,4 zucchine,zucchine,4,zucchine,zucchine,654
+1089,6 cucchiai di miele,6 cucchiai di miele,miele,6 cucchiai,miele,miele,335
+1090,150 g di farina bianca,150 g di farina bianca,farina bianca,150 g,farina bianca,farina 00,1803
+1091,1/2 bustina di lievito per dolci,1/2 bustina di lievito,lievito,1/2 bustina,lievito,lievito,994
+1092,la scorza grattugiata di mezzo limone,la scorza grattugiata di mezzo limone,limone,mezzo,limone,limone,1394
+1093,un bicchierino di buon brandy,un bicchierino di buon brandy,buon brandy,un bicchierino,buon brandy,brandy,122
+1094,50 g di uva sultanina,50 g di uva sultanina,uva sultanina,50 g,uva sultanina,uva passa,87
+1095,50 g di gherigli di noci,50 g di gherigli di noci,noci,50 g,noci,noci,222
+1096,750 gr di baccalà,750 gr di baccalà,baccalà,750 gr,baccalà,baccalà,94
+1097,peperoni secchi,peperoni secchi,peperoni secchi,,peperoni,peperoni,612
+1098,200 gr di farro,200 gr di farro,farro,200 gr,farro,farro,31
+1099,1 litro di brodo,1 litro di brodo,brodo,1 litro,brodo,brodo,215
+1100,60 gr di tartufo nero,60 gr di tartufo nero,tartufo nero,60 gr,tartufo nero,tartufo nero,44
+1101,50 gr di salsiccia,50 gr di salsiccia,salsiccia,50 gr,salsiccia,salsiccia,225
+1102,50 gr di olio extravergine d'oliva,50 gr di olio extravergine d'oliva,olio extravergine d'oliva,50 gr,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1103,600 gr di coda di rospo,600 gr di coda di rospo,coda di rospo,600 gr,coda di rospo,coda di rospo,28
+1104,12 gamberi,12 gamberi,gamberi,12,gamberi,gamberi,194
+1105,1 kg di zucchine con fiori,1 kg di zucchine con fiori,zucchine,1 kg,zucchine,zucchine,654
+1106,30 gr di lardo,30 gr di lardo,lardo,30 gr,lardo,lardo,114
+1107,concentrato di pomodoro,concentrato di pomodoro,concentrato di pomodoro,,concentrato di pomodoro,concentrato di pomodoro,192
+1108,350 gr di riso carnairoli,350 gr di riso carnairoli,riso carnairoli,350 gr,riso,riso carnaroli,233
+1109,700 gr di scampi,700 gr di scampi,scampi,700 gr,scampi,scampi,60
+1110,2 cucchiai di passata di pomodoro,2 cucchiai di passata di pomodoro,passata di pomodoro,2 cucchiai,passata di pomodoro,passata di pomodoro,374
+1111,8 melanzane lunghe,8 melanzane lunghe,melanzane lunghe,8,melanzane lunghe,melanzane lunghe,18
+1112,100 gr di provola,100 gr di provola,provola,100 gr,provola,provola,62
+1113,50 gr di pecorino,50 gr di pecorino,pecorino,50 gr,pecorino,pecorino,519
+1114,1 salsiccia piccante,1 salsiccia piccante,salsiccia piccante,1,salsiccia,salsiccia,225
+1115,passata di pomodoro,passata di pomodoro,passata di pomodoro,,passata di pomodoro,passata di pomodoro,374
+1116,250 gr di prosciutto,250 gr di prosciutto,prosciutto,250 gr,prosciutto,prosciutto,22
+1117,250 gr di fontina,250 gr di fontina,fontina,250 gr,fontina,fontina,155
+1118,"1 coniglio di circa 1,2 kg",1 coniglio,coniglio,1,coniglio,carne di coniglio,65
+1119,30 g di lardo,30 g di lardo,lardo,30 g,lardo,lardo,114
+1120,3 foglie di salvia,3 foglie di salvia,salvia,3 foglie,salvia,salvia,484
+1121,4 spicchio d’aglio,4 spicchio d’aglio,,4 spicchio,,,
+1122,1/2 l aceto di vino rosso,1/2 l aceto di vino rosso,aceto di vino rosso,1/2 l,aceto di vino rosso,aceto,528
+1123,1/2 l d'acqua,1/2 l d'acqua,d'acqua,1/2 l,d'acqua,acqua,1976
+1124,fegato del coniglio,fegato del coniglio,fegato del coniglio,,fegato,fegato,4
+1125,2 fette spesse di salame,2 fette spesse di salame,salame,2 fette,salame,salame,59
+1126,4 cucchiai di olio  extravergine d'oliva,4 cucchiai di olio  extravergine d'oliva,olio extravergine d'oliva,4 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1127,4 nodini di maiale,4 nodini di maiale,nodini di maiale,4,nodini di maiale,carne di suino,202
+1128,400 gr di pane raffermo,400 gr di pane raffermo,pane raffermo,400 gr,pane raffermo,pane raffermo,106
+1129,50 gr di pancetta dolce,50 gr di pancetta dolce,pancetta dolce,50 gr,pancetta dolce,pancetta dolce,22
+1130,50 gr di pancetta affumicata affumicata,50 gr di pancetta affumicata affumicata,pancetta affumicata affumicata,50 gr,pancetta,pancetta affumicata,155
+1131,100 gr di prosciutto cotto,100 gr di prosciutto cotto,prosciutto cotto,100 gr,prosciutto cotto,prosciutto cotto,324
+1132,200 gr di fettuccine,200 gr di fettuccine,fettuccine,200 gr,fettuccine all'uovo,fettuccine all'uovo,23
+1133,200 gr di ceci,200 gr di ceci,ceci,200 gr,ceci,ceci secchi,72
+1134,200 gr di farina 00,200 gr di farina 00,farina,200 gr,farina,farina,2121
+1135,50 gr di zucchero,50 gr di zucchero,zucchero,50 gr,zucchero,zucchero,4949
+1136,1 bustina di zucchero a velo,1 bustina di zucchero,zucchero,1 bustina,zucchero,zucchero,4949
+1137,1/2 bustina di lievito vanigliato,1/2 bustina di lievito vanigliato,lievito vanigliato,1/2 bustina,lievito vanigliato,lievito vanigliato,67
+1138,800 gr di erbette,800 gr di erbette,erbette,800 gr,erbette,erbette,30
+1139,200 gr di ricotta,200 gr di ricotta,ricotta,200 gr,ricotta,ricotta,324
+1140,350 gr di farina di mais,350 gr di farina di mais,farina di mais,350 gr,farina di mais,farina di mais,144
+1141,100 ml di panna da cucina,100 ml di panna da cucina,panna da cucina,100 ml,panna,panna fresca,1860
+1142,280 gr di formaggio fresco di tipo carnia o vivaro,280 gr di formaggio fresco di tipo carnia,formaggio fresco,280 gr,formaggio fresco,formaggio fresco,38
+1143,"1,5 kg di abbacchio fatto a pezzi","1,5 kg di abbacchio fatto",abbacchio fatto,"1,5 kg",abbacchio fatto,abbacchio,4
+1144,1/2 bicchiere di aceto,1/2 bicchiere di aceto,aceto,1/2 bicchiere,aceto,aceto,528
+1145,"1 oca da circa 1,2 kg","1 oca da circa 1,2 kg",oca,1,oca,oca,6
+1146,300 ml di latte,300 ml di latte,latte,300 ml,latte,latte,2242
+1147,1 tazza di pangrattato,1 tazza di pangrattato,pangrattato,1 tazza,pangrattato,pangrattato,834
+1148,6 cucchiai di olio extravergine d'oliva,6 cucchiai di olio extravergine d'oliva,olio extravergine d'oliva,6 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1149,500 gr di pelati,500 gr di pelati,pelati,500 gr,pelati,pomodori pelati,196
+1150,4 fette di petto di tacchino,4 fette di petto di tacchino,petto di tacchino,4 fette,petto di tacchino,carne di tacchino,43
+1151,tartufo bianco,tartufo bianco,tartufo bianco,,tartufo bianco,tartufo bianco,13
+1152,2 cucchiai di marsala,2 cucchiai di marsala,marsala,2 cucchiai,marsala,marsala,121
+1153,"1 faraona da 1,2 kg, già pulita","1 faraona da 1,2 kg,",faraona,1,faraona,faraona,16
+1154,1 bottiglia di birra doppio malto da 33 cl,1 bottiglia di birra doppio malto da 33 cl,birra doppio malto,1 bottiglia,birra,birra,103
+1155,6 foglie di salvia,6 foglie di salvia,salvia,6 foglie,salvia,salvia,484
+1156,1 ciuffetto di timo,1 ciuffetto di timo,timo,1,timo,timo,874
+1157,6 cucchiai di olio extravergine di oliva,6 cucchiai di olio extravergine di oliva,olio extravergine di oliva,6 cucchiai,olio extravergine di oliva,olio extravergine d'oliva,4337
+1158,1 kg di cicoria,1 kg di cicoria,cicoria,1 kg,cicoria,cicoria,37
+1159,1 kg di calamari,1 kg di calamari,calamari,1 kg,calamari,calamari,102
+1160,pepe rosso macinato,pepe rosso macinato,pepe rosso macinato,,pepe,pepe,5844
+1161,6 cucchiai di olio extravergine d’oliva,6 cucchiai di olio extravergine d’oliva,olio extravergine d'oliva,6 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1162,"600 g di prosciutto di praga, in un solo pezzo","600 g di prosciutto di praga,",prosciutto di praga,600 g,prosciutto di praga,prosciutto cotto,324
+1163,700 g di farina,700 g di farina,farina,700 g,farina,farina,2121
+1164,35 g di lievito di birra,35 g di lievito di birra,lievito di birra,35 g,lievito di birra,lievito di birra,364
+1165,3 foglie di alloro,3 foglie di alloro,alloro,3 foglie,alloro,alloro,451
+1166,un cucchiaino di zucchero,un cucchiaino di zucchero,zucchero,un cucchiaino,zucchero,zucchero,4949
+1167,1 cucchiaio di olio extravergine d'oliva,1 cucchiaio di olio extravergine d'oliva,olio extravergine d'oliva,1 cucchiaio,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1168,80 gr di strutto,80 gr di strutto,strutto,80 gr,strutto,strutto,134
+1169,1/2 limone,1/2 limone,limone,1/2,limone,limone,1394
+1170,250 gr di tritato di maiale,250 gr di tritato di maiale,macinato di maiale,250 gr,macinato di vitello,macinato di suino,21
+1171,250 gr di tritato di vitello,250 gr di tritato di vitello,macinato di vitello,250 gr,macinato di vitello,macinato di bovino,51
+1172,100 gr di mandorle,100 gr di mandorle,mandorle,100 gr,mandorle,mandorle,415
+1173,2 cucchiai di vino cotto,2 cucchiai di vino cotto,vino cotto,2 cucchiai,vino,vino cotto,7
+1174,formaggio pecorino grattugiato,formaggio pecorino grattugiato,formaggio pecorino,,pecorino,pecorino,519
+1175,120 gr di zucchero semolato,120 gr di zucchero semolato,zucchero semolato,120 gr,zucchero semolato,zucchero,4949
+1176,cannella in polvere,cannella,cannella,,cannella,cannella,499
+1177,10 carciofi,10 carciofi,carciofi,10,carciofi,carciofi,222
+1178,150 gr di funghi freschi,150 gr di funghi freschi,funghi,150 gr,funghi,funghi,48
+1179,30 gr di pangrattato,30 gr di pangrattato,pangrattato,30 gr,pangrattato,pangrattato,834
+1180,60 gr di pecorino grattugiato,60 gr di pecorino grattugiato,pecorino,60 gr,pecorino,pecorino,519
+1181,4 cucchiai di olio extra vergine d'oliva,4 cucchiai di olio extra vergine d'oliva,olio extra vergine d'oliva,4 cucchiai,olio,olio extravergine d'oliva,4337
+1182,1/2 kg di cipolline,1/2 kg di cipolline,cipolline,1/2 kg,cipolline,cipolle borettane,103
+1183,50 g di grasso di prosciutto,50 g di grasso di prosciutto,grasso di prosciutto,50 g,grasso di prosciutto,grasso di prosciutto,8
+1184,2 salsicce,2 salsicce,salsicce,2,salsicce,salsiccia,225
+1185,150 g di farina manitoba,150 g di farina manitoba,farina manitoba,150 g,farina manitoba,farina manitoba,233
+1186,20 g di lievito di birra,20 g di lievito di birra,lievito di birra,20 g,lievito di birra,lievito di birra,364
+1187,50 g di semi di finocchio,50 g di semi di finocchio,semi di finocchio,50 g,semi di finocchio,semi di finocchio,76
+1188,50 g di fecola di patate,50 g di fecola di patate,fecola di patate,50 g,fecola di patate,fecola di patate,233
+1189,70 g di farina 00,70 g di farina 00,farina,70 g,farina,farina,2121
+1190,200 g di zucchero a velo,200 g di zucchero,zucchero,200 g,zucchero,zucchero,4949
+1191,1 bustina di vannillina,1 bustina di vannillina,vannillina,1 bustina,vannillina,vanillina,53
+1192,1 cucchiaino di miele,1 cucchiaino di miele,miele,1 cucchiaino,miele,miele,335
+1193,125 g di zucchero semolato,125 g di zucchero semolato,zucchero semolato,125 g,zucchero semolato,zucchero,4949
+1194,250 g di ricotta,250 g di ricotta,ricotta,250 g,ricotta,ricotta,324
+1195,50 g di cioccolato fondente,50 g di cioccolato fondente,cioccolato fondente,50 g,cioccolato fondente,cioccolato fondente,833
+1196,50 g di cedro candito,50 g di cedro candito,cedro candito,50 g,cedro candito,cedro candito,34
+1197,800 gr di tonno a fette,800 gr di tonno,tonno,800 gr,tonno,tonno,101
+1198,pomodori,pomodori,pomodori,,pomodori,pomodori,634
+1199,250 gr di fagioli,250 gr di fagioli,fagioli,250 gr,fagioli,fagioli,87
+1200,150 gr di orzo perlato,150 gr di orzo perlato,orzo perlato,150 gr,orzo perlato,orzo perlato,37
+1201,150 gr di cotica di maiale,150 gr di cotica di maiale,cotica di maiale,150 gr,cotica di maiale,cotenna di suino,25
+1202,400 gr di farina,400 gr di farina,farina,400 gr,farina,farina,2121
+1203,400 gr di funghi porcini,400 gr di funghi porcini,funghi porcini,400 gr,funghi porcini,funghi porcini,107
+1204,olioextravergine d'oliva,olioextravergine d'oliva,olioextravergine d'oliva,,olioextravergine d'oliva,olio extravergine d'oliva,4337
+1205,180 gr di farina,180 gr di farina,farina,180 gr,farina,farina,2121
+1206,300 gr di noci sgusciate,300 gr di noci sgusciate,noci,300 gr,noci,noci,222
+1207,400 gr di miele,400 gr di miele,miele,400 gr,miele,miele,335
+1208,400 gr di rigatoni,400 gr di rigatoni,rigatoni,400 gr,rigatoni,rigatoni,59
+1209,600 gr di pagliata di vitello,600 gr di pagliata di vitello,vitello,600 gr,vitello,carne di bovino,492
+1210,50 gr di strutto,50 gr di strutto,strutto,50 gr,strutto,strutto,134
+1211,500 gr di pomodori pelati,500 gr di pomodori pelati,pomodori pelati,500 gr,pomodori pelati,pomodori pelati,196
+1212,parmiggiano grattugiato,parmiggiano grattugiato,parmiggiano,,parmiggiano,parmigiano reggiano dop,1291
+1213,300 g di pane raffermo,300 g di pane raffermo,pane raffermo,300 g,pane raffermo,pane raffermo,106
+1214,60 g di parmigiano grattugiato,60 g di parmigiano grattugiato,parmigiano,60 g,parmigiano,parmigiano reggiano dop,1291
+1215,1 kg di porri,1 kg di porri,porri,1 kg,porri,porri,299
+1216,250 gr di panna,250 gr di panna,panna,250 gr,panna,panna fresca,1860
+1217,formaggio montasio stagionato,formaggio montasio stagionato,formaggio montasio stagionato,,formaggio,montasio,25
+1218,1 kg di castrato,1 kg di castrato,castrato,1 kg,castrato,castrato,4
+1219,3 pomodori,3 pomodori,pomodori,3,pomodori,pomodori,634
+1220,1 bicchere di vino rosso,1 bicchere di vino rosso,vino rosso,1 bicchere,vino rosso,vino rosso,219
+1221,500 g di farina 00,500 g di farina 00,farina,500 g,farina,farina,2121
+1222,180 g di burro,180 g di burro,burro,180 g,burro,burro,4606
+1223,500 gr di gnocchi,500 gr di gnocchi,gnocchi,500 gr,gnocchi di patate,gnocchi di patate,22
+1224,200 gr di pomodori pelati,200 gr di pomodori pelati,pomodori pelati,200 gr,pomodori pelati,pomodori pelati,196
+1225,100 g di carne macinata,100 g di carne macinata,carne macinata,100 g,carne macinata,macinato,13
+1226,200 g di mozzarella,200 g di mozzarella,mozzarella,200 g,mozzarella,mozzarella,264
+1227,4 cucchiai di parmigiano grattugiato,4 cucchiai di parmigiano grattugiato,parmigiano,4 cucchiai,parmigiano,parmigiano reggiano dop,1291
+1228,2 dadi per brodo,2 dadi,dadi,2,dadi,dado,18
+1229,1 litro d'acqua,1 litro d'acqua,d'acqua,1 litro,d'acqua,acqua,1976
+1230,10 foglie di cavolo cappuccio o verza,10 foglie di cavolo cappuccio,cavolo cappuccio,10 foglie,cavolo cappuccio,cavolo cappuccio,44
+1231,120 g di ciccioli,120 g di ciccioli,ciccioli,120 g,ciccioli,ciccioli,4
+1232,60 g di lardo,60 g di lardo,lardo,60 g,lardo,lardo,114
+1233,1 kg di fagiolini,1 kg di fagiolini,fagiolini,1 kg,fagiolini,fagiolini,153
+1234,4 acciughe salate,4 acciughe salate,acciughe salate,4,acciughe salate,acciughe,403
+1235,5 cucchiai di olio extra vergine di oliva,5 cucchiai di olio extra vergine di oliva,olio extra vergine di oliva,5 cucchiai,olio,olio extravergine d'oliva,4337
+1236,1kg di farina,1kg di farina,farina,1 kg,farina,farina,2121
+1237,1 bicchiere di acqua,1 bicchiere di acqua,acqua,1 bicchiere,acqua,acqua,1976
+1238,500 g di alici,500 g di alici,alici,500 g,alici,alici,44
+1239,250 gr di pasta mista,250 gr di pasta mista,pasta mista,250 gr,pasta,pasta,78
+1240,1/2 kg di fave fresche,1/2 kg di fave fresche,fave,1/2 kg,fave,fave,103
+1241,250 gr pancetta affumicata,250 gr pancetta affumicata,pancetta affumicata,250 gr,pancetta affumicata,pancetta affumicata,155
+1242,3 cipolline novelle,3 cipolline novelle,cipolline,3,cipolline,cipolle borettane,103
+1243,4 spicchi d’aglio,4 spicchi d’aglio,,4 spicchi,,,
+1244,1 kg di trippa,1 kg di trippa,trippa,1 kg,trippa,trippa,21
+1245,400 gr di pomodori pelati,400 gr di pomodori pelati,pomodori pelati,400 gr,pomodori pelati,pomodori pelati,196
+1246,"1 orata o branzino da 1,6 kg circa",1 orata,orata,1,orata,orata,23
+1247,4 pomodori maturi,4 pomodori maturi,pomodori,4,pomodori,pomodori,634
+1248,4 spicchi di aglio,4 spicchi di aglio,aglio,4 spicchi,aglio,aglio,2572
+1249,800 gr di cardi,800 gr di cardi,cardi,800 gr,cardi,cardi,19
+1250,1/2 kg. di farina di grano duro,1/2 kg. di farina di grano duro,farina di grano duro,1/2 kg .,farina di grano duro,farina,2121
+1251,3 rossi d'uovo,3 rossi d'uovo,tuorli d'uova,3,tuorli,tuorli,1385
+1252,sugo di carne (tocco alla genovese),sugo di carne,sugo di carne,,sugo di pomodoro,sugo di carne,5
+1253,2 zucchine,2 zucchine,zucchine,2,zucchine,zucchine,654
+1254,4 pomodori,4 pomodori,pomodori,4,pomodori,pomodori,634
+1255,150 g di parmigiano reggiano grattugiato,150 g di parmigiano reggiano grattugiato,parmigiano reggiano,150 g,parmigiano reggiano,parmigiano reggiano dop,1291
+1256,1/2 cucchiaino di noce moscata grattugiata,1/2 cucchiaino di noce moscata grattugiata,noce moscata,1/2 cucchiaino,noce moscata,noce moscata,356
+1257,500 g di punta di petto di bufalo,500 g di punta di petto di bufalo,petto di bufalo,500 g,petto d'anatra,carne,44
+1258,1 l di brodo di carne,1 l di brodo di carne,brodo di carne,1 l,brodo di carne,brodo di carne,219
+1259,100 g di piselli,100 g di piselli,piselli,100 g,piselli,piselli,302
+1260,3 zucchine,3 zucchine,zucchine,3,zucchine,zucchine,654
+1261,2 tuorli d’uovo,2 tuorli d’uovo,tuorli,2,tuorli,tuorli,1385
+1262,800 gr di gamberi d'acqua dolce,800 gr di gamberi d'acqua dolce,gamberi d'acqua dolce,800 gr,gamberi,gamberi,194
+1263,1 rametto di maggiorana,1 rametto di maggiorana,maggiorana,1 rametto,maggiorana,maggiorana,288
+1264,1 pizzico di paprica,1 pizzico di paprica,paprica,1 pizzico,paprica,paprika,272
+1265,400 g di cipolline bianche,400 g di cipolline bianche,cipolline bianche,400 g,cipolline,cipolle borettane,103
+1266,4 cucciai di aceto di vino bianco,4 cucciai di aceto di vino bianco,aceto di vino bianco,4 cucciai,aceto di vino bianco,aceto,528
+1267,1 cucchiaio di zenzero,1 cucchiaio di zenzero,zenzero,1 cucchiaio,zenzero,zenzero,285
+1268,60 g di cioccolato fondente,60 g di cioccolato fondente,cioccolato fondente,60 g,cioccolato fondente,cioccolato fondente,833
+1269,100 g di biscotti,100 g di biscotti,biscotti,100 g,biscotti,biscotti,84
+1270,30 g di mandorle pelate,30 g di mandorle pelate,mandorle pelate,30 g,mandorle pelate,mandorle pelate,146
+1271,40 g di cacao amaro,40 g di cacao amaro,cacao amaro,40 g,cacao amaro,cacao amaro,524
+1272,1 cucchiaio di rum,1 cucchiaio di rum,rum,1 cucchiaio,rum,rum,218
+1273,1 litro di latte,1 litro di latte,latte,1 litro,latte,latte,2242
+1274,70 g di zucchero,70 g di zucchero,zucchero,70 g,zucchero,zucchero,4949
+1275,70 g di pistacchi al naturale,70 g di pistacchi al naturale,pistacchi al naturale,70 g,pistacchi al naturale,pistacchi,193
+1276,700 g di castagne gabbiana,700 g di castagne gabbiana,castagne gabbiana,700 g,castagne,castagne,56
+1277,zucchero semolato quanto basta,zucchero semolato quanto basta,zucchero semolato,,zucchero semolato,zucchero,4949
+1278,50 g di uvetta sultanina,50 g di uvetta sultanina,uvetta sultanina,50 g,uvetta sultanina,uva passa,87
+1279,1 bustina di vanillina,1 bustina di vanillina,vanillina,1 bustina,vanillina,vanillina,53
+1280,1 bicchierino di rum,1 bicchierino di rum,rum,1 bicchierino,rum,rum,218
+1281,350 gr di farina,350 gr di farina,farina,350 gr,farina,farina,2121
+1282,600 gr di borragine,600 gr di borragine,borragine,600 gr,borragine,borragine,9
+1283,150 gr di ricotta,150 gr di ricotta,ricotta,150 gr,ricotta,ricotta,324
+1284,salsa di noci,salsa di noci,salsa di noci,,salsa,noci,222
+1285,4 stinchi di maiale,4 stinchi di maiale,stinchi di maiale,4,stinchi di maiale,stinco di maiale,6
+1286,2 stecche di cannella,2 stecche di cannella,cannella,2 stecche,cannella,cannella,499
+1287,2 spicchio d'aglio,2 spicchio d'aglio,aglio,2 spicchio,aglio,aglio,2572
+1288,"1,2 kg di zucca gialla","1,2 kg di zucca gialla",zucca gialla,"1,2 kg",zucca gialla,zucca gialla,20
+1289,200 g di parmigiano reggiano grattugiato,200 g di parmigiano reggiano grattugiato,parmigiano reggiano,200 g,parmigiano reggiano,parmigiano reggiano dop,1291
+1290,uva passa,uva passa,uva passa,,uva passa,uva passa,87
+1291,pinoli,pinoli,pinoli,,pinoli,pinoli,392
+1292,1 kg di bietole,1 kg di bietole,bietole,1 kg,bietole,biete,64
+1293,1 kg di farina 00,1 kg di farina 00,farina,1 kg,farina,farina,2121
+1294,50 g di riso,50 g di riso,riso,50 g,riso,riso,289
+1295,50 g di pecorino grattugiato,50 g di pecorino grattugiato,pecorino,50 g,pecorino,pecorino,519
+1296,4 foglie di maggiorana (o ½ cucchiaino di maggiorana liofilizzata),4 foglie di maggiorana,maggiorana,4 foglie,maggiorana,maggiorana,288
+1297,2 bicchieri di olio extravergine d'oliva,2 bicchieri di olio extravergine d'oliva,olio extravergine d'oliva,2 bicchieri,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1298,500g di farina di grano duro,500g di farina di grano duro,farina di grano duro,500 g,farina di grano duro,farina,2121
+1299,500g di crescenza o stracchino,500g di crescenza,crescenza,500 g,crescenza,crescenza,19
+1300,40 gr di pangrattato,40 gr di pangrattato,pangrattato,40 gr,pangrattato,pangrattato,834
+1301,4 arance,4 arance,arance,4,arance,arance,358
+1302,1 kg di anguille,1 kg di anguille,anguille,1 kg,anguille,anguille,9
+1303,300 gr di cipolle,300 gr di cipolle,cipolle,300 gr,cipolle,cipolla,1415
+1304,2 kg di asparagi,2 kg di asparagi,asparagi,2 kg,asparagi,asparagi,192
+1305,40 gr di parmigiano,40 gr di parmigiano,parmigiano,40 gr,parmigiano,parmigiano reggiano dop,1291
+1306,100 gr di guanciale,100 gr di guanciale,guanciale,100 gr,guanciale,guanciale,54
+1307,pastina all'uovo,pastina all'uovo,pastina all'uovo,,pastina,pastina,3
+1308,"1,5 l di brodo di carne","1,5 l di brodo di carne",brodo di carne,"1,5 l",brodo di carne,brodo di carne,219
+1309,olio extra vergine di oliva,olio extra vergine di oliva,olio extra vergine di oliva,,olio,olio extravergine d'oliva,4337
+1310,600 g di patate farinose,600 g di patate farinose,patate,600 g,patate,patate,1000
+1311,1 piccola cipolla,1 piccola cipolla,cipolla,1,cipolla,cipolla,1415
+1312,1 dl di vino bianco sevcco,1 dl di vino bianco sevcco,vino bianco sevcco,1 dl,vino,vino bianco,1177
+1313,2 porcini piccoli (o 30 g di funghi secchi),2 porcini piccoli,porcini,2,porcini,funghi porcini,107
+1314,40 g di parmigiano grattugiato,40 g di parmigiano grattugiato,parmigiano,40 g,parmigiano,parmigiano reggiano dop,1291
+1315,1 kg di melanzane,1 kg di melanzane,melanzane,1 kg,melanzane,melanzane,295
+1316,2 uova sode,2 uova sode,uova,2,uova,uova,3872
+1317,50 gr di mozzarella,50 gr di mozzarella,mozzarella,50 gr,mozzarella,mozzarella,264
+1318,150 gr di salsa di pomodoro,150 gr di salsa di pomodoro,salsa di pomodoro,150 gr,salsa di pomodoro,salsa di pomodoro,90
+1319,200 gr di cipolla,200 gr di cipolla,cipolla,200 gr,cipolla,cipolla,1415
+1320,200 gr di parmigiano grattugiato,200 gr di parmigiano grattugiato,parmigiano,200 gr,parmigiano,parmigiano reggiano dop,1291
+1321,basilico fresco,basilico fresco,basilico,,basilico,basilico,944
+1322,plio extravergine d'oliva,plio extravergine d'oliva,plio extravergine d'oliva,,plio extravergine d'oliva,olio extravergine d'oliva,4337
+1323,2 bicchieri di vino,2 bicchieri di vino,vino,2 bicchieri,vino,vino,43
+1324,500g di pomodori maturi,500g di pomodori maturi,pomodori,500 g,pomodori,pomodori,634
+1325,6 cipolle,6 cipolle,cipolle,6,cipolle,cipolla,1415
+1326,30g di pecorino grattugiato,30g di pecorino grattugiato,pecorino,30 g,pecorino,pecorino,519
+1327,60g di mollica di pane,60g di mollica di pane,mollica di pane,60 g,mollica di pane,mollica di pane,98
+1328,200 gr di guanciale,200 gr di guanciale,guanciale,200 gr,guanciale,guanciale,54
+1329,400 gr di farina 00,400 gr di farina 00,farina,400 gr,farina,farina,2121
+1330,50 gr di borragine,50 gr di borragine,borragine,50 gr,borragine,borragine,9
+1331,150 gr di salsa di noci,150 gr di salsa di noci,salsa di noci,150 gr,salsa,noci,222
+1332,50 gr di gherigli di noci,50 gr di gherigli di noci,noci,50 gr,noci,noci,222
+1333,pecorino,pecorino,pecorino,,pecorino,pecorino,519
+1334,500 g di farina 0,500 g di farina 0,farina 0,500 g,farina 0,farina 0,181
+1335,un panetto di lievito di birra,un panetto di lievito di birra,lievito di birra,un panetto,lievito di birra,lievito di birra,364
+1336,300 g di ricotta,300 g di ricotta,ricotta,300 g,ricotta,ricotta,324
+1337,1/2 kg di patate,1/2 kg di patate,patate,1/2 kg,patate,patate,1000
+1338,150 gr di formaggio fresco,150 gr di formaggio fresco,formaggio fresco,150 gr,formaggio fresco,formaggio fresco,38
+1339,peperoni sotto aceto,peperoni sotto aceto,peperoni sotto aceto,,peperoni,peperoni,612
+1340,400 gr di carne tritata di maiale e vitello mista,400 gr di carne tritata di maiale,carne di maiale,400 gr,carne di maiale,carne di suino,202
+1341,4 pomodori pelati,4 pomodori pelati,pomodori pelati,4,pomodori pelati,pomodori pelati,196
+1342,250 gr di mozzarella,250 gr di mozzarella,mozzarella,250 gr,mozzarella,mozzarella,264
+1343,100 gr di parmigiano,100 gr di parmigiano,parmigiano,100 gr,parmigiano,parmigiano reggiano dop,1291
+1344,300 g di tagliatelle,300 g di tagliatelle,tagliatelle,300 g,tagliatelle,tagliatelle,37
+1345,400 g di fave secche,400 g di fave secche,fave secche,400 g,fave secche,fave secche,9
+1346,1  bicchiere di olio extravergine d’oliva,1  bicchiere di olio extravergine d’oliva,,1 bicchiere,,,
+1347,1 l d’acqua,1 l d’acqua,acqua,1 l,acqua,acqua,1976
+1348,180 g di farina 00,180 g di farina 00,farina,180 g,farina,farina,2121
+1349,1/2 bicchierino di rum,1/2 bicchierino di rum,rum,1/2 bicchierino,rum,rum,218
+1350,100 ml di latte,100 ml di latte,latte,100 ml,latte,latte,2242
+1351,8 foglie di menta,8 foglie di menta,menta,8 foglie,menta,menta,533
+1352,8 foglie di melissa,8 foglie di melissa,melissa,8 foglie,melissa,melissa,10
+1353,4 foglie di assenzio,4 foglie di assenzio,assenzio,4 foglie,assenzio,assenzio,2
+1354,4 foglie di ruta,4 foglie di ruta,ruta,4 foglie,ruta,ruta,2
+1355,2 cucchiaini di fiori di camomilla,2 cucchiaini di fiori di camomilla,camomilla,2 cucchiaini,camomilla,camomilla,1
+1356,2 cucchiaini di semi di finocchio,2 cucchiaini di semi di finocchio,semi di finocchio,2 cucchiaini,semi di finocchio,semi di finocchio,76
+1357,2 cucchiaini di semi di cumino,2 cucchiaini di semi di cumino,cumino,2 cucchiaini,cumino,cumino,79
+1358,zucchero semolato,zucchero semolato,zucchero semolato,,zucchero semolato,zucchero,4949
+1359,400 gr di pesce spada tagliato in fette sottili,400 gr di pesce spada tagliato,pesce spada,400 gr,pesce spada,pesce spada,66
+1360,olio vergine d'oliva,olio vergine d'oliva,olio vergine d'oliva,,olio,olio,2191
+1361,"1,5 kg di pesce","1,5 kg di pesce",pesce,"1,5 kg",pesce,pesce,29
+1362,anguille,anguille,anguille,,anguille,anguille,9
+1363,gronghi,gronghi,gronghi,,gronghi,gronghi,1
+1364,boldrò,boldrò,boldrò,,boldrò,boldrò,1
+1365,seppie,seppie,seppie,,seppie,seppie,40
+1366,pesce prete,pesce prete,pesce prete,,pesce,pesce,29
+1367,polpi,polpi,polpi,,polpa di pomodoro,polpo,47
+1368,tremole,tremole,tremole,,tremole,tremole,1
+1369,1/2 mezza costa di sedano,1/2 mezza costa di sedano,sedano,1/2 mezza costa,sedano,sedano,796
+1370,1 pizzico di origano,1 pizzico di origano,origano,1 pizzico,origano,origano,397
+1371,pane,pane,pane,,pane,pane,363
+1372,8 costolette d’abbacchio,8 costolette d’abbacchio,abbacchio,8,abbacchio,abbacchio,4
+1373,500 gr di carne di manzo in fette,500 gr di carne di manzo,carne di manzo,500 gr,carne di manzo,carne di bovino,492
+1374,1 kg di salsiccia spessa e non troppo magra,1 kg di salsiccia spessa e,salsiccia spessa,1 kg,salsiccia,salsiccia,225
+1375,200 g di estratto di pomodoro,200 g di estratto di pomodoro,pomodoro,200 g,pomodoro,pomodori,634
+1376,1 l d'acqua,1 l d'acqua,acqua,1 l,acqua,acqua,1976
+1377,800 gr di spinaci,800 gr di spinaci,spinaci,800 gr,spinaci,spinaci,245
+1378,120 gr di farina gialla,120 gr di farina gialla,farina gialla,120 gr,farina gialla,farina gialla,68
+1379,60 gr di farina bianca,60 gr di farina bianca,farina bianca,60 gr,farina bianca,farina 00,1803
+1380,2 lt di brodo,2 lt di brodo,brodo,2 lt,brodo,brodo,215
+1381,100 gr di lardo,100 gr di lardo,lardo,100 gr,lardo,lardo,114
+1382,200 gr di fagioli borlotti,200 gr di fagioli borlotti,fagioli borlotti,200 gr,fagioli borlotti,fagioli borlotti,47
+1383,3 carote,3 carote,carote,3,carote,carote,1077
+1384,2 coste sedano,2 coste sedano,sedano,2,sedano,sedano,796
+1385,1/2 verza,1/2 verza,verza,1/2,verza,verza,78
+1386,2 cotiche di maiale,2 cotiche di maiale,cotiche di maiale,2,cotiche di maiale,cotenna di suino,25
+1387,2 croste di grana padano,2 croste di grana padano,grana padano,2,grana padano,grana padano dop,591
+1388,20 funghi ovoli grossi,20 funghi ovoli grossi,funghi ovoli,20,funghi,funghi,48
+1389,"1/2 bicchiere di olio extra vergine di oliva,","1/2 bicchiere di olio extra vergine di oliva,",olio extra di oliva,1/2 bicchiere vergine,olio,olio extravergine d'oliva,4337
+1390,"3 spicchi di aglio,","3 spicchi di aglio,",aglio,3 spicchi,aglio,aglio,2572
+1391,1 manciata di origano,1 manciata di origano,origano,1 manciata,origano,origano,397
+1392,1 kg di verza,1 kg di verza,verza,1 kg,verza,verza,78
+1393,50 gr di pancetta affumicata,50 gr di pancetta affumicata,pancetta affumicata,50 gr,pancetta affumicata,pancetta affumicata,155
+1394,4 mele del trentino,4 mele del trentino,mele del trentino,4,mele,mele,204
+1395,4 cucchiai di farina,4 cucchiai di farina,farina,4 cucchiai,farina,farina,2121
+1396,1/2 bustina di lievito i polvere,1/2 bustina di lievito i polvere,lievito,1/2 bustina,lievito,lievito,994
+1397,50 gr. diburro,50 gr. diburro,burro,50 gr,burro,burro,4606
+1398,50 gr. di zucchero,50 gr. di zucchero,zucchero,50 gr .,zucchero,zucchero,4949
+1399,"1,5 dl di latte","1,5 dl di latte",latte,"1,5 dl",latte,latte,2242
+1400,abbondante olio per friggere,abbondante olio,olio,,olio,olio,2191
+1401,"1,5 kg di scorzonera","1,5 kg di scorzonera",scorzonera,"1,5 kg",scorzonera,scorzonera,5
+1402,salsa piccante a piacere,salsa piccante,salsa piccante,,salsa piccante,salsa piccante,4
+1403,1 kg di fave fresche,1 kg di fave fresche,fave,1 kg,fave,fave,103
+1404,per la pasta frolla,per la pasta frolla,,,,,
+1405,240 gr di farina,240 gr di farina,farina,240 gr,farina,farina,2121
+1406,un tuorlo d'uovo,un tuorlo d'uovo,tuorlo d'uovo,un,tuorlo d'uovo,tuorli,1385
+1407,per il ripieno,per il ripieno,,,,,
+1408,castagne secche,castagne secche,castagne secche,,castagne secche,castagne secche,6
+1409,noci,noci,noci,,noci,noci,222
+1410,cacao dolce,cacao dolce,cacao dolce,,cacao dolce,cacao dolce,14
+1411,caffè in polvere,caffè,caffè,,caffè,caffè,190
+1412,marmellata di prugne,marmellata di prugne,marmellata di prugne,,marmellata,marmellata,46
+1413,liquore sassolino,liquore sassolino,liquore sassolino,,liquore sassolino,liquore sassolino,6
+1414,250 gr di farina di grano saraceno,250 gr di farina di grano saraceno,farina di grano saraceno,250 gr,farina di grano saraceno,farina di grano saraceno,59
+1415,200 gr di ricotta di malga salata stagionata,200 gr di ricotta di malga salata stagionata,ricotta di malga,200 gr,ricotta,ricotta,324
+1416,2 mele renette,2 mele renette,mele renette,2,mele renette,mele renette,32
+1417,100 gr di cren,100 gr di cren,cren,100 gr,cren,cren,5
+1418,1 kg di polpetti (o moscardini),1 kg di polpetti,polpetti,1 kg,polpetti,polipetti,6
+1419,1-2 limoni,1-2 limoni,limoni,1 - 2,limoni,limone,1394
+1420,800 gr di agnello,800 gr di agnello,di agnello,800 gr,dischetti di pasta,di agnello,7
+1421,500 gr di cipoliine,500 gr di cipoliine,cipolline,,cipolline,cipolle borettane,103
+1422,150 g di fecola di patate,150 g di fecola di patate,fecola di patate,150 g,fecola di patate,fecola di patate,233
+1423,450 g di mascarpone,450 g di mascarpone,mascarpone,450 g,mascarpone,mascarpone,213
+1424,200 g di uvetta,200 g di uvetta,uvetta,200 g,uvetta,uvetta,220
+1425,"1,5 bicchieri di latte","1,5 bicchieri di latte",latte,"1,5 bicchieri",latte,latte,2242
+1426,250 g di zucchero a velo,250 g di zucchero,zucchero,250 g,zucchero,zucchero,4949
+1427,1 kg di farina bianca,1 kg di farina bianca,farina bianca,1 kg,farina bianca,farina 00,1803
+1428,4 cucchiai d'olio extravergine d’oliva,4 cucchiai d'olio extravergine d’oliva,olio extravergine d'oliva,4 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1429,12 carciofi,12 carciofi,carciofi,12,carciofi,carciofi,222
+1430,12 uova,12 uova,uova,12,uova,uova,3872
+1431,300 gr ricotta o quagliata,300 gr ricotta,ricotta,300 gr,ricotta,ricotta,324
+1432,450 di piselli,450 di piselli,piselli,450,piselli,piselli,302
+1433,1 kg di costolette di agnello,1 kg di costolette di agnello,costolette di agnello,1 kg,costolette di agnello,carne di agnello,57
+1434,1/2 kg di di farina di ceci,1/2 kg di di farina di ceci,farina di ceci,1/2 kg,farina di ceci,farina di ceci,26
+1435,4 costolette di maiale,4 costolette di maiale,costolette di maiale,4,costolette d'agnello,carne di suino,202
+1436,400 gr di farfalle,400 gr di farfalle,farfalle,400 gr,farfalle,farfalle,35
+1437,150 gr di gherigli di noce,150 gr di gherigli di noce,noce,150 gr,noce,noci,222
+1438,50 gr di pinoli,50 gr di pinoli,pinoli,50 gr,pinoli,pinoli,392
+1439,150 gr di pomodori,150 gr di pomodori,pomodori,150 gr,pomodori,pomodori,634
+1440,50 gr di prescinseua,50 gr di prescinseua,prescinseua,50 gr,prescinseua,prescinseua,2
+1441,50 gr di rucola,50 gr di rucola,rucola,50 gr,rucola,rucola,133
+1442,50 gr di parmigiano reggiano,50 gr di parmigiano reggiano,parmigiano reggiano,50 gr,parmigiano reggiano,parmigiano reggiano dop,1291
+1443,2 fette di pancarrè,2 fette di pancarrè,pancarrè,2 fette,pancarrè,pancarrè,96
+1444,400 gr di farina di grano,400 gr di farina di grano,farina di grano,400 gr,farina di grano,farina,2121
+1445,200 gr di farina di granoturco,200 gr di farina di granoturco,farina di granoturco,200 gr,farina,farina,2121
+1446,1 bicchiere di latte,1 bicchiere di latte,latte,1 bicchiere,latte,latte,2242
+1447,pane raffermo bollito,pane raffermo bollito,pane raffermo bollito,,pane,pane raffermo,106
+1448,100 gr di riso,100 gr di riso,riso,100 gr,riso,riso,289
+1449,200 gr di fichi secchi,200 gr di fichi secchi,fichi secchi,200 gr,fichi secchi,fichi secchi,41
+1450,100 gr di uva passa,100 gr di uva passa,uva passa,100 gr,uva passa,uva passa,87
+1451,100 gr noci,100 gr noci,noci,100 gr,noci,noci,222
+1452,1 mela,1 mela,mela,1,mela,mele,204
+1453,buccia di arancio,buccia di arancio,arancio,,arancia,arance,358
+1454,"1 lepre da circa 1,2 kg","1 lepre da circa 1,2 kg",lepre,1,lepre,carne di lepre,9
+1455,1/2 l di vino rosso,1/2 l di vino rosso,vino rosso,1/2 l,vino rosso,vino rosso,219
+1456,1 bicchiere di aceto,1 bicchiere di aceto,aceto,1 bicchiere,aceto,aceto,528
+1457,4 foglie di salvia,4 foglie di salvia,salvia,4 foglie,salvia,salvia,484
+1458,1 cucchiaino di origano,1 cucchiaino di origano,origano,1 cucchiaino,origano,origano,397
+1459,2 kg di zucca,2 kg di zucca,zucca,2 kg,zucca,zucca,226
+1460,20 gr di funghi secchi,20 gr di funghi secchi,funghi secchi,20 gr,funghi secchi,funghi secchi,48
+1461,600 gr di fesa di vitello,600 gr di fesa di vitello,fesa di vitello,600 gr,fesa di vitello,carne di bovino,492
+1462,1 kg di broccoli,1 kg di broccoli,broccoli,1 kg,broccoli,broccoli,95
+1463,250 gr di piselli,250 gr di piselli,piselli,250 gr,piselli,piselli,302
+1464,100 gr di prosciutto,100 gr di prosciutto,prosciutto,100 gr,prosciutto,prosciutto,22
+1465,2 mestoli di brodo,2 mestoli di brodo,brodo,2 mestoli,brodo,brodo,215
+1466,2 cucchiai d’olio extravergine di oliva,2 cucchiai d’olio extravergine di oliva,,2 cucchiai,,,
+1467,500 gr di funghi misti,500 gr di funghi misti,funghi misti,500 gr,funghi misti,funghi misti,13
+1468,300 gr di patate,300 gr di patate,patate,300 gr,patate,patate,1000
+1469,80 gr di parmigiano grattugiato,80 gr di parmigiano grattugiato,parmigiano,80 gr,parmigiano,parmigiano reggiano dop,1291
+1470,500 ml di latte,500 ml di latte,latte,500 ml,latte,latte,2242
+1471,1 cucchiaio di parmigiano,1 cucchiaio di parmigiano,parmigiano,1 cucchiaio,parmigiano,parmigiano reggiano dop,1291
+1472,1 cucchiaio di pecorino non piccante,1 cucchiaio di pecorino,pecorino,1 cucchiaio,pecorino,pecorino,519
+1473,3 cucchiai di zucchero,3 cucchiai di zucchero,zucchero,3 cucchiai,zucchero,zucchero,4949
+1474,zucchero vanigliato,zucchero vanigliato,zucchero vanigliato,,zucchero vanigliato,zucchero vanigliato,26
+1475,scorza di limone grattugiata,scorza di limone grattugiata,scorza di limone,,scorza di limone,scorza di limone,567
+1476,300  g di farina 00,300  g di farina 00,farina,300 g,farina,farina,2121
+1477,150 gr di farina,150 gr di farina,farina,150 gr,farina,farina,2121
+1478,1 dl circa di acqua fredda,1 dl circa di acqua fredda,acqua,1 dl,acqua,acqua,1976
+1479,125 gr di noci tritate,125 gr di noci tritate,noci,125 gr,noci,noci,222
+1480,60 gr di mandorle tritate,60 gr di mandorle tritate,mandorle,60 gr,mandorle,mandorle,415
+1481,60 gr di pinoli,60 gr di pinoli,pinoli,60 gr,pinoli,pinoli,392
+1482,60 gr di cedro tritato,60 gr di cedro tritato,cedro,60 gr,cedro,cedro,11
+1483,150 gr di cioccolato tritato,150 gr di cioccolato tritato,cioccolato,150 gr,cioccolato,cioccolato,105
+1484,80 gr di zucchero,80 gr di zucchero,zucchero,80 gr,zucchero,zucchero,4949
+1485,1/2 dl di vino di cipro,1/2 dl di vino di cipro,vino di cipro,1/2 dl,vino,vino,43
+1486,1/2 dl di moscato,1/2 dl di moscato,moscato,1/2 dl,moscato,moscato,22
+1487,2-3 cucchiai di maraschino,2-3 cucchiai di maraschino,maraschino,2 - 3 cucchiai,maraschino,maraschino,21
+1488,1 cucchiaio di cointreau,1 cucchiaio di cointreau,cointreau,1 cucchiaio,cointreau,cointreau,10
+1489,500 g di mandorle pelate o di farina di mandorle,500 g di mandorle pelate,mandorle pelate,500 g,mandorle pelate,mandorle pelate,146
+1490,1 kg di zucchero,1 kg di zucchero,zucchero,1 kg,zucchero,zucchero,4949
+1491,200 ml d’acqua,200 ml d’acqua,,200 ml,,,
+1492,300 gr di sugna,300 gr di sugna,sugna,300 gr,sugna,sugna,4
+1493,confettura di amarena,confettura di amarena,confettura di amarena,,confettura,confettura,46
+1494,400 gr di pizzoccheri,400 gr di pizzoccheri,pizzoccheri,400 gr,pizzoccheri,pizzoccheri,1
+1495,100 g di coste,100 g di coste,coste,100 g,costine di maiale,coste,2
+1496,100 gr di verza,100 gr di verza,verza,100 gr,verza,verza,78
+1497,50 gr di spinaci,50 gr di spinaci,spinaci,50 gr,spinaci,spinaci,245
+1498,300 gr di fontina,300 gr di fontina,fontina,300 gr,fontina,fontina,155
+1499,150 gr parmiggiano,150 gr parmiggiano,parmiggiano,150 gr,parmiggiano,parmigiano reggiano dop,1291
+1500,2000gr di burro,2000gr di burro,burro,,burro,burro,4606
+1501,150g di zucchero a velo,150g di zucchero,zucchero,150 g,zucchero,zucchero,4949
+1502,50g di zucchero,50g di zucchero,zucchero,50 g,zucchero,zucchero,4949
+1503,70g di fecola di patate,70g di fecola di patate,fecola di patate,70 g,fecola di patate,fecola di patate,233
+1504,3g di lievito per dolci,3g di lievito,lievito,3 g,lievito,lievito,994
+1505,100g di farina 00,100g di farina 00,farina,100 g,farina,farina,2121
+1506,1/2 baccello di vaniglia bourbon,1/2 baccello di vaniglia bourbon,vaniglia bourbon,1/2 baccello,vaniglia,baccello di vaniglia,845
+1507,2 tuorli d'uovo,2 tuorli d'uovo,tuorli,2,tuorli,tuorli,1385
+1508,1 di uovo intero,1 di uovo intero,uovo intero,1,uovo,uova,3872
+1509,scorza di limone,scorza di limone,scorza di limone,,scorza di limone,scorza di limone,567
+1510,scorza d'arancia,scorza d'arancia,scorza d'arancia,,scorza d'arancia,buccia d'arancia,187
+1511,4 granchi granciporri,4 granchi granciporri,granchi,4,granchio,granchio,14
+1512,1 cipolla gialla,1 cipolla gialla,cipolla gialla,1,cipolla gialla,cipolla dorata,142
+1513,1 cipolla bianca,1 cipolla bianca,cipolla bianca,1,cipolla bianca,cipolla bianca,310
+1514,200 gr di fave,200 gr di fave,fave,200 gr,fave,fave,103
+1515,200 gr di fagiolini,200 gr di fagiolini,fagiolini,200 gr,fagiolini,fagiolini,153
+1516,100 gr di mais,100 gr di mais,mais,100 gr,mais,mais,31
+1517,200 gr di piselli,200 gr di piselli,piselli,200 gr,piselli,piselli,302
+1518,aceto di vino,aceto di vino,aceto di vino,,aceto di vino,aceto,528
+1519,acini di pepe,acini di pepe,pepe,,pepe,pepe,5844
+1520,2 pomodori maturi,2 pomodori maturi,pomodori,2,pomodori,pomodori,634
+1521,200 gr di fagiolini lessati,200 gr di fagiolini lessati,fagiolini,200 gr,fagiolini,fagiolini,153
+1522,200 gr di tonno sott'olio,200 gr di tonno sott'olio,tonno sott'olio,200 gr,tonno sott'olio,tonno sott'olio,121
+1523,peperoncino q.b.,peperoncino q.b.,peperoncino,,peperoncino,peperoncino,468
+1524,400 gr riso vialone,400 gr riso vialone,riso vialone,400 gr,riso,riso vialone nano,34
+1525,400 gr zucca,400 gr zucca,zucca,400 gr,zucca,zucca,226
+1526,grana grattugiato,grana grattugiato,grana,,grana,grana padano dop,591
+1527,300 gr di formaggio,300 gr di formaggio,formaggio,300 gr,formaggio,formaggio,264
+1528,50 gr di pangrattato,50 gr di pangrattato,pangrattato,50 gr,pangrattato,pangrattato,834
+1529,passato di pomodoro,passato di pomodoro,passato di pomodoro,,passato di pomodoro,passata di pomodoro,374
+1530,16 fiori di zucca,16 fiori di zucca,fiori di zucca,16,fiori di zucca,fiori di zucca,68
+1531,40 g di pecorino,40 g di pecorino,pecorino,40 g,pecorino,pecorino,519
+1532,350g di farina,350g di farina,farina,350 g,farina,farina,2121
+1533,150g di burro,150g di burro,burro,150 g,burro,burro,4606
+1534,100g di zucchero,100g di zucchero,zucchero,100 g,zucchero,zucchero,4949
+1535,vaniglia in polvere,vaniglia,vaniglia,,vaniglia,baccello di vaniglia,845
+1536,400g di ricotta,400g di ricotta,ricotta,400 g,ricotta,ricotta,324
+1537,25 gr di lievito di birra,25 gr di lievito di birra,lievito di birra,25 gr,lievito di birra,lievito di birra,364
+1538,100 gr d'olio,100 gr d'olio,olio,100 gr,olio,olio,2191
+1539,100 gr di latte,100 gr di latte,latte,100 gr,latte,latte,2242
+1540,1 pizzico di anice,1 pizzico di anice,anice,1 pizzico,anice,anice,9
+1541,270 gr di semolino,270 gr di semolino,semolino,270 gr,semolino,semolino,56
+1542,1 lt di brodo di carne,1 lt di brodo di carne,brodo di carne,1 lt,brodo di carne,brodo di carne,219
+1543,80 gr di grana grattugiato,80 gr di grana grattugiato,grana,80 gr,grana,grana padano dop,591
+1544,800 gr. di ricotta,800 gr. di ricotta,ricotta,800 gr,ricotta,ricotta,324
+1545,100 gr. di cioccolato,100 gr. di cioccolato,cioccolato,100 gr .,cioccolato,cioccolato,105
+1546,500 gr. di zucchero,500 gr. di zucchero,zucchero,500 gr,zucchero,zucchero,4949
+1547,100 gr. di frutta candita,100 gr. di frutta candita,frutta candita,100 gr .,frutta candita,frutta candita,33
+1548,pandispagna,pandispagna,pandispagna,,pandispagna,pan di spagna,30
+1549,liquore dolce,liquore dolce,liquore dolce,,liquore,liquore,38
+1550,ricotta salata grattugiata,ricotta salata grattugiata,ricotta salata,,ricotta salata,ricotta salata,36
+1551,1/2 bicchierino di acqua aromatica ai fiori d'arancio,1/2 bicchierino di acqua aromatica ai fiori d'arancio,acqua aromatica ai fiori d'arancio,1/2 bicchierino,acqua,acqua di fiori d'arancio,27
+1552,1/2 cucchiaio di semi di anice,1/2 cucchiaio di semi di anice,semi di anice,1/2 cucchiaio,semi di anice,semi,107
+1553,600 gr di farina integrale,600 gr di farina integrale,farina integrale,600 gr,farina integrale,farina integrale,108
+1554,300 gr di carne tritata di vitello,300 gr di carne tritata di vitello,carne di vitello,300 gr,carne di vitello,carne di bovino,492
+1555,300 gr carne tritata di agnello,300 gr carne tritata di agnello,carne di agnello,300 gr,carne,carne di agnello,57
+1556,300 gr di maiale,300 gr di maiale,maiale,300 gr,maiale,carne di suino,202
+1557,1 sedano,1 sedano,sedano,1,sedano,sedano,796
+1558,500 gr di pomodori,500 gr di pomodori,pomodori,500 gr,pomodori,pomodori,634
+1559,farina 0,farina 0,farina 0,,farina 0,farina 0,181
+1560,zenzero,zenzero,zenzero,,zenzero,zenzero,285
+1561,200 g di nocciole sgusciate,200 g di nocciole sgusciate,nocciole,200 g,nocciole,nocciole,164
+1562,300 g di zucchero a velo,300 g di zucchero,zucchero,300 g,zucchero,zucchero,4949
+1563,albumi di 4 uova,albumi di 4 uova,albumi uova,4,uova,uova,3872
+1564,scorza grattugiata di un limone,scorza grattugiata di un limone,limone,un,limone,limone,1394
+1565,1 noce di burro,1 noce di burro,burro,1 noce,burro,burro,4606
+1566,350 g di taglierini freschi,350 g di taglierini freschi,taglierini,350 g,taglierini,taglierini,10
+1567,2 granceole di circa 800 gr,2 granceole,granceole,2,granceole,granceola,6
+1568,1 bicchierino di brandy,1 bicchierino di brandy,brandy,1 bicchierino,brandy,brandy,122
+1569,1 cipolla 1 costa di sedano,1 cipolla 1 costa di sedano,cipolla,1,cipolla,cipolla,1415
+1570,20 g burro,20 g burro,burro,20 g,burro,burro,4606
+1571,800 gr di capitone,800 gr di capitone,capitone,800 gr,capitone,capitone,3
+1572,450 grammi di ceci,450 grammi di ceci,ceci,450 grammi,ceci,ceci secchi,72
+1573,500 g di bietole,500 g di bietole,bietole,500 g,bietole,biete,64
+1574,4 fette di pane casereccio abbrustolite,4 fette di pane casereccio abbrustolite,pane casereccio abbrustolite,4 fette,pane,pane casereccio,96
+1575,2 kg di cozze,2 kg di cozze,cozze,2 kg,cozze,cozze,115
+1576,800 gr di filetti di merluzzo,800 gr di filetti di merluzzo,filetti di merluzzo,800 gr,filetti di merluzzo,merluzzo,49
+1577,brodo di pesce,brodo di pesce,brodo di pesce,,brodo di pesce,brodo di pesce,27
+1578,500 gr di funghi porcini,500 gr di funghi porcini,funghi porcini,500 gr,funghi porcini,funghi porcini,107
+1579,400 g di pomodorini,400 g di pomodorini,pomodorini,400 g,pomodorini,pomodorini,142
+1580,"1,2 kg di costine di maiale","1,2 kg di costine di maiale",costine di maiale,"1,2 kg",costine di maiale,carne di suino,202
+1581,2 cucchiai di farina gialla,2 cucchiai di farina gialla,farina gialla,2 cucchiai,farina gialla,farina gialla,68
+1582,250 ml di brodo di carne,250 ml di brodo di carne,brodo di carne,250 ml,brodo di carne,brodo di carne,219
+1583,130 ml di latte,130 ml di latte,latte,130 ml,latte,latte,2242
+1584,250 gr di funghi,250 gr di funghi,funghi,250 gr,funghi,funghi,48
+1585,300 gr di mozzarella,300 gr di mozzarella,mozzarella,300 gr,mozzarella,mozzarella,264
+1586,1/2 kg di di farina bianca,1/2 kg di di farina bianca,farina bianca,1/2 kg,farina bianca,farina 00,1803
+1587,2 rossi d'uovo,2 rossi d'uovo,uova,2,uova,uova,3872
+1588,500 gr di pangrattato,500 gr di pangrattato,pangrattato,500 gr,pangrattato,pangrattato,834
+1589,400 gr di parmigiano grattugiato,400 gr di parmigiano grattugiato,parmigiano,400 gr,parmigiano,parmigiano reggiano dop,1291
+1590,500 g di farina di castagne,500 g di farina di castagne,farina di castagne,500 g,farina di castagne,farina di castagne,38
+1591,50 dl di latte,50 dl di latte,latte,50 dl,latte,latte,2242
+1592,1 kg di mandorle,1 kg di mandorle,mandorle,1 kg,mandorle,mandorle,415
+1593,2 cucchiai di cacao amaro,2 cucchiai di cacao amaro,cacao amaro,2 cucchiai,cacao amaro,cacao amaro,524
+1594,"1 pollo da 1,2 kg, già pulito","1 pollo da 1,2 kg,",pollo,1,pollo,carne di pollo,350
+1595,80 g di montasio stagionato grattugiato,80 g di montasio stagionato grattugiato,montasio stagionato,80 g,montasio,montasio,25
+1596,50 g di farina,50 g di farina,farina,50 g,farina,farina,2121
+1597,1 kg di miele,1 kg di miele,miele,1 kg,miele,miele,335
+1598,50 gr di olive snocciolate,50 gr di olive snocciolate,olive snocciolate,50 gr,olive snocciolate,olive,72
+1599,100 g di farina bianca,100 g di farina bianca,farina bianca,100 g,farina bianca,farina 00,1803
+1600,200 g di farina di grano saraceno,200 g di farina di grano saraceno,farina di grano saraceno,200 g,farina di grano saraceno,farina di grano saraceno,59
+1601,12 fiori di zucca,12 fiori di zucca,fiori di zucca,12,fiori di zucca,fiori di zucca,68
+1602,200 gr di funghi freschi,200 gr di funghi freschi,funghi,200 gr,funghi,funghi,48
+1603,600 g di alborelle,600 g di alborelle,alborelle,600 g,alborelle,alborelle,1
+1604,100 g di farima 00,100 g di farima 00,farima,100 g,farima,farina,2121
+1605,1 dl di latte,1 dl di latte,latte,1 dl,latte,latte,2242
+1606,olio d'oliva per friggere (oppure olio di semi di arachidi),olio d'oliva,olio d'oliva,,olio d'oliva,olio d'oliva,122
+1607,1 l di latte,1 l di latte,latte,1 l,latte,latte,2242
+1608,200 g di amido,200 g di amido,amido,200 g,amido,amido di mais,322
+1609,gocce di cioccolato (facoltativo),gocce di cioccolato,cioccolato,,cioccolato,cioccolato,105
+1610,scorza grattugiata di arancia (facoltativo),scorza grattugiata di arancia,arancia,,arancia,arance,358
+1611,300 gr di carne tritata,300 gr di carne tritata,carne,300 gr,carne,carne,44
+1612,3 salsicce,3 salsicce,salsicce,3,salsicce,salsiccia,225
+1613,1 kg di pomodori (o polpa di pomodoro),1 kg di pomodori,pomodori,1 kg,pomodori,pomodori,634
+1614,1 kg di cime di rapa,1 kg di cime di rapa,cime di rapa,1 kg,cime di rapa,cime di rapa,20
+1615,vino,vino,vino,,vino,vino,43
+1616,400 gr di ceci,400 gr di ceci,ceci,400 gr,ceci,ceci secchi,72
+1617,200 gr di pomodori,200 gr di pomodori,pomodori,200 gr,pomodori,pomodori,634
+1618,3 tuorli d’uovo,3 tuorli d’uovo,tuorli d'uova,3,tuorli,tuorli,1385
+1619,2 arance,2 arance,arance,2,arance,arance,358
+1620,500 g di baccalà già ammollato,500 g di baccalà,baccalà,500 g,baccalà,baccalà,94
+1621,uvetta,uvetta,uvetta,,uvetta,uvetta,220
+1622,350 g di linguine,350 g di linguine,linguine,350 g,linguine,linguine,56
+1623,400 g di filetti di triglia,400 g di filetti di triglia,filetti di triglia,400 g,filetti di triglia,triglie,31
+1624,8 calamari,8 calamari,calamari,8,calamari,calamari,102
+1625,4 filetti d'acciuga,4 filetti d'acciuga,acciuga,4,acciuga,acciughe,403
+1626,lievito di birra,lievito di birra,lievito di birra,,lievito di birra,lievito di birra,364
+1627,50 gr di canditi,50 gr di canditi,canditi,50 gr,canditi,frutta candita,33
+1628,500 gr di fagioli freschi,500 gr di fagioli freschi,fagioli,500 gr,fagioli,fagioli,87
+1629,grasso di prosciutto,grasso di prosciutto,grasso di prosciutto,,grasso di prosciutto,grasso di prosciutto,8
+1630,1 dado,1 dado,dado,1,dado,dado,18
+1631,1 merluzzo da 800 g,1 merluzzo da 800 g,merluzzo,1,merluzzo,merluzzo,49
+1632,1 l di succo di anguria,1 l di succo di anguria,succo di anguria,1 l,succo d'ananas,succo d'ananas,41
+1633,100 g di cioccolato fondente,100 g di cioccolato fondente,cioccolato fondente,100 g,cioccolato fondente,cioccolato fondente,833
+1634,60 g di amido,60 g di amido,amido,60 g,amido,amido di mais,322
+1635,fiori di gelsomino,fiori di gelsomino,fiori di gelsomino,,fiori di zucca,fiori eduli,39
+1636,800 g di tonno tagliato a fette,800 g di tonno tagliato,tonno,800 g,tonno,tonno,101
+1637,500 g di pomodori pelati,500 g di pomodori pelati,pomodori pelati,500 g,pomodori pelati,pomodori pelati,196
+1638,1 gambo di sedano tenero,1 gambo di sedano tenero,sedano,1 gambo,sedano,sedano,796
+1639,patate lesse,patate lesse,patate,,patate,patate,1000
+1640,16 triglie,16 triglie,triglie,16,triglie,triglie,31
+1641,100 gr di gruviera,100 gr di gruviera,gruviera,100 gr,gruviera,groviera,90
+1642,4 cosciotti di capretto,4 cosciotti di capretto,cosciotti capretto,4,cosciotti capretto,carne,44
+1643,2 zampe di vitello (carcagnolu),2 zampe di vitello,zampe di vitello,2,zampe di vitello,carne di bovino,492
+1644,2 lattughe,2 lattughe,lattughe,2,lattughino,lattughino,7
+1645,200 g di mammelle di vitello,200 g di mammelle di vitello,mammelle di vitello,200 g,mammelle di vitello,mammelle di vitello,1
+1646,200 g di magro di vitello,200 g di magro di vitello,magro di vitello,200 g,magro di vitello,magro di vitello,1
+1647,200 g tra schienale ed animelle,200 g tra schienale,schienale,200 g,schienale,schienale,2
+1648,mollica di due panini,mollica di due panini,mollica panini,due,mollica di pane,mollica di pane,98
+1649,3 litri di brodo,3 litri di brodo,brodo,3 litri,brodo,brodo,215
+1650,crostini di pane abbrustolito,crostini di pane abbrustolito,pane,,pane,pane,363
+1651,sugo di carne,sugo di carne,sugo di carne,,sugo di pomodoro,sugo di carne,5
+1652,600 g di carne di vitello a fette,600 g di carne di vitello,carne di vitello,600 g,carne di vitello,carne di bovino,492
+1653,"1,5 kg di patate","1,5 kg di patate",patate,"1,5 kg",patate,patate,1000
+1654,1 pizzico di maggiorana,1 pizzico di maggiorana,maggiorana,1 pizzico,maggiorana,maggiorana,288
+1655,rape,rape,rape,,rape,rape,38
+1656,1 kg di salsiccia,1 kg di salsiccia,salsiccia,1 kg,salsiccia,salsiccia,225
+1657,8 fette di pane,8 fette di pane,pane,8 fette,pane,pane,363
+1658,300 gr di fagioli,300 gr di fagioli,fagioli,300 gr,fagioli,fagioli,87
+1659,250 g di farina 00,250 g di farina 00,farina,250 g,farina,farina,2121
+1660,125 g burro,125 g burro,burro,125 g,burro,burro,4606
+1661,32 fiori di zucca,32 fiori di zucca,fiori di zucca,32,fiori di zucca,fiori di zucca,68
+1662,80 gerigli di noce spellati,80 gerigli di noce spellati,noce spellati,80 gerigli,noce,noci,222
+1663,80 g di scorza di cedro candita,80 g di scorza di cedro candita,scorza di cedro candita,80 g,scorza d'arancia,buccia d'arancia,187
+1664,80 g di farina 00,80 g di farina 00,farina,80 g,farina,farina,2121
+1665,2 cucchiai di grappa,2 cucchiai di grappa,grappa,2 cucchiai,grappa,grappa,56
+1666,120 g di zucchero,120 g di zucchero,zucchero,120 g,zucchero,zucchero,4949
+1667,30 g di zucchero a velo,30 g di zucchero,zucchero,30 g,zucchero,zucchero,4949
+1668,2 dl di aceto di vino rosso,2 dl di aceto di vino rosso,aceto di vino rosso,2 dl,aceto di vino rosso,aceto,528
+1669,polenta,polenta,polenta,,polenta,polenta,26
+1670,1 kg di stocco di mammola spugnato,1 kg di stocco di mammola spugnato,stocco di mammola,1 kg,stocco,stocco,20
+1671,uova,uova,uova,,uova,uova,3872
+1672,5 pomodori maturi,5 pomodori maturi,pomodori,5,pomodori,pomodori,634
+1673,1 peperone verde,1 peperone verde,peperone verde,1,peperone verde,peperoni,612
+1674,1 peperone giallo,1 peperone giallo,peperone giallo,1,peperone giallo,peperoni,612
+1675,1 cetriolo,1 cetriolo,cetriolo,1,cetriolo,cetrioli,121
+1676,400 gr di fave fresche,400 gr di fave fresche,fave,400 gr,fave,fave,103
+1677,100 g di olive nere snocciolate,100 g di olive nere snocciolate,olive nere snocciolate,100 g,olive nere snocciolate,olive nere,244
+1678,4 uova sode,4 uova sode,uova sode,4,uova sode,uova sode,50
+1679,6 filetti di acciughe sotto sale,6 filetti di acciughe sotto sale,acciughe sotto sale,6 filetti,acciughe sotto sale,acciughe,403
+1680,250 gr di tonno sott’olio,250 gr di tonno sott’olio,,250 gr,,,
+1681,1/2 bicchiere di olio extra vergine di oliva,1/2 bicchiere di olio extra vergine di oliva,olio extra vergine di oliva,1/2 bicchiere,olio,olio extravergine d'oliva,4337
+1682,aceto balsamico,aceto balsamico,aceto balsamico,,aceto balsamico,aceto balsamico,172
+1683,"2 coratelle d'abbacchio con fegato, cuore e polmoni","2 coratelle d'abbacchio con fegato, cuore",coratelle,2,coratelle,coratelle,1
+1684,400 gr farina di grano duro,400 gr farina di grano duro,farina di grano duro,400 gr,farina di grano duro,farina,2121
+1685,600 l di latte,600 l di latte,latte,600 l,latte,latte,2242
+1686,1 stecca di vaniglia,1 stecca di vaniglia,vaniglia,1 stecca,vaniglia,baccello di vaniglia,845
+1687,cipollotti,cipollotti,cipollotti,,cipollotti,cipollotto fresco,296
+1688,2 kg di fave fresche,2 kg di fave fresche,fave,2 kg,fave,fave,103
+1689,4 pomodori perini,4 pomodori perini,pomodori perini,4,pomodori perini,pomodori,634
+1690,"1,5 l d’acqua","1,5 l d’acqua",,"1,5 l",,,
+1691,4 zucchine rotonde,4 zucchine rotonde,zucchine,4,zucchine,zucchine,654
+1692,100 gr di emmenthal,100 gr di emmenthal,emmenthal,100 gr,emmenthal,emmentaler,83
+1693,cipolline,cipolline,cipolline,,cipolline,cipolle borettane,103
+1694,carne di capretto,carne di capretto,carne di capretto,,carne,carne,44
+1695,cipolle,cipolle,cipolle,,cipolle,cipolla,1415
+1696,4 cespi di lattuga,4 cespi di lattuga,lattuga,4 cespi,lattuga,lattuga,112
+1697,1 litro di brodo di carne,1 litro di brodo di carne,brodo di carne,1 litro,brodo di carne,brodo di carne,219
+1698,150 g di carne tritata di bovino,150 g di carne tritata di bovino,carne di bovino,150 g,carne,carne di bovino,492
+1699,200 g di animelle e filoni,200 g di animelle,animelle,200 g,animelle,animelle,12
+1700,100 g di pangrattato,100 g di pangrattato,pangrattato,100 g,pangrattato,pangrattato,834
+1701,60 g di pecorino grattugiato,60 g di pecorino grattugiato,pecorino,60 g,pecorino,pecorino,519
+1702,3 cucchiai di olio extravergine d’oliva,3 cucchiai di olio extravergine d’oliva,,3 cucchiai,,,
+1703,4 fette di pane casereccio,4 fette di pane casereccio,pane casereccio,4 fette,pane casereccio,pane casereccio,96
+1704,250 g di mandorle sgusciate e pelate,250 g di mandorle sgusciate,mandorle,250 g,mandorle,mandorle,415
+1705,2 noci di burro,2 noci di burro,noci di burro,2,noci,burro,4606
+1706,la scorza grattugiata di un limone,la scorza grattugiata di un limone,limone,un,limone,limone,1394
+1707,350 gr di passata di pomodoro,350 gr di passata di pomodoro,passata di pomodoro,350 gr,passata di pomodoro,passata di pomodoro,374
+1708,350 g di farina di ceci,350 g di farina di ceci,farina di ceci,350 g,farina di ceci,farina di ceci,26
+1709,1 litro di acqua,1 litro di acqua,acqua,1 litro,acqua,acqua,1976
+1710,8 ventresche di stocco,8 ventresche di stocco,stocco,8 ventresche,stoccafisso,stocco,20
+1711,200 gr di stocco,200 gr di stocco,stocco,200 gr,stoccafisso,stocco,20
+1712,1 kg di capra,1 kg di capra,capra,1 kg,capretto,capretto,10
+1713,1 lt di vino rosso,1 lt di vino rosso,vino rosso,1 lt,vino rosso,vino rosso,219
+1714,1 ciuffo di maggiorana,1 ciuffo di maggiorana,maggiorana,1 ciuffo,maggiorana,maggiorana,288
+1715,2 cucchiai di pinoli,2 cucchiai di pinoli,pinoli,2 cucchiai,pinoli,pinoli,392
+1716,2 cucchiai di parmigiano grattugiato,2 cucchiai di parmigiano grattugiato,parmigiano,2 cucchiai,parmigiano,parmigiano reggiano dop,1291
+1717,1 kg farina 00,1 kg farina 00,farina,1 kg,farina,farina,2121
+1718,800 gr pelati,800 gr pelati,pelati,800 gr,pelati,pomodori pelati,196
+1719,2 cucchiai d'olio extra-vergine l'oliva,2 cucchiai d'olio extra-vergine l'oliva,olio extra vergine d'oliva,2 cucchiai,olio,olio extravergine d'oliva,4337
+1720,peperoncino rosso macinato,peperoncino rosso macinato,peperoncino rosso,,peperoncino rosso,peperoncino,468
+1721,aglio tritato,aglio tritato,aglio,,aglio,aglio,2572
+1722,acciughe,acciughe,acciughe,,acciughe,acciughe,403
+1723,400 g di pasta per il pane,400 g di pasta,pasta,400 g,pasta,pasta,78
+1724,100 g di prosciutto cotto,100 g di prosciutto cotto,prosciutto cotto,100 g,prosciutto cotto,prosciutto cotto,324
+1725,100 g di mozzarella,100 g di mozzarella,mozzarella,100 g,mozzarella,mozzarella,264
+1726,200 g di ricotta,200 g di ricotta,ricotta,200 g,ricotta,ricotta,324
+1727,10 gr di zucchero,10 gr di zucchero,zucchero,10 gr,zucchero,zucchero,4949
+1728,10 gr di strutto,10 gr di strutto,strutto,10 gr,strutto,strutto,134
+1729,1 albume di uovo,1 albume di uovo,albume di uovo,1,albume,albumi,436
+1730,15 gr di marsala,15 gr di marsala,marsala,15 gr,marsala,marsala,121
+1731,5 gr di cognac,5 gr di cognac,cognac,5 gr,cognac,cognac,64
+1732,olio di arachide,olio di arachide,olio di arachide,,olio di arachide,olio di arachide,339
+1733,scorzette d'arancia candita,scorzette d'arancia candita,scorzette d'arancia candita,,scorzette d'arancia candita,arancia candita,60
+1734,500gr di ricotta,500gr di ricotta,ricotta,,ricotta,ricotta,324
+1735,250 gr di zucchero a velo,250 gr di zucchero,zucchero,250 gr,zucchero,zucchero,4949
+1736,30 gr di pezzetti di cioccolato fondante,30 gr di pezzetti di cioccolato fondante,cioccolato fondente,30 gr,cioccolato fondente,cioccolato fondente,833
+1737,50 gr di frutta candita,50 gr di frutta candita,frutta candita,50 gr,frutta candita,frutta candita,33
+1738,30 gr di pistacchi verdi tritati,30 gr di pistacchi verdi tritati,pistacchi verdi,30 gr,pistacchi,pistacchi,193
+1739,500 g di farina,500 g di farina,farina,500 g,farina,farina,2121
+1740,sugo di carne o pesto,sugo di carne,sugo di carne,,sugo di pomodoro,sugo di carne,5
+1741,4 fette spesse di tonno,4 fette spesse di tonno,tonno,4 fette,tonno,tonno,101
+1742,1 limone (oppure mezzo bicchiere di vino),1 limone,limone,1,limone,limone,1394
+1743,500 gr di maccheroni,500 gr di maccheroni,maccheroni,500 gr,maccheroni,maccheroni,25
+1744,1 kg di spezzatino di vitello,1 kg di spezzatino di vitello,spezzatino di vitello,1 kg,spezzatino di vitello,carne di bovino,492
+1745,6 tracchiulelle (costine di maiale),6 tracchiulelle,tracchiulelle,6,tracchiulelle,tracchiulelle,7
+1746,2 litri di passata di pomodoro,2 litri di passata di pomodoro,passata di pomodoro,2 litri,passata di pomodoro,passata di pomodoro,374
+1747,1 cucchiaio di concentrato di pomodoro,1 cucchiaio di concentrato di pomodoro,concentrato di pomodoro,1 cucchiaio,concentrato di pomodoro,concentrato di pomodoro,192
+1748,1 kg di cipolline,1 kg di cipolline,cipolline,1 kg,cipolline,cipolle borettane,103
+1749,farina di maiorca,farina di maiorca,farina di maiorca,,farina,farina,2121
+1750,800 g di ricotta di pecora,800 g di ricotta di pecora,ricotta di pecora,800 g,ricotta di pecora,ricotta di pecora,63
+1751,3 cucchiai colmi di zucchero,3 cucchiai colmi di zucchero,zucchero,3 cucchiai,zucchero,zucchero,4949
+1752,200 g di miele,200 g di miele,miele,200 g,miele,miele,335
+1753,800 gr di carne di maiale,800 gr di carne di maiale,carne di maiale,800 gr,carne di maiale,carne di suino,202
+1754,pecorino tenero,pecorino tenero,pecorino,,pecorino,pecorino,519
+1755,600gr di mandorle,600gr di mandorle,mandorle,600gr,mandorle,mandorle,415
+1756,4 albumi uovo,4 albumi uovo,albumi uovo,4,uovo,uova,3872
+1757,40 gr di pinoli,40 gr di pinoli,pinoli,40 gr,pinoli,pinoli,392
+1758,200 gr di cedro candito,200 gr di cedro candito,cedro candito,200 gr,cedro candito,cedro candito,34
+1759,1 mandorla intera,1 mandorla intera,mandorla,1,mandorle,mandorle,415
+1760,2 chicchi di caffè,2 chicchi di caffè,caffè,2 chicchi,caffè,caffè,190
+1761,confetti colorati,confetti colorati,confetti colorati,,confettini colorati,confettini colorati,14
+1762,150 gr di gorgonzola,150 gr di gorgonzola,gorgonzola,150 gr,gorgonzola,gorgonzola,83
+1763,200 gr di spinaci,200 gr di spinaci,spinaci,200 gr,spinaci,spinaci,245
+1764,1 muscolo ( cannolicchio),1 muscolo,muscolo,1,muscolo di manzo macinato,macinato di bovino,51
+1765,1 cucchiaio di capperi,1 cucchiaio di capperi,capperi,1 cucchiaio,capperi,capperi,366
+1766,1 acciuga salata,1 acciuga salata,acciuga salata,1,acciuga,acciughe,403
+1767,300 gr di funghi porcini freschi,300 gr di funghi porcini freschi,funghi porcini,300 gr,funghi porcini,funghi porcini,107
+1768,300 gr di polpa di pomodoro,300 gr di polpa di pomodoro,polpa di pomodoro,300 gr,polpa di pomodoro,polpa di pomodoro,49
+1769,95 g di farina di 00,95 g di farina di 00,farina,95 g,farina,farina,2121
+1770,130 g di zucchero,130 g di zucchero,zucchero,130 g,zucchero,zucchero,4949
+1771,50 g di latte,50 g di latte,latte,50 g,latte,latte,2242
+1772,1/2 bustina di vanilina,1/2 bustina di vanilina,vanilina,1/2 bustina,vanilina,vanillina,53
+1773,300 g di zucchine,300 g di zucchine,zucchine,300 g,zucchine,zucchine,654
+1774,pancetta,pancetta,pancetta,,pancetta,pancetta,245
+1775,pomodori secchi,pomodori secchi,pomodori secchi,,pomodori secchi,pomodori secchi,141
+1776,saleorigano,saleorigano,saleorigano,,saleorigano,saleorigano,1
+1777,2 cucchiai di parmigiano,2 cucchiai di parmigiano,parmigiano,2 cucchiai,parmigiano,parmigiano reggiano dop,1291
+1778,1 kg di lumache,1 kg di lumache,lumache,1 kg,lumache,lumache,10
+1779,olio extravergiine l'oliva,olio extravergiine l'oliva,olio,oliva,olio,olio,2191
+1780,4 taralli,4 taralli,taralli,4,tarallini,tarallini,9
+1781,100 gr di alici sott'olio,100 gr di alici sott'olio,alici sott'olio,100 gr,alici,alici,44
+1782,olive nere e verdi,olive nere,olive nere,,olive nere,olive nere,244
+1783,aceto di vino bianco,aceto di vino bianco,aceto di vino bianco,,aceto di vino bianco,aceto,528
+1784,500 gr. di carote novelle,500 gr. di carote novelle,carote novelle,500 gr,carote novelle,carote,1077
+1785,1 bicchiere di marsala secco,1 bicchiere di marsala secco,marsala secco,1 bicchiere,marsala secco,marsala,121
+1786,800 gr di tracchiulelle,800 gr di tracchiulelle,tracchiulelle,800 gr,tracchiulelle,tracchiulelle,7
+1787,1 lt di passata di pomodoro,1 lt di passata di pomodoro,passata di pomodoro,1 lt,passata di pomodoro,passata di pomodoro,374
+1788,"1,5 kg di cozze","1,5 kg di cozze",cozze,"1,5 kg",cozze,cozze,115
+1789,1 kg di radicchio o borragine o cicoria,1 kg di radicchio o borragine,radicchio,1 kg,radicchio,radicchio,103
+1790,2/3 patate,2/3 patate,patate,2/3,patate,patate,1000
+1791,1 dl di olio extravergine d’oliva,1 dl di olio extravergine d’oliva,,1 dl,,,
+1792,1 dl di aceto di vino rosso,1 dl di aceto di vino rosso,aceto di vino rosso,1 dl,aceto di vino rosso,aceto,528
+1793,4 foglie di salsa,4 foglie di salsa,salsa,4 foglie,salsa di soia,salsa,18
+1794,40 g di grana o parmigiano,40 g di grana,grana,40 g,grana,grana padano dop,591
+1795,1/2 bicchiere d'acqua,1/2 bicchiere d'acqua,d'acqua,1/2 bicchiere,d'acqua,acqua,1976
+1796,150 g di mandorle tritate,150 g di mandorle tritate,mandorle,150 g,mandorle,mandorle,415
+1797,150 g di uvetta,150 g di uvetta,uvetta,150 g,uvetta,uvetta,220
+1798,80 g di pinoli,80 g di pinoli,pinoli,80 g,pinoli,pinoli,392
+1799,buccia di un limone grattugiata,buccia di un limone grattugiata,limone,un,limone,limone,1394
+1800,un bicchierino di cognac o whisky o marsala,un bicchierino di cognac o whisky,cognac,un bicchierino,cognac,cognac,64
+1801,125 g di burro,125 g di burro,burro,125 g,burro,burro,4606
+1802,50 g di lievito di birra,50 g di lievito di birra,lievito di birra,50 g,lievito di birra,lievito di birra,364
+1803,1 kg farina tipo 0,1 kg farina tipo 0,farina tipo 0,1 kg,farina tipo 0,farina 0,181
+1804,150 gr di strutto,150 gr di strutto,strutto,150 gr,strutto,strutto,134
+1805,un pizzico di sale,un pizzico di sale,sale,un pizzico,sale,sale,9693
+1806,acqua o latte,acqua,acqua,,acqua,acqua,1976
+1807,1 kg di zucca gialla,1 kg di zucca gialla,zucca gialla,1 kg,zucca gialla,zucca gialla,20
+1808,2 kg di cipolle,2 kg di cipolle,cipolle,2 kg,cipolle,cipolla,1415
+1809,300 gr di ricotta o quagliata,300 gr di ricotta,ricotta,300 gr,ricotta,ricotta,324
+1810,250 gr di piselli gia sgusciati,250 gr di piselli gia sgusciati,piselli,250 gr,piselli,piselli,302
+1811,1 cipolla tritata,1 cipolla tritata,cipolla,1,cipolla,cipolla,1415
+1812,100 gr di prosciutto a dadini,100 gr di prosciutto,prosciutto,100 gr,prosciutto,prosciutto,22
+1813,2 cucchiai di olio extra vergine di oliva,2 cucchiai di olio extra vergine di oliva,olio extra vergine di oliva,2 cucchiai,olio,olio extravergine d'oliva,4337
+1814,100 gr di noci,100 gr di noci,noci,100 gr,noci,noci,222
+1815,150 g di farina di castagne,150 g di farina di castagne,farina di castagne,150 g,farina di castagne,farina di castagne,38
+1816,200 g di fagiolini teneri,200 g di fagiolini teneri,fagiolini,200 g,fagiolini,fagiolini,153
+1817,1 piccola cipolla rossa,1 piccola cipolla rossa,cipolla,1,cipolla,cipolla,1415
+1818,20 g di pinoli,20 g di pinoli,pinoli,20 g,pinoli,pinoli,392
+1819,20 g di gherigli di noci,20 g di gherigli di noci,noci,20 g,noci,noci,222
+1820,8 castagne lesse,8 castagne lesse,castagne,8,castagne,castagne,56
+1821,4 fette di filetto di vitello,4 fette di filetto di vitello,filetto di vitello,4 fette,filetto di vitello,carne di bovino,492
+1822,1 dado per brodo carne,1 dado,dado,1,dado,dado,18
+1823,1 bicchierino di marsala,1 bicchierino di marsala,marsala,1 bicchierino,marsala,marsala,121
+1824,300 gr di miele,300 gr di miele,miele,300 gr,miele,miele,335
+1825,350 gr di zucchero,350 gr di zucchero,zucchero,350 gr,zucchero,zucchero,4949
+1826,2 bianchi d'uovo,2 bianchi d'uovo,bianchi d'uovo,2,bianchi d'uovo,albumi,436
+1827,150 gr nocciole,150 gr nocciole,nocciole,150 gr,nocciole,nocciole,164
+1828,150 gr di mandorle,150 gr di mandorle,mandorle,150 gr,mandorle,mandorle,415
+1829,50 gr pistacchi,50 gr pistacchi,pistacchi,50 gr,pistacchi,pistacchi,193
+1830,500 gr di asparagi,500 gr di asparagi,asparagi,500 gr,asparagi,asparagi,192
+1831,400 gr di polpa di granchio,400 gr di polpa di granchio,polpa di granchio,400 gr,polpa di pomodoro,polpa di granchio,10
+1832,1 ciuffetto di cerfoglio,1 ciuffetto di cerfoglio,cerfoglio,1,cerfoglio,cerfoglio,27
+1833,1 cipollotto,1 cipollotto,cipollotto,1,cipollotto,cipollotto fresco,296
+1834,1 cucchiaino di maggiorana,1 cucchiaino di maggiorana,maggiorana,1 cucchiaino,maggiorana,maggiorana,288
+1835,1 cuore di lattuga,1 cuore di lattuga,lattuga,1,lattuga,lattuga,112
+1836,60 gr di rucola,60 gr di rucola,rucola,60 gr,rucola,rucola,133
+1837,150 g di strutto,150 g di strutto,strutto,150 g,strutto,strutto,134
+1838,400 gr di farina nera di grano saraceno,400 gr di farina nera di grano saraceno,farina nera di grano saraceno,400 gr,farina,farina,2121
+1839,"1,2 l di acqua","1,2 l di acqua",acqua,"1,2 l",acqua,acqua,1976
+1840,700 gr di burro,700 gr di burro,burro,700 gr,burro,burro,4606
+1841,400 gr di bitto,400 gr di bitto,bitto,400 gr,bitto,bitto,5
+1842,130 g di burro,130 g di burro,burro,130 g,burro,burro,4606
+1843,25 g di lievito di birra,25 g di lievito di birra,lievito di birra,25 g,lievito di birra,lievito di birra,364
+1844,marmellata di albicocche,marmellata di albicocche,marmellata di albicocche,,marmellata di albicocche,marmellata di albicocche,14
+1845,500g di farina grano duro,500g di farina grano duro,farina di grano duro,500 g,farina di grano duro,farina,2121
+1846,50g di anice,50g di anice,anice,50 g,anice,anice,9
+1847,1 bicchiere di rum o brandy,1 bicchiere di rum,rum,1 bicchiere,rum,rum,218
+1848,4 salsicce,4 salsicce,salsicce,4,salsicce,salsiccia,225
+1849,350 gr di crauti,350 gr di crauti,crauti,350 gr,crauti,crauti,10
+1850,350 gr di fagioli,350 gr di fagioli,fagioli,350 gr,fagioli,fagioli,87
+1851,350 gr di patate,350 gr di patate,patate,350 gr,patate,patate,1000
+1852,cumino,cumino,cumino,,cumino,cumino,79
+1853,4 beccacce,4 beccacce,beccacce,4,beccacce,beccacce,1
+1854,4 fette di pancetta,4 fette di pancetta,pancetta,4 fette,pancetta,pancetta,245
+1855,50 gr di capperi,50 gr di capperi,capperi,50 gr,capperi,capperi,366
+1856,1 zucca bianca,1 zucca bianca,zucca bianca,1,zucca,zucca,226
+1857,2 litri di latticello,2 litri di latticello,latticello,2 litri,latticello,latticello,12
+1858,800 gr di pecora,800 gr di pecora,pecora,800 gr,pecorino,pecorino,519
+1859,300 g di pomodori,300 g di pomodori,pomodori,300 g,pomodori,pomodori,634
+1860,8 pomodori secchi,8 pomodori secchi,pomodori secchi,8,pomodori secchi,pomodori secchi,141
+1861,200 gr di mollica di pane fresca,200 gr di mollica di pane fresca,mollica di pane fresca,200 gr,mollica di pane,mollica di pane,98
+1862,150 g di mandorle dolci,150 g di mandorle dolci,mandorle dolci,150 g,mandorle,mandorle,415
+1863,200 g di pistacchi,200 g di pistacchi,pistacchi,200 g,pistacchi,pistacchi,193
+1864,120 g di burro,120 g di burro,burro,120 g,burro,burro,4606
+1865,2 kg di capretto,2 kg di capretto,capretto,2 kg,capretto,capretto,10
+1866,130 g di strutto,130 g di strutto,strutto,130 g,strutto,strutto,134
+1867,1 kg di tonno tagliato a fette,1 kg di tonno tagliato,tonno,1 kg,tonno,tonno,101
+1868,1/2 bicchiere d'aceto di vino bianco,1/2 bicchiere d'aceto di vino bianco,aceto di vino bianco,1/2 bicchiere,aceto di vino bianco,aceto,528
+1869,1 branzino da 1 kg,1 branzino da 1 kg,branzino,1,branzino,branzino,39
+1870,200 gr di riso integrale,200 gr di riso integrale,riso integrale,200 gr,riso,riso,289
+1871,150 gr di farro,150 gr di farro,farro,150 gr,farro,farro,31
+1872,150 gr di farina gialla,150 gr di farina gialla,farina gialla,150 gr,farina gialla,farina gialla,68
+1873,200 gr di cacao amaro in polvere,200 gr di cacao amaro,cacao amaro,200 gr,cacao amaro,cacao amaro,524
+1874,300 gr di pangrattato,300 gr di pangrattato,pangrattato,300 gr,pangrattato,pangrattato,834
+1875,150 gr di fichi secchi,150 gr di fichi secchi,fichi secchi,150 gr,fichi secchi,fichi secchi,41
+1876,300 gr di uva passa,300 gr di uva passa,uva passa,300 gr,uva passa,uva passa,87
+1877,1/2 kg di pere,1/2 kg di pere,pere,1/2 kg,pere,pere,111
+1878,1/2 kg di mele,1/2 kg di mele,mele,1/2 kg,mele,mele,204
+1879,"200 gr di noci, pinoli e mandorle","200 gr di noci, pinoli",noci,200 gr,noci,noci,222
+1880,150 gr di liquore dolce,150 gr di liquore dolce,liquore dolce,150 gr,liquore,liquore,38
+1881,6 tazzine di caffe,6 tazzine di caffe,caffè,6 tazzine,caffè,caffè,190
+1882,scorza di un arancio,scorza di un arancio,arancio,un,arancia,arance,358
+1883,scorza di un limone,scorza di un limone,limone,un,limone,limone,1394
+1884,1 kg di farina,1 kg di farina,farina,1 kg,farina,farina,2121
+1885,zucca,zucca,zucca,,zucca,zucca,226
+1886,prosciutto crudo,prosciutto crudo,prosciutto crudo,,prosciutto crudo,prosciutto crudo,182
+1887,300 gr di strigoli,300 gr di strigoli,,300 gr,,,
+1888,600 gr di salsa di pomodoro,600 gr di salsa di pomodoro,salsa di pomodoro,600 gr,salsa di pomodoro,salsa di pomodoro,90
+1889,1 faraona,1 faraona,faraona,1,faraona,faraona,16
+1890,1 bicchiere di vino,1 bicchiere di vino,vino,1 bicchiere,vino,vino,43
+1891,200 g di pane raffermo,200 g di pane raffermo,pane raffermo,200 g,pane raffermo,pane raffermo,106
+1892,50 g fi parmigiano grattugiato,50 g fi parmigiano grattugiato,parmigiano,50 g fi,parmigiano,parmigiano reggiano dop,1291
+1893,1 sedano rapa,1 sedano rapa,sedano rapa,1,sedano rapa,sedano rapa,25
+1894,3 cespi di radicchio,3 cespi di radicchio,radicchio,3 cespi,radicchio,radicchio,103
+1895,100 gr di fagioli,100 gr di fagioli,fagioli,100 gr,fagioli,fagioli,87
+1896,100 gr di farina di mais,100 gr di farina di mais,farina di mais,100 gr,farina di mais,farina di mais,144
+1897,80 gr di guanciale,80 gr di guanciale,guanciale,80 gr,guanciale,guanciale,54
+1898,400 g di farina 00,400 g di farina 00,farina,400 g,farina,farina,2121
+1899,1 cucchiaio di semi di papavero,1 cucchiaio di semi di papavero,semi di papavero,1 cucchiaio,semi di papavero,semi di papavero,88
+1900,"800 g di stoccafisso, già ammollato","800 g di stoccafisso,",stoccafisso,800 g,stoccafisso,stoccafisso,18
+1901,3 cucchiai di uvetta,3 cucchiai di uvetta,uvetta,3 cucchiai,uvetta,uvetta,220
+1902,3 cucchiai di pangrattato,3 cucchiai di pangrattato,pangrattato,3 cucchiai,pangrattato,pangrattato,834
+1903,700 gr di fegato di maiale a fette,700 gr di fegato di maiale,fegato di maiale,700 gr,fegato di maiale,fegato di maiale,10
+1904,2 cucchiai di oliio extravergine d'oliva,2 cucchiai di oliio extravergine d'oliva,olio extravergine d'oliva,2 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+1905,300 gr di carne di maiale macinata,300 gr di carne di maiale macinata,maiale macinato,300 gr,maiale,macinato di suino,21
+1906,200 gr di carne di manzo macinata,200 gr di carne di manzo macinata,carne di manzo macinata,200 gr,carne,macinato di bovino,51
+1907,60 gr di montasio stagionato grattugiato,60 gr di montasio stagionato grattugiato,montasio stagionato,60 gr,montasio,montasio,25
+1908,300 ml di brodo di carne,300 ml di brodo di carne,brodo di carne,300 ml,brodo di carne,brodo di carne,219
+1909,1 pizzico do paprica,1 pizzico do paprica,paprica,1 pizzico do,paprica,paprika,272
+1910,1 cavolo,1 cavolo,cavolo,1,cavolo nero,cavolo nero,44
+1911,500 gr di farina (per la pasta di pane),500 gr di farina,farina,500 gr,farina,farina,2121
+1912,500 gr di riso,500 gr di riso,riso,500 gr,riso,riso,289
+1913,50 gr di parmigiano grattugiato,50 gr di parmigiano grattugiato,parmigiano,50 gr,parmigiano,parmigiano reggiano dop,1291
+1914,200 gr di carne di manzo già cotta,200 gr di carne di manzo,carne di manzo,200 gr,carne di manzo,carne di bovino,492
+1915,1 mozzarella,1 mozzarella,mozzarella,1,mozzarella,mozzarella,264
+1916,200 gr di fegatini di pollo,200 gr di fegatini di pollo,fegatini di pollo,200 gr,fegatini di pollo,fegatini di pollo,39
+1917,1 l di brodo,1 l di brodo,brodo,1 l,brodo,brodo,215
+1918,"1,2 kg di zucchero","1,2 kg di zucchero",zucchero,"1,2 kg",zucchero,zucchero,4949
+1919,1 kg di mele cotogne,1 kg di mele cotogne,mele cotogne,1 kg,mele cotogne,mele cotogne,6
+1920,1 kg di vongole,1 kg di vongole,vongole,1 kg,vongole,vongole,83
+1921,8 polpi piccoli,8 polpi piccoli,polpi,8,polpa di pomodoro,polpo,47
+1922,4 foglie di basilico,4 foglie di basilico,basilico,4 foglie,basilico,basilico,944
+1923,200 gr di burro,200 gr di burro,burro,200 gr,burro,burro,4606
+1924,100 gr di fecola di patate,100 gr di fecola di patate,fecola di patate,100 gr,fecola di patate,fecola di patate,233
+1925,600 g di anguille già pulite,600 g di anguille,anguille,600 g,anguille,anguille,9
+1926,12 foglie di alloro,12 foglie di alloro,alloro,12 foglie,alloro,alloro,451
+1927,1 coscia d'agnello,1 coscia d'agnello,coscia d'agnello,1,coscia di pollo,carne di agnello,57
+1928,"1,5 kg di coniglio","1,5 kg di coniglio",coniglio,"1,5 kg",coniglio,carne di coniglio,65
+1929,1/2 costa di sedano,1/2 costa di sedano,sedano,1/2 costa,sedano,sedano,796
+1930,20 olive nere,20 olive nere,olive nere,20,olive nere,olive nere,244
+1931,2 bicchieri di vino rosso,2 bicchieri di vino rosso,vino rosso,2 bicchieri,vino rosso,vino rosso,219
+1932,300 gr di filetti di aringhe,300 gr di filetti di aringhe,filetti di aringhe,300 gr,filetti acciughe,acciughe,403
+1933,8 costolette di agnello,8 costolette di agnello,costolette di agnello,8,costolette di agnello,carne di agnello,57
+1934,1 kg di manzo,1 kg di manzo,manzo,1 kg,manzo,carne di bovino,492
+1935,1/2 bicchiere di olio extra vergine di,1/2 bicchiere di olio extra vergine di,olio extra vergine,1/2 bicchiere,olio,olio extravergine d'oliva,4337
+1936,oliva,oliva,oliva,,olive,olive,72
+1937,120 gr di parmigiano reggiano grattugiato,120 gr di parmigiano reggiano grattugiato,parmigiano reggiano,120 gr,parmigiano reggiano,parmigiano reggiano dop,1291
+1938,12 funghi ovoli,12 funghi ovoli,funghi ovoli,12,funghi,funghi,48
+1939,120 g di parmigiano grattugiato,120 g di parmigiano grattugiato,parmigiano,120 g,parmigiano,parmigiano reggiano dop,1291
+1940,50 g di mollica di pane fresco,50 g di mollica di pane fresco,mollica di pane,50 g,mollica di pane,mollica di pane,98
+1941,1  bicchiere di latte,1  bicchiere di latte,latte,1 bicchiere,latte,latte,2242
+1942,2 foglie di maggiorana,2 foglie di maggiorana,maggiorana,2 foglie,maggiorana,maggiorana,288
+1943,200 g di gelato alla vaniglia,200 g di gelato alla vaniglia,gelato alla vaniglia,200 g,gelato alla vaniglia,gelato alla vaniglia,6
+1944,"200 g gelato alla frutta (amarena, fragola, lamponi...)",200 g gelato alla frutta,gelato alla frutta,200 g,gelato al cioccolato,gelato,8
+1945,200 g di gelato al cioccolato,200 g di gelato al cioccolato,gelato al cioccolato,200 g,gelato al fiordilatte,gelato al cioccolato,5
+1946,250 g di frutta mista a pezzetti,250 g di frutta mista,frutta mista,250 g,frutta,frutta,22
+1947,"4 cucchiai di sciroppo alla frutta (fragola, lampone...)",4 cucchiai di sciroppo alla frutta,sciroppo alla frutta,4 cucchiai,sciroppo alla fragola,sciroppo alla frutta,27
+1948,400 gr di farina di ceci,400 gr di farina di ceci,farina di ceci,400 gr,farina di ceci,farina di ceci,26
+1949,"1,5 litri di acqua","1,5 litri di acqua",acqua,"1,5 litri",acqua,acqua,1976
+1950,300 gr di perfilo,300 gr di perfilo,perfilo,300 gr,perfilo,perfilo,1
+1951,300 gr di midollo di bue,300 gr di midollo di bue,midollo di bue,300 gr,midollo,midollo,7
+1952,funghi secchi,funghi secchi,funghi secchi,,funghi secchi,funghi secchi,48
+1953,conserva di pomodoro,conserva di pomodoro,conserva di pomodoro,,conserva di pomodoro,passata di pomodoro,374
+1954,500 gr di bietole,500 gr di bietole,bietole,500 gr,bietole,biete,64
+1955,"400 g pasta all'uovo fresca in fogli (lasagne, anche già pronte)",400 g pasta all'uovo fresca,pasta all'uovo,400 g,pasta all'uovo,pasta all'uovo,32
+1956,60 g parmigiano grattugiato,60 g parmigiano grattugiato,parmigiano,60 g,parmigiano,parmigiano reggiano dop,1291
+1957,80 g di burro fuso,80 g di burro fuso,burro,80 g,burro,burro,4606
+1958,2 mazzetti di basilico (foglie),2 mazzetti di basilico,basilico,2 mazzetti,basilico,basilico,944
+1959,2 cucciai di pecorino grattugiato,2 cucciai di pecorino grattugiato,cucciai di pecorino,2,cucciai di pecorino,pecorino,519
+1960,2 cucchiai parmigiano grattugiato,2 cucchiai parmigiano grattugiato,parmigiano,2 cucchiai,parmigiano,parmigiano reggiano dop,1291
+1961,6 spicchi d'aglio,6 spicchi d'aglio,aglio,6 spicchi,aglio,aglio,2572
+1962,la mollica di due panini,la mollica di due panini,panini,due,panini,panini,78
+1963,1 bicchiere di aceto bianco,1 bicchiere di aceto bianco,aceto bianco,1 bicchiere,aceto bianco,aceto,528
+1964,2 mazzi di asparagi,2 mazzi di asparagi,asparagi,2 mazzi,asparagi,asparagi,192
+1965,50 gr di cavolo verza,50 gr di cavolo verza,cavolo verza,50 gr,cavolo verza,cavolo verza,13
+1966,40 gr di grana padano,40 gr di grana padano,grana padano,40 gr,grana padano,grana padano dop,591
+1967,1 kg di capretto nostrano,1 kg di capretto nostrano,capretto nostrano,1 kg,capretto,capretto,10
+1968,300 gr di patate novelle,300 gr di patate novelle,patate novelle,300 gr,patate novelle,patate novelle,27
+1969,800 gr di pasta da pane,800 gr di pasta da pane,pasta da pane,800 gr,pasta da pane,pasta da pane,25
+1970,1 kg di erbette,1 kg di erbette,erbette,1 kg,erbette,erbette,30
+1971,40 gr di uvetta,40 gr di uvetta,uvetta,40 gr,uvetta,uvetta,220
+1972,350 gr di cicorie,350 gr di cicorie,cicorie,350 gr,cicoria,cicoria,37
+1973,200 gr di cavolo cappuccio,200 gr di cavolo cappuccio,cavolo cappuccio,200 gr,cavolo cappuccio,cavolo cappuccio,44
+1974,1 piedino di maiale e 200 gr di cotenne ben pulite,1 piedino di maiale,piedino di maiale,1,piedino di maiale,carne di suino,202
+1975,brodo di manzo,brodo di manzo,brodo di manzo,,brodo di manzo,brodo di carne,219
+1976,800 gr di carne di maiale\r,800 gr di carne di maiale\r,,800 gr,,,
+1977,100 g di sugna,100 g di sugna,sugna,100 g,sugna,sugna,4
+1978,100 di zucchero,100 di zucchero,zucchero,100,zucchero,zucchero,4949
+1979,10 uova,10 uova,uova,10,uova,uova,3872
+1980,2 dl d'acqua,2 dl d'acqua,acqua,2 dl,acqua,acqua,1976
+1981,200 g di strutto,200 g di strutto,strutto,200 g,strutto,strutto,134
+1982,2 kg di fichi secchi,2 kg di fichi secchi,fichi secchi,2 kg,fichi secchi,fichi secchi,41
+1983,200 g di mandorle abbrustolite,200 g di mandorle abbrustolite,mandorle,200 g,mandorle,mandorle,415
+1984,250 g di miele,250 g di miele,miele,250 g,miele,miele,335
+1985,150 d di mandorle sgusciate,150 d di mandorle sgusciate,mandorle,150,mandorle,mandorle,415
+1986,400 g di fettine di vitello per cotoletta,400 g di fettine di vitello,vitello,400 g,vitello,carne di bovino,492
+1987,300 g di pomodori maturi,300 g di pomodori maturi,pomodori,300 g,pomodori,pomodori,634
+1988,600 gr di punta di vitello tagliata a tasca,600 gr di punta di vitello tagliata,punta di vitello,600 gr,puntarelle,carne di bovino,492
+1989,200 gr di tritato di vitello,200 gr di tritato di vitello,macinato di vitello,200 gr,macinato di vitello,macinato di bovino,51
+1990,100 gr di cervello di vitello,100 gr di cervello di vitello,cervello vitello,100 gr,cervello vitello,cervella,5
+1991,100 gr di midollo di vitello,100 gr di midollo di vitello,midollo di vitello,100 gr,midollo,midollo,7
+1992,100 gr di pinoli,100 gr di pinoli,pinoli,100 gr,pinoli,pinoli,392
+1993,100 gr di pistacchi,100 gr di pistacchi,pistacchi,100 gr,pistacchi,pistacchi,193
+1994,100 gr di piselli in scatola,100 gr di piselli,piselli,100 gr,piselli,piselli,302
+1995,parmigiano reggiamo grattugiato,parmigiano reggiamo grattugiato,parmigiano,,parmigiano,parmigiano reggiano dop,1291
+1996,320 gr di orzo perlato,320 gr di orzo perlato,orzo perlato,320 gr,orzo perlato,orzo perlato,37
+1997,"1,5 l di brodo vegetale","1,5 l di brodo vegetale",brodo vegetale,"1,5 l",brodo vegetale,brodo vegetale,571
+1998,800 gr di stoccafisso,800 gr di stoccafisso,stoccafisso,800 gr,stoccafisso,stoccafisso,18
+1999,80 gr di pancetta,80 gr di pancetta,pancetta,80 gr,pancetta,pancetta,245
+2000,5 foglie di salvia,5 foglie di salvia,salvia,5 foglie,salvia,salvia,484
+2001,1 kg di sarde,1 kg di sarde,sarde,1 kg,sarde,sarde,32
+2002,5 cucchiai di olio extravergine di oliva,5 cucchiai di olio extravergine di oliva,olio extravergine di oliva,5 cucchiai,olio extravergine di oliva,olio extravergine d'oliva,4337
+2003,400 gr di foglie di cavolo cappuccio,400 gr di foglie di cavolo cappuccio,cavolo cappuccio,400 gr,cavolo cappuccio,cavolo cappuccio,44
+2004,1 cipolla media,1 cipolla media,cipolla,1,cipolla,cipolla,1415
+2005,500 gr di baccalà,500 gr di baccalà,baccalà,500 gr,baccalà,baccalà,94
+2006,mentuccia,mentuccia,mentuccia,,mentuccia,menta,533
+2007,500 gr di puntine di maiale,500 gr di puntine di maiale,puntine di maiale,500 gr,puntine di maiale,carne di suino,202
+2008,500 gr di fettine di fesa di vitello,500 gr di fettine di fesa di vitello,fesa di vitello,500 gr,fesa di vitello,carne di bovino,492
+2009,300 gr di prosciutto crudo,300 gr di prosciutto crudo,prosciutto crudo,300 gr,prosciutto crudo,prosciutto crudo,182
+2010,250 gr di pomodoro,250 gr di pomodoro,pomodoro,250 gr,pomodoro,pomodori,634
+2011,250 gr di carne tritata,250 gr di carne tritata,carne,250 gr,carne,carne,44
+2012,150 gr di mozzarella,150 gr di mozzarella,mozzarella,150 gr,mozzarella,mozzarella,264
+2013,100 gr di cervello d’abbacchio,100 gr di cervello d’abbacchio,,100 gr d’,,,
+2014,100 gr di animelle d’abbacchio,100 gr di animelle d’abbacchio,,100 gr,,,
+2015,2 carciofi,2 carciofi,carciofi,2,carciofi,carciofi,222
+2016,1/2 cavolfiore,1/2 cavolfiore,cavolfiore,1/2,cavolfiore,cavolfiore,101
+2017,1 cipolla di tropea,1 cipolla di tropea,cipolla di tropea,1,cipolla di tropea,cipolla di tropea,103
+2018,1 ciuffetto di rucola,1 ciuffetto di rucola,rucola,1,rucola,rucola,133
+2019,4 filetti di acciuga sotto sale,4 filetti di acciuga sotto sale,acciuga sotto sale,4,acciuga,acciughe,403
+2020,100 g olive taggiasche,100 g olive taggiasche,olive taggiasche,100 g,olive taggiasche,olive taggiasche,106
+2021,800 gr di capone,800 gr di capone,capone,800 gr,capone,cappone,15
+2022,1 aragosta,1 aragosta,aragosta,1,aragosta,aragosta,10
+2023,8 fette di mosciame di tonno,8 fette di mosciame di tonno,mosciame di tonno,8 fette,mosciame di tonno,mosciame di tonno,3
+2024,scorzonera,scorzonera,scorzonera,,scorzonera,scorzonera,5
+2025,20 grammi di pinoli,20 grammi di pinoli,pinoli,20 grammi,pinoli,pinoli,392
+2026,20 grammi di capperi,20 grammi di capperi,capperi,20 grammi,capperi,capperi,366
+2027,8 funghetti sott'olio,8 funghetti sott'olio,funghetti sott'olio,8,funghetti sott'olio,funghetti sott'olio,6
+2028,2 cetriolini,2 cetriolini,cetriolini,2,cetriolini,cetriolini sott'aceto,48
+2029,2 cucchiai di olive nere,2 cucchiai di olive nere,olive nere,2 cucchiai,olive nere,olive nere,244
+2030,1 panino,1 panino,panino,1,panino,panini,78
+2031,pane casereccio,pane casereccio,pane casereccio,,pane casereccio,pane casereccio,96
+2032,380 g di zucchero,380 g di zucchero,zucchero,380 g,zucchero,zucchero,4949
+2033,buccia di mezzo limone grattugiata,buccia di mezzo limone grattugiata,limone,mezzo,limone,limone,1394
+2034,buccia di mezza arancia grattugiata,buccia di mezza arancia grattugiata,arancia,mezza,arancia,arance,358
+2035,400 g di ricotta di pecora,400 g di ricotta di pecora,ricotta di pecora,400 g,ricotta di pecora,ricotta di pecora,63
+2036,90 g di gocce di cioccolato fondente,90 g di gocce di cioccolato fondente,gocce di cioccolato fondente,90 g,gocce di cioccolato fondente,gocce di cioccolato fondente,71
+2037,scorza di cedro tagliata a cubetti,scorza di cedro tagliata,scorza di cedro,,scorza d'arancia,buccia d'arancia,187
+2038,1 baccello di vaniglia o una bustina di vanillina,1 baccello di vaniglia,vaniglia,1 baccello,vaniglia,baccello di vaniglia,845
+2039,liquore all'arancio (cointreau o grand marnier),liquore all'arancio,liquore all'arancio,,liquore,liquore,38
+2040,olio di semi di arachide,olio di semi di arachide,olio di semi di arachide,,olio di semi di arachide,olio di arachide,339
+2041,4 costolette di vitello 4 con osso,4 costolette di vitello 4 con osso,costolette di vitello,4,costolette d'agnello,carne di bovino,492
+2042,50 gr di pane grattugiato,50 gr di pane grattugiato,pane,50 gr,pane,pane,363
+2043,400 g di mandorle,400 g di mandorle,mandorle,400 g,mandorle,mandorle,415
+2044,300 g di farina tipo 0,300 g di farina tipo 0,farina tipo 0,300 g,farina tipo 0,farina 0,181
+2045,1 kg di coniglio,1 kg di coniglio,coniglio,1 kg,coniglio,carne di coniglio,65
+2046,100 gr di olive nere,100 gr di olive nere,olive nere,100 gr,olive nere,olive nere,244
+2047,350 gr di borragine mondata,350 gr di borragine mondata,borragine mondata,350 gr,borragine,borragine,9
+2048,60 gr di prosciutto crudo,60 gr di prosciutto crudo,prosciutto crudo,60 gr,prosciutto crudo,prosciutto crudo,182
+2049,400 gr di linguine,400 gr di linguine,linguine,400 gr,linguine,linguine,56
+2050,30 gr di capperi,30 gr di capperi,capperi,30 gr,capperi,capperi,366
+2051,100 gr di mollica di pane,100 gr di mollica di pane,mollica di pane,100 gr,mollica di pane,mollica di pane,98
+2052,600 gr di loertis (luertiis),600 gr di loertis,loertis,600 gr,loertis,loertis,1
+2053,grana padano,grana padano,grana padano,,grana padano,grana padano dop,591
+2054,600 g di zucchero,600 g di zucchero,zucchero,600 g,zucchero,zucchero,4949
+2055,500 g di granella di nocciole,500 g di granella di nocciole,granella di nocciole,500 g,granella di nocciole,granella di nocciole,102
+2056,250 g di albumi,250 g di albumi,albumi,250 g,albumi,albumi,436
+2057,4 fette di  fontina valdostana,4 fette di  fontina valdostana,fontina valdostana,4 fette,fontina,fontina,155
+2058,40  g di  burro,40  g di  burro,burro,40 g,burro,burro,4606
+2059,1/2 kg di baccalà,1/2 kg di baccalà,baccalà,1/2 kg,baccalà,baccalà,94
+2060,600 gr di costine di maiale tagliate a pezzi,600 gr di costine di maiale tagliate,costine di maiale,600 gr,costine di maiale,carne di suino,202
+2061,250 gr di salsiccia luganega,250 gr di salsiccia luganega,salsiccia luganega,250 gr,salsiccia,salsiccia,225
+2062,100 gr di cotiche di maiale,100 gr di cotiche di maiale,cotiche di maiale,100 gr,cotiche di maiale,cotenna di suino,25
+2063,2 salamin de verz,2 salamin de verz,salamin de verz,2,salamin de verz,salame,59
+2064,1 zampetto di maiale,1 zampetto di maiale,zampetto di maiale,1,zampetto di maiale,carne di suino,202
+2065,200 gr di sedano,200 gr di sedano,sedano,200 gr,sedano,sedano,796
+2066,180 gr di carote,180 gr di carote,carote,180 gr,carote,carote,1077
+2067,1 cucchiaio di salsa di pomodoro,1 cucchiaio di salsa di pomodoro,salsa di pomodoro,1 cucchiaio,salsa di pomodoro,salsa di pomodoro,90
+2068,50 g di porri,50 g di porri,porri,50 g,porri,porri,299
+2069,600 gr di capretto,600 gr di capretto,capretto,600 gr,capretto,capretto,10
+2070,300 gr di muscari,300 gr di muscari,muscari,300 gr,muscari,muscari,1
+2071,4 testine di agnello,4 testine di agnello,testine di agnello,4,testine di agnello,carne di agnello,57
+2072,8 cucchiai di pangrattato,8 cucchiai di pangrattato,pangrattato,8 cucchiai,pangrattato,pangrattato,834
+2073,300 gr di mandorle,300 gr di mandorle,mandorle,300 gr,mandorle,mandorle,415
+2074,succo di un limone,succo di un limone,succo di limone,un,succo di limone,succo di limone,599
+2075,250 g di semi di sesamo,250 g di semi di sesamo,semi di sesamo,250 g,semi di sesamo,semi di sesamo,132
+2076,scorza di mezzo limone,scorza di mezzo limone,scorza limone,mezzo,scorza d'arancia,scorza di limone,567
+2077,350 g di spaghetti,350 g di spaghetti,spaghetti,350 g,spaghetti,spaghetti,201
+2078,200 g di gamberetti sgusciati,200 g di gamberetti sgusciati,gamberetti,200 g,gamberetti,gamberetti,67
+2079,1 peperoncino rosso piccante,1 peperoncino rosso piccante,peperoncino rosso piccante,1,peperoncino,peperoncino,468
+2080,150 ml d’acqua,150 ml d’acqua,,150 ml,,,
+2081,1 cucchiaino di cannella in polvere,1 cucchiaino di cannella,cannella,1 cucchiaino,cannella,cannella,499
+2082,10 chiodi di garofano,10 chiodi di garofano,chiodi di garofano,10,chiodi di garofano,chiodi di garofano,180
+2083,150 gr di vitello in una fetta,150 gr di vitello,vitello,150 gr,vitello,carne di bovino,492
+2084,150 gr di manzo in una fetta,150 gr di manzo,manzo,150 gr,manzo,carne di bovino,492
+2085,150 gr di petti di pollo,150 gr di petti di pollo,petti di pollo,150 gr,petti di pollo,carne di pollo,350
+2086,150 gr di salsiccia,150 gr di salsiccia,salsiccia,150 gr,salsiccia,salsiccia,225
+2087,50 gr di prosciutto cotto,50 gr di prosciutto cotto,prosciutto cotto,50 gr,prosciutto cotto,prosciutto cotto,324
+2088,4 tuorli d’uovo,4 tuorli d’uovo,,4,,,
+2089,1 coniglio tenero,1 coniglio tenero,coniglio,1,coniglio,carne di coniglio,65
+2090,300 gr di salsiccia,300 gr di salsiccia,salsiccia,300 gr,salsiccia,salsiccia,225
+2091,1 kg di pollo,1 kg di pollo,pollo,1 kg,pollo,carne di pollo,350
+2092,750 gr di barbe di becco,750 gr di barbe di becco,barbe di becco,750 gr,barbera,barba di frate,15
+2093,250 gdi mandorle,250 gdi mandorle,mandorle,250,mandorle,mandorle,415
+2094,400 g di zucchero,400 g di zucchero,zucchero,400 g,zucchero,zucchero,4949
+2095,4 uova intere più un tuorlo,4 uova intere,uova intere,4,uova intere,uova,3872
+2096,1 dl di vin santo,1 dl di vin santo,vin santo,1 dl,vin santo,vin santo,12
+2097,150 g di burro a temperatura ambiente,150 g di burro,burro,150 g,burro,burro,4606
+2098,"0,5 dl di grappa","0,5 dl di grappa",grappa,"0,5 dl",grappa,grappa,56
+2099,6 acciughe,6 acciughe,acciughe,6,acciughe,acciughe,403
+2100,12 olive,12 olive,olive,12,olive,olive,72
+2101,10 gr di capperi sotto sale,10 gr di capperi sotto sale,capperi sotto sale,10 gr,capperi sotto sale,capperi,366
+2102,1/2 kg stoccafisso,1/2 kg stoccafisso,stoccafisso,1/2 kg,stoccafisso,stoccafisso,18
+2103,1/2 kg patate,1/2 kg patate,patate,1/2 kg,patate,patate,1000
+2104,1/2 kg pomodori pelati,1/2 kg pomodori pelati,pomodori pelati,1/2 kg,pomodori pelati,pomodori pelati,196
+2105,200 gr di olive taggiasche,200 gr di olive taggiasche,olive taggiasche,200 gr,olive taggiasche,olive taggiasche,106
+2106,500 gr di sardine,500 gr di sardine,sardine,500 gr,sardine,sardine,19
+2107,5 cucchiai di sale grosso,5 cucchiai di sale grosso,sale,5 cucchiai,sale,sale,9693
+2108,150 grammi di fegatini di pollo,150 grammi di fegatini di pollo,fegatini di pollo,150 grammi,fegatini di pollo,fegatini di pollo,39
+2109,150 grammi di testicoli di pollo,150 grammi di testicoli di pollo,testicoli di pollo,150 grammi,testicoli di pollo,carne di pollo,350
+2110,150 grammi di creste,150 grammi di creste,creste,150 grammi,creste di gallo,creste di gallo,4
+2111,150 grammi di animelle,150 grammi di animelle,animelle,150 grammi,animelle,animelle,12
+2112,300 grammi di funghi freschi,300 grammi di funghi freschi,funghi,300 grammi,funghi,funghi,48
+2113,50 grammi di burro,50 grammi di burro,burro,50 grammi,burro,burro,4606
+2114,50 grammi di prosciutto,50 grammi di prosciutto,prosciutto,50 grammi,prosciutto,prosciutto,22
+2115,400 gr di noci,400 gr di noci,noci,400 gr,noci,noci,222
+2116,20 gr di pinoli,20 gr di pinoli,pinoli,20 gr,pinoli,pinoli,392
+2117,20 gr di cedri canditi,20 gr di cedri canditi,cedri canditi,20 gr,cedri canditi,cedro candito,34
+2118,100 gr di cioccolato fondente,100 gr di cioccolato fondente,cioccolato fondente,100 gr,cioccolato fondente,cioccolato fondente,833
+2119,200 gr di miele,200 gr di miele,miele,200 gr,miele,miele,335
+2120,4 fette di pesce spada,4 fette di pesce spada,pesce spada,4 fette,pesce spada,pesce spada,66
+2121,30 olive nere,30 olive nere,olive nere,30,olive nere,olive nere,244
+2122,10 gr di capperi,10 gr di capperi,capperi,10 gr,capperi,capperi,366
+2123,200 gr di polpo,200 gr di polpo,polpo,200 gr,polpo,polpo,47
+2124,200 gr di seppie,200 gr di seppie,seppie,200 gr,seppie,seppie,40
+2125,200 gr di cannolicchi,200 gr di cannolicchi,cannolicchi,200 gr,cannolicchi,canocchie,14
+2126,200 gr di cozze,200 gr di cozze,cozze,200 gr,cozze,cozze,115
+2127,200 gr di gamberi,200 gr di gamberi,gamberi,200 gr,gamberi,gamberi,194
+2128,4 filetti di acciughe,4 filetti di acciughe,acciughe,4,acciughe,acciughe,403
+2129,50 gr di capperi sotto sale,50 gr di capperi sotto sale,capperi sotto sale,50 gr,capperi sotto sale,capperi,366
+2130,200 gr  di pomodori pelati,200 gr  di pomodori pelati,pomodori pelati,200 gr,pomodori pelati,pomodori pelati,196
+2131,800 gr di tonno,800 gr di tonno,tonno,800 gr,tonno,tonno,101
+2132,300 gr di funghi porcini,300 gr di funghi porcini,funghi porcini,300 gr,funghi porcini,funghi porcini,107
+2133,15 gr di pomodoro concentrato,15 gr di pomodoro concentrato,pomodoro concentrato,15 gr,pomodoro,pomodori,634
+2134,700 gr di stoccafisso,700 gr di stoccafisso,stoccafisso,700 gr,stoccafisso,stoccafisso,18
+2135,20 olive taggiasche,20 olive taggiasche,olive taggiasche,20,olive taggiasche,olive taggiasche,106
+2136,300 gr di prezzemolo,300 gr di prezzemolo,prezzemolo,300 gr,prezzemolo,prezzemolo,1668
+2137,4 filetti di acciughe sotto sale,4 filetti di acciughe sotto sale,acciughe sotto sale,4,acciughe sotto sale,acciughe,403
+2138,2 panini,2 panini,panini,2,panini,panini,78
+2139,30 ml di latte,30 ml di latte,latte,30 ml,latte,latte,2242
+2140,2 cucchiai di aceto bianco,2 cucchiai di aceto bianco,aceto bianco,2 cucchiai,aceto bianco,aceto,528
+2141,4 cucchiai d'olio extravergine d'oliva,4 cucchiai d'olio extravergine d'oliva,olio extravergine d'oliva,4 cucchiai,olio extravergine d'oliva,olio extravergine d'oliva,4337
+2142,800 gr di trippa,800 gr di trippa,trippa,800 gr,trippa,trippa,21
+2143,200 gr di carne di manzo,200 gr di carne di manzo,carne di manzo,200 gr,carne di manzo,carne di bovino,492
+2144,4 cipolline,4 cipolline,cipolline,4,cipolline,cipolle borettane,103
+2145,700 gr di carne di vitello,700 gr di carne di vitello,carne di vitello,700 gr,carne di vitello,carne di bovino,492
+2146,250 gr di pomodori pelati,250 gr di pomodori pelati,pomodori pelati,250 gr,pomodori pelati,pomodori pelati,196
+2147,vino rosso secco,vino rosso secco,vino rosso secco,,vino rosso secco,vino rosso,219
+2148,1 kg di bietole o spinaci,1 kg di bietole,bietole,1 kg,bietole,biete,64
+2149,1 lt di latte,1 lt di latte,latte,1 lt,latte,latte,2242
+2150,8 fette di vitello,8 fette di vitello,vitello,8 fette,vitello,carne di bovino,492
+2151,50 gr di funghi secchi,50 gr di funghi secchi,funghi secchi,50 gr,funghi secchi,funghi secchi,48
+2152,sugo di pomodoro,sugo di pomodoro,sugo di pomodoro,,sugo di pomodoro,sugo di pomodoro,5
