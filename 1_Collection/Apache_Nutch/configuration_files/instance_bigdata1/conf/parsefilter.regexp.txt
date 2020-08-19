@@ -1,0 +1,2 @@
+    my_first_field      html    h1
+    my_second_field     text    /\d+(?=\\nCALORIE PER PORZIONE)/

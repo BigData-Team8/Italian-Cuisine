@@ -1,0 +1,1 @@
+Here we have the main configuration files of the two Apache Nutch instances used for the crawling phase and the developed plugins.
